@@ -1,0 +1,5 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="QuickList.DistractionMode">
+    <keyboard-shortcut first-keystroke="shift back_quote" />
+  </action>
+</keymap>
