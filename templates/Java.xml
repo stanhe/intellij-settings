@@ -1,0 +1,9 @@
+<templateSet group="Java">
+  <template name="sop" value=" System.out.println(&quot;$name$ : &quot;+$Message$);" description="System.out.println" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="Message" expression="functionParameters()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
