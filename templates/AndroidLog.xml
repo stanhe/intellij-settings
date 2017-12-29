@@ -4,7 +4,6 @@
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="exception" expression="" defaultValue="e" alwaysStopAt="false" />
     <context>
-      <option name="JAVA_STATEMENT" value="true" />
       <option name="KOTLIN" value="true" />
     </context>
   </template>
