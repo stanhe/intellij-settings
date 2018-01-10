@@ -1,9 +1,12 @@
 <list display="DistractionMode" description="distraction mode">
   <action id="ShowNavBar" />
   <action id="QuickList.$Separator$" />
-  <action id="ActivateTerminalToolWindow" />
-  <action id="ActivateAndroidMonitorToolWindow" />
-  <action id="QuickList.$Separator$" />
-  <action id="ToggleDistractionFreeMode" />
   <action id="ActivateStructureToolWindow" />
+  <action id="ActivateLogcatToolWindow" />
+  <action id="ActivateTerminalToolWindow" />
+  <action id="QuickList.$Separator$" />
+  <action id="ToggleFullScreen" />
+  <action id="ToggleDistractionFreeMode" />
+  <action id="QuickList.$Separator$" />
+  <action id="Vcs.QuickListPopupAction" />
 </list>
