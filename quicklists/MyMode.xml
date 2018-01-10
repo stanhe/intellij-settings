@@ -1,4 +1,4 @@
-<list display="DistractionMode" description="distraction mode">
+<list display="MyMode" description="my mode">
   <action id="ShowNavBar" />
   <action id="QuickList.$Separator$" />
   <action id="ActivateStructureToolWindow" />
