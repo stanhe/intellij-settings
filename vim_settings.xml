@@ -82,7 +82,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>1,$s/me/you/g</text>
+        <text>set nonu</text>
       </register>
     </registers>
     <search>
@@ -115,6 +115,8 @@
         <entry>?you</entry>
         <entry>1,$s/you/me/g</entry>
         <entry>1,$s/me/you/g</entry>
+        <entry>set nu</entry>
+        <entry>set nonu</entry>
       </history-cmd>
       <history-expr />
       <history-input />
