@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" timestamp="1517973733309">
@@ -21,12 +21,10 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
-      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519712412551">
-        <mark key="'" line="38" column="10" />
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="19" column="35" />
-        <mark key="." line="19" column="35" />
-        <mark key="^" line="19" column="35" />
+      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519716154156">
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="12" />
+        <mark key="." line="30" column="12" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" timestamp="1519713136893" />
     </filemarks>
@@ -36,7 +34,6 @@
       <jump line="29" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="17" column="19" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="12" column="4" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="21" column="18" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="22" column="8" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="25" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="16" column="8" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
@@ -51,18 +48,20 @@
       <jump line="47" column="16" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="28" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="48" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="7" column="4" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="0" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="11" column="14" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="15" column="25" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="35" column="10" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="7" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="21" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="41" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY2RkID0gMTI7IC8vc2F5IGhlbGxvICBtYW4hCiAgICAgICAgaW50IGRkID0yOwogICAgICAgIGludCBhID0gMTg5Owo=</text>
+      <register name="&quot;" type="4">
+        <text>ine -1</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>ine -1</text>
       </register>
       <register name="/" type="4">
         <text>line</text>
@@ -71,34 +70,34 @@
         <text>ine2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY2RkID0gMTI7IC8vc2F5IGhlbGxvICBtYW4hCiAgICAgICAgaW50IGRkID0yOwogICAgICAgIGludCBhID0gMTg5Owo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBsaW5lIC0xCiAgICAgICAgCiAgICAgICAgLy9saW5lMAoKICAgICAgICAvL2xpbmUxCgogICAgICAgIC8vbGluZTIKCiAgICAgICAgLy9saW5lNQoKICAgICAgICAvL2xpbmU2CgogICAgICAgIC8vdGhpcyBpcyBsaW5lIDM4Ly9saW5lNwoKICAgICAgICAvL2xpbmU4CgoKCgoKICAgIH0KCiAgICAvLyBmb3VydGggeW91Cn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY2RkID0gMTI7IC8vc2F5IGhlbGxvICBtYW4hCiAgICAgICAgaW50IGRkID0yOwogICAgICAgIGludCBhID0gMTg5OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBsaW5lIC0xCiAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvL2xpbmUwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgLy9saW5lNAo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xpbmUzCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY2RkID0gMTI7IC8vc2F5IGhlbGxvICBtYW4hCiAgICAgICAgaW50IGRkID0yOwogICAgICAgIGludCBhID0gMTg5Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbmUyCgo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY2RkID0gMTI7IC8vc2F5IGhlbGxvICBtYW4hCiAgICAgICAgaW50IGRkID0yOwogICAgICAgIGludCBhID0gMTg5OwogICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAvLyB0aGlyZCB5b3UKCiAgICAgICAgLy9saW5lMAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAvLyB0aGlyZCB5b3UKCiAgICAgICAgLy9saW5lMAo=</text>
+        <text encoding="base64">CiAgICAgICAgLy9saW5lNAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAvL2xpbmUxCiAgICAgICAgCiAgICAgICAgLy9saW5lMgogICAgICAgIAogICAgICAgIC8vbGluZTMKICAgICAgICAKICAgICAgICAvL2xpbmU0CiAgICAgICAgCiAgICAgICAgLy9saW5lNQogICAgICAgIAogICAgICAgIC8vbGluZTYKICAgICAgICAKICAgICAgICAvL2xpbmU3CiAgICAgICAgCiAgICAgICAgLy9saW5lOAogICAgICAgIAoKCgoKICAgIH0KCiAgICAvLyBmb3VydGggeW91Cn0K</text>
+        <text encoding="base64">ICAgICAgICAvL2xpbmUzCg==</text>
       </register>
       <register name=":" type="4">
         <text>27,41s/line/column/g</text>
