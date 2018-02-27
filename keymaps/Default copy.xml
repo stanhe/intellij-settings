@@ -37,5 +37,7 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="Vcs.QuickListPopupAction" />
-  <action id="VimPluginToggle" />
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
 </keymap>

@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" timestamp="1517973733309">
@@ -15,56 +15,106 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
+      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519703463106">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="13" />
+        <mark key="^" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="60" column="30" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" />
+      <jump line="14" column="9" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="29" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="0" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="17" column="19" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="12" column="4" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="21" column="18" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="22" column="8" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="25" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="16" column="8" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="10" column="27" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="24" column="17" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="30" column="4" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="15" column="24" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB0aGlyZCB5b3UK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="-" type="4">
+        <text>u</text>
+      </register>
+      <register name="/" type="4">
+        <text>me</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB0aGlyZCB5b3UK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAvLyB0aGlyZCB5b3UKCiAgICAgICAgLy9saW5lMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAvLyB0aGlyZCB5b3UKCiAgICAgICAgLy9saW5lMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCgpVG9hcy5kZGZlYWZlYW9qc2RkZmFzZGYK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAvL2xpbmUxCiAgICAgICAgCiAgICAgICAgLy9saW5lMgogICAgICAgIAogICAgICAgIC8vbGluZTMKICAgICAgICAKICAgICAgICAvL2xpbmU0CiAgICAgICAgCiAgICAgICAgLy9saW5lNQogICAgICAgIAogICAgICAgIC8vbGluZTYKICAgICAgICAKICAgICAgICAvL2xpbmU3CiAgICAgICAgCiAgICAgICAgLy9saW5lOAogICAgICAgIAoKCgoKICAgIH0KCiAgICAvLyBmb3VydGggeW91Cn0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICA=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20uc3Rhbi50MDIyNzsKCmltcG9ydCBhbmRyb2lkLnN1cHBvcnQudjcuYXBwLkFwcENvbXBhdEFjdGl2aXR5OwppbXBvcnQgYW5kcm9pZC5vcy5CdW5kbGU7CgpwdWJsaWMgY2xhc3MgTWFpbkFjdGl2aXR5IGV4dGVuZHMgQXBwQ29tcGF0QWN0aXZpdHkgewoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbik7CiAgICAgICAgaW5pdCgpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIGluaXQoKSB7CiAgICAgICAgaW50IGMgPSAyOyAvLyAgIHlvdSBhcmUgbG9vayBnMTIwMzQKICAgICAgICBpbnQgYiA9MTsKICAgICAgICBpbnQgYSA9IDE4OTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzYXlIZWxsbygpIHsKICAgICAgICBpbnQgYyA9MTkwOwogICAgICAgIGludCBhID0gMDsKCiAgICAgICAgLy8gdGhpcmQgeW91CgogICAgICAgIC8vbGluZTAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>q</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxUb2FzXD4=</text>
+        <text>1,$s/me/you/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUb2FzXD4=</last-search>
+      <last-search>me</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUb2FzXD4=</last-pattern>
-      <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxUb2FzXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern>me</last-pattern>
+      <last-replace>you</last-replace>
+      <last-substitute>me</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxUb2FzXD4=</entry>
+        <entry>sayhello</entry>
+        <entry>say</entry>
+        <entry>you</entry>
+        <entry>me</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>help</entry>
         <entry>q</entry>
+        <entry>wq</entry>
+        <entry>ls -l</entry>
+        <entry>20G</entry>
+        <entry>20,27/you/me/g</entry>
+        <entry>20,27s/you/me/g</entry>
+        <entry>1,$s/you/me/gc</entry>
+        <entry>1,14s/you/g</entry>
+        <entry>?you</entry>
+        <entry>1,$s/you/me/g</entry>
+        <entry>1,$s/me/you/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -72,6 +122,36 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
