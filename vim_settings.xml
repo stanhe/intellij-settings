@@ -9,23 +9,30 @@
         <mark key="." line="60" column="11" />
         <mark key="^" line="60" column="11" />
       </file>
+      <file name="F:/git_desk/T0227/app/src/main/res/layout/activity_main.xml" timestamp="1519712326284">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1517991042440">
         <mark key="[" line="25" column="21" />
         <mark key="]" line="26" column="16" />
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
-      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519709288101">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519712412551">
+        <mark key="'" line="38" column="10" />
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="19" column="35" />
       </file>
     </filemarks>
     <jumps>
       <jump line="60" column="30" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" />
       <jump line="14" column="9" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="29" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="0" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="17" column="19" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="12" column="4" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="21" column="18" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
@@ -35,62 +42,74 @@
       <jump line="10" column="27" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="24" column="17" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="30" column="4" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="15" column="24" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="18" column="4" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="37" column="24" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="1" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="19" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="39" column="8" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="47" column="16" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="28" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="48" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="7" column="4" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="0" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="11" column="14" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="15" column="25" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="35" column="10" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgLy9saW5lNAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY2RkID0gMTI7IC8vc2F5IGhlbGxvICBtYW4hCiAgICAgICAgaW50IGRkID0yOwogICAgICAgIGludCBhID0gMTg5Owo=</text>
       </register>
       <register name="-" type="4">
         <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>me</text>
+        <text>line</text>
       </register>
       <register name="0" type="4">
         <text>ine2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgLy9saW5lNAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY2RkID0gMTI7IC8vc2F5IGhlbGxvICBtYW4hCiAgICAgICAgaW50IGRkID0yOwogICAgICAgIGludCBhID0gMTg5Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xpbmUzCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY2RkID0gMTI7IC8vc2F5IGhlbGxvICBtYW4hCiAgICAgICAgaW50IGRkID0yOwogICAgICAgIGludCBhID0gMTg5OwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbmUyCgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAvLyB0aGlyZCB5b3UKCiAgICAgICAgLy9saW5lMAo=</text>
+        <text encoding="base64">CiAgICAgICAgLy9saW5lNAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAvLyB0aGlyZCB5b3UKCiAgICAgICAgLy9saW5lMAo=</text>
+        <text encoding="base64">ICAgICAgICAvL2xpbmUzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAvL2xpbmUxCiAgICAgICAgCiAgICAgICAgLy9saW5lMgogICAgICAgIAogICAgICAgIC8vbGluZTMKICAgICAgICAKICAgICAgICAvL2xpbmU0CiAgICAgICAgCiAgICAgICAgLy9saW5lNQogICAgICAgIAogICAgICAgIC8vbGluZTYKICAgICAgICAKICAgICAgICAvL2xpbmU3CiAgICAgICAgCiAgICAgICAgLy9saW5lOAogICAgICAgIAoKCgoKICAgIH0KCiAgICAvLyBmb3VydGggeW91Cn0K</text>
+        <text encoding="base64">ICAgICAgICBpbmUyCgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAvLyB0aGlyZCB5b3UKCiAgICAgICAgLy9saW5lMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uc3Rhbi50MDIyNzsKCmltcG9ydCBhbmRyb2lkLnN1cHBvcnQudjcuYXBwLkFwcENvbXBhdEFjdGl2aXR5OwppbXBvcnQgYW5kcm9pZC5vcy5CdW5kbGU7CgpwdWJsaWMgY2xhc3MgTWFpbkFjdGl2aXR5IGV4dGVuZHMgQXBwQ29tcGF0QWN0aXZpdHkgewoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbik7CiAgICAgICAgaW5pdCgpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIGluaXQoKSB7CiAgICAgICAgaW50IGMgPSAyOyAvLyAgIHlvdSBhcmUgbG9vayBnMTIwMzQKICAgICAgICBpbnQgYiA9MTsKICAgICAgICBpbnQgYSA9IDE4OTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzYXlIZWxsbygpIHsKICAgICAgICBpbnQgYyA9MTkwOwogICAgICAgIGludCBhID0gMDsKCiAgICAgICAgLy8gdGhpcmQgeW91CgogICAgICAgIC8vbGluZTAK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAvLyB0aGlyZCB5b3UKCiAgICAgICAgLy9saW5lMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAvL2xpbmUxCiAgICAgICAgCiAgICAgICAgLy9saW5lMgogICAgICAgIAogICAgICAgIC8vbGluZTMKICAgICAgICAKICAgICAgICAvL2xpbmU0CiAgICAgICAgCiAgICAgICAgLy9saW5lNQogICAgICAgIAogICAgICAgIC8vbGluZTYKICAgICAgICAKICAgICAgICAvL2xpbmU3CiAgICAgICAgCiAgICAgICAgLy9saW5lOAogICAgICAgIAoKCgoKICAgIH0KCiAgICAvLyBmb3VydGggeW91Cn0K</text>
       </register>
       <register name=":" type="4">
-        <text>set nonu</text>
+        <text>27,41s/line/column/g</text>
       </register>
     </registers>
     <search>
-      <last-search>me</last-search>
+      <last-search>line</last-search>
       <last-offset />
-      <last-pattern>me</last-pattern>
-      <last-replace>you</last-replace>
-      <last-substitute>me</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>line</last-pattern>
+      <last-replace>column</last-replace>
+      <last-substitute>line</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -100,6 +119,8 @@
         <entry>say</entry>
         <entry>you</entry>
         <entry>me</entry>
+        <entry>line6</entry>
+        <entry>line</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
@@ -116,6 +137,7 @@
         <entry>1,$s/me/you/g</entry>
         <entry>set nu</entry>
         <entry>set nonu</entry>
+        <entry>27,41s/line/column/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -153,6 +175,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
