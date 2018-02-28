@@ -1,26 +1,8 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" timestamp="1519777734670">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="21" column="7" />
-        <mark key="^" line="21" column="7" />
-        <mark key="." line="21" column="7" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/build.gradle" timestamp="1519781134435">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-      </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" timestamp="1517973733309">
-        <mark key="[" line="60" column="7" />
-        <mark key="]" line="60" column="11" />
-        <mark key="." line="60" column="11" />
-        <mark key="^" line="60" column="11" />
-      </file>
       <file name="F:/git_desk/T0227/app/app.iml" timestamp="1519718956311">
         <mark key="'" line="136" column="0" />
         <mark key="[" line="57" column="0" />
@@ -39,35 +21,56 @@
         <mark key="]" line="2919" column="80" />
         <mark key="." line="2919" column="61" />
       </file>
-      <file name="F:/git_desk/T0227/app/src/main/res/layout/activity_main.xml" timestamp="1519723784339">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="12" />
-      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1517991042440">
         <mark key="[" line="25" column="21" />
         <mark key="]" line="26" column="16" />
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
-      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519777712970">
-        <mark key="'" line="26" column="16" />
-        <mark key="[" line="27" column="39" />
-        <mark key="m" line="58" column="0" />
-        <mark key="]" line="28" column="7" />
-        <mark key="." line="28" column="7" />
-        <mark key="^" line="28" column="7" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" timestamp="1519783016121">
+        <mark key="'" line="129" column="12" />
+      </file>
+      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" timestamp="1519784144635">
+        <mark key="'" line="13" column="42" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/build.gradle" timestamp="1519781134435">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+      </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" timestamp="1517973733309">
+        <mark key="[" line="60" column="7" />
+        <mark key="]" line="60" column="11" />
+        <mark key="." line="60" column="11" />
+        <mark key="^" line="60" column="11" />
+      </file>
+      <file name="F:/git_desk/T0227/app/src/main/res/layout/activity_main.xml" timestamp="1519723784339">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+      </file>
+      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519784236466">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1519777497155">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" timestamp="1519781389980" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/values/array.xml" timestamp="1519782746519">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="60" column="30" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" />
       <jump line="14" column="9" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="12" column="4" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="22" column="8" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="10" column="27" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="24" column="17" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
@@ -78,7 +81,6 @@
       <jump line="47" column="16" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="28" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="48" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="11" column="14" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="7" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="21" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="41" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
@@ -87,7 +89,6 @@
       <jump line="20" column="8" filename="F:/git_desk/T0227/app/app.iml" />
       <jump line="0" column="0" filename="F:/git_desk/T0227/app/app.iml" />
       <jump line="136" column="0" filename="F:/git_desk/T0227/app/app.iml" />
-      <jump line="44" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="29" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="51" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="23" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
@@ -123,56 +124,59 @@
       <jump line="441" column="32" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="493" column="31" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="1086" column="81" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="124" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" />
+      <jump line="111" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" />
+      <jump line="129" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" />
+      <jump line="14" column="42" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
+      <jump line="44" column="14" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="12" column="14" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="11" column="19" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bindAllApplications</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>View view</text>
       </register>
       <register name="/" type="4">
         <text>onCreate</text>
       </register>
       <register name="0" type="4">
-        <text>bindAllApplications</text>
+        <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xpbmU2Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xpbmU2Cg==</text>
+        <text encoding="base64">CiAgICBUZXh0VmlldyB0ZXh0VmlldzsKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbik7CiAgICAgICAgdGV4dFZpZXcgPSBmaW5kVmlld0J5SWQoUi5pZC50ZXh0KTsKICAgICAgICBpbml0MSgpOwogICAgICAgIGRvVGhpbmdzKCk7CiAgICAgICAgc2F5SGVsbG8oKTsKICAgIH0KCiAgICBwcml2YXRlIGludCAgZG9UaGluZ3MoKSB7CiAgICAgICAgaW50IGEgPSAxMTsKICAgICAgICBpbnQgIGIgPTE1MTsKICAgICAgICByZXR1cm4gYStiOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIGluaXQxKCkgewogICAgICAgIHRleHRWaWV3LnNldFRleHQoIkhlbGxvIG1hbiEiKTsKCiAgICB9CgoKICAgIHB1YmxpYyB2b2lkIGluaXQxVmlldyhWaWV3IHZpZXcpIHsKICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzYXlIZWxsbygpIHsKICAgICAgICBpbnQgYyA9MTkwOwogICAgICAgIGludCBhID0gMDsKCgoKICAgICAgICAvLyB0aGlyZCB5b3UKICAgICAgICAvLyBsaW5lIC0xICAgaGVsbG8gtPPRpyBkZmFzCiAgICAgICAgLy9saW5lMCAgLy9saW5lMCAvL2xpbmUwCiAgICAgICAgLy9saW5lMSAgLy9saW5lMSAvL2xpbmUxCiAgICAgICAgLy9saW5lMiAgLy9saW5lMiAvL2xpbmUyCiAgICAgICAgLy9saW5lNSAgLy9saW5lNSAvL2xpbmU1CiAgICAgICAgLy9saW5lNiAgLy9saW5lNiAvL2xpbmU2CgoKICAgICAgICAvL3RoaXMgaXMgbGluZSAzOC8vbGluZTcKCgogICAgICAgIC8vbGluZTgKCgoKCgogICAgfQoKICAgIC8vIGZvdXJ0aCB5b3UK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="8">
-        <text>//line0
-//line1
-//line2
-//line5
-//line6</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjggaW5pdFZpZXcKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvL2xpbmU2ICAvL2xpbmU2IC8vbGluZTYKCgogICAgICAgIC8vdGhpcyBpcyBsaW5lIDM4Ly9saW5lNwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Cgo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvL2xpbmUxICAvL2xpbmUxIC8vbGluZTEKICAgICAgICAvL2xpbmUyICAvL2xpbmUyIC8vbGluZTIKICAgICAgICAvL2xpbmU1ICAvL2xpbmU1IC8vbGluZTUKICAgICAgICAvL2xpbmU2ICAvL2xpbmU2IC8vbGluZTYK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>set norelativenumber</text>
       </register>
     </registers>
     <search>
@@ -202,13 +206,6 @@
         <entry>onCreate</entry>
       </history-search>
       <history-cmd>
-        <entry>1,14s/you/g</entry>
-        <entry>?you</entry>
-        <entry>1,$s/you/me/g</entry>
-        <entry>1,$s/me/you/g</entry>
-        <entry>set nu</entry>
-        <entry>set nonu</entry>
-        <entry>27,41s/line/column/g</entry>
         <entry>34,40s/line/private/g</entry>
         <entry>s/doSomeThing/doThings/g</entry>
         <entry>1,$s/doSomeThing/doThings/g</entry>
@@ -222,6 +219,13 @@
         <entry>set bg=dark</entry>
         <entry>sp</entry>
         <entry>q</entry>
+        <entry>set nrnu</entry>
+        <entry>set rnu</entry>
+        <entry>set nu</entry>
+        <entry>set nnu</entry>
+        <entry>set nonumber</entry>
+        <entry>set number</entry>
+        <entry>set norelativenumber</entry>
       </history-cmd>
       <history-expr />
       <history-input />
