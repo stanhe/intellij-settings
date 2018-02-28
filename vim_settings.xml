@@ -10,6 +10,11 @@
         <mark key="^" line="21" column="7" />
         <mark key="." line="21" column="7" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/build.gradle" timestamp="1519781134435">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" timestamp="1517973733309">
         <mark key="[" line="60" column="7" />
         <mark key="]" line="60" column="11" />
@@ -22,14 +27,18 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1519779826021">
-        <mark key="'" line="297" column="32" />
-        <mark key="[" line="1689" column="70" />
-        <mark key="]" line="1689" column="24" />
-        <mark key="^" line="1689" column="24" />
-        <mark key="." line="1689" column="24" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1519780668873">
+        <mark key="'" line="1086" column="81" />
+        <mark key="[" line="445" column="10" />
+        <mark key="]" line="445" column="7" />
+        <mark key="^" line="445" column="7" />
+        <mark key="." line="445" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519779219910" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519780798442">
+        <mark key="[" line="2919" column="61" />
+        <mark key="]" line="2919" column="80" />
+        <mark key="." line="2919" column="61" />
+      </file>
       <file name="F:/git_desk/T0227/app/src/main/res/layout/activity_main.xml" timestamp="1519723784339">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="12" />
@@ -109,10 +118,14 @@
       <jump line="1685" column="24" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="1692" column="20" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="297" column="32" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="425" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="441" column="32" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="493" column="31" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="1086" column="81" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>bindAllApplications</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -120,12 +133,8 @@
       <register name="/" type="4">
         <text>onCreate</text>
       </register>
-      <register name="0" type="8">
-        <text>//line0
-//line1
-//line2
-//line5
-//line6</text>
+      <register name="0" type="4">
+        <text>bindAllApplications</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
