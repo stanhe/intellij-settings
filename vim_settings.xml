@@ -6,6 +6,11 @@
       <file name="/Dummy.txt" timestamp="1519798189165">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DynamicGrid.java" timestamp="1519799763048">
+        <mark key="[" line="85" column="46" />
+        <mark key="]" line="85" column="47" />
+        <mark key="." line="85" column="47" />
+      </file>
       <file name="F:/git_desk/T0227/app/app.iml" timestamp="1519718956311">
         <mark key="'" line="136" column="0" />
         <mark key="[" line="57" column="0" />
@@ -19,12 +24,19 @@
         <mark key="^" line="445" column="7" />
         <mark key="." line="445" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519798579681">
-        <mark key="'" line="2955" column="14" />
-        <mark key="[" line="2966" column="40" />
-        <mark key="]" line="2966" column="41" />
-        <mark key="." line="2966" column="41" />
-        <mark key="^" line="2969" column="28" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/layout-land/launcher.xml" timestamp="1519799513330">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="81" column="41" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519798979888">
+        <mark key="'" line="2964" column="4" />
+        <mark key="[" line="2962" column="9" />
+        <mark key="]" line="2951" column="43" />
+        <mark key="^" line="2951" column="43" />
+        <mark key="." line="2951" column="43" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1517991042440">
         <mark key="[" line="25" column="21" />
@@ -66,6 +78,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" timestamp="1519799719612" />
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519786207630">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -163,67 +176,71 @@
       <jump line="141" column="8" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
       <jump line="140" column="30" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
       <jump line="2952" column="14" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="2963" column="4" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/layout-land/launcher.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>for (LauncherActivityInfoCompat app : apps) {
-            Logger.i(app.getComponentName().getPackageName()+&quot;  /  &quot;+app.getComponentName().getClassName()+&quot;\n&quot;);
-        }</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>x</text>
+        <text>hot</text>
       </register>
       <register name="0" type="4">
         <text>for (LauncherActivityInfoCompat app : apps) {
             Logger.i(app.getComponentName().getPackageName()+&quot;  /  &quot;+app.getComponentName().getClassName()+&quot;\n&quot;);
         }</text>
       </register>
-      <register name="1" type="4">
-        <text>else if (apps.get(i).getComponentName().getPackageName().equals(&quot;com.stan.t0227&quot;)) {
-                Collections.swap(apps,i,5);
-            }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xpbmUwICAvL2xpbmUwIC8vbGluZTAKICAgICAgICAvL2xpbmUxICAvL2xpbmUxIC8vbGluZTEK</text>
+      <register name="2" type="4">
+        <text>for (LauncherActivityInfoCompat app : apps) {
+            Logger.i(app.getComponentName().getPackageName()+&quot;  /  &quot;+app.getComponentName().getClassName()+&quot;\n&quot;);
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmltcG9ydCBhbmRyb2lkLnN1cHBvcnQudjcuYXBwLkFwcENvbXBhdEFjdGl2aXR5OwppbXBvcnQgYW5kcm9pZC5vcy5CdW5kbGU7CmltcG9ydCBhbmRyb2lkLnZpZXcuVmlldzsKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3OwoKcHVibGljIGNsYXNzIE1haW5BY3Rpdml0eSBleHRlbmRzIEFwcENvbXBhdEFjdGl2aXR5IHsKCiAgICBUZXh0VmlldyB0ZXh0VmlldzsKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbik7CiAgICAgICAgdGV4dFZpZXcgPSBmaW5kVmlld0J5SWQoUi5pZC50ZXh0KTsKICAgICAgICBpbml0MSgpOwogICAgICAgIGRvVGhpbmdzKCk7CiAgICAgICAgc2F5SGVsbG8oKTsKICAgIH0KCiAgICBwcml2YXRlIGludCAgZG9UaGluZ3MoKSB7CiAgICAgICAgaW50IGEgPSAxMTsKICAgICAgICBpbnQgIGIgPTE1MTsKICAgICAgICByZXR1cm4gYStiOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIGluaXQxKCkgewogICAgICAgIHRleHRWaWV3LnNldFRleHQoIkhlbGxvIG1hbiEiKTsKCiAgICB9CgoKICAgIHB1YmxpYyB2b2lkIGluaXQxVmlldyhWaWV3IHZpZXcpIHsKICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzYXlIZWxsbygpIHsKICAgICAgICBpbnQgYyA9MTkwOwogICAgICAgIGludCBhID0gMDsKCgoKICAgICAgICAvLyB0aGlyZCB5b3UKICAgICAgICAvLyBsaW5lIC0xICAgaGVsbG8gtPPRpyBkZmFzCiAgICAgICAgLy9saW5lMCAgLy9saW5lMCAvL2xpbmUwCg==</text>
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIExvZ2UgCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgIExvZ2dlci5lKCJhZnRlciBzb3J0ISIpOwogICAgICAgIGZvciAoTGF1bmNoZXJBY3Rpdml0eUluZm9Db21wYXQgYXBwIDogYXBwcykgewogICAgICAgICAgICBMb2dnZXIuaShhcHAuZ2V0Q29tcG9uZW50TmFtZSgpLmdldFBhY2thZ2VOYW1lKCkrIiAgLyAgIithcHAuZ2V0Q29tcG9uZW50TmFtZSgpLmdldENsYXNzTmFtZSgpKyJcbiIpOwogICAgICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
+      <register name="7" type="4">
+        <text>if (apps.get(i).getComponentName().getPackageName().equals(&quot;com.stan.t0227&quot;)) {
+                Collections.swap(apps,i,1);
+            }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
+      <register name="8" type="4">
+        <text>else if (apps.get(i).getComponentName().getPackageName().equals(&quot;com.stan.t0227&quot;)) {
+                Collections.swap(apps,i,5);
+            }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
+        <text encoding="base64">ICAgICAgICAvL2xpbmUwICAvL2xpbmUwIC8vbGluZTAKICAgICAgICAvL2xpbmUxICAvL2xpbmUxIC8vbGluZTEK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>x</last-search>
+      <last-search>hot</last-search>
       <last-offset />
-      <last-pattern>x</last-pattern>
+      <last-pattern>hot</last-pattern>
       <last-replace>y</last-replace>
       <last-substitute>x</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -244,6 +261,8 @@
         <entry>onCreate</entry>
         <entry encoding="base64">XDw2XD4=</entry>
         <entry>x</entry>
+        <entry>hostseat</entry>
+        <entry>hot</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/doSomeThing/doThings/g</entry>
