@@ -3,6 +3,38 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1519798189165">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/git_desk/T0227/app/app.iml" timestamp="1519718956311">
+        <mark key="'" line="136" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1519780668873">
+        <mark key="'" line="1086" column="81" />
+        <mark key="[" line="445" column="10" />
+        <mark key="]" line="445" column="7" />
+        <mark key="^" line="445" column="7" />
+        <mark key="." line="445" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519798579681">
+        <mark key="'" line="2955" column="14" />
+        <mark key="[" line="2966" column="40" />
+        <mark key="]" line="2966" column="41" />
+        <mark key="." line="2966" column="41" />
+        <mark key="^" line="2969" column="28" />
+      </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1517991042440">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" timestamp="1519796610189">
+        <mark key="'" line="129" column="12" />
+      </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" timestamp="1519786072939">
         <mark key="'" line="140" column="30" />
         <mark key="[" line="124" column="4" />
@@ -21,35 +53,18 @@
         <mark key="." line="60" column="11" />
         <mark key="^" line="60" column="11" />
       </file>
-      <file name="F:/git_desk/T0227/app/app.iml" timestamp="1519718956311">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1519798336994">
+        <mark key="[" line="40" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1519780668873">
-        <mark key="'" line="1086" column="81" />
-        <mark key="[" line="445" column="10" />
-        <mark key="]" line="445" column="7" />
-        <mark key="^" line="445" column="7" />
-        <mark key="." line="445" column="7" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519780798442">
-        <mark key="[" line="2919" column="61" />
-        <mark key="]" line="2919" column="80" />
-        <mark key="." line="2919" column="61" />
+      <file name="F:/git_desk/T0227/app/build.gradle" timestamp="1519797021449">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="38" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/res/layout/activity_main.xml" timestamp="1519723784339">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="12" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
-      </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1517991042440">
-        <mark key="[" line="25" column="21" />
-        <mark key="]" line="26" column="16" />
-        <mark key="^" line="26" column="16" />
-        <mark key="." line="26" column="16" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519786207630">
         <mark key="[" line="45" column="0" />
@@ -63,9 +78,6 @@
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" timestamp="1519796610189">
-        <mark key="'" line="129" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -150,34 +162,41 @@
       <jump line="51" column="19" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
       <jump line="141" column="8" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
       <jump line="140" column="30" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
+      <jump line="2952" column="14" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xpbmUwICAvL2xpbmUwIC8vbGluZTAKICAgICAgICAvL2xpbmUxICAvL2xpbmUxIC8vbGluZTEK</text>
+      <register name="&quot;" type="4">
+        <text>for (LauncherActivityInfoCompat app : apps) {
+            Logger.i(app.getComponentName().getPackageName()+&quot;  /  &quot;+app.getComponentName().getClassName()+&quot;\n&quot;);
+        }</text>
       </register>
       <register name="-" type="4">
-        <text>//line0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
       </register>
       <register name="0" type="4">
-        <text>private</text>
+        <text>for (LauncherActivityInfoCompat app : apps) {
+            Logger.i(app.getComponentName().getPackageName()+&quot;  /  &quot;+app.getComponentName().getClassName()+&quot;\n&quot;);
+        }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xpbmUwICAvL2xpbmUwIC8vbGluZTAKICAgICAgICAvL2xpbmUxICAvL2xpbmUxIC8vbGluZTEK</text>
+      <register name="1" type="4">
+        <text>else if (apps.get(i).getComponentName().getPackageName().equals(&quot;com.stan.t0227&quot;)) {
+                Collections.swap(apps,i,5);
+            }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmltcG9ydCBhbmRyb2lkLnN1cHBvcnQudjcuYXBwLkFwcENvbXBhdEFjdGl2aXR5OwppbXBvcnQgYW5kcm9pZC5vcy5CdW5kbGU7CmltcG9ydCBhbmRyb2lkLnZpZXcuVmlldzsKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3OwoKcHVibGljIGNsYXNzIE1haW5BY3Rpdml0eSBleHRlbmRzIEFwcENvbXBhdEFjdGl2aXR5IHsKCiAgICBUZXh0VmlldyB0ZXh0VmlldzsKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbik7CiAgICAgICAgdGV4dFZpZXcgPSBmaW5kVmlld0J5SWQoUi5pZC50ZXh0KTsKICAgICAgICBpbml0MSgpOwogICAgICAgIGRvVGhpbmdzKCk7CiAgICAgICAgc2F5SGVsbG8oKTsKICAgIH0KCiAgICBwcml2YXRlIGludCAgZG9UaGluZ3MoKSB7CiAgICAgICAgaW50IGEgPSAxMTsKICAgICAgICBpbnQgIGIgPTE1MTsKICAgICAgICByZXR1cm4gYStiOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIGluaXQxKCkgewogICAgICAgIHRleHRWaWV3LnNldFRleHQoIkhlbGxvIG1hbiEiKTsKCiAgICB9CgoKICAgIHB1YmxpYyB2b2lkIGluaXQxVmlldyhWaWV3IHZpZXcpIHsKICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzYXlIZWxsbygpIHsKICAgICAgICBpbnQgYyA9MTkwOwogICAgICAgIGludCBhID0gMDsKCgoKICAgICAgICAvLyB0aGlyZCB5b3UKICAgICAgICAvLyBsaW5lIC0xICAgaGVsbG8gtPPRpyBkZmFzCiAgICAgICAgLy9saW5lMCAgLy9saW5lMCAvL2xpbmUwCg==</text>
+        <text encoding="base64">ICAgICAgICAvL2xpbmUwICAvL2xpbmUwIC8vbGluZTAKICAgICAgICAvL2xpbmUxICAvL2xpbmUxIC8vbGluZTEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIExvZ2UgCg==</text>
+        <text encoding="base64">CmltcG9ydCBhbmRyb2lkLnN1cHBvcnQudjcuYXBwLkFwcENvbXBhdEFjdGl2aXR5OwppbXBvcnQgYW5kcm9pZC5vcy5CdW5kbGU7CmltcG9ydCBhbmRyb2lkLnZpZXcuVmlldzsKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3OwoKcHVibGljIGNsYXNzIE1haW5BY3Rpdml0eSBleHRlbmRzIEFwcENvbXBhdEFjdGl2aXR5IHsKCiAgICBUZXh0VmlldyB0ZXh0VmlldzsKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbik7CiAgICAgICAgdGV4dFZpZXcgPSBmaW5kVmlld0J5SWQoUi5pZC50ZXh0KTsKICAgICAgICBpbml0MSgpOwogICAgICAgIGRvVGhpbmdzKCk7CiAgICAgICAgc2F5SGVsbG8oKTsKICAgIH0KCiAgICBwcml2YXRlIGludCAgZG9UaGluZ3MoKSB7CiAgICAgICAgaW50IGEgPSAxMTsKICAgICAgICBpbnQgIGIgPTE1MTsKICAgICAgICByZXR1cm4gYStiOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIGluaXQxKCkgewogICAgICAgIHRleHRWaWV3LnNldFRleHQoIkhlbGxvIG1hbiEiKTsKCiAgICB9CgoKICAgIHB1YmxpYyB2b2lkIGluaXQxVmlldyhWaWV3IHZpZXcpIHsKICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzYXlIZWxsbygpIHsKICAgICAgICBpbnQgYyA9MTkwOwogICAgICAgIGludCBhID0gMDsKCgoKICAgICAgICAvLyB0aGlyZCB5b3UKICAgICAgICAvLyBsaW5lIC0xICAgaGVsbG8gtPPRpyBkZmFzCiAgICAgICAgLy9saW5lMCAgLy9saW5lMCAvL2xpbmUwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgIExvZ2UgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
@@ -195,7 +214,7 @@
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/x/y</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -237,7 +256,6 @@
         <entry>set</entry>
         <entry>set bg=dark</entry>
         <entry>sp</entry>
-        <entry>q</entry>
         <entry>set nrnu</entry>
         <entry>set rnu</entry>
         <entry>set nu</entry>
@@ -247,6 +265,7 @@
         <entry>set norelativenumber</entry>
         <entry>135,140s/x/y/g</entry>
         <entry>s/x/y</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
