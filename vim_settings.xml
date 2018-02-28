@@ -3,33 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="F:/git_desk/T0227/app/app.iml" timestamp="1519718956311">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1519780668873">
-        <mark key="'" line="1086" column="81" />
-        <mark key="[" line="445" column="10" />
-        <mark key="]" line="445" column="7" />
-        <mark key="^" line="445" column="7" />
-        <mark key="." line="445" column="7" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519780798442">
-        <mark key="[" line="2919" column="61" />
-        <mark key="]" line="2919" column="80" />
-        <mark key="." line="2919" column="61" />
-      </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1517991042440">
-        <mark key="[" line="25" column="21" />
-        <mark key="]" line="26" column="16" />
-        <mark key="^" line="26" column="16" />
-        <mark key="." line="26" column="16" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" timestamp="1519783016121">
-        <mark key="'" line="129" column="12" />
-      </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" timestamp="1519786072939">
         <mark key="'" line="140" column="30" />
         <mark key="[" line="124" column="4" />
@@ -48,11 +21,35 @@
         <mark key="." line="60" column="11" />
         <mark key="^" line="60" column="11" />
       </file>
+      <file name="F:/git_desk/T0227/app/app.iml" timestamp="1519718956311">
+        <mark key="'" line="136" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1519780668873">
+        <mark key="'" line="1086" column="81" />
+        <mark key="[" line="445" column="10" />
+        <mark key="]" line="445" column="7" />
+        <mark key="^" line="445" column="7" />
+        <mark key="." line="445" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519780798442">
+        <mark key="[" line="2919" column="61" />
+        <mark key="]" line="2919" column="80" />
+        <mark key="." line="2919" column="61" />
+      </file>
       <file name="F:/git_desk/T0227/app/src/main/res/layout/activity_main.xml" timestamp="1519723784339">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="12" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
+      </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1517991042440">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="26" column="16" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519786207630">
         <mark key="[" line="45" column="0" />
@@ -66,6 +63,9 @@
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" timestamp="1519789860957">
+        <mark key="'" line="129" column="12" />
       </file>
     </filemarks>
     <jumps>
