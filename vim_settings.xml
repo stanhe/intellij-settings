@@ -11,6 +11,9 @@
         <mark key="]" line="85" column="47" />
         <mark key="." line="85" column="47" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" timestamp="1519800470161">
+        <mark key="'" line="432" column="49" />
+      </file>
       <file name="F:/git_desk/T0227/app/app.iml" timestamp="1519718956311">
         <mark key="'" line="136" column="0" />
         <mark key="[" line="57" column="0" />
@@ -178,6 +181,7 @@
       <jump line="2952" column="14" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
       <jump line="2963" column="4" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
       <jump line="82" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/layout-land/launcher.xml" />
+      <jump line="432" column="49" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -187,7 +191,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>hot</text>
+        <text>addInScreen</text>
       </register>
       <register name="0" type="4">
         <text>for (LauncherActivityInfoCompat app : apps) {
@@ -235,9 +239,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hot</last-search>
+      <last-search>addInScreen</last-search>
       <last-offset />
-      <last-pattern>hot</last-pattern>
+      <last-pattern>addInScreen</last-pattern>
       <last-replace>y</last-replace>
       <last-substitute>x</last-substitute>
       <last-dir>1</last-dir>
@@ -263,6 +267,7 @@
         <entry>x</entry>
         <entry>hostseat</entry>
         <entry>hot</entry>
+        <entry>addInScreen</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/doSomeThing/doThings/g</entry>
