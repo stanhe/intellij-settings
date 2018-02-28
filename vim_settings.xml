@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" timestamp="1519777734670">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="21" column="7" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="21" column="7" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" timestamp="1517973733309">
         <mark key="[" line="60" column="7" />
         <mark key="]" line="60" column="11" />
@@ -15,7 +22,6 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="F:/git_desk/T0227/build.gradle" timestamp="1519718925915" />
       <file name="F:/git_desk/T0227/app/src/main/res/layout/activity_main.xml" timestamp="1519723784339">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="12" />
@@ -28,14 +34,17 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
-      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519726377330">
-        <mark key="'" line="17" column="8" />
-        <mark key="[" line="50" column="0" />
-        <mark key="m" line="57" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519777712970">
+        <mark key="'" line="26" column="16" />
+        <mark key="[" line="27" column="39" />
+        <mark key="m" line="58" column="0" />
+        <mark key="]" line="28" column="7" />
+        <mark key="." line="28" column="7" />
+        <mark key="^" line="28" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" timestamp="1519713136893" />
+      <file name="/fragment.java" timestamp="1519777497155">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="60" column="30" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" />
@@ -60,7 +69,6 @@
       <jump line="20" column="8" filename="F:/git_desk/T0227/app/app.iml" />
       <jump line="0" column="0" filename="F:/git_desk/T0227/app/app.iml" />
       <jump line="136" column="0" filename="F:/git_desk/T0227/app/app.iml" />
-      <jump line="33" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="44" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="29" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="51" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
@@ -70,12 +78,20 @@
       <jump line="49" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="35" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="16" column="8" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="15" column="8" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="30" column="3" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="19" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="25" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="36" column="16" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="17" column="8" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="2" column="27" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
+      <jump line="0" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
+      <jump line="22" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
+      <jump line="40" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="34" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="32" column="16" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="33" column="27" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="15" column="8" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="26" column="16" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -85,7 +101,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>say</text>
+        <text>init</text>
       </register>
       <register name="0" type="8">
         <text>//line0
@@ -98,44 +114,44 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xpbmU2Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAvL2xpbmU2Cg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvL2xpbmU2Cg==</text>
+      </register>
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="7" type="8">
         <text>//line0
 //line1
 //line2
 //line5
 //line6</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="w" type="4">
-        <text />
-      </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">KCk7CiAgICAgICAg</text>
-      </register>
       <register name=":" type="4">
-        <text>sp</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>say</last-search>
+      <last-search>init</last-search>
       <last-offset />
-      <last-pattern>say</last-pattern>
+      <last-pattern>init</last-pattern>
       <last-replace>init1</last-replace>
       <last-substitute>init</last-substitute>
       <last-dir>1</last-dir>
@@ -151,9 +167,10 @@
         <entry>doSomeThing</entry>
         <entry>doThin</entry>
         <entry>init1</entry>
-        <entry>init</entry>
         <entry>sayhello</entry>
         <entry>say</entry>
+        <entry>initView</entry>
+        <entry>init</entry>
       </history-search>
       <history-cmd>
         <entry>1,14s/you/g</entry>
@@ -164,7 +181,6 @@
         <entry>set nonu</entry>
         <entry>27,41s/line/column/g</entry>
         <entry>34,40s/line/private/g</entry>
-        <entry>q</entry>
         <entry>s/doSomeThing/doThings/g</entry>
         <entry>1,$s/doSomeThing/doThings/g</entry>
         <entry>1,$s/init/init1/g</entry>
@@ -176,6 +192,7 @@
         <entry>set</entry>
         <entry>set bg=dark</entry>
         <entry>sp</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
