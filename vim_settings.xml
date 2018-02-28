@@ -30,12 +30,12 @@
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" timestamp="1519783016121">
         <mark key="'" line="129" column="12" />
       </file>
-      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" timestamp="1519785376131">
-        <mark key="'" line="102" column="31" />
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="27" column="28" />
-        <mark key="^" line="27" column="28" />
-        <mark key="." line="27" column="28" />
+      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" timestamp="1519786072939">
+        <mark key="'" line="140" column="30" />
+        <mark key="[" line="124" column="4" />
+        <mark key="]" line="124" column="4" />
+        <mark key="." line="124" column="4" />
+        <mark key="^" line="134" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/build.gradle" timestamp="1519781134435">
         <mark key="[" line="10" column="21" />
@@ -54,10 +54,10 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519784236466">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519786207630">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1519777497155">
         <mark key="[" line="0" column="0" />
@@ -127,7 +127,6 @@
       <jump line="124" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" />
       <jump line="111" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" />
       <jump line="129" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" />
-      <jump line="14" column="42" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
       <jump line="44" column="14" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="12" column="14" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="11" column="19" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
@@ -145,31 +144,37 @@
       <jump line="76" column="31" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
       <jump line="84" column="31" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
       <jump line="88" column="31" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
+      <jump line="23" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
+      <jump line="14" column="53" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
+      <jump line="24" column="28" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
+      <jump line="51" column="19" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
+      <jump line="141" column="8" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
+      <jump line="140" column="30" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2xpbmUwICAvL2xpbmUwIC8vbGluZTAKICAgICAgICAvL2xpbmUxICAvL2xpbmUxIC8vbGluZTEK</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>//line0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDw2XD4=</text>
+        <text>x</text>
       </register>
       <register name="0" type="4">
-        <text>public</text>
+        <text>private</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2xpbmUwICAvL2xpbmUwIC8vbGluZTAKICAgICAgICAvL2xpbmUxICAvL2xpbmUxIC8vbGluZTEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
+        <text encoding="base64">CmltcG9ydCBhbmRyb2lkLnN1cHBvcnQudjcuYXBwLkFwcENvbXBhdEFjdGl2aXR5OwppbXBvcnQgYW5kcm9pZC5vcy5CdW5kbGU7CmltcG9ydCBhbmRyb2lkLnZpZXcuVmlldzsKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3OwoKcHVibGljIGNsYXNzIE1haW5BY3Rpdml0eSBleHRlbmRzIEFwcENvbXBhdEFjdGl2aXR5IHsKCiAgICBUZXh0VmlldyB0ZXh0VmlldzsKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbik7CiAgICAgICAgdGV4dFZpZXcgPSBmaW5kVmlld0J5SWQoUi5pZC50ZXh0KTsKICAgICAgICBpbml0MSgpOwogICAgICAgIGRvVGhpbmdzKCk7CiAgICAgICAgc2F5SGVsbG8oKTsKICAgIH0KCiAgICBwcml2YXRlIGludCAgZG9UaGluZ3MoKSB7CiAgICAgICAgaW50IGEgPSAxMTsKICAgICAgICBpbnQgIGIgPTE1MTsKICAgICAgICByZXR1cm4gYStiOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIGluaXQxKCkgewogICAgICAgIHRleHRWaWV3LnNldFRleHQoIkhlbGxvIG1hbiEiKTsKCiAgICB9CgoKICAgIHB1YmxpYyB2b2lkIGluaXQxVmlldyhWaWV3IHZpZXcpIHsKICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzYXlIZWxsbygpIHsKICAgICAgICBpbnQgYyA9MTkwOwogICAgICAgIGludCBhID0gMDsKCgoKICAgICAgICAvLyB0aGlyZCB5b3UKICAgICAgICAvLyBsaW5lIC0xICAgaGVsbG8gtPPRpyBkZmFzCiAgICAgICAgLy9saW5lMCAgLy9saW5lMCAvL2xpbmUwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
+        <text encoding="base64">ICAgICAgIExvZ2UgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
@@ -181,24 +186,24 @@
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBUZXh0VmlldyB0ZXh0VmlldzsKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbik7CiAgICAgICAgdGV4dFZpZXcgPSBmaW5kVmlld0J5SWQoUi5pZC50ZXh0KTsKICAgICAgICBpbml0MSgpOwogICAgICAgIGRvVGhpbmdzKCk7CiAgICAgICAgc2F5SGVsbG8oKTsKICAgIH0KCiAgICBwcml2YXRlIGludCAgZG9UaGluZ3MoKSB7CiAgICAgICAgaW50IGEgPSAxMTsKICAgICAgICBpbnQgIGIgPTE1MTsKICAgICAgICByZXR1cm4gYStiOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIGluaXQxKCkgewogICAgICAgIHRleHRWaWV3LnNldFRleHQoIkhlbGxvIG1hbiEiKTsKCiAgICB9CgoKICAgIHB1YmxpYyB2b2lkIGluaXQxVmlldyhWaWV3IHZpZXcpIHsKICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzYXlIZWxsbygpIHsKICAgICAgICBpbnQgYyA9MTkwOwogICAgICAgIGludCBhID0gMDsKCgoKICAgICAgICAvLyB0aGlyZCB5b3UKICAgICAgICAvLyBsaW5lIC0xICAgaGVsbG8gtPPRpyBkZmFzCiAgICAgICAgLy9saW5lMCAgLy9saW5lMCAvL2xpbmUwCiAgICAgICAgLy9saW5lMSAgLy9saW5lMSAvL2xpbmUxCiAgICAgICAgLy9saW5lMiAgLy9saW5lMiAvL2xpbmUyCiAgICAgICAgLy9saW5lNSAgLy9saW5lNSAvL2xpbmU1CiAgICAgICAgLy9saW5lNiAgLy9saW5lNiAvL2xpbmU2CgoKICAgICAgICAvL3RoaXMgaXMgbGluZSAzOC8vbGluZTcKCgogICAgICAgIC8vbGluZTgKCgoKCgogICAgfQoKICAgIC8vIGZvdXJ0aCB5b3UK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjggaW5pdFZpZXcKCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xpbmU2ICAvL2xpbmU2IC8vbGluZTYKCgogICAgICAgIC8vdGhpcyBpcyBsaW5lIDM4Ly9saW5lNwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE4LzIvMjcgaW5pdDEgdmlldwo=</text>
       </register>
       <register name=":" type="4">
-        <text>set norelativenumber</text>
+        <text>s/x/y</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDw2XD4=</last-search>
+      <last-search>x</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDw2XD4=</last-pattern>
-      <last-replace>init1</last-replace>
-      <last-substitute>init</last-substitute>
+      <last-pattern>x</last-pattern>
+      <last-replace>y</last-replace>
+      <last-substitute>x</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -219,10 +224,9 @@
         <entry>oncreate</entry>
         <entry>onCreate</entry>
         <entry encoding="base64">XDw2XD4=</entry>
+        <entry>x</entry>
       </history-search>
       <history-cmd>
-        <entry>34,40s/line/private/g</entry>
-        <entry>s/doSomeThing/doThings/g</entry>
         <entry>1,$s/doSomeThing/doThings/g</entry>
         <entry>1,$s/init/init1/g</entry>
         <entry>1,$s/init1/init</entry>
@@ -241,6 +245,8 @@
         <entry>set nonumber</entry>
         <entry>set number</entry>
         <entry>set norelativenumber</entry>
+        <entry>135,140s/x/y/g</entry>
+        <entry>s/x/y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
