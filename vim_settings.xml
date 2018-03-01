@@ -40,12 +40,12 @@
         <mark key="]" line="2962" column="0" />
         <mark key="." line="2962" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" timestamp="1519871059487">
-        <mark key="'" line="45" column="20" />
-        <mark key="[" line="77" column="63" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="79" column="7" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" timestamp="1519871970311">
+        <mark key="'" line="46" column="26" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="92" column="63" />
+        <mark key="^" line="81" column="11" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1517991042440">
         <mark key="[" line="25" column="21" />
@@ -194,58 +194,69 @@
       <jump line="15" column="7" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="78" column="7" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
       <jump line="45" column="20" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
+      <jump line="81" column="7" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
+      <jump line="23" column="4" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
+      <jump line="85" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
+      <jump line="46" column="26" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IFN0cmluZyB0aXRsZSA9IGV4dHJhcy5nZXRTdHJpbmcoTm90aWZpY2F0aW9uLkVYVFJBX1RJVExFLCAiIik7</text>
       </register>
       <register name="-" type="4">
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>notifyQQ</text>
+        <text>handleQQ</text>
       </register>
       <register name="0" type="4">
-        <text>notifyQQAndWechat</text>
+        <text encoding="base64">IFN0cmluZyB0aXRsZSA9IGV4dHJhcy5nZXRTdHJpbmcoTm90aWZpY2F0aW9uLkVYVFJBX1RJVExFLCAiIik7</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIXNibi5nZXRQYWNrYWdlTmFtZSgpLmVxdWFscygiY29tLnN0YW4uZDExMTUiKSAmJgo=</text>
+      <register name="3" type="4">
+        <text>private void notifyQQAndWechat(StatusBarNotification sbn) {
+        
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRWaXNpYmlsaXR5KE5vdGlmaWNhdGlvbi5WSVNJQklMSVRZX1NFQ1JFVCkK</text>
+      <register name="5" type="4">
+        <text>if (sbn.getPackageName().equals(&quot;com.tencent.mobileqq&quot;) ||
+                        sbn.getPackageName().equals(&quot;com.tencent.mm&quot;) ||
+                        sbn.getPackageName().equals(&quot;com.sina.weibo&quot;)) {
+                    notifyQQAndWechat(sbn);
+                    return;
+                }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uZmxhZ3MgPSBOb3RpZmljYXRpb24uRkxBR19GT1JFR1JPVU5EX1NFUlZJQ0U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRTdHlsZShudWxsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uZmxhZ3MgPSAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIXNibi5nZXRQYWNrYWdlTmFtZSgpLmVxdWFscygiY29tLnN0YW4uZDExMTUiKSAmJgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>16,28s/init1/init/g</text>
       </register>
     </registers>
     <search>
-      <last-search>notifyQQ</last-search>
+      <last-search>handleQQ</last-search>
       <last-offset />
-      <last-pattern>notifyQQ</last-pattern>
+      <last-pattern>handleQQ</last-pattern>
       <last-replace>init</last-replace>
       <last-substitute>init1</last-substitute>
       <last-dir>1</last-dir>
@@ -253,8 +264,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUb2FzXD4=</entry>
-        <entry>you</entry>
         <entry>me</entry>
         <entry>line6</entry>
         <entry>line</entry>
@@ -273,6 +282,8 @@
         <entry>addInScreen</entry>
         <entry>init1</entry>
         <entry>notifyQQ</entry>
+        <entry>handle</entry>
+        <entry>handleQQ</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/init/init1/g</entry>
