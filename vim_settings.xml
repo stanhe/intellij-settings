@@ -40,7 +40,6 @@
         <mark key="]" line="2962" column="0" />
         <mark key="." line="2962" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Hotseat.java" timestamp="1519801918581" />
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1517991042440">
         <mark key="[" line="25" column="21" />
         <mark key="]" line="26" column="16" />
@@ -51,11 +50,11 @@
         <mark key="'" line="129" column="12" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" timestamp="1519803618044">
-        <mark key="'" line="140" column="30" />
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="25" />
-        <mark key="^" line="16" column="25" />
+        <mark key="'" line="139" column="30" />
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/build.gradle" timestamp="1519781134435">
         <mark key="[" line="10" column="21" />
@@ -74,21 +73,22 @@
         <mark key="^" line="39" column="14" />
         <mark key="." line="39" column="14" />
       </file>
-      <file name="F:/git_desk/T0227/app/build.gradle" timestamp="1519803653215">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="36" />
+      <file name="F:/git_desk/T0227/app/build.gradle" timestamp="1519866388556">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
       </file>
-      <file name="F:/git_desk/T0227/app/src/main/res/layout/activity_main.xml" timestamp="1519723784339">
-        <mark key="[" line="9" column="12" />
+      <file name="F:/git_desk/T0227/app/src/main/res/layout/activity_main.xml" timestamp="1519865172317">
+        <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="12" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" timestamp="1519799719612" />
-      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519786207630">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519868846851">
+        <mark key="[" line="32" column="124" />
+        <mark key="]" line="39" column="43" />
+        <mark key="." line="39" column="43" />
+        <mark key="^" line="39" column="43" />
       </file>
       <file name="/fragment.java" timestamp="1519777497155">
         <mark key="[" line="0" column="0" />
@@ -140,7 +140,6 @@
       <jump line="34" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="32" column="16" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="33" column="27" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="15" column="8" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="26" column="16" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="5178" column="4" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="415" column="14" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
@@ -185,64 +184,61 @@
       <jump line="2963" column="4" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
       <jump line="82" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/layout-land/launcher.xml" />
       <jump line="432" column="49" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
+      <jump line="15" column="7" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>addInScreen</text>
+        <text>init1</text>
       </register>
       <register name="0" type="4">
         <text>com.stan.t0227</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="4">
-        <text>if (apps.get(i).getComponentName().getPackageName().equals(&quot;com.stan.t0227&quot;)) {
-                Collections.swap(apps, i, 0);
-            }</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tLnN0YW4udDAyMjcK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text>for (LauncherActivityInfoCompat app : apps) {
-            Logger.i(app.getComponentName().getPackageName()+&quot;  /  &quot;+app.getComponentName().getClassName()+&quot;\n&quot;);
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRWaXNpYmlsaXR5KE5vdGlmaWNhdGlvbi5WSVNJQklMSVRZX1NFQ1JFVCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uZmxhZ3MgPSBOb3RpZmljYXRpb24uRkxBR19GT1JFR1JPVU5EX1NFUlZJQ0U7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRTdHlsZShudWxsKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uZmxhZ3MgPSAgOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">CiAgCg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgIExvZ2dlci5lKCJhZnRlciBzb3J0ISIpOwogICAgICAgIGZvciAoTGF1bmNoZXJBY3Rpdml0eUluZm9Db21wYXQgYXBwIDogYXBwcykgewogICAgICAgICAgICBMb2dnZXIuaShhcHAuZ2V0Q29tcG9uZW50TmFtZSgpLmdldFBhY2thZ2VOYW1lKCkrIiAgLyAgIithcHAuZ2V0Q29tcG9uZW50TmFtZSgpLmdldENsYXNzTmFtZSgpKyJcbiIpOwogICAgICAgIH0=</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBpbml0KCkgewogICAgICAgIHRleHRWaWV3LnNldFRleHQoImNsaWNrIG1lISIpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0VmlldyA9IGZpbmRWaWV3QnlJZChSLmlkLnRleHQpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>16,28s/init1/init/g</text>
       </register>
     </registers>
     <search>
-      <last-search>addInScreen</last-search>
+      <last-search>init1</last-search>
       <last-offset />
-      <last-pattern>addInScreen</last-pattern>
-      <last-replace>y</last-replace>
-      <last-substitute>x</last-substitute>
+      <last-pattern>init1</last-pattern>
+      <last-replace>init</last-replace>
+      <last-substitute>init1</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -255,7 +251,6 @@
         <entry>line</entry>
         <entry>doSomeThing</entry>
         <entry>doThin</entry>
-        <entry>init1</entry>
         <entry>sayhello</entry>
         <entry>say</entry>
         <entry>initView</entry>
@@ -267,9 +262,9 @@
         <entry>hostseat</entry>
         <entry>hot</entry>
         <entry>addInScreen</entry>
+        <entry>init1</entry>
       </history-search>
       <history-cmd>
-        <entry>1,$s/doSomeThing/doThings/g</entry>
         <entry>1,$s/init/init1/g</entry>
         <entry>1,$s/init1/init</entry>
         <entry>s/init/init2</entry>
@@ -289,6 +284,7 @@
         <entry>135,140s/x/y/g</entry>
         <entry>s/x/y</entry>
         <entry>q</entry>
+        <entry>16,28s/init1/init/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
