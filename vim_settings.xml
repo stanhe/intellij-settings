@@ -11,8 +11,8 @@
         <mark key="]" line="64" column="56" />
         <mark key="." line="64" column="56" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" timestamp="1519800470161">
-        <mark key="'" line="432" column="49" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" timestamp="1519887979592">
+        <mark key="'" line="4948" column="16" />
       </file>
       <file name="F:/git_desk/T0227/app/app.iml" timestamp="1519718956311">
         <mark key="'" line="136" column="0" />
@@ -34,11 +34,11 @@
         <mark key="^" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519884113220">
-        <mark key="'" line="1327" column="12" />
-        <mark key="[" line="3564" column="27" />
-        <mark key="]" line="3564" column="28" />
-        <mark key="." line="3564" column="28" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519888059168">
+        <mark key="'" line="1294" column="19" />
+        <mark key="[" line="1329" column="8" />
+        <mark key="]" line="3508" column="0" />
+        <mark key="." line="3508" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" timestamp="1519886026594">
         <mark key="'" line="91" column="15" />
@@ -123,13 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="24" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="1" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="39" column="8" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="47" column="16" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="28" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="48" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="7" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="21" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="41" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="16" column="8" filename="F:/git_desk/T0227/app/app.iml" />
@@ -223,58 +216,65 @@
       <jump line="1316" column="44" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
       <jump line="1319" column="36" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
       <jump line="1327" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="1560" column="64" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="3501" column="65" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="1285" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="1294" column="19" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="1016" column="51" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
+      <jump line="4916" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
+      <jump line="4948" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETzogMjAxOC8yLzI2ICBzaG93IHVwZGF0ZSBpY29uIQo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>iconIndicatorses</text>
+        <text>updatePackage</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICIoKD88PVxcWykoXFxkKykoPz3M9V0iK3RpdGxlKyIpKSI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETzogMjAxOC8yLzI2ICBzaG93IHVwZGF0ZSBpY29uIQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFRlc3Qgewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFRlc3Qgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGl0bGUuZXF1YWxzKCIiKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtID0gZ2V0TnVtKHRpdGxlLCIiKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGl0bGUuZXF1YWxzKCIiKSkgewo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBJbnRlbnQgaSA9IG5ldyAgSW50ZW50KE5PVElGWV9MSVNURU5FUl9IQU5ETEVSKTsKICAgICAgICAgICAgICAgICAgICBJY29uSW5kaWNhdG9ycyBpbmRpY2F0b3JzID0gbmV3IEljb25JbmRpY2F0b3JzKHNibi5nZXRQYWNrYWdlTmFtZSgpLG51bSxyZWNlaXZlZCk7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBuZXcgR3NvbigpLnRvSnNvbihpbmRpY2F0b3JzLCBJY29uSW5kaWNhdG9ycy5jbGFzcyk7CiAgICAgICAgICAgICAgICAgICAgTG9nLmUoVEFHLCJub3RpZnkgbWVzc2FnZTogIittZXNzYWdlKTsKICAgICAgICAgICAgICAgICAgICBpLnB1dEV4dHJhKCJub3RpZmljYXRpb25fZXZlbnQiLG1lc3NhZ2UpOwogICAgICAgICAgICAgICAgICAgIHNlbmRCcm9hZGNhc3QoaSk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbnVtID0gZ2V0TnVtKHRpdGxlLCIiKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBJbnRlbnQgaSA9IG5ldyAgSW50ZW50KE5PVElGWV9MSVNURU5FUl9IQU5ETEVSKTsKICAgICAgICAgICAgICAgICAgICBJY29uSW5kaWNhdG9ycyBpbmRpY2F0b3JzID0gbmV3IEljb25JbmRpY2F0b3JzKHNibi5nZXRQYWNrYWdlTmFtZSgpLG51bSxyZWNlaXZlZCk7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBuZXcgR3NvbigpLnRvSnNvbihpbmRpY2F0b3JzLCBJY29uSW5kaWNhdG9ycy5jbGFzcyk7CiAgICAgICAgICAgICAgICAgICAgTG9nLmUoVEFHLCJub3RpZnkgbWVzc2FnZTogIittZXNzYWdlKTsKICAgICAgICAgICAgICAgICAgICBpLnB1dEV4dHJhKCJub3RpZmljYXRpb25fZXZlbnQiLG1lc3NhZ2UpOwogICAgICAgICAgICAgICAgICAgIHNlbmRCcm9hZGNhc3QoaSk7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtID0gSW50ZWdlci52YWx1ZU9mKG1hdGNoZXIuZ3JvdXAoMSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtID0gSW50ZWdlci52YWx1ZU9mKG1hdGNoZXIuZ3JvdXAoMSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>16,28s/init1/init/g</text>
       </register>
     </registers>
     <search>
-      <last-search>iconIndicatorses</last-search>
+      <last-search>updatePackage</last-search>
       <last-offset />
-      <last-pattern>iconIndicatorses</last-pattern>
+      <last-pattern>updatePackage</last-pattern>
       <last-replace>init</last-replace>
       <last-substitute>init1</last-substitute>
       <last-dir>1</last-dir>
@@ -282,8 +282,6 @@
     </search>
     <history>
       <history-search>
-        <entry>doThin</entry>
-        <entry>sayhello</entry>
         <entry>say</entry>
         <entry>initView</entry>
         <entry>init</entry>
@@ -302,6 +300,8 @@
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry>sortApps</entry>
         <entry>iconIndicatorses</entry>
+        <entry>forceReload</entry>
+        <entry>updatePackage</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/init/init1/g</entry>
