@@ -1,9 +1,9 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1519798189165">
+      <file name="/Dummy.txt" timestamp="1519890257941">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DynamicGrid.java" timestamp="1519802863309">
@@ -11,8 +11,12 @@
         <mark key="]" line="64" column="56" />
         <mark key="." line="64" column="56" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" timestamp="1519887979592">
-        <mark key="'" line="4948" column="16" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" timestamp="1519891547001">
+        <mark key="'" line="4972" column="16" />
+        <mark key="[" line="4946" column="0" />
+        <mark key="]" line="4946" column="0" />
+        <mark key="." line="4946" column="0" />
+        <mark key="^" line="4945" column="27" />
       </file>
       <file name="F:/git_desk/T0227/app/app.iml" timestamp="1519718956311">
         <mark key="'" line="136" column="0" />
@@ -20,12 +24,12 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1519780668873">
-        <mark key="'" line="1086" column="81" />
-        <mark key="[" line="445" column="10" />
-        <mark key="]" line="445" column="7" />
-        <mark key="^" line="445" column="7" />
-        <mark key="." line="445" column="7" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1519890281748">
+        <mark key="'" line="1085" column="81" />
+        <mark key="[" line="4871" column="41" />
+        <mark key="]" line="4871" column="39" />
+        <mark key="^" line="4871" column="39" />
+        <mark key="." line="4871" column="39" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/layout-land/launcher.xml" timestamp="1519799513330">
         <mark key="'" line="82" column="0" />
@@ -34,11 +38,12 @@
         <mark key="^" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519888059168">
-        <mark key="'" line="1294" column="19" />
-        <mark key="[" line="1329" column="8" />
-        <mark key="]" line="3508" column="0" />
-        <mark key="." line="3508" column="0" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519890440982">
+        <mark key="'" line="1346" column="26" />
+        <mark key="[" line="3517" column="8" />
+        <mark key="]" line="3534" column="8" />
+        <mark key="^" line="3516" column="39" />
+        <mark key="." line="3516" column="39" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" timestamp="1519886026594">
         <mark key="'" line="91" column="15" />
@@ -77,10 +82,10 @@
         <mark key="." line="60" column="11" />
         <mark key="^" line="60" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1519886366621">
-        <mark key="[" line="41" column="13" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1519891403236">
+        <mark key="[" line="40" column="12" />
         <mark key="]" line="40" column="13" />
-        <mark key="^" line="40" column="12" />
+        <mark key="^" line="40" column="13" />
         <mark key="." line="40" column="13" />
       </file>
       <file name="F:/git_desk/T0227/app/build.gradle" timestamp="1519866388556">
@@ -106,7 +111,7 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1519885154260">
+      <file name="/fragment.java" timestamp="1519890257953">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/values/array.xml" timestamp="1519883645282">
@@ -123,17 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="41" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="16" column="8" filename="F:/git_desk/T0227/app/app.iml" />
-      <jump line="39" column="6" filename="F:/git_desk/T0227/app/app.iml" />
-      <jump line="20" column="8" filename="F:/git_desk/T0227/app/app.iml" />
-      <jump line="0" column="0" filename="F:/git_desk/T0227/app/app.iml" />
-      <jump line="136" column="0" filename="F:/git_desk/T0227/app/app.iml" />
-      <jump line="29" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="51" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="23" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="0" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="27" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="49" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="35" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
@@ -223,58 +217,69 @@
       <jump line="1016" column="51" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
       <jump line="4916" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
       <jump line="4948" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
+      <jump line="520" column="76" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="1301" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="1312" column="19" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="1345" column="10" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="225" column="57" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="368" column="66" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="374" column="48" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="1332" column="37" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="1335" column="36" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="1343" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="1346" column="26" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETzogMjAxOC8yLzI2ICBzaG93IHVwZGF0ZSBpY29uIQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>updatePackage</text>
+        <text>iconIndicatorses</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICIoKD88PVxcWykoXFxkKykoPz3M9V0iK3RpdGxlKyIpKSI=</text>
+        <text encoding="base64">IEJ1YmJsZVRleHRWaWV3IHNob3J0Y3V0ID0gKEJ1YmJsZVRleHRWaWV3KSB2OwogICAgICAgICAgICAgICAgICAgICAgICBzaG9ydGN1dC5hcHBseUZyb21TaG9ydGN1dEluZm8oc2hvcnRjdXRJbmZvLCBtSWNvbkNhY2hlLCB0cnVlLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETzogMjAxOC8yLzI2ICBzaG93IHVwZGF0ZSBpY29uIQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQml0bWFwIHNvdXJjZSA9IHNob3J0Y3V0SW5mby5nZXRJY29uKG1JY29uQ2FjaGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFRlc3Qgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hvcnRjdXRJbmZvLmdldEljb24obUljb25DYWNoZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hvcnRjdXRJbmZvLmdldEljb24obUljb25DYWNoZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGl0bGUuZXF1YWxzKCIiKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hvcnRjdXRJbmZvLmdldEljb24obUljb25DYWNoZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtID0gZ2V0TnVtKHRpdGxlLCIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hvcnRjdXRJbmZvLmdldEljb24obUljb25DYWNoZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBJbnRlbnQgaSA9IG5ldyAgSW50ZW50KE5PVElGWV9MSVNURU5FUl9IQU5ETEVSKTsKICAgICAgICAgICAgICAgICAgICBJY29uSW5kaWNhdG9ycyBpbmRpY2F0b3JzID0gbmV3IEljb25JbmRpY2F0b3JzKHNibi5nZXRQYWNrYWdlTmFtZSgpLG51bSxyZWNlaXZlZCk7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBuZXcgR3NvbigpLnRvSnNvbihpbmRpY2F0b3JzLCBJY29uSW5kaWNhdG9ycy5jbGFzcyk7CiAgICAgICAgICAgICAgICAgICAgTG9nLmUoVEFHLCJub3RpZnkgbWVzc2FnZTogIittZXNzYWdlKTsKICAgICAgICAgICAgICAgICAgICBpLnB1dEV4dHJhKCJub3RpZmljYXRpb25fZXZlbnQiLG1lc3NhZ2UpOwogICAgICAgICAgICAgICAgICAgIHNlbmRCcm9hZGNhc3QoaSk7</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaG9ydGN1dEluZm8uZ2V0SWNvbihtSWNvbkNhY2hlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hvcnRjdXRJbmZvLnNldEljb24oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtID0gSW50ZWdlci52YWx1ZU9mKG1hdGNoZXIuZ3JvdXAoMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hvcnRjdXRJbmZvLnVwZGF0ZUljb24oKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>16,28s/init1/init/g</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>updatePackage</last-search>
+      <last-search>iconIndicatorses</last-search>
       <last-offset />
-      <last-pattern>updatePackage</last-pattern>
+      <last-pattern>iconIndicatorses</last-pattern>
       <last-replace>init</last-replace>
       <last-substitute>init1</last-substitute>
       <last-dir>1</last-dir>
@@ -299,9 +304,9 @@
         <entry>handle</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry>sortApps</entry>
-        <entry>iconIndicatorses</entry>
-        <entry>forceReload</entry>
         <entry>updatePackage</entry>
+        <entry>forceReload</entry>
+        <entry>iconIndicatorses</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/init/init1/g</entry>
@@ -322,8 +327,8 @@
         <entry>set norelativenumber</entry>
         <entry>135,140s/x/y/g</entry>
         <entry>s/x/y</entry>
-        <entry>q</entry>
         <entry>16,28s/init1/init/g</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
