@@ -236,7 +236,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>iconIndicatorses</text>
+        <text>reanimation</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaG9ydGN1dEluZm8udXBkYXRlSWNvbihtSWNvbkNhY2hlKTsK</text>
@@ -276,9 +276,9 @@
       </register>
     </registers>
     <search>
-      <last-search>iconIndicatorses</last-search>
+      <last-search>reanimation</last-search>
       <last-offset />
-      <last-pattern>iconIndicatorses</last-pattern>
+      <last-pattern>reanimation</last-pattern>
       <last-replace>init</last-replace>
       <last-substitute>init1</last-substitute>
       <last-dir>1</last-dir>
@@ -286,7 +286,6 @@
     </search>
     <history>
       <history-search>
-        <entry>say</entry>
         <entry>initView</entry>
         <entry>init</entry>
         <entry>oncreate</entry>
@@ -306,6 +305,7 @@
         <entry>updatePackage</entry>
         <entry>forceReload</entry>
         <entry>iconIndicatorses</entry>
+        <entry>reanimation</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/init/init1/g</entry>
