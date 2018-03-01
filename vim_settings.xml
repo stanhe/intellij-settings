@@ -37,7 +37,7 @@
         <mark key="^" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519890440982">
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519897341005">
         <mark key="'" line="1346" column="26" />
         <mark key="[" line="3517" column="8" />
         <mark key="]" line="3534" column="8" />
@@ -127,7 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="35" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="16" column="8" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="30" column="3" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
@@ -219,14 +218,15 @@
       <jump line="1301" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
       <jump line="1312" column="19" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
       <jump line="1345" column="10" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
-      <jump line="225" column="57" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="4969" column="28" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
       <jump line="368" column="66" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
       <jump line="374" column="48" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="225" column="57" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
       <jump line="1332" column="37" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
       <jump line="1335" column="36" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="3518" column="41" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
       <jump line="1343" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
       <jump line="1346" column="26" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
-      <jump line="4969" column="28" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -236,7 +236,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>reanimation</text>
+        <text>iconIndicatorses</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaG9ydGN1dEluZm8udXBkYXRlSWNvbihtSWNvbkNhY2hlKTsK</text>
@@ -276,9 +276,9 @@
       </register>
     </registers>
     <search>
-      <last-search>reanimation</last-search>
+      <last-search>iconIndicatorses</last-search>
       <last-offset />
-      <last-pattern>reanimation</last-pattern>
+      <last-pattern>iconIndicatorses</last-pattern>
       <last-replace>init</last-replace>
       <last-substitute>init1</last-substitute>
       <last-dir>1</last-dir>
@@ -304,8 +304,8 @@
         <entry>sortApps</entry>
         <entry>updatePackage</entry>
         <entry>forceReload</entry>
-        <entry>iconIndicatorses</entry>
         <entry>reanimation</entry>
+        <entry>iconIndicatorses</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/init/init1/g</entry>
@@ -316,7 +316,6 @@
         <entry>set showmode</entry>
         <entry>set</entry>
         <entry>set bg=dark</entry>
-        <entry>sp</entry>
         <entry>set nrnu</entry>
         <entry>set rnu</entry>
         <entry>set nu</entry>
@@ -327,6 +326,7 @@
         <entry>135,140s/x/y/g</entry>
         <entry>s/x/y</entry>
         <entry>16,28s/init1/init/g</entry>
+        <entry>sp</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
