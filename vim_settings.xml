@@ -40,6 +40,13 @@
         <mark key="]" line="2962" column="0" />
         <mark key="." line="2962" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" timestamp="1519871059487">
+        <mark key="'" line="45" column="20" />
+        <mark key="[" line="77" column="63" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="79" column="7" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1517991042440">
         <mark key="[" line="25" column="21" />
         <mark key="]" line="26" column="16" />
@@ -185,58 +192,60 @@
       <jump line="82" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/layout-land/launcher.xml" />
       <jump line="432" column="49" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
       <jump line="15" column="7" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="78" column="7" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
+      <jump line="45" column="20" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>init1</text>
+        <text>notifyQQ</text>
       </register>
       <register name="0" type="4">
-        <text>com.stan.t0227</text>
+        <text>notifyQQAndWechat</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRWaXNpYmlsaXR5KE5vdGlmaWNhdGlvbi5WSVNJQklMSVRZX1NFQ1JFVCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uZmxhZ3MgPSBOb3RpZmljYXRpb24uRkxBR19GT1JFR1JPVU5EX1NFUlZJQ0U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIXNibi5nZXRQYWNrYWdlTmFtZSgpLmVxdWFscygiY29tLnN0YW4uZDExMTUiKSAmJgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRTdHlsZShudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uZmxhZ3MgPSAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRWaXNpYmlsaXR5KE5vdGlmaWNhdGlvbi5WSVNJQklMSVRZX1NFQ1JFVCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uZmxhZ3MgPSBOb3RpZmljYXRpb24uRkxBR19GT1JFR1JPVU5EX1NFUlZJQ0U7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRTdHlsZShudWxsKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBpbml0KCkgewogICAgICAgIHRleHRWaWV3LnNldFRleHQoImNsaWNrIG1lISIpOwogICAgfQo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uZmxhZ3MgPSAgOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0VmlldyA9IGZpbmRWaWV3QnlJZChSLmlkLnRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>16,28s/init1/init/g</text>
       </register>
     </registers>
     <search>
-      <last-search>init1</last-search>
+      <last-search>notifyQQ</last-search>
       <last-offset />
-      <last-pattern>init1</last-pattern>
+      <last-pattern>notifyQQ</last-pattern>
       <last-replace>init</last-replace>
       <last-substitute>init1</last-substitute>
       <last-dir>1</last-dir>
@@ -263,6 +272,7 @@
         <entry>hot</entry>
         <entry>addInScreen</entry>
         <entry>init1</entry>
+        <entry>notifyQQ</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/init/init1/g</entry>
