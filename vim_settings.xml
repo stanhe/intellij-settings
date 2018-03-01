@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1519798189165">
@@ -40,12 +40,12 @@
         <mark key="]" line="3564" column="28" />
         <mark key="." line="3564" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" timestamp="1519885011529">
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" timestamp="1519886026594">
         <mark key="'" line="91" column="15" />
         <mark key="[" line="93" column="23" />
-        <mark key="]" line="93" column="44" />
-        <mark key="." line="94" column="53" />
-        <mark key="^" line="94" column="53" />
+        <mark key="]" line="93" column="49" />
+        <mark key="." line="93" column="23" />
+        <mark key="^" line="93" column="22" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1517991042440">
         <mark key="[" line="25" column="21" />
@@ -77,11 +77,11 @@
         <mark key="." line="60" column="11" />
         <mark key="^" line="60" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1519882906036">
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1519886366621">
         <mark key="[" line="41" column="13" />
-        <mark key="]" line="41" column="13" />
-        <mark key="^" line="40" column="14" />
-        <mark key="." line="41" column="13" />
+        <mark key="]" line="40" column="13" />
+        <mark key="^" line="40" column="12" />
+        <mark key="." line="40" column="13" />
       </file>
       <file name="F:/git_desk/T0227/app/build.gradle" timestamp="1519866388556">
         <mark key="[" line="6" column="23" />
@@ -100,7 +100,7 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519869951102">
+      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519886603997">
         <mark key="[" line="32" column="124" />
         <mark key="]" line="9" column="30" />
         <mark key="." line="9" column="30" />
@@ -115,11 +115,11 @@
         <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="F:/git_desk/T0227/lib/src/main/java/com/stan/lib/Test.java" timestamp="1519885451298">
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="14" column="37" />
-        <mark key="^" line="14" column="37" />
-        <mark key="." line="14" column="37" />
+      <file name="F:/git_desk/T0227/lib/src/main/java/com/stan/lib/Test.java" timestamp="1519886007486">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="55" />
+        <mark key="^" line="13" column="22" />
+        <mark key="." line="13" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -225,37 +225,17 @@
       <jump line="1327" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;([(\\d+)条]&quot;+title+&quot;)&quot;</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>iconIndicatorses</text>
       </register>
       <register name="0" type="4">
-        <text>public class Test {
-    public static void main(String[] args) {
-        String mesage = &quot;[19条]Turnip: 21&quot;;
-        String regex = &quot;([(\\d+)条]Turnip)&quot;;
-        int num = getNum(mesage,regex);
-        System.out.print(&quot;num: &quot;+num);
-    }
-    private static int getNum(String message, String regex) {
-        int num = 1;
-        Matcher matcher = Pattern.compile(regex).matcher(message);
-        if (matcher.find()) {
-            try {
-                num = Integer.valueOf(matcher.group(1));
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-        }
-        return num;
-    }
-
-}</text>
+        <text encoding="base64">ICIoKD88PVxcWykoXFxkKykoPz3M9V0iK3RpdGxlKyIpKSI=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">fQo=</text>
