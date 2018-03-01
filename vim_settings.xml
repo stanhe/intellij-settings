@@ -40,12 +40,12 @@
         <mark key="]" line="2962" column="0" />
         <mark key="." line="2962" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" timestamp="1519873201908">
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" timestamp="1519879849301">
         <mark key="'" line="90" column="15" />
-        <mark key="[" line="94" column="9" />
-        <mark key="]" line="95" column="42" />
-        <mark key="." line="95" column="42" />
-        <mark key="^" line="95" column="42" />
+        <mark key="[" line="101" column="15" />
+        <mark key="]" line="101" column="15" />
+        <mark key="." line="101" column="15" />
+        <mark key="^" line="106" column="35" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1517991042440">
         <mark key="[" line="25" column="21" />
@@ -210,16 +210,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgU3RyaW5nIHRpdGxlID0gZXh0cmFzLmdldFN0cmluZyhOb3RpZmljYXRpb24uRVhUUkFfVElUTEUsICIiKTsK</text>
+      <register name="0" type="4">
+        <text>&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbnVtID0gZ2V0TnVtKHRpdGxlLCIiKQo=</text>
