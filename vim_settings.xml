@@ -37,8 +37,8 @@
         <mark key="^" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519897341005">
-        <mark key="'" line="1346" column="26" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519949867170">
+        <mark key="'" line="3556" column="16" />
         <mark key="[" line="3517" column="8" />
         <mark key="]" line="3534" column="8" />
         <mark key="^" line="3516" column="39" />
@@ -127,7 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="16" column="8" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="30" column="3" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="19" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
@@ -227,6 +226,7 @@
       <jump line="3518" column="41" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
       <jump line="1343" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
       <jump line="1346" column="26" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="3556" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
