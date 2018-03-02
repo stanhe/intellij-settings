@@ -20,12 +20,12 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1519890281748">
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1519955489466">
         <mark key="'" line="1085" column="81" />
-        <mark key="[" line="4871" column="41" />
-        <mark key="]" line="4871" column="39" />
-        <mark key="^" line="4871" column="39" />
-        <mark key="." line="4871" column="39" />
+        <mark key="[" line="4869" column="79" />
+        <mark key="]" line="393" column="18" />
+        <mark key="^" line="393" column="18" />
+        <mark key="." line="393" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519949867170">
         <mark key="'" line="3556" column="16" />
@@ -81,7 +81,7 @@
       <file name="/Dummy.txt" timestamp="1519890257941">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" timestamp="1519892524081">
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" timestamp="1519955389400">
         <mark key="'" line="4963" column="28" />
         <mark key="[" line="4941" column="0" />
         <mark key="]" line="4941" column="0" />
@@ -319,7 +319,7 @@
         <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5hbm5vdGF0aW9uLkRvY3VtZW50ZWQK</text>
       </register>
       <register name=":" type="4">
-        <text>n</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -370,11 +370,11 @@
         <entry>s/x/y</entry>
         <entry>16,28s/init1/init/g</entry>
         <entry>sp</entry>
-        <entry>q</entry>
         <entry>files</entry>
         <entry>N</entry>
         <entry>2N</entry>
         <entry>n</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -427,6 +427,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
