@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DynamicGrid.java" timestamp="1519802863309">
+        <mark key="[" line="64" column="55" />
+        <mark key="]" line="64" column="56" />
+        <mark key="." line="64" column="56" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainModule.kt" timestamp="1519952207040">
         <mark key="'" line="24" column="21" />
         <mark key="[" line="22" column="0" />
@@ -66,7 +71,8 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/values/array.xml" timestamp="1519952747278">
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/values/array.xml" timestamp="1519953955831">
+        <mark key="'" line="13" column="9" />
         <mark key="[" line="13" column="39" />
         <mark key="]" line="16" column="7" />
         <mark key="." line="16" column="7" />
@@ -115,6 +121,11 @@
         <mark key="." line="15" column="25" />
         <mark key="^" line="15" column="25" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/build.gradle" timestamp="1519954155118">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/AppScoped.kt" timestamp="1519952289644">
         <mark key="'" line="11" column="17" />
         <mark key="[" line="3" column="0" />
@@ -133,6 +144,11 @@
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/AppComponent.kt" timestamp="1519952280068">
         <mark key="'" line="14" column="114" />
+      </file>
+      <file name="F:/git_desk/T0227/app/build.gradle" timestamp="1519866388556">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/Test.java" timestamp="1519885199296">
         <mark key="[" line="9" column="0" />
@@ -157,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5178" column="4" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="415" column="14" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="421" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="422" column="33" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
@@ -257,6 +272,7 @@
       <jump line="13" column="17" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/ActivityScoped.kt" />
       <jump line="8" column="9" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/FragmentScoped.kt" />
       <jump line="11" column="17" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/AppScoped.kt" />
+      <jump line="13" column="9" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/values/array.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -266,7 +282,7 @@
         <text>(RetentionPolicy.RUNTIME)</text>
       </register>
       <register name="/" type="4">
-        <text>iconIndicatorses</text>
+        <text encoding="base64">XDxpdGVtXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaG9ydGN1dEluZm8udXBkYXRlSWNvbihtSWNvbkNhY2hlKTsK</text>
@@ -307,17 +323,16 @@
       </register>
     </registers>
     <search>
-      <last-search>iconIndicatorses</last-search>
+      <last-search encoding="base64">XDxpdGVtXD4=</last-search>
       <last-offset />
-      <last-pattern>iconIndicatorses</last-pattern>
+      <last-pattern encoding="base64">XDxpdGVtXD4=</last-pattern>
       <last-replace>init</last-replace>
       <last-substitute>init1</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>initView</entry>
         <entry>init</entry>
         <entry>oncreate</entry>
         <entry>onCreate</entry>
@@ -337,6 +352,7 @@
         <entry>forceReload</entry>
         <entry>reanimation</entry>
         <entry>iconIndicatorses</entry>
+        <entry encoding="base64">XDxpdGVtXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set all</entry>
