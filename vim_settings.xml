@@ -113,6 +113,9 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" timestamp="1519962629486">
+        <mark key="'" line="115" column="8" />
+      </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" timestamp="1519803618044">
         <mark key="'" line="139" column="30" />
         <mark key="[" line="17" column="23" />
@@ -175,12 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="14" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="12" column="14" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="11" column="19" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
-      <jump line="30" column="12" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
-      <jump line="48" column="31" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
-      <jump line="33" column="23" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
       <jump line="54" column="31" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
       <jump line="34" column="27" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
       <jump line="62" column="31" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
@@ -275,6 +272,12 @@
       <jump line="27" column="19" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" />
       <jump line="28" column="17" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" />
       <jump line="47" column="54" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" />
+      <jump line="119" column="36" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
+      <jump line="99" column="10" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
+      <jump line="118" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
+      <jump line="142" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
+      <jump line="113" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
+      <jump line="115" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -284,7 +287,7 @@
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>recycl</text>
+        <text>applyFrom</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaG9ydGN1dEluZm8udXBkYXRlSWNvbihtSWNvbkNhY2hlKTsK</text>
@@ -325,9 +328,9 @@
       </register>
     </registers>
     <search>
-      <last-search>recycl</last-search>
+      <last-search>applyFrom</last-search>
       <last-offset />
-      <last-pattern>recycl</last-pattern>
+      <last-pattern>applyFrom</last-pattern>
       <last-replace>init</last-replace>
       <last-substitute>init1</last-substitute>
       <last-dir>1</last-dir>
@@ -335,7 +338,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hostseat</entry>
         <entry>hot</entry>
         <entry>addInScreen</entry>
         <entry>init1</entry>
@@ -355,6 +357,7 @@
         <entry>oncreate</entry>
         <entry>recyvlerView</entry>
         <entry>recycl</entry>
+        <entry>applyFrom</entry>
       </history-search>
       <history-cmd>
         <entry>set all</entry>
@@ -432,6 +435,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
