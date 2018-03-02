@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DynamicGrid.java" timestamp="1519802863309">
-        <mark key="[" line="64" column="55" />
-        <mark key="]" line="64" column="56" />
-        <mark key="." line="64" column="56" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DynamicGrid.java" timestamp="1519977564614">
+        <mark key="'" line="72" column="46" />
+        <mark key="[" line="35" column="40" />
+        <mark key="]" line="35" column="41" />
+        <mark key="." line="35" column="41" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainModule.kt" timestamp="1519952207040">
         <mark key="'" line="24" column="21" />
@@ -113,25 +114,18 @@
         <mark key="^" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/ActivityScoped.kt" timestamp="1519952282208">
-        <mark key="u" line="10" column="1" />
-        <mark key="'" line="13" column="17" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="12" column="29" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1517991042440">
         <mark key="[" line="25" column="21" />
         <mark key="]" line="26" column="16" />
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" timestamp="1519976195667">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="319" column="7" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" timestamp="1519976974504">
+        <mark key="'" line="125" column="65" />
+        <mark key="[" line="128" column="118" />
+        <mark key="]" line="128" column="117" />
+        <mark key="^" line="128" column="117" />
+        <mark key="." line="128" column="117" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" timestamp="1519803618044">
         <mark key="'" line="139" column="30" />
@@ -152,11 +146,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1519893068870">
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1519976871015">
         <mark key="[" line="41" column="12" />
-        <mark key="]" line="41" column="29" />
-        <mark key="^" line="41" column="29" />
-        <mark key="." line="41" column="29" />
+        <mark key="]" line="41" column="12" />
+        <mark key="^" line="40" column="14" />
+        <mark key="." line="41" column="12" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/App.kt" timestamp="1519952232265">
         <mark key="'" line="15" column="28" />
@@ -172,6 +166,9 @@
         <mark key="]" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Utilities.java" timestamp="1519977113883">
+        <mark key="'" line="322" column="29" />
+      </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/Test.java" timestamp="1519885199296">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="29" column="0" />
@@ -181,8 +178,11 @@
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/AgencyDetail.kt" timestamp="1519952230282">
         <mark key="'" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherAppState.java" timestamp="1519971292084">
-        <mark key="'" line="165" column="18" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" timestamp="1519977222453">
+        <mark key="'" line="61" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherAppState.java" timestamp="1519977120691">
+        <mark key="'" line="275" column="39" />
       </file>
       <file name="/fragment.java" timestamp="1519890257953">
         <mark key="[" line="0" column="0" />
@@ -198,34 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="28" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/App.kt" />
-      <jump line="14" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/ActivityScoped.kt" />
-      <jump line="16" column="9" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/AppModule.kt" />
-      <jump line="14" column="114" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/AppComponent.kt" />
-      <jump line="13" column="17" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/ActivityScoped.kt" />
-      <jump line="8" column="9" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/FragmentScoped.kt" />
-      <jump line="11" column="17" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/AppScoped.kt" />
-      <jump line="13" column="9" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/values/array.xml" />
-      <jump line="127" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
-      <jump line="29" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
-      <jump line="1150" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="1101" column="78" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="4752" column="77" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="510" column="25" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="512" column="25" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="3628" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
-      <jump line="3569" column="25" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
-      <jump line="540" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="27" column="19" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" />
-      <jump line="28" column="17" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" />
-      <jump line="47" column="54" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" />
-      <jump line="119" column="36" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
-      <jump line="99" column="10" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
-      <jump line="118" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
-      <jump line="142" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
-      <jump line="113" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
-      <jump line="115" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
-      <jump line="122" column="21" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
       <jump line="90" column="20" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
       <jump line="100" column="17" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
       <jump line="108" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
@@ -298,16 +270,44 @@
       <jump line="4936" column="73" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
       <jump line="286" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
       <jump line="336" column="7" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
+      <jump line="125" column="65" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
+      <jump line="83" column="23" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Utilities.java" />
+      <jump line="93" column="29" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Utilities.java" />
+      <jump line="139" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Utilities.java" />
+      <jump line="145" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Utilities.java" />
+      <jump line="154" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Utilities.java" />
+      <jump line="158" column="24" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Utilities.java" />
+      <jump line="160" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Utilities.java" />
+      <jump line="186" column="31" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Utilities.java" />
+      <jump line="322" column="29" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Utilities.java" />
+      <jump line="275" column="39" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherAppState.java" />
+      <jump line="381" column="22" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
+      <jump line="382" column="23" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
+      <jump line="384" column="50" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
+      <jump line="387" column="29" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
+      <jump line="388" column="29" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
+      <jump line="389" column="30" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
+      <jump line="395" column="27" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
+      <jump line="102" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
+      <jump line="366" column="49" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
+      <jump line="72" column="10" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
+      <jump line="270" column="30" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
+      <jump line="222" column="49" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
+      <jump line="219" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
+      <jump line="217" column="51" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
+      <jump line="147" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
+      <jump line="61" column="14" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
+      <jump line="72" column="46" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DynamicGrid.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkcmF3TnVtKGNhbnZhcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>paint</text>
+        <text encoding="base64">XDxpY29uU2l6ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkcmF3TnVtKGNhbnZhcyk7Cg==</text>
@@ -351,9 +351,9 @@ paint</text>
       </register>
     </registers>
     <search>
-      <last-search>paint</last-search>
+      <last-search encoding="base64">XDxpY29uU2l6ZVw+</last-search>
       <last-offset />
-      <last-pattern>paint</last-pattern>
+      <last-pattern encoding="base64">XDxpY29uU2l6ZVw+</last-pattern>
       <last-replace>p</last-replace>
       <last-substitute>paint</last-substitute>
       <last-dir>1</last-dir>
@@ -361,9 +361,6 @@ paint</text>
     </search>
     <history>
       <history-search>
-        <entry>oncreate</entry>
-        <entry>recyvlerView</entry>
-        <entry>recycl</entry>
         <entry>applyFrom</entry>
         <entry>LauncherMode</entry>
         <entry>mModel</entry>
@@ -381,6 +378,9 @@ paint</text>
         <entry>drawNu</entry>
         <entry>286,288s</entry>
         <entry>paint</entry>
+        <entry encoding="base64">XDxzSWNvbldpZHRoXD4=</entry>
+        <entry encoding="base64">XDxpY29uU2l6ZVB4XD4=</entry>
+        <entry encoding="base64">XDxpY29uU2l6ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
