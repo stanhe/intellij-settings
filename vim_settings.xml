@@ -20,12 +20,12 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1519955489466">
-        <mark key="'" line="1085" column="81" />
-        <mark key="[" line="4869" column="79" />
-        <mark key="]" line="393" column="18" />
-        <mark key="^" line="393" column="18" />
-        <mark key="." line="393" column="18" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1519957063443">
+        <mark key="'" line="512" column="25" />
+        <mark key="[" line="131" column="27" />
+        <mark key="]" line="1130" column="18" />
+        <mark key="^" line="1130" column="18" />
+        <mark key="." line="1130" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519949867170">
         <mark key="'" line="3556" column="16" />
@@ -34,12 +34,12 @@
         <mark key="^" line="3516" column="39" />
         <mark key="." line="3516" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" timestamp="1519886026594">
-        <mark key="'" line="91" column="15" />
-        <mark key="[" line="93" column="23" />
-        <mark key="]" line="93" column="49" />
-        <mark key="." line="93" column="23" />
-        <mark key="^" line="93" column="22" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" timestamp="1519956471395">
+        <mark key="'" line="24" column="16" />
+        <mark key="[" line="88" column="23" />
+        <mark key="]" line="88" column="49" />
+        <mark key="." line="88" column="23" />
+        <mark key="^" line="88" column="22" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" timestamp="1519883640336">
         <mark key="'" line="129" column="12" />
@@ -173,15 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="415" column="14" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="421" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="422" column="33" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="445" column="10" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="514" column="17" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="1685" column="24" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="1692" column="20" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="297" column="32" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="425" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="441" column="32" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="493" column="31" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="1086" column="81" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
@@ -273,6 +264,15 @@
       <jump line="8" column="9" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/FragmentScoped.kt" />
       <jump line="11" column="17" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/AppScoped.kt" />
       <jump line="13" column="9" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/values/array.xml" />
+      <jump line="30" column="31" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
+      <jump line="127" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
+      <jump line="29" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
+      <jump line="1150" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="515" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="1101" column="78" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="4752" column="77" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="510" column="25" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="512" column="25" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -282,7 +282,7 @@
         <text>(RetentionPolicy.RUNTIME)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpdGVtXD4=</text>
+        <text>oncreate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaG9ydGN1dEluZm8udXBkYXRlSWNvbihtSWNvbkNhY2hlKTsK</text>
@@ -323,19 +323,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpdGVtXD4=</last-search>
+      <last-search>oncreate</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpdGVtXD4=</last-pattern>
+      <last-pattern>oncreate</last-pattern>
       <last-replace>init</last-replace>
       <last-substitute>init1</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>init</entry>
-        <entry>oncreate</entry>
-        <entry>onCreate</entry>
         <entry encoding="base64">XDw2XD4=</entry>
         <entry>x</entry>
         <entry>hostseat</entry>
@@ -353,6 +350,9 @@
         <entry>reanimation</entry>
         <entry>iconIndicatorses</entry>
         <entry encoding="base64">XDxpdGVtXD4=</entry>
+        <entry>onNotifi</entry>
+        <entry>------------------</entry>
+        <entry>oncreate</entry>
       </history-search>
       <history-cmd>
         <entry>set all</entry>
