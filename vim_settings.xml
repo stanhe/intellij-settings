@@ -20,19 +20,15 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1519957063443">
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1519957678331">
         <mark key="'" line="512" column="25" />
-        <mark key="[" line="131" column="27" />
-        <mark key="]" line="1130" column="18" />
-        <mark key="^" line="1130" column="18" />
-        <mark key="." line="1130" column="18" />
+        <mark key="[" line="393" column="56" />
+        <mark key="]" line="393" column="55" />
+        <mark key="^" line="393" column="55" />
+        <mark key="." line="393" column="55" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519949867170">
-        <mark key="'" line="3556" column="16" />
-        <mark key="[" line="3517" column="8" />
-        <mark key="]" line="3534" column="8" />
-        <mark key="^" line="3516" column="39" />
-        <mark key="." line="3516" column="39" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519957750655">
+        <mark key="'" line="3569" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" timestamp="1519956471395">
         <mark key="'" line="24" column="16" />
@@ -173,8 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="441" column="32" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="493" column="31" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="1086" column="81" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="124" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" />
       <jump line="111" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" />
@@ -273,13 +267,15 @@
       <jump line="4752" column="77" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="510" column="25" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="512" column="25" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="3628" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
+      <jump line="3569" column="25" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBATW9kdWxlCiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBAQWN0aXZpdHlTY29wZWQKICAgICAgICBASnZtU3RhdGljCiAgICAgICAgQFByb3ZpZGVzCiAgICAgICAgZnVuIHNpbXBsZVJlY3ljbGVyQWRhcHRlcihjb250ZXh0OiBDb250ZXh0LCBhY3Rpdml0eTogTWFpbkFjdGl2aXR5KTogU2ltcGxlUmVjeWNsZXJBZGFwdGVyIAo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>(RetentionPolicy.RUNTIME)</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>oncreate</text>
@@ -369,11 +365,11 @@
         <entry>135,140s/x/y/g</entry>
         <entry>s/x/y</entry>
         <entry>16,28s/init1/init/g</entry>
-        <entry>sp</entry>
         <entry>files</entry>
         <entry>N</entry>
         <entry>2N</entry>
         <entry>n</entry>
+        <entry>sp</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
