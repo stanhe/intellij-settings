@@ -20,8 +20,8 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1519968739804">
-        <mark key="'" line="540" column="0" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1519969565470">
+        <mark key="'" line="5269" column="0" />
         <mark key="[" line="657" column="36" />
         <mark key="]" line="657" column="9" />
         <mark key="^" line="657" column="9" />
@@ -178,13 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="12" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
-      <jump line="64" column="31" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
-      <jump line="69" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
-      <jump line="67" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
-      <jump line="74" column="31" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
-      <jump line="76" column="31" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
-      <jump line="84" column="31" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
       <jump line="88" column="31" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
       <jump line="23" column="0" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
       <jump line="14" column="53" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" />
@@ -278,6 +271,13 @@
       <jump line="100" column="17" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
       <jump line="108" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
       <jump line="54" column="42" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
+      <jump line="757" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="4618" column="17" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="754" column="22" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="1645" column="27" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="5287" column="26" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="5288" column="28" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="5269" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
