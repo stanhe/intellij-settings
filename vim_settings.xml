@@ -55,12 +55,14 @@
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainContract.kt" timestamp="1519952204176">
         <mark key="'" line="22" column="0" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" timestamp="1519959796191" />
-      <file name="F:/git_desk/T0227/app/src/main/res/layout/activity_main.xml" timestamp="1519865172317">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="12" />
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" timestamp="1519960531474">
+        <mark key="'" line="47" column="54" />
+      </file>
+      <file name="F:/git_desk/T0227/app/src/main/res/layout/activity_main.xml" timestamp="1519961581517">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="25" column="37" />
+        <mark key="^" line="25" column="37" />
+        <mark key="." line="25" column="37" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519886603997">
         <mark key="[" line="32" column="124" />
@@ -75,7 +77,7 @@
         <mark key="." line="16" column="7" />
         <mark key="^" line="16" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519890257941">
+      <file name="/Dummy.txt" timestamp="1519961427221">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" timestamp="1519955389400">
@@ -173,9 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" />
-      <jump line="111" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" />
-      <jump line="129" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" />
       <jump line="44" column="14" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="12" column="14" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="11" column="19" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
@@ -273,59 +272,62 @@
       <jump line="3628" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
       <jump line="3569" column="25" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
       <jump line="540" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="27" column="19" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" />
+      <jump line="28" column="17" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" />
+      <jump line="47" column="54" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>oncreate</text>
+        <text>recycl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaG9ydGN1dEluZm8udXBkYXRlSWNvbihtSWNvbkNhY2hlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBATW9kdWxlCiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBAQWN0aXZpdHlTY29wZWQKICAgICAgICBASnZtU3RhdGljCiAgICAgICAgQFByb3ZpZGVzCiAgICAgICAgZnVuIHNpbXBsZVJlY3ljbGVyQWRhcHRlcihjb250ZXh0OiBDb250ZXh0LCBhY3Rpdml0eTogTWFpbkFjdGl2aXR5KTogU2ltcGxlUmVjeWNsZXJBZGFwdGVyIAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CiAgICBATW9kdWxlCiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBAQWN0aXZpdHlTY29wZWQKICAgICAgICBASnZtU3RhdGljCiAgICAgICAgQFByb3ZpZGVzCiAgICAgICAgZnVuIHNpbXBsZVJlY3ljbGVyQWRhcHRlcihjb250ZXh0OiBDb250ZXh0LCBhY3Rpdml0eTogTWFpbkFjdGl2aXR5KTogU2ltcGxlUmVjeWNsZXJBZGFwdGVyIAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CiAgICBATW9kdWxlCiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBAQWN0aXZpdHlTY29wZWQKICAgICAgICBASnZtU3RhdGljCiAgICAgICAgQFByb3ZpZGVzCiAgICAgICAgZnVuIHNpbXBsZVJlY3ljbGVyQWRhcHRlcihjb250ZXh0OiBDb250ZXh0LCBhY3Rpdml0eTogTWFpbkFjdGl2aXR5KTogU2ltcGxlUmVjeWNsZXJBZGFwdGVyIHsKICAgICAgICAgICAgcmV0dXJuICBvYmplY3QgOiBTaW1wbGVSZWN5Y2xlckFkYXB0ZXIoKSB7CiAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gc2V0TGF5b3V0SWQoKTogSW50IAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
                     return</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CiAgICBATW9kdWxlCiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBAQWN0aXZpdHlTY29wZWQKICAgICAgICBASnZtU3RhdGljCiAgICAgICAgQFByb3ZpZGVzCiAgICAgICAgZnVuIHNpbXBsZVJlY3ljbGVyQWRhcHRlcihjb250ZXh0OiBDb250ZXh0LCBhY3Rpdml0eTogTWFpbkFjdGl2aXR5KTogU2ltcGxlUmVjeWNsZXJBZGFwdGVyIHsKICAgICAgICAgICAgcmV0dXJuICBvYmplY3QgOiBTaW1wbGVSZWN5Y2xlckFkYXB0ZXIoKSB7CiAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gc2V0TGF5b3V0SWQoKTogSW50IAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICBATW9kdWxlCiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBAQWN0aXZpdHlTY29wZWQKICAgICAgICBASnZtU3RhdGljCiAgICAgICAgQFByb3ZpZGVzCiAgICAgICAgZnVuIHNpbXBsZVJlY3ljbGVyQWRhcHRlcihjb250ZXh0OiBDb250ZXh0LCBhY3Rpdml0eTogTWFpbkFjdGl2aXR5KTogU2ltcGxlUmVjeWNsZXJBZGFwdGVyIHsKICAgICAgICAgICAgcmV0dXJuICBvYmplY3QgOiBTaW1wbGVSZWN5Y2xlckFkYXB0ZXIoKSAK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5hbm5vdGF0aW9uLlJldGVudGlvblBvbGljeQo=</text>
+        <text encoding="base64">CiAgICBATW9kdWxlCiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBAQWN0aXZpdHlTY29wZWQKICAgICAgICBASnZtU3RhdGljCiAgICAgICAgQFByb3ZpZGVzCiAgICAgICAgZnVuIHNpbXBsZVJlY3ljbGVyQWRhcHRlcihjb250ZXh0OiBDb250ZXh0LCBhY3Rpdml0eTogTWFpbkFjdGl2aXR5KTogU2ltcGxlUmVjeWNsZXJBZGFwdGVyIHsKICAgICAgICAgICAgcmV0dXJuICBvYmplY3QgOiBTaW1wbGVSZWN5Y2xlckFkYXB0ZXIoKSAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5hbm5vdGF0aW9uLlJldGVudGlvbgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5hbm5vdGF0aW9uLlJldGVudGlvblBvbGljeQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5hbm5vdGF0aW9uLlJldGVudGlvbgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5hbm5vdGF0aW9uLkRvY3VtZW50ZWQK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5hbm5vdGF0aW9uLlJldGVudGlvblBvbGljeQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>oncreate</last-search>
+      <last-search>recycl</last-search>
       <last-offset />
-      <last-pattern>oncreate</last-pattern>
+      <last-pattern>recycl</last-pattern>
       <last-replace>init</last-replace>
       <last-substitute>init1</last-substitute>
       <last-dir>1</last-dir>
@@ -333,8 +335,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDw2XD4=</entry>
-        <entry>x</entry>
         <entry>hostseat</entry>
         <entry>hot</entry>
         <entry>addInScreen</entry>
@@ -353,6 +353,8 @@
         <entry>onNotifi</entry>
         <entry>------------------</entry>
         <entry>oncreate</entry>
+        <entry>recyvlerView</entry>
+        <entry>recycl</entry>
       </history-search>
       <history-cmd>
         <entry>set all</entry>
@@ -363,7 +365,6 @@
         <entry>set rnu</entry>
         <entry>set nu</entry>
         <entry>set nnu</entry>
-        <entry>set nonumber</entry>
         <entry>set number</entry>
         <entry>set norelativenumber</entry>
         <entry>135,140s/x/y/g</entry>
@@ -374,6 +375,7 @@
         <entry>2N</entry>
         <entry>n</entry>
         <entry>sp</entry>
+        <entry>set nonumber</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
