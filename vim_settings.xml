@@ -55,6 +55,7 @@
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainContract.kt" timestamp="1519952204176">
         <mark key="'" line="22" column="0" />
       </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" timestamp="1519959796191" />
       <file name="F:/git_desk/T0227/app/src/main/res/layout/activity_main.xml" timestamp="1519865172317">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="12" />
@@ -138,8 +139,11 @@
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/App.kt" timestamp="1519952232265">
         <mark key="'" line="15" column="28" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/AppComponent.kt" timestamp="1519952280068">
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/AppComponent.kt" timestamp="1519959529152">
         <mark key="'" line="14" column="114" />
+        <mark key="[" line="15" column="46" />
+        <mark key="]" line="15" column="46" />
+        <mark key="." line="15" column="46" />
       </file>
       <file name="F:/git_desk/T0227/app/build.gradle" timestamp="1519866388556">
         <mark key="[" line="6" column="23" />
@@ -272,10 +276,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>oncreate</text>
