@@ -119,11 +119,12 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" timestamp="1519973207265">
-        <mark key="'" line="63" column="20" />
-        <mark key="[" line="292" column="17" />
-        <mark key="]" line="292" column="40" />
-        <mark key="." line="292" column="17" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" timestamp="1519974424923">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="278" column="23" />
+        <mark key="]" line="278" column="23" />
+        <mark key="." line="278" column="23" />
+        <mark key="^" line="283" column="15" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" timestamp="1519803618044">
         <mark key="'" line="139" column="30" />
@@ -190,16 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1332" column="37" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
-      <jump line="1335" column="36" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
-      <jump line="3518" column="41" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
-      <jump line="1343" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
-      <jump line="3556" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
-      <jump line="30" column="48" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainModule.kt" />
-      <jump line="22" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainModule.kt" />
-      <jump line="22" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainContract.kt" />
-      <jump line="24" column="21" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainModule.kt" />
-      <jump line="43" column="70" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/ActivityBindingModule.kt" />
       <jump line="3" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/AppScoped.kt" />
       <jump line="3" column="29" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/AgencyDetail.kt" />
       <jump line="15" column="28" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/App.kt" />
@@ -290,59 +281,69 @@
       <jump line="63" column="20" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
       <jump line="78" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/values/attrs.xml" />
       <jump line="82" column="29" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/values/attrs.xml" />
+      <jump line="278" column="35" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
+      <jump line="70" column="11" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
+      <jump line="74" column="11" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
+      <jump line="78" column="11" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
+      <jump line="82" column="28" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
+      <jump line="83" column="57" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
+      <jump line="41" column="13" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
+      <jump line="61" column="71" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
+      <jump line="269" column="28" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bUJhY2tncm91bmRTaXplQ2hhbmdlZCA=</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>Bubble</text>
+        <text>drawNu</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">bUJhY2tncm91bmRTaXplQ2hhbmdlZCA=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRCYWNrZ3JvdW5kQ29sb3IoQ29sb3IucGFyc2VDb2xvcigiI2ZmMDAwMCIpKTsK</text>
+      <register name="1" type="4">
+        <text>public void drawNum</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRCYWNrZ3JvdW5kQ29sb3IoQ29sb3IucGFyc2VDb2xvcigiI2ZmMDAwMCIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBATW9kdWxlCiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBAQWN0aXZpdHlTY29wZWQKICAgICAgICBASnZtU3RhdGljCiAgICAgICAgQFByb3ZpZGVzCiAgICAgICAgZnVuIHNpbXBsZVJlY3ljbGVyQWRhcHRlcihjb250ZXh0OiBDb250ZXh0LCBhY3Rpdml0eTogTWFpbkFjdGl2aXR5KTogU2ltcGxlUmVjeWNsZXJBZGFwdGVyIAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CiAgICBATW9kdWxlCiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBAQWN0aXZpdHlTY29wZWQKICAgICAgICBASnZtU3RhdGljCiAgICAgICAgQFByb3ZpZGVzCiAgICAgICAgZnVuIHNpbXBsZVJlY3ljbGVyQWRhcHRlcihjb250ZXh0OiBDb250ZXh0LCBhY3Rpdml0eTogTWFpbkFjdGl2aXR5KTogU2ltcGxlUmVjeWNsZXJBZGFwdGVyIAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CiAgICBATW9kdWxlCiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBAQWN0aXZpdHlTY29wZWQKICAgICAgICBASnZtU3RhdGljCiAgICAgICAgQFByb3ZpZGVzCiAgICAgICAgZnVuIHNpbXBsZVJlY3ljbGVyQWRhcHRlcihjb250ZXh0OiBDb250ZXh0LCBhY3Rpdml0eTogTWFpbkFjdGl2aXR5KTogU2ltcGxlUmVjeWNsZXJBZGFwdGVyIHsKICAgICAgICAgICAgcmV0dXJuICBvYmplY3QgOiBTaW1wbGVSZWN5Y2xlckFkYXB0ZXIoKSB7CiAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gc2V0TGF5b3V0SWQoKTogSW50IAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{
                     return</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICBATW9kdWxlCiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBAQWN0aXZpdHlTY29wZWQKICAgICAgICBASnZtU3RhdGljCiAgICAgICAgQFByb3ZpZGVzCiAgICAgICAgZnVuIHNpbXBsZVJlY3ljbGVyQWRhcHRlcihjb250ZXh0OiBDb250ZXh0LCBhY3Rpdml0eTogTWFpbkFjdGl2aXR5KTogU2ltcGxlUmVjeWNsZXJBZGFwdGVyIHsKICAgICAgICAgICAgcmV0dXJuICBvYmplY3QgOiBTaW1wbGVSZWN5Y2xlckFkYXB0ZXIoKSB7CiAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gc2V0TGF5b3V0SWQoKTogSW50IAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBATW9kdWxlCiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBAQWN0aXZpdHlTY29wZWQKICAgICAgICBASnZtU3RhdGljCiAgICAgICAgQFByb3ZpZGVzCiAgICAgICAgZnVuIHNpbXBsZVJlY3ljbGVyQWRhcHRlcihjb250ZXh0OiBDb250ZXh0LCBhY3Rpdml0eTogTWFpbkFjdGl2aXR5KTogU2ltcGxlUmVjeWNsZXJBZGFwdGVyIHsKICAgICAgICAgICAgcmV0dXJuICBvYmplY3QgOiBTaW1wbGVSZWN5Y2xlckFkYXB0ZXIoKSAK</text>
+        <text encoding="base64">CiAgICBATW9kdWxlCiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBAQWN0aXZpdHlTY29wZWQKICAgICAgICBASnZtU3RhdGljCiAgICAgICAgQFByb3ZpZGVzCiAgICAgICAgZnVuIHNpbXBsZVJlY3ljbGVyQWRhcHRlcihjb250ZXh0OiBDb250ZXh0LCBhY3Rpdml0eTogTWFpbkFjdGl2aXR5KTogU2ltcGxlUmVjeWNsZXJBZGFwdGVyIHsKICAgICAgICAgICAgcmV0dXJuICBvYmplY3QgOiBTaW1wbGVSZWN5Y2xlckFkYXB0ZXIoKSB7CiAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gc2V0TGF5b3V0SWQoKTogSW50IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5hbm5vdGF0aW9uLlJldGVudGlvblBvbGljeQo=</text>
+        <text encoding="base64">CiAgICBATW9kdWxlCiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBAQWN0aXZpdHlTY29wZWQKICAgICAgICBASnZtU3RhdGljCiAgICAgICAgQFByb3ZpZGVzCiAgICAgICAgZnVuIHNpbXBsZVJlY3ljbGVyQWRhcHRlcihjb250ZXh0OiBDb250ZXh0LCBhY3Rpdml0eTogTWFpbkFjdGl2aXR5KTogU2ltcGxlUmVjeWNsZXJBZGFwdGVyIHsKICAgICAgICAgICAgcmV0dXJuICBvYmplY3QgOiBTaW1wbGVSZWN5Y2xlckFkYXB0ZXIoKSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5hbm5vdGF0aW9uLlJldGVudGlvbgo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5hbm5vdGF0aW9uLlJldGVudGlvblBvbGljeQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>Bubble</last-search>
+      <last-search>drawNu</last-search>
       <last-offset />
-      <last-pattern>Bubble</last-pattern>
+      <last-pattern>drawNu</last-pattern>
       <last-replace>init</last-replace>
       <last-substitute>init1</last-substitute>
       <last-dir>1</last-dir>
@@ -350,7 +351,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpdGVtXD4=</entry>
         <entry>onNotifi</entry>
         <entry>------------------</entry>
         <entry>oncreate</entry>
@@ -370,6 +370,7 @@
         <entry encoding="base64">XDxtQmFja2dyb3VuZFNpemVDaGFuZ2VkXD4=</entry>
         <entry>bubble</entry>
         <entry>Bubble</entry>
+        <entry>drawNu</entry>
       </history-search>
       <history-cmd>
         <entry>set bg=dark</entry>
