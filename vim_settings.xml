@@ -152,11 +152,12 @@
         <mark key="^" line="40" column="14" />
         <mark key="." line="41" column="12" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/App.kt" timestamp="1520045724359">
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/App.kt" timestamp="1520065078069">
         <mark key="'" line="15" column="28" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="7" />
+        <mark key="." line="27" column="7" />
+        <mark key="^" line="27" column="7" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/AppComponent.kt" timestamp="1519959529152">
         <mark key="'" line="14" column="114" />
@@ -303,11 +304,11 @@
       <jump line="38" column="45" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiaGVsbG8iLmFwcGx5IHsgdG9VcHBlckNhc2UoKSB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>formatStrategy = PrettyFormatStrategy.newBuilder()</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>formatStrategy = PrettyFormatStrategy.newBuilder()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RpZmljYXRpb25cPg==</text>
