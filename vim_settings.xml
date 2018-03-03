@@ -72,17 +72,16 @@
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/values/attrs.xml" timestamp="1519973493553">
         <mark key="'" line="82" column="29" />
       </file>
-      <file name="F:/git_desk/T0227/app/src/main/res/layout/activity_main.xml" timestamp="1519961581517">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="25" column="37" />
-        <mark key="^" line="25" column="37" />
-        <mark key="." line="25" column="37" />
+      <file name="F:/git_desk/T0227/app/src/main/res/layout/activity_main.xml" timestamp="1520036581876">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
-      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1519886603997">
-        <mark key="[" line="32" column="124" />
-        <mark key="]" line="9" column="30" />
-        <mark key="." line="9" column="30" />
-        <mark key="^" line="9" column="30" />
+      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1520037037246">
+        <mark key="'" line="38" column="45" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/values/array.xml" timestamp="1519953955831">
         <mark key="'" line="13" column="9" />
@@ -198,12 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="20" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
-      <jump line="100" column="17" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
-      <jump line="108" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
-      <jump line="54" column="42" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
-      <jump line="757" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="4618" column="17" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="754" column="22" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="1645" column="27" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="5287" column="26" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
@@ -298,62 +291,68 @@
       <jump line="147" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
       <jump line="61" column="14" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
       <jump line="72" column="46" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DynamicGrid.java" />
+      <jump line="20" column="17" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="17" column="8" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="28" column="16" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="26" column="15" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="29" column="21" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
+      <jump line="38" column="45" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpY29uU2l6ZVw+</text>
+        <text encoding="base64">XDxub3RpZmljYXRpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkcmF3TnVtKGNhbnZhcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkcmF3TnVtKGNhbnZhcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwLnNldENvbG9yKENvbG9yLnBhcnNlQ29sb3IoIiNmZjAwMDAiKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYWludC5zZXRTdHJva2VXaWR0aCgxMCk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgLz4=</text>
       </register>
-      <register name="4" type="4">
-        <text>paint
-paint
-paint</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkcmF3TnVtKGNhbnZhcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYWludC5zZXRTdHJva2VXaWR0aCgxMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwLnNldENvbG9yKENvbG9yLnBhcnNlQ29sb3IoIiNmZjAwMDAiKSk7Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>paint
-paint
-paint</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwYWludC5zZXRTdHJva2VXaWR0aCgxMCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="4">
-        <text>public void drawNum</text>
+        <text>paint
+paint
+paint</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRCYWNrZ3JvdW5kQ29sb3IoQ29sb3IucGFyc2VDb2xvcigiI2ZmMDAwMCIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBwYWludC5zZXRTdHJva2VXaWR0aCgxMCk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="9" type="8">
+        <text>paint
+paint
+paint</text>
       </register>
       <register name=":" type="4">
-        <text>286,288s/paint/p/g</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpY29uU2l6ZVw+</last-search>
+      <last-search encoding="base64">XDxub3RpZmljYXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpY29uU2l6ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxub3RpZmljYXRpb25cPg==</last-pattern>
       <last-replace>p</last-replace>
       <last-substitute>paint</last-substitute>
       <last-dir>1</last-dir>
@@ -361,9 +360,6 @@ paint</text>
     </search>
     <history>
       <history-search>
-        <entry>applyFrom</entry>
-        <entry>LauncherMode</entry>
-        <entry>mModel</entry>
         <entry>mBackground</entry>
         <entry>--------</entry>
         <entry>customBadge</entry>
@@ -381,6 +377,9 @@ paint</text>
         <entry encoding="base64">XDxzSWNvbldpZHRoXD4=</entry>
         <entry encoding="base64">XDxpY29uU2l6ZVB4XD4=</entry>
         <entry encoding="base64">XDxpY29uU2l6ZVw+</entry>
+        <entry encoding="base64">XDxjbG9zZU5vdGlmaWNhdGlvblw+</entry>
+        <entry encoding="base64">XDxpXD4=</entry>
+        <entry encoding="base64">XDxub3RpZmljYXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
@@ -400,9 +399,9 @@ paint</text>
         <entry>sp NLService.java</entry>
         <entry>sp</entry>
         <entry>sp LauncherModel.java</entry>
-        <entry>q</entry>
         <entry>286,288s/paint/p/g</entry>
         <entry>ai</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
