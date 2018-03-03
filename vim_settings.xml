@@ -55,6 +55,7 @@
         <mark key="." line="60" column="11" />
         <mark key="^" line="60" column="11" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.20/9ab74271f4694e32e8b2ee645a96ac9bcaf0bc32/kotlin-stdlib-1.2.20-sources.jar!/kotlin/util/Standard.kt" timestamp="1520044757902" />
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/AppModule.kt" timestamp="1519952278217">
         <mark key="'" line="16" column="9" />
       </file>
@@ -151,12 +152,11 @@
         <mark key="^" line="40" column="14" />
         <mark key="." line="41" column="12" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/App.kt" timestamp="1520044292259">
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/App.kt" timestamp="1520045724359">
         <mark key="'" line="15" column="28" />
-        <mark key="[" line="30" column="16" />
-        <mark key="]" line="13" column="5" />
-        <mark key="^" line="13" column="5" />
-        <mark key="." line="13" column="5" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/AppComponent.kt" timestamp="1519959529152">
         <mark key="'" line="14" column="114" />
@@ -304,7 +304,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAiaGVsbG8iLmFwcGx5IHsgdG9VcHBlckNhc2UoKSB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -313,38 +313,36 @@
         <text encoding="base64">XDxub3RpZmljYXRpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkcmF3TnVtKGNhbnZhcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAiaGVsbG8iLmFwcGx5IHsgdG9VcHBlckNhc2UoKSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAiaGVsbG8iLmFwcGx5IHsgdG9VcHBlckNhc2UoKSB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAxLmxldCB7IGl0LT5pdCsyIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgLz4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkcmF3TnVtKGNhbnZhcyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwLnNldENvbG9yKENvbG9yLnBhcnNlQ29sb3IoIiNmZjAwMDAiKSk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgLz4=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYWludC5zZXRTdHJva2VXaWR0aCgxMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkcmF3TnVtKGNhbnZhcyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="4">
-        <text>paint
-paint
-paint</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwLnNldENvbG9yKENvbG9yLnBhcnNlQ29sb3IoIiNmZjAwMDAiKSk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwYWludC5zZXRTdHJva2VXaWR0aCgxMCk7Cg==</text>
       </register>
-      <register name="9" type="8">
+      <register name="9" type="4">
         <text>paint
 paint
 paint</text>
