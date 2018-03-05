@@ -28,6 +28,9 @@
         <mark key="^" line="657" column="9" />
         <mark key="." line="657" column="9" />
       </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/build.gradle" timestamp="1520214080422">
+        <mark key="'" line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519974985105">
         <mark key="'" line="225" column="13" />
         <mark key="[" line="3576" column="8" />
@@ -203,9 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5287" column="26" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="5288" column="28" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="5269" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="27" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
       <jump line="30" column="17" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
       <jump line="239" column="39" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
@@ -303,6 +303,9 @@
       <jump line="38" column="45" filename="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" />
       <jump line="18" column="12" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" />
       <jump line="23" column="16" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" />
+      <jump line="36" column="7" filename="F:/360Downloads/Software/ShareEducation_kotlin/build.gradle" />
+      <jump line="15" column="4" filename="F:/360Downloads/Software/ShareEducation_kotlin/build.gradle" />
+      <jump line="42" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -470,6 +473,9 @@ paint</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
