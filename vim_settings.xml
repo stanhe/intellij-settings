@@ -156,6 +156,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="8" column="16" />
       </file>
+      <file name="F:/git_desk/T0227/lib/src/main/java/com/stan/lib/myClass.java" timestamp="1520228043332">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+      </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1519976871015">
         <mark key="[" line="41" column="12" />
         <mark key="]" line="41" column="12" />
@@ -319,6 +325,9 @@
     <registers>
       <register name="&quot;" type="4">
         <text>gone</text>
+      </register>
+      <register name="i" type="4">
+        <text />
       </register>
       <register name="-" type="4">
         <text>gone</text>
