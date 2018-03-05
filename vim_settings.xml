@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/module/ApiServiceUtils.java" timestamp="1520218466645" />
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DynamicGrid.java" timestamp="1519977564614">
         <mark key="'" line="72" column="46" />
         <mark key="[" line="35" column="40" />
@@ -31,11 +32,7 @@
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/build.gradle" timestamp="1520214080422">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1519974985105">
-        <mark key="'" line="225" column="13" />
-        <mark key="[" line="3576" column="8" />
-        <mark key="]" line="3578" column="32" />
-      </file>
+      <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/MainActivity.java" timestamp="1520218220321" />
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" timestamp="1519970540470">
         <mark key="'" line="30" column="17" />
         <mark key="[" line="88" column="23" />
@@ -52,13 +49,14 @@
         <mark key="]" line="63" column="44" />
         <mark key="." line="51" column="31" />
       </file>
+      <file name="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/java/com/dou361/ijkplayer/widget/IjkVideoView.java" timestamp="1520218748897" />
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" timestamp="1517973733309">
         <mark key="[" line="60" column="7" />
         <mark key="]" line="60" column="11" />
         <mark key="." line="60" column="11" />
         <mark key="^" line="60" column="11" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.20/9ab74271f4694e32e8b2ee645a96ac9bcaf0bc32/kotlin-stdlib-1.2.20-sources.jar!/kotlin/util/Standard.kt" timestamp="1520213679354" />
+      <file name="F:/git_desk/jjdxm_ijkplayer/app/build.gradle" timestamp="1520218393656" />
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/AppModule.kt" timestamp="1519952278217">
         <mark key="'" line="16" column="9" />
       </file>
@@ -94,7 +92,7 @@
         <mark key="." line="16" column="7" />
         <mark key="^" line="16" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519961427221">
+      <file name="/Dummy.txt" timestamp="1520218848112">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" timestamp="1519975195130">
@@ -117,6 +115,12 @@
         <mark key="^" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
+      <file name="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/res/layout/simple_player_controlbar.xml" timestamp="1520218899128">
+        <mark key="[" line="32" column="32" />
+        <mark key="]" line="32" column="38" />
+        <mark key="." line="32" column="38" />
+        <mark key="^" line="32" column="38" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1520213856069">
         <mark key="'" line="23" column="16" />
         <mark key="[" line="25" column="21" />
@@ -130,6 +134,12 @@
         <mark key="]" line="128" column="117" />
         <mark key="^" line="128" column="117" />
         <mark key="." line="128" column="117" />
+      </file>
+      <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/HPlayerActivity.java" timestamp="1520219094823">
+        <mark key="[" line="88" column="20" />
+        <mark key="]" line="88" column="94" />
+        <mark key="." line="88" column="20" />
+        <mark key="^" line="88" column="19" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/SecondActivity.java" timestamp="1519803618044">
         <mark key="'" line="139" column="30" />
@@ -177,6 +187,9 @@
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Utilities.java" timestamp="1519977113883">
         <mark key="'" line="322" column="29" />
       </file>
+      <file name="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/java/com/dou361/ijkplayer/widget/PlayerView.java" timestamp="1520217998003">
+        <mark key="'" line="62" column="21" />
+      </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/Test.java" timestamp="1519885199296">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="29" column="0" />
@@ -206,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
       <jump line="30" column="17" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
       <jump line="239" column="39" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="5346" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
@@ -306,13 +318,14 @@
       <jump line="36" column="7" filename="F:/360Downloads/Software/ShareEducation_kotlin/build.gradle" />
       <jump line="15" column="4" filename="F:/360Downloads/Software/ShareEducation_kotlin/build.gradle" />
       <jump line="42" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/build.gradle" />
+      <jump line="62" column="21" filename="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/java/com/dou361/ijkplayer/widget/PlayerView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>formatStrategy = PrettyFormatStrategy.newBuilder()</text>
+        <text>gone</text>
       </register>
       <register name="-" type="4">
-        <text>formatStrategy = PrettyFormatStrategy.newBuilder()</text>
+        <text>gone</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RpZmljYXRpb25cPg==</text>
