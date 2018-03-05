@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/module/ApiServiceUtils.java" timestamp="1520218466645" />
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DynamicGrid.java" timestamp="1519977564614">
         <mark key="'" line="72" column="46" />
         <mark key="[" line="35" column="40" />
@@ -32,7 +31,6 @@
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/build.gradle" timestamp="1520214080422">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/MainActivity.java" timestamp="1520218220321" />
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" timestamp="1519970540470">
         <mark key="'" line="30" column="17" />
         <mark key="[" line="88" column="23" />
@@ -49,14 +47,12 @@
         <mark key="]" line="63" column="44" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/java/com/dou361/ijkplayer/widget/IjkVideoView.java" timestamp="1520218748897" />
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" timestamp="1517973733309">
         <mark key="[" line="60" column="7" />
         <mark key="]" line="60" column="11" />
         <mark key="." line="60" column="11" />
         <mark key="^" line="60" column="11" />
       </file>
-      <file name="F:/git_desk/jjdxm_ijkplayer/app/build.gradle" timestamp="1520218393656" />
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/AppModule.kt" timestamp="1519952278217">
         <mark key="'" line="16" column="9" />
       </file>
@@ -135,7 +131,7 @@
         <mark key="^" line="128" column="117" />
         <mark key="." line="128" column="117" />
       </file>
-      <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/HPlayerActivity.java" timestamp="1520219094823">
+      <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/HPlayerActivity.java" timestamp="1520221658559">
         <mark key="[" line="88" column="20" />
         <mark key="]" line="88" column="94" />
         <mark key="." line="88" column="20" />
@@ -187,8 +183,8 @@
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Utilities.java" timestamp="1519977113883">
         <mark key="'" line="322" column="29" />
       </file>
-      <file name="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/java/com/dou361/ijkplayer/widget/PlayerView.java" timestamp="1520217998003">
-        <mark key="'" line="62" column="21" />
+      <file name="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/java/com/dou361/ijkplayer/widget/PlayerView.java" timestamp="1520221452461">
+        <mark key="'" line="515" column="79" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/Test.java" timestamp="1519885199296">
         <mark key="[" line="9" column="0" />
@@ -219,9 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="17" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" />
-      <jump line="239" column="39" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="5346" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="54" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="34" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
@@ -319,6 +312,9 @@
       <jump line="15" column="4" filename="F:/360Downloads/Software/ShareEducation_kotlin/build.gradle" />
       <jump line="42" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/build.gradle" />
       <jump line="62" column="21" filename="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/java/com/dou361/ijkplayer/widget/PlayerView.java" />
+      <jump line="490" column="8" filename="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/java/com/dou361/ijkplayer/widget/PlayerView.java" />
+      <jump line="499" column="12" filename="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/java/com/dou361/ijkplayer/widget/PlayerView.java" />
+      <jump line="515" column="79" filename="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/java/com/dou361/ijkplayer/widget/PlayerView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -328,7 +324,7 @@
         <text>gone</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3RpZmljYXRpb25cPg==</text>
+        <text>setAspect</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiaGVsbG8iLmFwcGx5IHsgdG9VcHBlckNhc2UoKSB9Cg==</text>
@@ -370,9 +366,9 @@ paint</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub3RpZmljYXRpb25cPg==</last-search>
+      <last-search>setAspect</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3RpZmljYXRpb25cPg==</last-pattern>
+      <last-pattern>setAspect</last-pattern>
       <last-replace>p</last-replace>
       <last-substitute>paint</last-substitute>
       <last-dir>1</last-dir>
@@ -380,10 +376,6 @@ paint</text>
     </search>
     <history>
       <history-search>
-        <entry>mBackground</entry>
-        <entry>--------</entry>
-        <entry>customBadge</entry>
-        <entry>custom</entry>
         <entry>padding</entry>
         <entry encoding="base64">XDx2ZXJpZnlEcmF3YWJsZVw+</entry>
         <entry>0</entry>
@@ -400,6 +392,10 @@ paint</text>
         <entry encoding="base64">XDxjbG9zZU5vdGlmaWNhdGlvblw+</entry>
         <entry encoding="base64">XDxpXD4=</entry>
         <entry encoding="base64">XDxub3RpZmljYXRpb25cPg==</entry>
+        <entry>setaS</entry>
+        <entry>setaSpect</entry>
+        <entry>set</entry>
+        <entry>setAspect</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
