@@ -27,6 +27,9 @@
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/build.gradle" timestamp="1520214080422">
         <mark key="'" line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/experimental/max/CouldNotReadCoreException.java" timestamp="1520391236535">
+        <mark key="'" line="5" column="31" />
+      </file>
       <file name="D:/Software/sdk/extras/android/m2repository/com/android/support/support-compat/25.3.1/support-compat-25.3.1-sources.jar!/android/support/v4/app/NotificationManagerCompat.java" timestamp="1519971110430">
         <mark key="'" line="312" column="30" />
       </file>
@@ -69,11 +72,15 @@
       <file name="/Dummy.txt" timestamp="1520300920334">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mjdev/libaums/0.5.5/ee9ce40d42b5f2e9d7a82ec29b1057ae082d9fd2/libaums-0.5.5-sources.jar!/com/github/mjdev/libaums/usb/JellyBeanMr2Communication.java" timestamp="1520391469990" />
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/FragmentScoped.kt" timestamp="1519952284088">
         <mark key="'" line="8" column="9" />
         <mark key="[" line="6" column="10" />
         <mark key="]" line="6" column="10" />
         <mark key="." line="6" column="10" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mjdev/libaums/0.5.5/ee9ce40d42b5f2e9d7a82ec29b1057ae082d9fd2/libaums-0.5.5-sources.jar!/com/github/mjdev/libaums/UsbMassStorageDevice.java" timestamp="1520391310677">
+        <mark key="'" line="265" column="24" />
       </file>
       <file name="F:/git_desk/T0227/tt1/src/main/java/com/stan/tt1/TT1LoginActivity.java" timestamp="1520302583361">
         <mark key="[" line="20" column="28" />
@@ -103,7 +110,7 @@
         <mark key="." line="91" column="12" />
         <mark key="^" line="91" column="12" />
       </file>
-      <file name="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" timestamp="1520390802366">
+      <file name="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" timestamp="1520391335834">
         <mark key="'" line="44" column="26" />
         <mark key="[" line="41" column="7" />
         <mark key="]" line="41" column="38" />
@@ -177,10 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1755" column="24" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="1756" column="34" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="1980" column="17" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="2131" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="2132" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="2149" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="2150" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
@@ -277,6 +280,10 @@
       <jump line="68" column="32" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
       <jump line="69" column="114" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
       <jump line="40" column="26" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
+      <jump line="5" column="31" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/experimental/max/CouldNotReadCoreException.java" />
+      <jump line="121" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mjdev/libaums/0.5.5/ee9ce40d42b5f2e9d7a82ec29b1057ae082d9fd2/libaums-0.5.5-sources.jar!/com/github/mjdev/libaums/UsbMassStorageDevice.java" />
+      <jump line="222" column="35" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mjdev/libaums/0.5.5/ee9ce40d42b5f2e9d7a82ec29b1057ae082d9fd2/libaums-0.5.5-sources.jar!/com/github/mjdev/libaums/UsbMassStorageDevice.java" />
+      <jump line="265" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mjdev/libaums/0.5.5/ee9ce40d42b5f2e9d7a82ec29b1057ae082d9fd2/libaums-0.5.5-sources.jar!/com/github/mjdev/libaums/UsbMassStorageDevice.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -289,7 +296,7 @@
         <text>&quot;Login!&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2JNYXNzU3RvcmFnZURldmljZXNcPg==</text>
+        <text>could not</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFVzYkRldmljZSBkZXZpY2UgPSAoVXNiRGV2aWNlKSBpbnRlbnQuZ2V0UGFyY2VsYWJsZUV4dHJhKFVzYk1hbmFnZXIuRVhUUkFfREVWSUNFKTsKICAgICAgICAgICAgICAgIGlmIChkZXZpY2UgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHVzYkNvbW11bmljYXRpb25NYW5hZ2VyLmRpc2NvdmVyRGV2aWNlKCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
@@ -329,9 +336,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2JNYXNzU3RvcmFnZURldmljZXNcPg==</last-search>
+      <last-search>could not</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2JNYXNzU3RvcmFnZURldmljZXNcPg==</last-pattern>
+      <last-pattern>could not</last-pattern>
       <last-replace>p</last-replace>
       <last-substitute>paint</last-substitute>
       <last-dir>1</last-dir>
@@ -339,7 +346,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2ZXJpZnlEcmF3YWJsZVw+</entry>
         <entry>0</entry>
         <entry>y</entry>
         <entry encoding="base64">XDxtQmFja2dyb3VuZFNpemVDaGFuZ2VkXD4=</entry>
@@ -359,6 +365,7 @@
         <entry>set</entry>
         <entry>setAspect</entry>
         <entry encoding="base64">XDx1c2JNYXNzU3RvcmFnZURldmljZXNcPg==</entry>
+        <entry>could not</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
