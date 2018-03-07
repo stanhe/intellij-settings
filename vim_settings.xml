@@ -96,8 +96,19 @@
         <mark key="." line="88" column="20" />
         <mark key="^" line="88" column="19" />
       </file>
-      <file name="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/MainActivity.java" timestamp="1520387219405">
-        <mark key="'" line="138" column="24" />
+      <file name="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/MainActivity.java" timestamp="1520390841815">
+        <mark key="'" line="143" column="24" />
+        <mark key="[" line="137" column="18" />
+        <mark key="]" line="91" column="12" />
+        <mark key="." line="91" column="12" />
+        <mark key="^" line="91" column="12" />
+      </file>
+      <file name="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" timestamp="1520390802366">
+        <mark key="'" line="44" column="26" />
+        <mark key="[" line="41" column="7" />
+        <mark key="]" line="41" column="38" />
+        <mark key="^" line="41" column="38" />
+        <mark key="." line="41" column="38" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/res/values/strings.xml" timestamp="1520302909418">
         <mark key="[" line="2" column="23" />
@@ -166,17 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="515" column="41" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="312" column="30" filename="D:/Software/sdk/extras/android/m2repository/com/android/support/support-compat/25.3.1/support-compat-25.3.1-sources.jar!/android/support/v4/app/NotificationManagerCompat.java" />
-      <jump line="368" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
-      <jump line="1346" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
-      <jump line="374" column="30" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
-      <jump line="562" column="41" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="1606" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="1706" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="1751" column="24" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="1755" column="24" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="1756" column="34" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="1980" column="17" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
@@ -266,10 +266,21 @@
       <jump line="499" column="12" filename="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/java/com/dou361/ijkplayer/widget/PlayerView.java" />
       <jump line="515" column="79" filename="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/java/com/dou361/ijkplayer/widget/PlayerView.java" />
       <jump line="138" column="24" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/MainActivity.java" />
+      <jump line="31" column="35" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
+      <jump line="42" column="8" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
+      <jump line="44" column="11" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
+      <jump line="48" column="80" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
+      <jump line="49" column="43" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
+      <jump line="60" column="41" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
+      <jump line="65" column="102" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
+      <jump line="67" column="12" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
+      <jump line="68" column="32" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
+      <jump line="69" column="114" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
+      <jump line="40" column="26" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBidWlsZFR5cGVzIHsKICAgICAgICByZWxlYXNlIHsKICAgICAgICAgICAgbWluaWZ5RW5hYmxlZCBmYWxzZQogICAgICAgICAgICBwcm9ndWFyZEZpbGVzIGdldERlZmF1bHRQcm9ndWFyZEZpbGUoJ3Byb2d1YXJkLWFuZHJvaWQudHh0JyksICdwcm9ndWFyZC1ydWxlcy5wcm8nCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2JDb21tdW5pY2F0aW9uTWFuYWdlci5kaXNjb3ZlckRldmljZSgpOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -278,49 +289,49 @@
         <text>&quot;Login!&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>setAspect</text>
+        <text encoding="base64">XDx1c2JNYXNzU3RvcmFnZURldmljZXNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">c2lnbmluZ0NvbmZpZ3MgewogICAgICAgIGRlYnVnIHsKCiAgICAgICAgfQogICAgICAgIHJlbGVhc2UgewogICAgICAgICAgICBzdG9yZUZpbGUgZmlsZSgiLi4va2V5L3N0YW4uamtzIikKICAgICAgICAgICAgc3RvcmVQYXNzd29yZCAic3RhbmhlIgogICAgICAgICAgICBrZXlBbGlhcyAic3RhbmhlIgogICAgICAgICAgICBrZXlQYXNzd29yZCAic3RhbmhlIgogICAgICAgIH0KICAgIH0KICAgIGJ1aWxkVHlwZXMgewogICAgICAgIHJlbGVhc2UgewogICAgICAgICAgICBtaW5pZnlFbmFibGVkIGZhbHNlCiAgICAgICAgICAgIHNpZ25pbmdDb25maWcgc2lnbmluZ0NvbmZpZ3MucmVsZWFzZQogICAgICAgICAgICBwcm9ndWFyZEZpbGVzIGdldERlZmF1bHRQcm9ndWFyZEZpbGUoJ3Byb2d1YXJkLWFuZHJvaWQudHh0JyksICdwcm9ndWFyZC1ydWxlcy5wcm8nCiAgICAgICAgfQogICAgfQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVzYkRldmljZSBkZXZpY2UgPSAoVXNiRGV2aWNlKSBpbnRlbnQuZ2V0UGFyY2VsYWJsZUV4dHJhKFVzYk1hbmFnZXIuRVhUUkFfREVWSUNFKTsKICAgICAgICAgICAgICAgIGlmIChkZXZpY2UgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHVzYkNvbW11bmljYXRpb25NYW5hZ2VyLmRpc2NvdmVyRGV2aWNlKCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBidWlsZFR5cGVzIHsKICAgICAgICByZWxlYXNlIHsKICAgICAgICAgICAgbWluaWZ5RW5hYmxlZCBmYWxzZQogICAgICAgICAgICBwcm9ndWFyZEZpbGVzIGdldERlZmF1bHRQcm9ndWFyZEZpbGUoJ3Byb2d1YXJkLWFuZHJvaWQudHh0JyksICdwcm9ndWFyZC1ydWxlcy5wcm8nCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2JDb21tdW5pY2F0aW9uTWFuYWdlci5kaXNjb3ZlckRldmljZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiaGVsbG8iLmFwcGx5IHsgdG9VcHBlckNhc2UoKSB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAxLmxldCB7IGl0LT5pdCsyIH0K</text>
+        <text encoding="base64">CiAgICBidWlsZFR5cGVzIHsKICAgICAgICByZWxlYXNlIHsKICAgICAgICAgICAgbWluaWZ5RW5hYmxlZCBmYWxzZQogICAgICAgICAgICBwcm9ndWFyZEZpbGVzIGdldERlZmF1bHRQcm9ndWFyZEZpbGUoJ3Byb2d1YXJkLWFuZHJvaWQudHh0JyksICdwcm9ndWFyZC1ydWxlcy5wcm8nCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAiaGVsbG8iLmFwcGx5IHsgdG9VcHBlckNhc2UoKSB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAxLmxldCB7IGl0LT5pdCsyIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgLz4=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkcmF3TnVtKGNhbnZhcyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwLnNldENvbG9yKENvbG9yLnBhcnNlQ29sb3IoIiNmZjAwMDAiKSk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgLz4=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYWludC5zZXRTdHJva2VXaWR0aCgxMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkcmF3TnVtKGNhbnZhcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>setAspect</last-search>
+      <last-search encoding="base64">XDx1c2JNYXNzU3RvcmFnZURldmljZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>setAspect</last-pattern>
+      <last-pattern encoding="base64">XDx1c2JNYXNzU3RvcmFnZURldmljZXNcPg==</last-pattern>
       <last-replace>p</last-replace>
       <last-substitute>paint</last-substitute>
       <last-dir>1</last-dir>
@@ -328,7 +339,6 @@
     </search>
     <history>
       <history-search>
-        <entry>padding</entry>
         <entry encoding="base64">XDx2ZXJpZnlEcmF3YWJsZVw+</entry>
         <entry>0</entry>
         <entry>y</entry>
@@ -348,6 +358,7 @@
         <entry>setaSpect</entry>
         <entry>set</entry>
         <entry>setAspect</entry>
+        <entry encoding="base64">XDx1c2JNYXNzU3RvcmFnZURldmljZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
