@@ -102,19 +102,19 @@
         <mark key="." line="88" column="20" />
         <mark key="^" line="88" column="19" />
       </file>
-      <file name="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/MainActivity.java" timestamp="1520474626046">
+      <file name="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/MainActivity.java" timestamp="1520475130773">
         <mark key="'" line="71" column="16" />
         <mark key="[" line="137" column="18" />
         <mark key="]" line="91" column="12" />
         <mark key="." line="91" column="12" />
         <mark key="^" line="91" column="12" />
       </file>
-      <file name="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" timestamp="1520472584124">
-        <mark key="'" line="44" column="26" />
-        <mark key="[" line="71" column="12" />
-        <mark key="]" line="71" column="12" />
-        <mark key="^" line="71" column="12" />
-        <mark key="." line="71" column="12" />
+      <file name="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" timestamp="1520475230600">
+        <mark key="'" line="33" column="25" />
+        <mark key="[" line="42" column="47" />
+        <mark key="]" line="42" column="12" />
+        <mark key="^" line="42" column="12" />
+        <mark key="." line="42" column="12" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/res/values/strings.xml" timestamp="1520302909418">
         <mark key="[" line="2" column="23" />
@@ -131,10 +131,10 @@
         <mark key="^" line="40" column="14" />
         <mark key="." line="41" column="12" />
       </file>
-      <file name="G:/Android_test_project/USBCommunication/app/build.gradle" timestamp="1520474432111">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
+      <file name="G:/Android_test_project/USBCommunication/app/build.gradle" timestamp="1520475173370">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
         <mark key="^" line="12" column="3" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/AppComponent.kt" timestamp="1519959529152">
@@ -183,7 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2150" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="4531" column="28" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="5152" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="5228" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
@@ -283,10 +282,11 @@
       <jump line="265" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mjdev/libaums/0.5.5/ee9ce40d42b5f2e9d7a82ec29b1057ae082d9fd2/libaums-0.5.5-sources.jar!/com/github/mjdev/libaums/UsbMassStorageDevice.java" />
       <jump line="62" column="8" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/MainActivity.java" />
       <jump line="71" column="16" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/MainActivity.java" />
+      <jump line="33" column="25" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2JDb21tdW5pY2F0aW9uTWFuYWdlci5kaXNjb3ZlckRldmljZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -301,34 +301,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFVzYkRldmljZSBkZXZpY2UgPSAoVXNiRGV2aWNlKSBpbnRlbnQuZ2V0UGFyY2VsYWJsZUV4dHJhKFVzYk1hbmFnZXIuRVhUUkFfREVWSUNFKTsKICAgICAgICAgICAgICAgIGlmIChkZXZpY2UgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHVzYkNvbW11bmljYXRpb25NYW5hZ2VyLmRpc2NvdmVyRGV2aWNlKCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2JDb21tdW5pY2F0aW9uTWFuYWdlci5kaXNjb3ZlckRldmljZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGZvciAoVXNiTWFzc1N0b3JhZ2VEZXZpY2UgZGV2aWNlIDogdXNiTWFzc1N0b3JhZ2VEZXZpY2VzKSB7CiAgICAgICAgICAgICAgICBkZXZpY2UuaW5pdCgpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBidWlsZFR5cGVzIHsKICAgICAgICByZWxlYXNlIHsKICAgICAgICAgICAgbWluaWZ5RW5hYmxlZCBmYWxzZQogICAgICAgICAgICBwcm9ndWFyZEZpbGVzIGdldERlZmF1bHRQcm9ndWFyZEZpbGUoJ3Byb2d1YXJkLWFuZHJvaWQudHh0JyksICdwcm9ndWFyZC1ydWxlcy5wcm8nCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2JDb21tdW5pY2F0aW9uTWFuYWdlci5kaXNjb3ZlckRldmljZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiaGVsbG8iLmFwcGx5IHsgdG9VcHBlckNhc2UoKSB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAxLmxldCB7IGl0LT5pdCsyIH0K</text>
+        <text encoding="base64">CiAgICBidWlsZFR5cGVzIHsKICAgICAgICByZWxlYXNlIHsKICAgICAgICAgICAgbWluaWZ5RW5hYmxlZCBmYWxzZQogICAgICAgICAgICBwcm9ndWFyZEZpbGVzIGdldERlZmF1bHRQcm9ndWFyZEZpbGUoJ3Byb2d1YXJkLWFuZHJvaWQudHh0JyksICdwcm9ndWFyZC1ydWxlcy5wcm8nCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAiaGVsbG8iLmFwcGx5IHsgdG9VcHBlckNhc2UoKSB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAxLmxldCB7IGl0LT5pdCsyIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgLz4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkcmF3TnVtKGNhbnZhcyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
