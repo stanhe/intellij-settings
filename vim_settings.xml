@@ -3,26 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DynamicGrid.java" timestamp="1519977564614">
-        <mark key="'" line="72" column="46" />
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="35" column="41" />
-        <mark key="." line="35" column="41" />
-      </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainModule.kt" timestamp="1519952207040">
-        <mark key="'" line="24" column="21" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/module/Myadaptaer.java" timestamp="1520298268664">
         <mark key="[" line="6" column="24" />
-      </file>
-      <file name="F:/git_desk/T0227/app/app.iml" timestamp="1519718956311">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/build.gradle" timestamp="1520214080422">
         <mark key="'" line="42" column="0" />
@@ -35,12 +17,6 @@
       </file>
       <file name="F:/git_desk/T0227/tt1/src/main/java/com/stan/tt1/LoginActivity.java" timestamp="1520300857701">
         <mark key="[" line="10" column="27" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/xml/default_workspace_4x5.xml" timestamp="1519883640336">
-        <mark key="'" line="129" column="12" />
-        <mark key="[" line="63" column="30" />
-        <mark key="]" line="63" column="44" />
-        <mark key="." line="51" column="31" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" timestamp="1517973733309">
         <mark key="[" line="60" column="7" />
@@ -60,11 +36,12 @@
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/values/attrs.xml" timestamp="1519973493553">
         <mark key="'" line="82" column="29" />
       </file>
-      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1520302100297">
+      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1520492291115">
         <mark key="'" line="41" column="45" />
-        <mark key="[" line="28" column="22" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="9" />
+        <mark key="." line="29" column="9" />
+        <mark key="^" line="29" column="9" />
       </file>
       <file name="F:/git_desk/T0227/tt1/build.gradle" timestamp="1520489914712">
         <mark key="[" line="19" column="30" />
@@ -77,12 +54,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1520300920334">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/FragmentScoped.kt" timestamp="1519952284088">
-        <mark key="'" line="8" column="9" />
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="10" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mjdev/libaums/0.5.5/ee9ce40d42b5f2e9d7a82ec29b1057ae082d9fd2/libaums-0.5.5-sources.jar!/com/github/mjdev/libaums/UsbMassStorageDevice.java" timestamp="1520473180788">
         <mark key="'" line="265" column="24" />
@@ -142,12 +113,6 @@
         <mark key="]" line="6" column="24" />
         <mark key="." line="6" column="24" />
         <mark key="^" line="12" column="3" />
-      </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/AppComponent.kt" timestamp="1519959529152">
-        <mark key="'" line="14" column="114" />
-        <mark key="[" line="15" column="46" />
-        <mark key="]" line="15" column="46" />
-        <mark key="." line="15" column="46" />
       </file>
       <file name="F:/git_desk/T0227/app/build.gradle" timestamp="1520302517552">
         <mark key="[" line="21" column="59" />
@@ -345,7 +310,7 @@
       <last-offset />
       <last-pattern>could not</last-pattern>
       <last-replace>p</last-replace>
-      <last-substitute>paint</last-substitute>
+      <last-substitute>could not</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
