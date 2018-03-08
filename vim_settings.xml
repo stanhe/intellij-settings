@@ -66,6 +66,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="F:/git_desk/T0227/tt1/build.gradle" timestamp="1520489914712">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="30" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="19" column="30" />
+      </file>
       <file name="F:/git_desk/T0227/tt1/src/main/res/values/strings.xml" timestamp="1520302546462">
         <mark key="[" line="1" column="40" />
       </file>
@@ -285,14 +291,14 @@
       <jump line="33" column="25" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;Login!&quot;</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>could not</text>
