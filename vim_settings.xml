@@ -55,6 +55,9 @@
       <file name="/Dummy.txt" timestamp="1520300920334">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="G:/Android_test_project/USBWriter/app/src/main/res/layout/activity_main.xml" timestamp="1520562564254">
+        <mark key="[" line="8" column="13" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mjdev/libaums/0.5.5/ee9ce40d42b5f2e9d7a82ec29b1057ae082d9fd2/libaums-0.5.5-sources.jar!/com/github/mjdev/libaums/UsbMassStorageDevice.java" timestamp="1520473180788">
         <mark key="'" line="265" column="24" />
       </file>
@@ -95,6 +98,11 @@
       </file>
       <file name="F:/git_desk/T0227/app/src/main/res/values/strings.xml" timestamp="1520302909418">
         <mark key="[" line="2" column="23" />
+      </file>
+      <file name="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" timestamp="1520562621367">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
       </file>
       <file name="F:/git_desk/T0227/lib/src/main/java/com/stan/lib/myClass.java" timestamp="1520228043332">
         <mark key="[" line="6" column="26" />
