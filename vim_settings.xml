@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/module/Myadaptaer.java" timestamp="1520298268664">
@@ -69,8 +69,10 @@
       <file name="/Dummy.txt" timestamp="1520300920334">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="G:/Android_test_project/USBWriter/app/src/main/res/layout/activity_main.xml" timestamp="1520564147898">
-        <mark key="[" line="8" column="13" />
+      <file name="G:/Android_test_project/USBWriter/app/src/main/res/layout/activity_main.xml" timestamp="1520564814156">
+        <mark key="[" line="24" column="54" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mjdev/libaums/0.5.5/ee9ce40d42b5f2e9d7a82ec29b1057ae082d9fd2/libaums-0.5.5-sources.jar!/com/github/mjdev/libaums/UsbMassStorageDevice.java" timestamp="1520473180788">
         <mark key="'" line="265" column="24" />
@@ -99,7 +101,7 @@
         <mark key="." line="88" column="20" />
         <mark key="^" line="88" column="19" />
       </file>
-      <file name="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/MainActivity.java" timestamp="1520475130773">
+      <file name="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/MainActivity.java" timestamp="1520565009073">
         <mark key="'" line="71" column="16" />
         <mark key="[" line="137" column="18" />
         <mark key="]" line="91" column="12" />
@@ -116,12 +118,11 @@
       <file name="F:/git_desk/T0227/app/src/main/res/values/strings.xml" timestamp="1520302909418">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" timestamp="1520564179023">
-        <mark key="'" line="70" column="16" />
-        <mark key="[" line="59" column="14" />
-        <mark key="]" line="70" column="12" />
-        <mark key="^" line="70" column="12" />
-        <mark key="." line="70" column="12" />
+      <file name="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" timestamp="1520565106508">
+        <mark key="'" line="30" column="12" />
+        <mark key="[" line="127" column="4" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="F:/git_desk/T0227/lib/src/main/java/com/stan/lib/myClass.java" timestamp="1520228043332">
         <mark key="[" line="6" column="26" />
@@ -188,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
       <jump line="1807" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
       <jump line="1929" column="29" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
       <jump line="1934" column="19" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
@@ -288,69 +288,69 @@
       <jump line="73" column="8" filename="F:/git_desk/AutoPlaySDFile/app/src/main/java/com/stan/autoplaysdfile/MainActivity.java" />
       <jump line="141" column="38" filename="F:/git_desk/AutoPlaySDFile/app/src/main/java/com/stan/autoplaysdfile/MainActivity.java" />
       <jump line="70" column="16" filename="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" />
+      <jump line="30" column="12" filename="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5yZWxlYXNlCg==</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2UK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Log.e(TAG, info)</text>
+        <text>message</text>
       </register>
       <register name="/" type="4">
-        <text>could not</text>
+        <text>message</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5yZWxlYXNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2UK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHN0b3JhZ2VJbmZvcyA9IGxpc3RBdmFpbGFibGVTdG9yYWdlKHRoaXMpOwogICAgICAgIGZvciAoU3RvcmFnZUluZm8gaW5mbyA6IHN0b3JhZ2VJbmZvcykgewogICAgICAgICAgICBpZiAoaW5mby5pc1JlbW92ZWFibGUpIHsKICAgICAgICAgICAgICAgaW5mby5saXN0SW5mbygpOwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjEwZHAiZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50ICBSRVFVRVNUX1JFQURfRVhURVJOQUxfUEVSTUlTU0lPTlMgPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjIwZHAiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjE2ZHAiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIxNmRwIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1c2JNYW5hZ2VyLgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIyMGRwIgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJVIgo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IHN0b3JhZ2VJbmZvcyA9IGxpc3RBdmFpbGFibGVTdG9yYWdlKHRoaXMpOwogICAgICAgIGZvciAoU3RvcmFnZUluZm8gaW5mbyA6IHN0b3JhZ2VJbmZvcykgewogICAgICAgICAgICBpZiAoaW5mby5pc1JlbW92ZWFibGUpIHsKICAgICAgICAgICAgICAgaW5mby5saXN0SW5mbygpOwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50ICBSRVFVRVNUX1JFQURfRVhURVJOQUxfUEVSTUlTU0lPTlMgPSAxOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>31,36s/message/storage/g</text>
       </register>
     </registers>
     <search>
-      <last-search>could not</last-search>
+      <last-search>message</last-search>
       <last-offset />
-      <last-pattern>could not</last-pattern>
-      <last-replace>p</last-replace>
-      <last-substitute>could not</last-substitute>
+      <last-pattern>message</last-pattern>
+      <last-replace>storage</last-replace>
+      <last-substitute>message</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>0</entry>
         <entry>y</entry>
         <entry encoding="base64">XDxtQmFja2dyb3VuZFNpemVDaGFuZ2VkXD4=</entry>
         <entry>bubble</entry>
@@ -370,9 +370,9 @@
         <entry>setAspect</entry>
         <entry encoding="base64">XDx1c2JNYXNzU3RvcmFnZURldmljZXNcPg==</entry>
         <entry>could not</entry>
+        <entry>message</entry>
       </history-search>
       <history-cmd>
-        <entry>set rnu</entry>
         <entry>set nu</entry>
         <entry>set nnu</entry>
         <entry>set number</entry>
@@ -392,6 +392,7 @@
         <entry>286,288s/paint/p/g</entry>
         <entry>ai</entry>
         <entry>q</entry>
+        <entry>31,36s/message/storage/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
