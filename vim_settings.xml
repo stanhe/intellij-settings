@@ -6,8 +6,17 @@
       <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/module/Myadaptaer.java" timestamp="1520298268664">
         <mark key="[" line="6" column="24" />
       </file>
+      <file name="F:/git_desk/AutoPlaySDFile/app/build.gradle" timestamp="1520564273306">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="48" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/build.gradle" timestamp="1520214080422">
         <mark key="'" line="42" column="0" />
+      </file>
+      <file name="F:/git_desk/AutoPlaySDFile/app/src/main/AndroidManifest.xml" timestamp="1520562955517">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/experimental/max/CouldNotReadCoreException.java" timestamp="1520391236535">
         <mark key="'" line="5" column="31" />
@@ -17,6 +26,11 @@
       </file>
       <file name="F:/git_desk/T0227/tt1/src/main/java/com/stan/tt1/LoginActivity.java" timestamp="1520300857701">
         <mark key="[" line="10" column="27" />
+      </file>
+      <file name="F:/git_desk/AutoPlaySDFile/app/src/main/java/com/stan/autoplaysdfile/MainActivity.java" timestamp="1520563388869">
+        <mark key="'" line="141" column="38" />
+        <mark key="[" line="285" column="4" />
+        <mark key="]" line="333" column="4" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" timestamp="1517973733309">
         <mark key="[" line="60" column="7" />
@@ -55,11 +69,14 @@
       <file name="/Dummy.txt" timestamp="1520300920334">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="G:/Android_test_project/USBWriter/app/src/main/res/layout/activity_main.xml" timestamp="1520562564254">
+      <file name="G:/Android_test_project/USBWriter/app/src/main/res/layout/activity_main.xml" timestamp="1520564147898">
         <mark key="[" line="8" column="13" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mjdev/libaums/0.5.5/ee9ce40d42b5f2e9d7a82ec29b1057ae082d9fd2/libaums-0.5.5-sources.jar!/com/github/mjdev/libaums/UsbMassStorageDevice.java" timestamp="1520473180788">
         <mark key="'" line="265" column="24" />
+      </file>
+      <file name="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/StorageInfo.java" timestamp="1520563805752">
+        <mark key="[" line="20" column="5" />
       </file>
       <file name="F:/git_desk/T0227/tt1/src/main/java/com/stan/tt1/TT1LoginActivity.java" timestamp="1520302583361">
         <mark key="[" line="20" column="28" />
@@ -99,12 +116,12 @@
       <file name="F:/git_desk/T0227/app/src/main/res/values/strings.xml" timestamp="1520302909418">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" timestamp="1520562710969">
-        <mark key="'" line="9" column="25" />
-        <mark key="[" line="18" column="7" />
-        <mark key="]" line="9" column="25" />
-        <mark key="." line="9" column="25" />
-        <mark key="^" line="9" column="25" />
+      <file name="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" timestamp="1520564179023">
+        <mark key="'" line="70" column="16" />
+        <mark key="[" line="59" column="14" />
+        <mark key="]" line="70" column="12" />
+        <mark key="^" line="70" column="12" />
+        <mark key="." line="70" column="12" />
       </file>
       <file name="F:/git_desk/T0227/lib/src/main/java/com/stan/lib/myClass.java" timestamp="1520228043332">
         <mark key="[" line="6" column="26" />
@@ -117,6 +134,12 @@
         <mark key="]" line="41" column="12" />
         <mark key="^" line="40" column="14" />
         <mark key="." line="41" column="12" />
+      </file>
+      <file name="G:/Android_test_project/USBWriter/app/build.gradle" timestamp="1520564276684">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="48" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="G:/Android_test_project/USBCommunication/app/build.gradle" timestamp="1520475173370">
         <mark key="[" line="6" column="23" />
@@ -150,7 +173,8 @@
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherAppState.java" timestamp="1519977120691">
         <mark key="'" line="275" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1520298254271">
+      <file name="F:/git_desk/AutoPlaySDFile/app/src/main/java/com/stan/autoplaysdfile/USBBroadcastReceiver.java" timestamp="1520563038696" />
+      <file name="/fragment.java" timestamp="1520563106826">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/ActivityBindingModule.kt" timestamp="1519952225550">
@@ -164,10 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="427" column="23" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="165" column="18" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherAppState.java" />
-      <jump line="225" column="13" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" />
-      <jump line="124" column="25" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
       <jump line="87" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
       <jump line="1807" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
       <jump line="1929" column="29" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
@@ -264,52 +284,56 @@
       <jump line="7" column="0" filename="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" />
       <jump line="22" column="0" filename="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" />
       <jump line="9" column="25" filename="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" />
+      <jump line="113" column="38" filename="F:/git_desk/AutoPlaySDFile/app/src/main/java/com/stan/autoplaysdfile/MainActivity.java" />
+      <jump line="73" column="8" filename="F:/git_desk/AutoPlaySDFile/app/src/main/java/com/stan/autoplaysdfile/MainActivity.java" />
+      <jump line="141" column="38" filename="F:/git_desk/AutoPlaySDFile/app/src/main/java/com/stan/autoplaysdfile/MainActivity.java" />
+      <jump line="70" column="16" filename="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5yZWxlYXNlCg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Log.e(TAG, info)</text>
       </register>
       <register name="/" type="4">
         <text>could not</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVzYkRldmljZSBkZXZpY2UgPSAoVXNiRGV2aWNlKSBpbnRlbnQuZ2V0UGFyY2VsYWJsZUV4dHJhKFVzYk1hbmFnZXIuRVhUUkFfREVWSUNFKTsKICAgICAgICAgICAgICAgIGlmIChkZXZpY2UgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHVzYkNvbW11bmljYXRpb25NYW5hZ2VyLmRpc2NvdmVyRGV2aWNlKCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5yZWxlYXNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGZvciAoVXNiTWFzc1N0b3JhZ2VEZXZpY2UgZGV2aWNlIDogdXNiTWFzc1N0b3JhZ2VEZXZpY2VzKSB7CiAgICAgICAgICAgICAgICBkZXZpY2UuaW5pdCgpOwogICAgICAgICAgICB9</text>
+        <text encoding="base64">IHN0b3JhZ2VJbmZvcyA9IGxpc3RBdmFpbGFibGVTdG9yYWdlKHRoaXMpOwogICAgICAgIGZvciAoU3RvcmFnZUluZm8gaW5mbyA6IHN0b3JhZ2VJbmZvcykgewogICAgICAgICAgICBpZiAoaW5mby5pc1JlbW92ZWFibGUpIHsKICAgICAgICAgICAgICAgaW5mby5saXN0SW5mbygpOwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2JDb21tdW5pY2F0aW9uTWFuYWdlci5kaXNjb3ZlckRldmljZSgpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50ICBSRVFVRVNUX1JFQURfRVhURVJOQUxfUEVSTUlTU0lPTlMgPSAxOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBidWlsZFR5cGVzIHsKICAgICAgICByZWxlYXNlIHsKICAgICAgICAgICAgbWluaWZ5RW5hYmxlZCBmYWxzZQogICAgICAgICAgICBwcm9ndWFyZEZpbGVzIGdldERlZmF1bHRQcm9ndWFyZEZpbGUoJ3Byb2d1YXJkLWFuZHJvaWQudHh0JyksICdwcm9ndWFyZC1ydWxlcy5wcm8nCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiaGVsbG8iLmFwcGx5IHsgdG9VcHBlckNhc2UoKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2JNYW5hZ2VyLgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAxLmxldCB7IGl0LT5pdCsyIH0K</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJVIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
