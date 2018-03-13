@@ -148,11 +148,12 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" timestamp="1520901088881">
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="15" column="7" />
-        <mark key="^" line="15" column="7" />
-        <mark key="." line="15" column="7" />
+      <file name="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" timestamp="1520901691715">
+        <mark key="'" line="7" column="51" />
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="33" />
+        <mark key="^" line="16" column="33" />
+        <mark key="." line="16" column="33" />
       </file>
       <file name="F:/git_desk/T0227/app/build.gradle" timestamp="1520302517552">
         <mark key="[" line="21" column="59" />
@@ -194,8 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1807" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
-      <jump line="1929" column="29" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
       <jump line="1934" column="19" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
       <jump line="1935" column="48" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
       <jump line="3533" column="19" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
@@ -294,6 +293,8 @@
       <jump line="141" column="38" filename="F:/git_desk/AutoPlaySDFile/app/src/main/java/com/stan/autoplaysdfile/MainActivity.java" />
       <jump line="70" column="16" filename="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" />
       <jump line="30" column="12" filename="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" />
+      <jump line="16" column="13" filename="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" />
+      <jump line="7" column="51" filename="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
