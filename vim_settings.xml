@@ -66,9 +66,6 @@
       <file name="F:/git_desk/T0227/tt1/src/main/res/values/strings.xml" timestamp="1520302546462">
         <mark key="[" line="1" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520300920334">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="G:/Android_test_project/USBWriter/app/src/main/res/layout/activity_main.xml" timestamp="1520564814156">
         <mark key="[" line="24" column="54" />
         <mark key="]" line="26" column="0" />
@@ -148,12 +145,12 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" timestamp="1520901691715">
-        <mark key="'" line="7" column="51" />
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="16" column="33" />
-        <mark key="^" line="16" column="33" />
-        <mark key="." line="16" column="33" />
+      <file name="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" timestamp="1520933862115">
+        <mark key="'" line="16" column="34" />
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="18" column="7" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="18" column="7" />
       </file>
       <file name="F:/git_desk/T0227/app/build.gradle" timestamp="1520302517552">
         <mark key="[" line="21" column="59" />
@@ -293,12 +290,12 @@
       <jump line="141" column="38" filename="F:/git_desk/AutoPlaySDFile/app/src/main/java/com/stan/autoplaysdfile/MainActivity.java" />
       <jump line="70" column="16" filename="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" />
       <jump line="30" column="12" filename="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" />
-      <jump line="16" column="13" filename="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" />
       <jump line="7" column="51" filename="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" />
+      <jump line="16" column="34" filename="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsImluaXRWaWV3MSIpCg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -309,38 +306,38 @@
       <register name="/" type="4">
         <text>message</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5yZWxlYXNlCg==</text>
+      <register name="0" type="4">
+        <text>com.stan.td0313;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsImluaXRWaWV3MSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjEwZHAiZGQK</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjIwZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjEwZHAiZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjE2ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjIwZHAiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIxNmRwIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjE2ZHAiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIyMGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIxNmRwIgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIyMGRwIgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IHN0b3JhZ2VJbmZvcyA9IGxpc3RBdmFpbGFibGVTdG9yYWdlKHRoaXMpOwogICAgICAgIGZvciAoU3RvcmFnZUluZm8gaW5mbyA6IHN0b3JhZ2VJbmZvcykgewogICAgICAgICAgICBpZiAoaW5mby5pc1JlbW92ZWFibGUpIHsKICAgICAgICAgICAgICAgaW5mby5saXN0SW5mbygpOwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50ICBSRVFVRVNUX1JFQURfRVhURVJOQUxfUEVSTUlTU0lPTlMgPSAxOwo=</text>
       </register>
       <register name=":" type="4">
         <text>31,36s/message/storage/g</text>
