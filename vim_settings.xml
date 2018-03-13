@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/module/Myadaptaer.java" timestamp="1520298268664">
@@ -148,6 +148,12 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="12" column="3" />
       </file>
+      <file name="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" timestamp="1520901088881">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="15" column="7" />
+        <mark key="^" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+      </file>
       <file name="F:/git_desk/T0227/app/build.gradle" timestamp="1520302517552">
         <mark key="[" line="21" column="59" />
         <mark key="]" line="6" column="24" />
@@ -174,7 +180,6 @@
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherAppState.java" timestamp="1519977120691">
         <mark key="'" line="275" column="39" />
       </file>
-      <file name="F:/git_desk/AutoPlaySDFile/app/src/main/java/com/stan/autoplaysdfile/USBBroadcastReceiver.java" timestamp="1520563038696" />
       <file name="/fragment.java" timestamp="1520563106826">
         <mark key="[" line="0" column="0" />
       </file>
