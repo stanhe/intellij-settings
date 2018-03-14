@@ -21,12 +21,22 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/experimental/max/CouldNotReadCoreException.java" timestamp="1520391236535">
         <mark key="'" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" timestamp="1520996321250" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" timestamp="1520997784983">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="D:/Software/sdk/extras/android/m2repository/com/android/support/support-compat/25.3.1/support-compat-25.3.1-sources.jar!/android/support/v4/app/NotificationManagerCompat.java" timestamp="1519971110430">
         <mark key="'" line="312" column="30" />
       </file>
       <file name="F:/git_desk/T0227/tt1/src/main/java/com/stan/tt1/LoginActivity.java" timestamp="1520300857701">
         <mark key="[" line="10" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/MS10Receiver.java" timestamp="1520997803658">
+        <mark key="[" line="15" column="60" />
+        <mark key="]" line="15" column="59" />
+        <mark key="^" line="15" column="59" />
+        <mark key="." line="15" column="59" />
       </file>
       <file name="F:/git_desk/AutoPlaySDFile/app/src/main/java/com/stan/autoplaysdfile/MainActivity.java" timestamp="1520563388869">
         <mark key="'" line="141" column="38" />
@@ -77,6 +87,9 @@
       </file>
       <file name="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/StorageInfo.java" timestamp="1520563805752">
         <mark key="[" line="20" column="5" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/MS10Receiver.java" timestamp="1520997663275">
+        <mark key="[" line="10" column="26" />
       </file>
       <file name="F:/git_desk/T0227/tt1/src/main/java/com/stan/tt1/TT1LoginActivity.java" timestamp="1520302583361">
         <mark key="[" line="20" column="28" />
@@ -179,7 +192,7 @@
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherAppState.java" timestamp="1519977120691">
         <mark key="'" line="275" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1520563106826">
+      <file name="/fragment.java" timestamp="1520997723443">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/ActivityBindingModule.kt" timestamp="1519952225550">
@@ -295,8 +308,8 @@
       <jump line="16" column="34" filename="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNUzEwX01FU1NBR0UgPSAibXMxMF9tZXNzYWdlIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNUzEwX1VQREFURSA9ICJtczEwX3VwZGF0ZSI7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -307,38 +320,38 @@
       <register name="/" type="4">
         <text>message</text>
       </register>
-      <register name="0" type="4">
-        <text>com.stan.td0313;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5PVElGWV9MSVNURU5FUl9IQU5ETEVSX1NIT1cgPSAiY29tLm1zMTAuTk9USUZJQ0FUSU9OX0xJU1RFTkVSIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5PVElGWV9MSVNURU5FUl9IQU5ETEVSX0hJREUgPSAiY29tLm1zMTAuTk9USUZJQ0FUSU9OX0xJU1RFTkVSIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsImluaXRWaWV3MSIpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNUzEwX01FU1NBR0UgPSAibXMxMF9tZXNzYWdlIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNUzEwX1VQREFURSA9ICJtczEwX3VwZGF0ZSI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5PVElGWV9MSVNURU5FUl9IQU5ETEVSX1NIT1cgPSAiY29tLm1zMTAuTk9USUZJQ0FUSU9OX0xJU1RFTkVSIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5PVElGWV9MSVNURU5FUl9IQU5ETEVSX0hJREUgPSAiY29tLm1zMTAuTk9USUZJQ0FUSU9OX0xJU1RFTkVSIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjEwZHAiZGQK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsImluaXRWaWV3MSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjIwZHAiCg==</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjE2ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjEwZHAiZGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIxNmRwIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjIwZHAiCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIyMGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjE2ZHAiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIxNmRwIgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHN0b3JhZ2VJbmZvcyA9IGxpc3RBdmFpbGFibGVTdG9yYWdlKHRoaXMpOwogICAgICAgIGZvciAoU3RvcmFnZUluZm8gaW5mbyA6IHN0b3JhZ2VJbmZvcykgewogICAgICAgICAgICBpZiAoaW5mby5pc1JlbW92ZWFibGUpIHsKICAgICAgICAgICAgICAgaW5mby5saXN0SW5mbygpOwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIyMGRwIgo=</text>
       </register>
       <register name=":" type="4">
         <text>31,36s/message/storage/g</text>
