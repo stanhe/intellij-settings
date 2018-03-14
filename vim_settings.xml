@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/module/Myadaptaer.java" timestamp="1520298268664">
@@ -147,11 +147,11 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1519976871015">
-        <mark key="[" line="41" column="12" />
-        <mark key="]" line="41" column="12" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1521005178927">
+        <mark key="[" line="40" column="15" />
+        <mark key="]" line="41" column="16" />
         <mark key="^" line="40" column="14" />
-        <mark key="." line="41" column="12" />
+        <mark key="." line="41" column="16" />
       </file>
       <file name="G:/Android_test_project/USBWriter/app/build.gradle" timestamp="1520564276684">
         <mark key="[" line="27" column="0" />
@@ -314,8 +314,8 @@
       <jump line="16" column="34" filename="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNUzEwX01FU1NBR0UgPSAibXMxMF9tZXNzYWdlIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNUzEwX1VQREFURSA9ICJtczEwX3VwZGF0ZSI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <text />
