@@ -1,17 +1,36 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/module/Myadaptaer.java" timestamp="1520298268664">
+        <mark key="[" line="6" column="24" />
+      </file>
       <file name="F:/git_desk/AutoPlaySDFile/app/build.gradle" timestamp="1520564273306">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="48" />
+      </file>
+      <file name="F:/git_desk/AutoPlaySDFile/app/src/main/AndroidManifest.xml" timestamp="1520562955517">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1521006218491">
+        <mark key="[" line="3570" column="8" />
+        <mark key="]" line="3615" column="17" />
+        <mark key="." line="3615" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" timestamp="1521006509892">
         <mark key="[" line="68" column="21" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
         <mark key="^" line="67" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/AndroidManifest.xml" timestamp="1520998039262">
+        <mark key="[" line="237" column="19" />
+        <mark key="]" line="241" column="37" />
+        <mark key="^" line="241" column="37" />
+        <mark key="." line="241" column="37" />
       </file>
       <file name="F:/git_desk/T0227/tt1/src/main/java/com/stan/tt1/LoginActivity.java" timestamp="1520300857701">
         <mark key="[" line="10" column="27" />
@@ -22,6 +41,12 @@
         <mark key="^" line="12" column="97" />
         <mark key="." line="12" column="97" />
       </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" timestamp="1517973733309">
+        <mark key="[" line="60" column="7" />
+        <mark key="]" line="60" column="11" />
+        <mark key="." line="60" column="11" />
+        <mark key="^" line="60" column="11" />
+      </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1520996051532">
         <mark key="'" line="41" column="45" />
         <mark key="[" line="35" column="15" />
@@ -29,11 +54,26 @@
         <mark key="." line="26" column="8" />
         <mark key="^" line="29" column="2" />
       </file>
+      <file name="F:/git_desk/T0227/tt1/build.gradle" timestamp="1520489914712">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="30" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="19" column="30" />
+      </file>
+      <file name="F:/git_desk/T0227/tt1/src/main/res/values/strings.xml" timestamp="1520302546462">
+        <mark key="[" line="1" column="40" />
+      </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" timestamp="1521006109717">
         <mark key="[" line="4934" column="0" />
         <mark key="]" line="4934" column="0" />
         <mark key="." line="4934" column="0" />
       </file>
+      <file name="G:/Android_test_project/USBWriter/app/src/main/res/layout/activity_main.xml" timestamp="1520564814156">
+        <mark key="[" line="24" column="54" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Task_apps/YiZhi/app/src/main/java/com/stan/app/view/MainActivity1.java" timestamp="1521009769295" />
       <file name="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/StorageInfo.java" timestamp="1520563805752">
         <mark key="[" line="20" column="5" />
       </file>
@@ -48,72 +88,6 @@
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/build.gradle" timestamp="1520386915071">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="31" column="5" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/build.gradle" timestamp="1521006750090">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-      </file>
-      <file name="G:/Android_test_project/USBWriter/app/build.gradle" timestamp="1520564276684">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="48" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="12" column="3" />
-      </file>
-      <file name="G:/Android_test_project/USBCommunication/app/build.gradle" timestamp="1520475173370">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="12" column="3" />
-      </file>
-      <file name="F:/git_desk/T0227/app/build.gradle" timestamp="1520302517552">
-        <mark key="[" line="21" column="59" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-      </file>
-      <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/module/Myadaptaer.java" timestamp="1520298268664">
-        <mark key="[" line="6" column="24" />
-      </file>
-      <file name="F:/git_desk/AutoPlaySDFile/app/src/main/AndroidManifest.xml" timestamp="1520562955517">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1521006218491">
-        <mark key="[" line="3570" column="8" />
-        <mark key="]" line="3615" column="17" />
-        <mark key="." line="3615" column="17" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/AndroidManifest.xml" timestamp="1520998039262">
-        <mark key="[" line="237" column="19" />
-        <mark key="]" line="241" column="37" />
-        <mark key="^" line="241" column="37" />
-        <mark key="." line="241" column="37" />
-      </file>
-      <file name="F:/git_desk/AutoPlaySDFile/app/src/main/java/com/stan/autoplaysdfile/MainActivity.java" timestamp="1520563388869">
-        <mark key="'" line="141" column="38" />
-        <mark key="[" line="285" column="4" />
-        <mark key="]" line="333" column="4" />
-      </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" timestamp="1517973733309">
-        <mark key="[" line="60" column="7" />
-        <mark key="]" line="60" column="11" />
-        <mark key="." line="60" column="11" />
-        <mark key="^" line="60" column="11" />
-      </file>
-      <file name="F:/git_desk/T0227/tt1/build.gradle" timestamp="1520489914712">
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="30" />
-        <mark key="^" line="19" column="29" />
-        <mark key="." line="19" column="30" />
-      </file>
-      <file name="F:/git_desk/T0227/tt1/src/main/res/values/strings.xml" timestamp="1520302546462">
-        <mark key="[" line="1" column="40" />
-      </file>
-      <file name="G:/Android_test_project/USBWriter/app/src/main/res/layout/activity_main.xml" timestamp="1520564814156">
-        <mark key="[" line="24" column="54" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/res/layout/simple_player_controlbar.xml" timestamp="1520218899128">
         <mark key="[" line="32" column="32" />
@@ -141,6 +115,11 @@
         <mark key="^" line="42" column="12" />
         <mark key="." line="42" column="12" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/build.gradle" timestamp="1521006750090">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+      </file>
       <file name="F:/git_desk/T0227/app/src/main/res/values/strings.xml" timestamp="1520302909418">
         <mark key="[" line="2" column="23" />
       </file>
@@ -156,11 +135,23 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
+      <file name="G:/Android_test_project/USBWriter/app/build.gradle" timestamp="1520564276684">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="48" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="12" column="3" />
+      </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1521005178927">
         <mark key="[" line="40" column="15" />
         <mark key="]" line="41" column="16" />
         <mark key="^" line="40" column="14" />
         <mark key="." line="41" column="16" />
+      </file>
+      <file name="G:/Android_test_project/USBCommunication/app/build.gradle" timestamp="1520475173370">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" timestamp="1520933862115">
         <mark key="'" line="16" column="34" />
@@ -169,13 +160,18 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
+      <file name="F:/git_desk/T0227/app/build.gradle" timestamp="1520302517552">
+        <mark key="[" line="21" column="59" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+      </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/Test.java" timestamp="1519885199296">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1520997723443">
+      <file name="/fragment.java" timestamp="1521010135178">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/git_desk/T0227/lib/src/main/java/com/stan/lib/Test.java" timestamp="1519886007486">
@@ -183,6 +179,9 @@
         <mark key="]" line="13" column="55" />
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="22" />
+      </file>
+      <file name="G:/Android_test_project/InnerUpdate/innerupdatelib/build.gradle" timestamp="1521010239558">
+        <mark key="[" line="33" column="85" />
       </file>
     </filemarks>
     <jumps>
