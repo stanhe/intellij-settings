@@ -21,6 +21,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/experimental/max/CouldNotReadCoreException.java" timestamp="1520391236535">
         <mark key="'" line="5" column="31" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" timestamp="1520996321250" />
       <file name="D:/Software/sdk/extras/android/m2repository/com/android/support/support-compat/25.3.1/support-compat-25.3.1-sources.jar!/android/support/v4/app/NotificationManagerCompat.java" timestamp="1519971110430">
         <mark key="'" line="312" column="30" />
       </file>
@@ -50,11 +51,11 @@
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/values/attrs.xml" timestamp="1519973493553">
         <mark key="'" line="82" column="29" />
       </file>
-      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1520561254586">
+      <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1520996051532">
         <mark key="'" line="41" column="45" />
-        <mark key="[" line="29" column="1" />
-        <mark key="]" line="29" column="2" />
-        <mark key="." line="29" column="2" />
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="26" column="8" />
+        <mark key="." line="26" column="8" />
         <mark key="^" line="29" column="2" />
       </file>
       <file name="F:/git_desk/T0227/tt1/build.gradle" timestamp="1520489914712">
@@ -294,14 +295,14 @@
       <jump line="16" column="34" filename="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsImluaXRWaWV3MSIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
