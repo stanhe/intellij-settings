@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/module/Myadaptaer.java" timestamp="1520298268664">
@@ -89,6 +89,9 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1521107046995">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/StorageInfo.java" timestamp="1520563805752">
         <mark key="[" line="20" column="5" />
       </file>
@@ -165,7 +168,7 @@
         <mark key="^" line="40" column="14" />
         <mark key="." line="41" column="16" />
       </file>
-      <file name="G:/Android_test_project/USBCommunication/app/build.gradle" timestamp="1521101675744">
+      <file name="G:/Android_test_project/USBCommunication/app/build.gradle" timestamp="1521107062082">
         <mark key="[" line="36" column="4" />
         <mark key="]" line="6" column="24" />
         <mark key="." line="6" column="24" />
