@@ -6,14 +6,17 @@
       <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/module/Myadaptaer.java" timestamp="1520298268664">
         <mark key="[" line="6" column="24" />
       </file>
-      <file name="F:/git_desk/AutoPlaySDFile/app/build.gradle" timestamp="1520564273306">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="48" />
-      </file>
       <file name="F:/git_desk/AutoPlaySDFile/app/src/main/AndroidManifest.xml" timestamp="1520562955517">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1521092622801">
+        <mark key="'" line="394" column="19" />
+        <mark key="[" line="515" column="49" />
+        <mark key="]" line="513" column="7" />
+        <mark key="^" line="513" column="7" />
+        <mark key="." line="513" column="7" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1521006218491">
         <mark key="[" line="3570" column="8" />
@@ -47,6 +50,7 @@
         <mark key="." line="60" column="11" />
         <mark key="^" line="60" column="11" />
       </file>
+      <file name="G:/Android_test_project/InnerUpdate/innerupdatelib/src/main/java/com/stan/innerupdatelib/InnerUpdate.java" timestamp="1521092905561" />
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1520996051532">
         <mark key="'" line="41" column="45" />
         <mark key="[" line="35" column="15" />
@@ -73,7 +77,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Task_apps/YiZhi/app/src/main/java/com/stan/app/view/MainActivity1.java" timestamp="1521009769295" />
       <file name="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/StorageInfo.java" timestamp="1520563805752">
         <mark key="[" line="20" column="5" />
       </file>
@@ -84,10 +87,6 @@
         <mark key="[" line="20" column="28" />
         <mark key="]" line="20" column="29" />
         <mark key="." line="20" column="29" />
-      </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/build.gradle" timestamp="1520386915071">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="31" column="5" />
       </file>
       <file name="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/res/layout/simple_player_controlbar.xml" timestamp="1520218899128">
         <mark key="[" line="32" column="32" />
@@ -107,6 +106,10 @@
         <mark key="]" line="91" column="12" />
         <mark key="." line="91" column="12" />
         <mark key="^" line="91" column="12" />
+      </file>
+      <file name="G:/Android_test_project/InnerUpdate/app/src/main/java/com/stan/innerupdate/MainActivity.java" timestamp="1521092554747">
+        <mark key="[" line="31" column="7" />
+        <mark key="]" line="31" column="83" />
       </file>
       <file name="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" timestamp="1520475230600">
         <mark key="'" line="33" column="25" />
@@ -160,6 +163,7 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/innerupdatelib-release.aar/4ec451e03ed2ce9e924f568923e60a22/jars/classes.jar!/com/stan/innerupdatelib/InnerUpdate.class" timestamp="1521092914754" />
       <file name="F:/git_desk/T0227/app/build.gradle" timestamp="1520302517552">
         <mark key="[" line="21" column="59" />
         <mark key="]" line="6" column="24" />
@@ -185,9 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1934" column="19" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
-      <jump line="1935" column="48" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
-      <jump line="3533" column="19" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
       <jump line="3875" column="61" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
       <jump line="3954" column="55" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
       <jump line="4554" column="63" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
@@ -285,10 +286,13 @@
       <jump line="30" column="12" filename="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" />
       <jump line="7" column="51" filename="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" />
       <jump line="16" column="34" filename="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" />
+      <jump line="150" column="25" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="296" column="32" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="393" column="19" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IFN0cmluZyB1cmwgPSAiaHR0cDovLzU4LjYxLjE1NS41ODo4MDgxL2FwcGNlbnRlci9hcGkvbGF1bmNoZXI0X3VwZGF0ZS5qc29uIjs=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -297,10 +301,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>message</text>
+        <text>onCreate</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVnZXggPSAiKChcXGQrKSg/Pcz10MLP+8+iKSkiOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IFN0cmluZyB1cmwgPSAiaHR0cDovLzU4LjYxLjE1NS41ODo4MDgxL2FwcGNlbnRlci9hcGkvbGF1bmNoZXI0X3VwZGF0ZS5qc29uIjs=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -337,9 +341,9 @@
       </register>
     </registers>
     <search>
-      <last-search>message</last-search>
+      <last-search>onCreate</last-search>
       <last-offset />
-      <last-pattern>message</last-pattern>
+      <last-pattern>onCreate</last-pattern>
       <last-replace>storage</last-replace>
       <last-substitute>message</last-substitute>
       <last-dir>1</last-dir>
@@ -347,8 +351,6 @@
     </search>
     <history>
       <history-search>
-        <entry>y</entry>
-        <entry encoding="base64">XDxtQmFja2dyb3VuZFNpemVDaGFuZ2VkXD4=</entry>
         <entry>bubble</entry>
         <entry>Bubble</entry>
         <entry>drawNu</entry>
@@ -367,6 +369,8 @@
         <entry encoding="base64">XDx1c2JNYXNzU3RvcmFnZURldmljZXNcPg==</entry>
         <entry>could not</entry>
         <entry>message</entry>
+        <entry>oncreate</entry>
+        <entry>onCreate</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
