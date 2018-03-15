@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/module/Myadaptaer.java" timestamp="1520298268664">
@@ -23,6 +23,11 @@
         <mark key="]" line="3615" column="17" />
         <mark key="." line="3615" column="17" />
       </file>
+      <file name="G:/Android_test_project/USBCommunication/settings.gradle" timestamp="1521101423625">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/NLService.java" timestamp="1521006509892">
         <mark key="[" line="68" column="21" />
         <mark key="]" line="69" column="0" />
@@ -34,6 +39,11 @@
         <mark key="]" line="241" column="37" />
         <mark key="^" line="241" column="37" />
         <mark key="." line="241" column="37" />
+      </file>
+      <file name="F:/git_desk/libaums/settings.gradle" timestamp="1521101406548">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="71" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="F:/git_desk/T0227/tt1/src/main/java/com/stan/tt1/LoginActivity.java" timestamp="1520300857701">
         <mark key="[" line="10" column="27" />
@@ -50,7 +60,6 @@
         <mark key="." line="60" column="11" />
         <mark key="^" line="60" column="11" />
       </file>
-      <file name="G:/Android_test_project/InnerUpdate/innerupdatelib/src/main/java/com/stan/innerupdatelib/InnerUpdate.java" timestamp="1521092905561" />
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1520996051532">
         <mark key="'" line="41" column="45" />
         <mark key="[" line="35" column="15" />
@@ -111,8 +120,8 @@
         <mark key="[" line="31" column="7" />
         <mark key="]" line="31" column="83" />
       </file>
-      <file name="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" timestamp="1520475230600">
-        <mark key="'" line="33" column="25" />
+      <file name="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" timestamp="1521101275297">
+        <mark key="'" line="75" column="38" />
         <mark key="[" line="42" column="47" />
         <mark key="]" line="42" column="12" />
         <mark key="^" line="42" column="12" />
@@ -126,11 +135,14 @@
       <file name="F:/git_desk/T0227/app/src/main/res/values/strings.xml" timestamp="1520302909418">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" timestamp="1520565106508">
-        <mark key="'" line="30" column="12" />
-        <mark key="[" line="127" column="4" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
+      <file name="F:/git_desk/libaums/build.gradle" timestamp="1521101585102">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="54" column="0" />
+      </file>
+      <file name="G:/Android_test_project/USBCommunication/build.gradle" timestamp="1521101604020">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="F:/git_desk/T0227/lib/src/main/java/com/stan/lib/myClass.java" timestamp="1520228043332">
         <mark key="[" line="6" column="26" />
@@ -150,8 +162,8 @@
         <mark key="^" line="40" column="14" />
         <mark key="." line="41" column="16" />
       </file>
-      <file name="G:/Android_test_project/USBCommunication/app/build.gradle" timestamp="1520475173370">
-        <mark key="[" line="6" column="23" />
+      <file name="G:/Android_test_project/USBCommunication/app/build.gradle" timestamp="1521101675744">
+        <mark key="[" line="36" column="4" />
         <mark key="]" line="6" column="24" />
         <mark key="." line="6" column="24" />
         <mark key="^" line="12" column="3" />
@@ -163,7 +175,6 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/innerupdatelib-release.aar/4ec451e03ed2ce9e924f568923e60a22/jars/classes.jar!/com/stan/innerupdatelib/InnerUpdate.class" timestamp="1521092914754" />
       <file name="F:/git_desk/T0227/app/build.gradle" timestamp="1520302517552">
         <mark key="[" line="21" column="59" />
         <mark key="]" line="6" column="24" />
@@ -189,7 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3875" column="61" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
       <jump line="3954" column="55" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
       <jump line="4554" column="63" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
       <jump line="169" column="43" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
@@ -289,10 +299,11 @@
       <jump line="150" column="25" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="296" column="32" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="393" column="19" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="75" column="38" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IFN0cmluZyB1cmwgPSAiaHR0cDovLzU4LjYxLjE1NS41ODo4MDgxL2FwcGNlbnRlci9hcGkvbGF1bmNoZXI0X3VwZGF0ZS5qc29uIjs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dGFzayBjbGVhbih0eXBlOiBEZWxldGUpIHsKICAgIGRlbGV0ZSByb290UHJvamVjdC5idWlsZERpcgp9Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -304,37 +315,70 @@
         <text>onCreate</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IFN0cmluZyB1cmwgPSAiaHR0cDovLzU4LjYxLjE1NS41ODo4MDgxL2FwcGNlbnRlci9hcGkvbGF1bmNoZXI0X3VwZGF0ZS5qc29uIjs=</text>
+        <text>ext {
+    bintrayRepo = 'maven'
+
+    publishedGroupId = 'com.github.mjdev'
+    libraryName = 'libaums'
+
+    // artifact comes from module as well as libraryVersion
+    //artifact = 'libaums'
+
+    libraryDescription = 'Android USB mass storage library with FAT32 support.'
+
+    siteUrl = 'https://github.com/mjdev/libaums'
+    gitUrl = 'https://github.com/mjdev/libaums.git'
+
+
+    developerId = 'mjdev'
+    developerName = 'mjahnen'
+    developerEmail = 'jahnen@in.tum.de'
+
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = [&quot;Apache-2.0&quot;]
+}
+
+allprojects {
+    repositories {
+        jcenter()
+        maven { url 'https://dl.bintray.com/magnusja/maven' }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dGFzayBjbGVhbih0eXBlOiBEZWxldGUpIHsKICAgIGRlbGV0ZSByb290UHJvamVjdC5idWlsZERpcgp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZSgicmVjZWl2ZWQiKTsK</text>
+        <text encoding="base64">aW5jbHVkZSAnOmFwcCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZ2dlci5lKCJiZWZvcmUgY3VzdG9tIGJhZGdlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuaSgiKioqKioqKioqKiBvbk5PdGlmaWNhdGlvblJlbW92ZWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZSgicmVjZWl2ZWQiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuZSgiKioqKioqKioqKiAgb25Ob3RpZmljYXRpb25Qb3N0ZWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZ2dlci5lKCJiZWZvcmUgY3VzdG9tIGJhZGdlIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNUzEwX01FU1NBR0UgPSAibXMxMF9tZXNzYWdlIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNUzEwX1VQREFURSA9ICJtczEwX3VwZGF0ZSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXIuaSgiKioqKioqKioqKiBvbk5PdGlmaWNhdGlvblJlbW92ZWQiKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5PVElGWV9MSVNURU5FUl9IQU5ETEVSX1NIT1cgPSAiY29tLm1zMTAuTk9USUZJQ0FUSU9OX0xJU1RFTkVSIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5PVElGWV9MSVNURU5FUl9IQU5ETEVSX0hJREUgPSAiY29tLm1zMTAuTk9USUZJQ0FUSU9OX0xJU1RFTkVSIjsK</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXIuZSgiKioqKioqKioqKiAgb25Ob3RpZmljYXRpb25Qb3N0ZWQiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsImluaXRWaWV3MSIpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNUzEwX01FU1NBR0UgPSAibXMxMF9tZXNzYWdlIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNUzEwX1VQREFURSA9ICJtczEwX3VwZGF0ZSI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5PVElGWV9MSVNURU5FUl9IQU5ETEVSX1NIT1cgPSAiY29tLm1zMTAuTk9USUZJQ0FUSU9OX0xJU1RFTkVSIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5PVElGWV9MSVNURU5FUl9IQU5ETEVSX0hJREUgPSAiY29tLm1zMTAuTk9USUZJQ0FUSU9OX0xJU1RFTkVSIjsK</text>
       </register>
       <register name=":" type="4">
         <text>31,36s/message/storage/g</text>
