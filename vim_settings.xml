@@ -54,6 +54,9 @@
         <mark key="^" line="12" column="97" />
         <mark key="." line="12" column="97" />
       </file>
+      <file name="G:/Android_test_project/USBCommunication/libaums/src/main/java/com/github/mjdev/libaums/UsbMassStorageDevice.java" timestamp="1521102054225">
+        <mark key="'" line="191" column="16" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" timestamp="1517973733309">
         <mark key="[" line="60" column="7" />
         <mark key="]" line="60" column="11" />
@@ -120,7 +123,7 @@
         <mark key="[" line="31" column="7" />
         <mark key="]" line="31" column="83" />
       </file>
-      <file name="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" timestamp="1521101275297">
+      <file name="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" timestamp="1521101901235">
         <mark key="'" line="75" column="38" />
         <mark key="[" line="42" column="47" />
         <mark key="]" line="42" column="12" />
@@ -200,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3954" column="55" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
       <jump line="4554" column="63" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Workspace.java" />
       <jump line="169" column="43" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
       <jump line="168" column="22" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
@@ -300,6 +302,7 @@
       <jump line="296" column="32" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="393" column="19" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="75" column="38" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
+      <jump line="191" column="16" filename="G:/Android_test_project/USBCommunication/libaums/src/main/java/com/github/mjdev/libaums/UsbMassStorageDevice.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
