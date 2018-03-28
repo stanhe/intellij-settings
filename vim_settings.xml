@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1521092622801">
@@ -22,7 +22,6 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="67" column="7" />
       </file>
-      <file name="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/adapter/RecentsAdapter.java" timestamp="1521250537650" />
       <file name="F:/git_desk/T0227/tt1/src/main/java/com/stan/tt1/LoginActivity.java" timestamp="1520300857701">
         <mark key="[" line="10" column="27" />
       </file>
@@ -32,7 +31,6 @@
         <mark key="^" line="12" column="97" />
         <mark key="." line="12" column="97" />
       </file>
-      <file name="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/provider/HeatMapProvider.java" timestamp="1521249904983" />
       <file name="G:/Android_test_project/USBCommunication/libaums/src/main/java/com/github/mjdev/libaums/UsbMassStorageDevice.java" timestamp="1521102054225">
         <mark key="'" line="191" column="16" />
       </file>
@@ -95,7 +93,6 @@
         <mark key="]" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="G:/Android_test_project/AnExplorer-master/app/src/main/res/layout/item_connection_list.xml" timestamp="1521250266915" />
       <file name="G:/Android_test_project/InnerUpdate/innerupdatelib/build.gradle" timestamp="1521010239558">
         <mark key="[" line="33" column="85" />
       </file>
@@ -128,7 +125,6 @@
         <mark key="]" line="0" column="71" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/adapter/ConnectionsAdapter.java" timestamp="1521250296257" />
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" timestamp="1517973733309">
         <mark key="[" line="60" column="7" />
         <mark key="]" line="60" column="11" />
@@ -158,7 +154,13 @@
       <file name="/Dummy.txt" timestamp="1521250258601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/misc/RootsCache.java" timestamp="1521250740441" />
+      <file name="F:/360Downloads/Passwordlib/passwddialoglibrary/src/main/java/com/stan/passwddialoglibrary/PasswdDialog.java" timestamp="1522229785115">
+        <mark key="'" line="29" column="4" />
+        <mark key="[" line="64" column="40" />
+        <mark key="]" line="64" column="38" />
+        <mark key="^" line="64" column="38" />
+        <mark key="." line="64" column="38" />
+      </file>
       <file name="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/res/layout/simple_player_controlbar.xml" timestamp="1520218899128">
         <mark key="[" line="32" column="32" />
         <mark key="]" line="32" column="38" />
@@ -203,7 +205,6 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="G:/Android_test_project/AnExplorer-master/app/src/main/res/layout/activity.xml" timestamp="1521249401329" />
       <file name="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/fragment/ConnectionsFragment.java" timestamp="1521250340296">
         <mark key="'" line="57" column="31" />
       </file>
@@ -237,11 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="29" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/values/attrs.xml" />
-      <jump line="278" column="35" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
-      <jump line="70" column="11" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
-      <jump line="74" column="11" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
-      <jump line="78" column="11" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
       <jump line="82" column="28" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
       <jump line="83" column="57" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
       <jump line="41" column="13" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/BubbleTextView.java" />
@@ -337,33 +333,21 @@
       <jump line="165" column="56" filename="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/provider/ExternalStorageProvider.java" />
       <jump line="217" column="61" filename="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/provider/ExternalStorageProvider.java" />
       <jump line="57" column="31" filename="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/fragment/ConnectionsFragment.java" />
+      <jump line="43" column="15" filename="F:/360Downloads/Passwordlib/passwddialoglibrary/src/main/java/com/stan/passwddialoglibrary/PasswdDialog.java" />
+      <jump line="0" column="0" filename="F:/360Downloads/Passwordlib/passwddialoglibrary/src/main/java/com/stan/passwddialoglibrary/PasswdDialog.java" />
+      <jump line="49" column="0" filename="F:/360Downloads/Passwordlib/passwddialoglibrary/src/main/java/com/stan/passwddialoglibrary/PasswdDialog.java" />
+      <jump line="45" column="0" filename="F:/360Downloads/Passwordlib/passwddialoglibrary/src/main/java/com/stan/passwddialoglibrary/PasswdDialog.java" />
+      <jump line="26" column="4" filename="F:/360Downloads/Passwordlib/passwddialoglibrary/src/main/java/com/stan/passwddialoglibrary/PasswdDialog.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if(Utils.hasMarshmallow()) {
-            RootsCache.updateRoots(this, ExternalStorageProvider.AUTHORITY);
-            mRoots = DocumentsApplication.getRootsCache(this);
-            final Handler handler = new Handler();
-            handler.postDelayed(new Runnable() {
-                @Override
-                public void run() {
-                    mRoots.updateAsync();
-                    final RootInfo root = getCurrentRoot();
-                    if(root.isHome()){
-                        HomeFragment homeFragment = HomeFragment.get(getFragmentManager());
-                        if(null != homeFragment) {
-                            homeFragment.reloadData();
-                        }
-                    }
-                }
-            }, 500);
-        }</text>
+        <text>s</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>adapter</text>
@@ -388,7 +372,10 @@
             }, 500);
         }</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="2" type="4">
         <text>if(Utils.hasMarshmallow()) {
             RootsCache.updateRoots(this, ExternalStorageProvider.AUTHORITY);
             mRoots = DocumentsApplication.getRootsCache(this);
@@ -408,32 +395,29 @@
             }, 500);
         }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">dGFzayBjbGVhbih0eXBlOiBEZWxldGUpIHsKICAgIGRlbGV0ZSByb290UHJvamVjdC5idWlsZERpcgp9Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW5jbHVkZSAnOmFwcCcK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZSgicmVjZWl2ZWQiKTsK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZ2dlci5lKCJiZWZvcmUgY3VzdG9tIGJhZGdlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZSgicmVjZWl2ZWQiKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuaSgiKioqKioqKioqKiBvbk5PdGlmaWNhdGlvblJlbW92ZWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZ2dlci5lKCJiZWZvcmUgY3VzdG9tIGJhZGdlIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuZSgiKioqKioqKioqKiAgb25Ob3RpZmljYXRpb25Qb3N0ZWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXIuaSgiKioqKioqKioqKiBvbk5PdGlmaWNhdGlvblJlbW92ZWQiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNUzEwX01FU1NBR0UgPSAibXMxMF9tZXNzYWdlIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNUzEwX1VQREFURSA9ICJtczEwX3VwZGF0ZSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXIuZSgiKioqKioqKioqKiAgb25Ob3RpZmljYXRpb25Qb3N0ZWQiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>31,36s/message/storage/g</text>
