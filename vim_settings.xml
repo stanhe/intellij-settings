@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginActivity.kt" timestamp="1522395168367">
@@ -266,6 +266,13 @@
         <mark key="." line="36" column="23" />
         <mark key="^" line="36" column="23" />
       </file>
+      <file name="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" timestamp="1522401732939">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+        <mark key="^" line="20" column="22" />
+      </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1521005178927">
         <mark key="[" line="40" column="15" />
         <mark key="]" line="41" column="16" />
@@ -299,16 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="32" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
-      <jump line="69" column="114" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
-      <jump line="40" column="26" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
-      <jump line="5" column="31" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/experimental/max/CouldNotReadCoreException.java" />
-      <jump line="121" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mjdev/libaums/0.5.5/ee9ce40d42b5f2e9d7a82ec29b1057ae082d9fd2/libaums-0.5.5-sources.jar!/com/github/mjdev/libaums/UsbMassStorageDevice.java" />
-      <jump line="222" column="35" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mjdev/libaums/0.5.5/ee9ce40d42b5f2e9d7a82ec29b1057ae082d9fd2/libaums-0.5.5-sources.jar!/com/github/mjdev/libaums/UsbMassStorageDevice.java" />
-      <jump line="265" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mjdev/libaums/0.5.5/ee9ce40d42b5f2e9d7a82ec29b1057ae082d9fd2/libaums-0.5.5-sources.jar!/com/github/mjdev/libaums/UsbMassStorageDevice.java" />
-      <jump line="62" column="8" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/MainActivity.java" />
-      <jump line="71" column="16" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/MainActivity.java" />
-      <jump line="33" column="25" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
       <jump line="17" column="4" filename="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" />
       <jump line="7" column="0" filename="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" />
       <jump line="22" column="0" filename="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" />
@@ -399,16 +396,26 @@
       <jump line="46" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/RegisterActivity.kt" />
       <jump line="44" column="20" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/RegisterActivity.kt" />
       <jump line="27" column="16" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/AccountContract.kt" />
+      <jump line="15" column="13" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
+      <jump line="7" column="0" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
+      <jump line="8" column="51" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
+      <jump line="4" column="0" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
+      <jump line="14" column="4" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
+      <jump line="17" column="4" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
+      <jump line="19" column="0" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
+      <jump line="5" column="0" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
+      <jump line="18" column="16" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
+      <jump line="16" column="0" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>?:&quot;null&quot;</text>
+        <text>(</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>?:&quot;null&quot;</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja1ZlcnNpb25cPg==</text>
@@ -417,34 +424,34 @@
         <text encoding="base64">IG92ZXJyaWRlIGZ1biBnZXRBcmVhKCkgewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVzZW50ZXIubG9naW4oIjEwMDg2IiwiMTIzIikK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBsb29rKAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICB2aWV3Py50b0hvbWVQYWdlKCkKICAgICAgICAvKiAgYXBpLmxvZ2luKHBob2UsIHBhc3N3b3JkKQogICAgICAgICAgICAgICAgLmNvbXBvc2UoUnhVdGlscy48QmFzZUJhY2tEYXRhPmFwcGx5U2NoZWR1bGVycygpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZShuZXcgT2JzZXJ2ZXI8QmFzZUJhY2tEYXRhPigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvblN1YnNjcmliZShEaXNwb3NhYmxlIGQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWRkRGlzcG9zYWJsZShkKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uTmV4dChCYXNlQmFja0RhdGEgYmFzZUJhY2tEYXRhKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZpZXcudG9Ib21lUGFnZSgpOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25FcnJvcihUaHJvd2FibGUgZSkgewogICAgICAgICAgICAgICAgICAgICAgICB2aWV3LnNob3dNZXNzYWdlKCJlcnJvciA6ICIrZSk7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNvbXBsZXRlKCkgewoKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsqLw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgIGFwaS5ob21lKCkKICAgICAgICAgICAgICAgIC5jb21wb3NlKFJ4VXRpbHMuYXBwbHlTY2hlZHVsZXJzKCkpCiAgICAgICAgICAgICAgICAuc3Vic2NyaWJlKG9iamVjdCA6IE9ic2VydmVyPEJhc2VCYWNrRGF0YT4gewogICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvblN1YnNjcmliZShkOiBEaXNwb3NhYmxlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGFkZERpc3Bvc2FibGUoZCkKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbk5leHQoYmFzZUJhY2tEYXRhOiBCYXNlQmFja0RhdGEpIHsKCiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gb25FcnJvcihlOiBUaHJvd2FibGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdmlldz8uc2hvd01lc3NhZ2UoImVycm9yOiAiICsgZSkKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkNvbXBsZXRlKCkgewoKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICB2aWV3Py50b0hvbWVQYWdlKCkKICAgICAgICAvKiAgYXBpLmxvZ2luKHBob2UsIHBhc3N3b3JkKQogICAgICAgICAgICAgICAgLmNvbXBvc2UoUnhVdGlscy48QmFzZUJhY2tEYXRhPmFwcGx5U2NoZWR1bGVycygpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZShuZXcgT2JzZXJ2ZXI8QmFzZUJhY2tEYXRhPigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvblN1YnNjcmliZShEaXNwb3NhYmxlIGQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWRkRGlzcG9zYWJsZShkKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uTmV4dChCYXNlQmFja0RhdGEgYmFzZUJhY2tEYXRhKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZpZXcudG9Ib21lUGFnZSgpOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25FcnJvcihUaHJvd2FibGUgZSkgewogICAgICAgICAgICAgICAgICAgICAgICB2aWV3LnNob3dNZXNzYWdlKCJlcnJvciA6ICIrZSk7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNvbXBsZXRlKCkgewoKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsqLw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpbml0Vmlldwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>override fun login(</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZShUKQo=</text>
       </register>
       <register name=":" type="4">
         <text>n</text>
@@ -455,7 +462,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxjaGVja1ZlcnNpb25cPg==</last-pattern>
       <last-replace>String</last-replace>
-      <last-substitute>int</last-substitute>
+      <last-substitute encoding="base64">XDxjaGVja1ZlcnNpb25cPg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
