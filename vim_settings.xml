@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginActivity.kt" timestamp="1522395168367">
@@ -63,10 +63,10 @@
         <mark key="." line="26" column="8" />
         <mark key="^" line="29" column="2" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/AccountContract.kt" timestamp="1522396759010">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="14" />
-        <mark key="." line="27" column="14" />
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/AccountContract.kt" timestamp="1522397640919">
+        <mark key="[" line="16" column="67" />
+        <mark key="]" line="16" column="75" />
+        <mark key="." line="16" column="67" />
         <mark key="^" line="27" column="14" />
       </file>
       <file name="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/StorageInfo.java" timestamp="1520563805752">
@@ -125,11 +125,11 @@
       <file name="G:/Android_test_project/InnerUpdate/innerupdatelib/build.gradle" timestamp="1521010239558">
         <mark key="[" line="33" column="85" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/BaseData.kt" timestamp="1522388885973">
-        <mark key="[" line="5" column="93" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="91" />
-        <mark key="." line="6" column="0" />
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/BaseData.kt" timestamp="1522397757912">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/RetroApi.kt" timestamp="1522389307873">
         <mark key="[" line="14" column="53" />
