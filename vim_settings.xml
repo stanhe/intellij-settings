@@ -3,10 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginActivity.kt" timestamp="1522393033117">
-        <mark key="[" line="52" column="10" />
-        <mark key="]" line="52" column="13" />
-        <mark key="." line="52" column="13" />
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginActivity.kt" timestamp="1522395168367">
+        <mark key="b" line="36" column="0" />
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="71" column="8" />
+        <mark key="]" line="70" column="38" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1522393527818">
         <mark key="'" line="514" column="17" />
@@ -37,12 +39,13 @@
         <mark key="^" line="12" column="97" />
         <mark key="." line="12" column="97" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" timestamp="1522392033454">
-        <mark key="'" line="19" column="35" />
-        <mark key="[" line="35" column="28" />
-        <mark key="]" line="38" column="3" />
-        <mark key="^" line="38" column="3" />
-        <mark key="." line="38" column="3" />
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" timestamp="1522394579331">
+        <mark key="a" line="26" column="0" />
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/Register.kt" timestamp="1522381363252">
         <mark key="[" line="5" column="20" />
@@ -60,21 +63,19 @@
         <mark key="." line="26" column="8" />
         <mark key="^" line="29" column="2" />
       </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/AccountContract.kt" timestamp="1522396290335">
+        <mark key="[" line="27" column="52" />
+      </file>
       <file name="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/StorageInfo.java" timestamp="1520563805752">
         <mark key="[" line="20" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/MS10Receiver.java" timestamp="1520997663275">
         <mark key="[" line="10" column="26" />
       </file>
-      <file name="F:/360Downloads/Passwordlib/passwddialoglibrary/build.gradle" timestamp="1522286838844">
-        <mark key="[" line="36" column="5" />
-        <mark key="]" line="36" column="4" />
-        <mark key="." line="36" column="4" />
-      </file>
       <file name="F:/360Downloads/Passwordlib/build.gradle" timestamp="1522286849592">
         <mark key="[" line="20" column="17" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1522390301681">
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1522394852471">
         <mark key="'" line="28" column="35" />
         <mark key="[" line="28" column="35" />
         <mark key="]" line="28" column="35" />
@@ -157,15 +158,15 @@
         <mark key="." line="60" column="11" />
         <mark key="^" line="60" column="11" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" timestamp="1522392564639">
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" timestamp="1522395877750">
         <mark key="a" line="27" column="56" />
         <mark key="b" line="29" column="36" />
         <mark key="c" line="19" column="23" />
         <mark key="'" line="27" column="8" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="48" column="75" />
+        <mark key="]" line="48" column="75" />
+        <mark key="^" line="48" column="75" />
+        <mark key="." line="48" column="75" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainContract.kt" timestamp="1522388200256">
         <mark key="[" line="18" column="21" />
@@ -188,7 +189,7 @@
       <file name="F:/git_desk/T0227/tt1/src/main/res/values/strings.xml" timestamp="1520302546462">
         <mark key="[" line="1" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522392308439">
+      <file name="/Dummy.txt" timestamp="1522394906840">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/360Downloads/Passwordlib/passwddialoglibrary/src/main/java/com/stan/passwddialoglibrary/PasswdDialog.java" timestamp="1522286292429">
@@ -200,6 +201,12 @@
       </file>
       <file name="F:/360Downloads/Passwordlib/app/src/main/res/layout/activity_main.xml" timestamp="1522286309722">
         <mark key="[" line="8" column="13" />
+      </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/RegisterActivity.kt" timestamp="1522396436100">
+        <mark key="[" line="44" column="85" />
+        <mark key="]" line="44" column="94" />
+        <mark key="^" line="44" column="94" />
+        <mark key="." line="44" column="94" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/OrganizationListData.kt" timestamp="1522387561101">
         <mark key="[" line="5" column="48" />
@@ -248,10 +255,12 @@
       <file name="F:/360Downloads/Passwordlib/app/src/main/java/com/stan/passwordlib/MainActivity.java" timestamp="1522286321338">
         <mark key="[" line="11" column="47" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/RegisterPresenter.kt" timestamp="1522389886591">
-        <mark key="[" line="27" column="7" />
-        <mark key="]" line="27" column="7" />
-        <mark key="." line="27" column="7" />
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/RegisterPresenter.kt" timestamp="1522396383339">
+        <mark key="'" line="17" column="5" />
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="36" column="23" />
+        <mark key="." line="36" column="23" />
+        <mark key="^" line="36" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1521005178927">
         <mark key="[" line="40" column="15" />
@@ -286,16 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="21" filename="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/java/com/dou361/ijkplayer/widget/PlayerView.java" />
-      <jump line="490" column="8" filename="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/java/com/dou361/ijkplayer/widget/PlayerView.java" />
-      <jump line="499" column="12" filename="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/java/com/dou361/ijkplayer/widget/PlayerView.java" />
-      <jump line="515" column="79" filename="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/java/com/dou361/ijkplayer/widget/PlayerView.java" />
-      <jump line="138" column="24" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/MainActivity.java" />
-      <jump line="31" column="35" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
-      <jump line="42" column="8" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
-      <jump line="44" column="11" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
-      <jump line="48" column="80" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
-      <jump line="49" column="43" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
       <jump line="60" column="41" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
       <jump line="65" column="102" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
       <jump line="67" column="12" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
@@ -381,21 +380,31 @@
       <jump line="28" column="16" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
       <jump line="13" column="12" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/AccountContract.kt" />
       <jump line="2" column="7" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
-      <jump line="19" column="35" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="11" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
       <jump line="51" column="20" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
       <jump line="27" column="8" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
       <jump line="514" column="17" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="25" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
+      <jump line="53" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
+      <jump line="79" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginActivity.kt" />
+      <jump line="52" column="75" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginActivity.kt" />
+      <jump line="42" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
+      <jump line="57" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
+      <jump line="49" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginActivity.kt" />
+      <jump line="20" column="35" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
+      <jump line="19" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
+      <jump line="61" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
+      <jump line="12" column="5" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/RegisterPresenter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICB2aWV3Py50b0hvbWVQYWdlKCkKICAgICAgICAvKiAgYXBpLmxvZ2luKHBob2UsIHBhc3N3b3JkKQogICAgICAgICAgICAgICAgLmNvbXBvc2UoUnhVdGlscy48QmFzZUJhY2tEYXRhPmFwcGx5U2NoZWR1bGVycygpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZShuZXcgT2JzZXJ2ZXI8QmFzZUJhY2tEYXRhPigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvblN1YnNjcmliZShEaXNwb3NhYmxlIGQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWRkRGlzcG9zYWJsZShkKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uTmV4dChCYXNlQmFja0RhdGEgYmFzZUJhY2tEYXRhKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZpZXcudG9Ib21lUGFnZSgpOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25FcnJvcihUaHJvd2FibGUgZSkgewogICAgICAgICAgICAgICAgICAgICAgICB2aWV3LnNob3dNZXNzYWdlKCJlcnJvciA6ICIrZSk7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNvbXBsZXRlKCkgewoKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsqLw==</text>
+        <text>?:&quot;null&quot;</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>phone: String, password: String</text>
+        <text>?:&quot;null&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja1ZlcnNpb25cPg==</text>
@@ -403,64 +412,35 @@
       <register name="0" type="4">
         <text encoding="base64">IG92ZXJyaWRlIGZ1biBnZXRBcmVhKCkgewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQ==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICB2aWV3Py50b0hvbWVQYWdlKCkKICAgICAgICAvKiAgYXBpLmxvZ2luKHBob2UsIHBhc3N3b3JkKQogICAgICAgICAgICAgICAgLmNvbXBvc2UoUnhVdGlscy48QmFzZUJhY2tEYXRhPmFwcGx5U2NoZWR1bGVycygpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZShuZXcgT2JzZXJ2ZXI8QmFzZUJhY2tEYXRhPigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvblN1YnNjcmliZShEaXNwb3NhYmxlIGQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWRkRGlzcG9zYWJsZShkKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uTmV4dChCYXNlQmFja0RhdGEgYmFzZUJhY2tEYXRhKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZpZXcudG9Ib21lUGFnZSgpOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25FcnJvcihUaHJvd2FibGUgZSkgewogICAgICAgICAgICAgICAgICAgICAgICB2aWV3LnNob3dNZXNzYWdlKCJlcnJvciA6ICIrZSk7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNvbXBsZXRlKCkgewoKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsqLw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmVzZW50ZXIubG9naW4oIjEwMDg2IiwiMTIzIikK</text>
       </register>
-      <register name="2" type="4">
-        <text>override fun login(</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>override fun login(</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmlldz8udG9Ib21lUGFnZSgpCiAgICAgICAgLyogIGFwaS5sb2dpbihwaG9lLCBwYXNzd29yZCkKICAgICAgICAgICAgICAgIC5jb21wb3NlKFJ4VXRpbHMuPEJhc2VCYWNrRGF0YT5hcHBseVNjaGVkdWxlcnMoKSkKICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUobmV3IE9ic2VydmVyPEJhc2VCYWNrRGF0YT4oKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25TdWJzY3JpYmUoRGlzcG9zYWJsZSBkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGFkZERpc3Bvc2FibGUoZCk7CiAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>override fun login(</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">cGhvbmU6IFN0cmluZywgcGFzc3dvcmQ6IFN0cmluZykgewogICAgICAgIHZpZXc/LnRvSG9tZVBhZ2UoKQogICAgICAgIC8qICBhcGkubG9naW4ocGhvZSwgcGFzc3dvcmQpCiAgICAgICAgICAgICAgICAuY29tcG9zZShSeFV0aWxzLjxCYXNlQmFja0RhdGE+YXBwbHlTY2hlZHVsZXJzKCkpCiAgICAgICAgICAgICAgICAuc3Vic2NyaWJlKG5ldyBPYnNlcnZlcjxCYXNlQmFja0RhdGE+KCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU3Vic2NyaWJlKERpc3Bvc2FibGUgZCkgewogICAgICAgICAgICAgICAgICAgICAgICBhZGREaXNwb3NhYmxlKGQpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2aWV3Py50b0hvbWVQYWdlKCkKICAgICAgICAvKiAgYXBpLmxvZ2luKHBob2UsIHBhc3N3b3JkKQogICAgICAgICAgICAgICAgLmNvbXBvc2UoUnhVdGlscy48QmFzZUJhY2tEYXRhPmFwcGx5U2NoZWR1bGVycygpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZShuZXcgT2JzZXJ2ZXI8QmFzZUJhY2tEYXRhPigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvblN1YnNjcmliZShEaXNwb3NhYmxlIGQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWRkRGlzcG9zYWJsZShkKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uTmV4dChCYXNlQmFja0RhdGEgYmFzZUJhY2tEYXRhKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZpZXcudG9Ib21lUGFnZSgpOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25FcnJvcihUaHJvd2FibGUgZSkgewogICAgICAgICAgICAgICAgICAgICAgICB2aWV3LnNob3dNZXNzYWdlKCJlcnJvciA6ICIrZSk7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNvbXBsZXRlKCkgewoKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsqLw==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="4">
-        <text>package com.stan.shareeducation.account
-
-import com.stan.shareeducation.base.DisposablePresenter
-import com.stan.shareeducation.net.Api
-
-import javax.inject.Inject
-
-/**
- * Created by uu on 2018/1/9.
- */
-class LoginPresenter @Inject constructor() : DisposablePresenter(), AccountContract.Login_Presenter {
-
-    var view: AccountContract.Login_View? = null
-
-    @Inject
-    lateinit var api: Api
-
-
-    override fun takeView(view: AccountContract.Login_View) {
-        this.view = view
-    }
-
-    override fun dropView() {
-        clearDisposable()
-        this.view = null
-    }
-
-    override fun login(</text>
+        <text encoding="base64">ICAgICAgIGFwaS5ob21lKCkKICAgICAgICAgICAgICAgIC5jb21wb3NlKFJ4VXRpbHMuYXBwbHlTY2hlZHVsZXJzKCkpCiAgICAgICAgICAgICAgICAuc3Vic2NyaWJlKG9iamVjdCA6IE9ic2VydmVyPEJhc2VCYWNrRGF0YT4gewogICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvblN1YnNjcmliZShkOiBEaXNwb3NhYmxlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGFkZERpc3Bvc2FibGUoZCkKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbk5leHQoYmFzZUJhY2tEYXRhOiBCYXNlQmFja0RhdGEpIHsKCiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gb25FcnJvcihlOiBUaHJvd2FibGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdmlldz8uc2hvd01lc3NhZ2UoImVycm9yOiAiICsgZSkKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkNvbXBsZXRlKCkgewoKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KQ==</text>
       </register>
       <register name="8" type="4">
-        <text>)
-        /*</text>
+        <text encoding="base64">ICAgICAgICB2aWV3Py50b0hvbWVQYWdlKCkKICAgICAgICAvKiAgYXBpLmxvZ2luKHBob2UsIHBhc3N3b3JkKQogICAgICAgICAgICAgICAgLmNvbXBvc2UoUnhVdGlscy48QmFzZUJhY2tEYXRhPmFwcGx5U2NoZWR1bGVycygpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZShuZXcgT2JzZXJ2ZXI8QmFzZUJhY2tEYXRhPigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvblN1YnNjcmliZShEaXNwb3NhYmxlIGQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWRkRGlzcG9zYWJsZShkKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uTmV4dChCYXNlQmFja0RhdGEgYmFzZUJhY2tEYXRhKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZpZXcudG9Ib21lUGFnZSgpOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25FcnJvcihUaHJvd2FibGUgZSkgewogICAgICAgICAgICAgICAgICAgICAgICB2aWV3LnNob3dNZXNzYWdlKCJlcnJvciA6ICIrZSk7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNvbXBsZXRlKCkgewoKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsqLw==</text>
       </register>
       <register name="9" type="4">
-        <text>{
-        view?.toHomePage()</text>
+        <text>override fun login(</text>
       </register>
       <register name=":" type="4">
         <text>n</text>
@@ -510,15 +490,15 @@ class LoginPresenter @Inject constructor() : DisposablePresenter(), AccountContr
         <entry>23,26s/int/String/i</entry>
         <entry>sp StartActivity.java</entry>
         <entry>vsp StartActivity.kt</entry>
-        <entry>q</entry>
         <entry>vsp MainPresenter</entry>
-        <entry>vsp MainPresenter.kt</entry>
         <entry>p</entry>
         <entry>b</entry>
-        <entry>n</entry>
         <entry>ci</entry>
         <entry>bn</entry>
         <entry>bp</entry>
+        <entry>vsp MainPresenter.kt</entry>
+        <entry>q</entry>
+        <entry>n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
