@@ -1,21 +1,14 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="F:/360Downloads/Passwordlib/app/build.gradle" timestamp="1522286659298" />
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1521092622801">
         <mark key="'" line="394" column="19" />
         <mark key="[" line="515" column="49" />
         <mark key="]" line="513" column="7" />
         <mark key="^" line="513" column="7" />
         <mark key="." line="513" column="7" />
-      </file>
-      <file name="G:/Android_test_project/AnExplorer-master/app/src/main/res/values/strings_extras.xml" timestamp="1521250668880">
-        <mark key="'" line="114" column="4" />
-      </file>
-      <file name="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/provider/ExternalStorageProvider.java" timestamp="1521250610976">
-        <mark key="'" line="217" column="61" />
       </file>
       <file name="F:/360Downloads/Passwordlib/passwddialoglibrary/src/main/res/values/strings.xml" timestamp="1522286019038">
         <mark key="'" line="9" column="47" />
@@ -39,8 +32,11 @@
         <mark key="^" line="12" column="97" />
         <mark key="." line="12" column="97" />
       </file>
-      <file name="G:/Android_test_project/USBCommunication/libaums/src/main/java/com/github/mjdev/libaums/UsbMassStorageDevice.java" timestamp="1521102054225">
-        <mark key="'" line="191" column="16" />
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/Register.kt" timestamp="1522381363252">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="4" />
       </file>
       <file name="G:/Android_test_project/AnExplorer-master/app/src/main/AndroidManifest.xml" timestamp="1521251632932">
         <mark key="[" line="103" column="19" />
@@ -51,9 +47,6 @@
         <mark key="]" line="26" column="8" />
         <mark key="." line="26" column="8" />
         <mark key="^" line="29" column="2" />
-      </file>
-      <file name="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/StandaloneActivity.java" timestamp="1521249329629">
-        <mark key="'" line="105" column="16" />
       </file>
       <file name="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/StorageInfo.java" timestamp="1520563805752">
         <mark key="[" line="20" column="5" />
@@ -96,11 +89,37 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="12" column="3" />
       </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/BaseBackData.kt" timestamp="1522379089037" />
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" timestamp="1522381908707">
+        <mark key="'" line="26" column="31" />
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="17" column="8" />
+        <mark key="^" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+      </file>
       <file name="G:/Android_test_project/InnerUpdate/innerupdatelib/build.gradle" timestamp="1521010239558">
         <mark key="[" line="33" column="85" />
       </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/BaseData.kt" timestamp="1522381061917">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="91" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/module/Myadaptaer.java" timestamp="1520298268664">
         <mark key="[" line="6" column="24" />
+      </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/SubjectListData.kt" timestamp="1522380970329">
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="6" column="102" />
+        <mark key="^" line="6" column="102" />
+        <mark key="." line="6" column="102" />
+      </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/OrganizationData.kt" timestamp="1522380798831">
+        <mark key="[" line="5" column="86" />
+        <mark key="]" line="5" column="86" />
+        <mark key="." line="5" column="86" />
+        <mark key="^" line="5" column="84" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/AndroidManifest.xml" timestamp="1520998039262">
         <mark key="[" line="237" column="19" />
@@ -142,6 +161,12 @@
       <file name="F:/360Downloads/Passwordlib/app/src/main/res/layout/activity_main.xml" timestamp="1522286309722">
         <mark key="[" line="8" column="13" />
       </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/OrganizationListData.kt" timestamp="1522381021409">
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="5" column="51" />
+        <mark key="^" line="5" column="51" />
+        <mark key="." line="5" column="51" />
+      </file>
       <file name="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/res/layout/simple_player_controlbar.xml" timestamp="1520218899128">
         <mark key="[" line="32" column="32" />
         <mark key="]" line="32" column="38" />
@@ -165,6 +190,9 @@
         <mark key="[" line="31" column="7" />
         <mark key="]" line="31" column="83" />
       </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/OrganizationBackData.java" timestamp="1522379979479">
+        <mark key="[" line="8" column="35" />
+      </file>
       <file name="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" timestamp="1521101901235">
         <mark key="'" line="75" column="38" />
         <mark key="[" line="42" column="47" />
@@ -183,9 +211,6 @@
       </file>
       <file name="F:/360Downloads/Passwordlib/app/src/main/java/com/stan/passwordlib/MainActivity.java" timestamp="1522286321338">
         <mark key="[" line="11" column="47" />
-      </file>
-      <file name="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/fragment/ConnectionsFragment.java" timestamp="1521250340296">
-        <mark key="'" line="57" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1521005178927">
         <mark key="[" line="40" column="15" />
@@ -206,7 +231,7 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1521251366468">
+      <file name="/fragment.java" timestamp="1522381948076">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/git_desk/T0227/lib/src/main/java/com/stan/lib/Test.java" timestamp="1519886007486">
@@ -217,14 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Utilities.java" />
-      <jump line="145" column="8" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Utilities.java" />
-      <jump line="154" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Utilities.java" />
-      <jump line="158" column="24" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Utilities.java" />
-      <jump line="160" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Utilities.java" />
-      <jump line="186" column="31" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Utilities.java" />
-      <jump line="322" column="29" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Utilities.java" />
-      <jump line="275" column="39" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherAppState.java" />
       <jump line="381" column="22" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
       <jump line="382" column="23" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
       <jump line="384" column="50" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/DeviceProfile.java" />
@@ -317,73 +334,76 @@
       <jump line="66" column="94" filename="F:/360Downloads/Passwordlib/passwddialoglibrary/src/main/java/com/stan/passwddialoglibrary/PasswdDialog.java" />
       <jump line="8" column="47" filename="F:/360Downloads/Passwordlib/passwddialoglibrary/src/main/res/values/strings.xml" />
       <jump line="70" column="95" filename="F:/360Downloads/Passwordlib/passwddialoglibrary/src/main/java/com/stan/passwddialoglibrary/PasswdDialog.java" />
+      <jump line="39" column="35" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
+      <jump line="19" column="8" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
+      <jump line="36" column="30" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
+      <jump line="28" column="37" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
+      <jump line="21" column="41" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
+      <jump line="20" column="12" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
+      <jump line="13" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
+      <jump line="25" column="31" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>implementation</text>
+        <text>GET</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>implementation</text>
+        <text>GET</text>
       </register>
       <register name="/" type="4">
-        <text>adapter</text>
+        <text>int</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icGFzc3dkX2RpYWxvZ19pbnB1dCI+x+vK5Mjrw9zC6zwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgIEBGb3JtVXJsRW5jb2RlZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEZpZWxkKCIicmVhaClhcmVhTmFtZTogU3RyaW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGJvb2xlYW4gY2hlY2tOZXdQYXNzd2QoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEZpZWxkKCJhcmVhX25hbWUiKWFyZWFOYW1lOiBTdHJpbmcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icGFzc3dkX2RpYWxvZ19jaGFuZ2UiPtDeuMTD3MLrPC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEZpZWxkKCJhcmVhX2lkIilhcmVhSWQ6IFN0cmluZywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEZpZWxkKCJ1c2VyX3B3ZCIpdXNlclB3ZDogU3RyaW5nLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkIHBhc3N3ZENoYW5nZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEZpZWxkKCJ1c2VyX2JpcnRoZGF5Iil1c2VyQmlydGhkYXk6IFN0cmluZwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEZpZWxkKCJ1c2VyX3JlYWxuYW1lIil1c2VyUmVhbE5hbWU6IFN0cmluZywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIG9uUGFzc3dkTGlzdGVuZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEZpZWxkKCJwYWdlX3NpemUiKWR3YXJlYUlkOiBJbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>31,36s/message/storage/g</text>
+        <text>23,26s/int/String/i</text>
       </register>
     </registers>
     <search>
-      <last-search>adapter</last-search>
+      <last-search>int</last-search>
       <last-offset />
-      <last-pattern>adapter</last-pattern>
-      <last-replace>storage</last-replace>
-      <last-substitute>message</last-substitute>
+      <last-pattern>int</last-pattern>
+      <last-replace>String</last-replace>
+      <last-substitute>int</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpY29uU2l6ZVB4XD4=</entry>
-        <entry encoding="base64">XDxpY29uU2l6ZVw+</entry>
-        <entry encoding="base64">XDxjbG9zZU5vdGlmaWNhdGlvblw+</entry>
-        <entry encoding="base64">XDxpXD4=</entry>
-        <entry encoding="base64">XDxub3RpZmljYXRpb25cPg==</entry>
         <entry>setaS</entry>
         <entry>setaSpect</entry>
         <entry>set</entry>
@@ -399,17 +419,13 @@
         <entry>popup</entry>
         <entry>Popup</entry>
         <entry>adapter</entry>
+        <entry>20,21s</entry>
+        <entry>String</entry>
+        <entry>Int</entry>
+        <entry>string</entry>
+        <entry>int</entry>
       </history-search>
       <history-cmd>
-        <entry>set nu</entry>
-        <entry>set nnu</entry>
-        <entry>set number</entry>
-        <entry>set norelativenumber</entry>
-        <entry>135,140s/x/y/g</entry>
-        <entry>s/x/y</entry>
-        <entry>16,28s/init1/init/g</entry>
-        <entry>files</entry>
-        <entry>N</entry>
         <entry>2N</entry>
         <entry>n</entry>
         <entry>set nonumber</entry>
@@ -421,6 +437,15 @@
         <entry>ai</entry>
         <entry>q</entry>
         <entry>31,36s/message/storage/g</entry>
+        <entry>37,41 s/String/Int/g</entry>
+        <entry>21s/String/Int/s</entry>
+        <entry>21s/String/Int/g</entry>
+        <entry>s/int/String/i</entry>
+        <entry>21s/string/int/i</entry>
+        <entry>21/int/String</entry>
+        <entry>21s/int/String/</entry>
+        <entry>21s/string/Int/i</entry>
+        <entry>23,26s/int/String/i</entry>
       </history-cmd>
       <history-expr />
       <history-input />
