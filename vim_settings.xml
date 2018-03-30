@@ -69,13 +69,11 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
       </file>
-      <file name="F:/git_desk/libaums/build.gradle" timestamp="1521101585102">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="54" column="0" />
-      </file>
-      <file name="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/DocumentsActivity.java" timestamp="1521251531718">
-        <mark key="[" line="322" column="8" />
-        <mark key="]" line="339" column="8" />
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/AreaListData.kt" timestamp="1522387421430">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="4" />
       </file>
       <file name="G:/Android_test_project/USBWriter/app/build.gradle" timestamp="1520564276684">
         <mark key="[" line="27" column="0" />
@@ -90,12 +88,12 @@
         <mark key="^" line="12" column="3" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/BaseBackData.kt" timestamp="1522379089037" />
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" timestamp="1522381908707">
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" timestamp="1522387587956">
         <mark key="'" line="26" column="31" />
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="17" column="8" />
+        <mark key="[" line="36" column="44" />
+        <mark key="]" line="36" column="44" />
         <mark key="^" line="17" column="8" />
-        <mark key="." line="17" column="8" />
+        <mark key="." line="36" column="44" />
       </file>
       <file name="G:/Android_test_project/InnerUpdate/innerupdatelib/build.gradle" timestamp="1521010239558">
         <mark key="[" line="33" column="85" />
@@ -109,11 +107,11 @@
       <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/module/Myadaptaer.java" timestamp="1520298268664">
         <mark key="[" line="6" column="24" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/SubjectListData.kt" timestamp="1522380970329">
-        <mark key="[" line="5" column="39" />
-        <mark key="]" line="6" column="102" />
-        <mark key="^" line="6" column="102" />
-        <mark key="." line="6" column="102" />
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/SubjectListData.kt" timestamp="1522387575519">
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="46" />
+        <mark key="^" line="5" column="46" />
+        <mark key="." line="5" column="46" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/OrganizationData.kt" timestamp="1522380798831">
         <mark key="[" line="5" column="86" />
@@ -161,7 +159,7 @@
       <file name="F:/360Downloads/Passwordlib/app/src/main/res/layout/activity_main.xml" timestamp="1522286309722">
         <mark key="[" line="8" column="13" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/OrganizationListData.kt" timestamp="1522381021409">
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/OrganizationListData.kt" timestamp="1522387561101">
         <mark key="[" line="5" column="48" />
         <mark key="]" line="5" column="51" />
         <mark key="^" line="5" column="51" />
@@ -185,10 +183,6 @@
         <mark key="]" line="91" column="12" />
         <mark key="." line="91" column="12" />
         <mark key="^" line="91" column="12" />
-      </file>
-      <file name="G:/Android_test_project/InnerUpdate/app/src/main/java/com/stan/innerupdate/MainActivity.java" timestamp="1521092554747">
-        <mark key="[" line="31" column="7" />
-        <mark key="]" line="31" column="83" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/OrganizationBackData.java" timestamp="1522379979479">
         <mark key="[" line="8" column="35" />
@@ -345,13 +339,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GET</text>
+        <text>Register</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>GET</text>
+        <text>Register</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
