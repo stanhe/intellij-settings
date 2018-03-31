@@ -266,12 +266,12 @@
         <mark key="." line="36" column="23" />
         <mark key="^" line="36" column="23" />
       </file>
-      <file name="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" timestamp="1522465923323">
-        <mark key="'" line="19" column="4" />
-        <mark key="[" line="22" column="17" />
-        <mark key="]" line="22" column="17" />
-        <mark key="^" line="22" column="17" />
-        <mark key="." line="22" column="17" />
+      <file name="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" timestamp="1522468161370">
+        <mark key="'" line="20" column="4" />
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="24" column="27" />
+        <mark key="^" line="24" column="27" />
+        <mark key="." line="24" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1521005178927">
         <mark key="[" line="40" column="15" />
@@ -408,56 +408,56 @@
       <jump line="19" column="4" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>start</text>
+      <register name="&quot;" type="8">
+        <text>private
+private</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>@Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView</text>
+        <text>start</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+      <register name="1" type="8">
+        <text>private
+private</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="8">
+        <text>public 
+ public</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="8">
+        <text encoding="base64">cHVibGljIApwdWJsaWMg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3Owo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBsb29rKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICkK</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3Owo=</text>
+      </register>
       <register name=":" type="4">
-        <text>n</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
@@ -465,7 +465,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-replace>String</last-replace>
-      <last-substitute encoding="base64">XDxjaGVja1ZlcnNpb25cPg==</last-substitute>
+      <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -493,12 +493,6 @@
         <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>37,41 s/String/Int/g</entry>
-        <entry>21s/String/Int/s</entry>
-        <entry>21s/String/Int/g</entry>
-        <entry>s/int/String/i</entry>
-        <entry>21s/string/int/i</entry>
-        <entry>21/int/String</entry>
         <entry>21s/int/String/</entry>
         <entry>21s/string/Int/i</entry>
         <entry>23,26s/int/String/i</entry>
@@ -513,6 +507,12 @@
         <entry>vsp MainPresenter.kt</entry>
         <entry>q</entry>
         <entry>n</entry>
+        <entry>vsp activity_main.xml</entry>
+        <entry>vsp MainActivity.java</entry>
+        <entry>dir l</entry>
+        <entry>dir k</entry>
+        <entry>sp</entry>
+        <entry>dir j</entry>
       </history-cmd>
       <history-expr />
       <history-input />
