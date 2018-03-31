@@ -266,12 +266,12 @@
         <mark key="." line="36" column="23" />
         <mark key="^" line="36" column="23" />
       </file>
-      <file name="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" timestamp="1522401732939">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="22" />
-        <mark key="." line="20" column="22" />
-        <mark key="^" line="20" column="22" />
+      <file name="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" timestamp="1522464710323">
+        <mark key="'" line="19" column="4" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="17" column="19" />
+        <mark key="^" line="17" column="19" />
+        <mark key="." line="17" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1521005178927">
         <mark key="[" line="40" column="15" />
@@ -306,7 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="4" filename="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" />
       <jump line="7" column="0" filename="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" />
       <jump line="22" column="0" filename="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" />
       <jump line="9" column="25" filename="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" />
@@ -402,65 +401,69 @@
       <jump line="4" column="0" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
       <jump line="14" column="4" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
       <jump line="17" column="4" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
-      <jump line="19" column="0" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
       <jump line="5" column="0" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
       <jump line="18" column="16" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
       <jump line="16" column="0" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
+      <jump line="10" column="18" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
+      <jump line="19" column="4" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>start</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja1ZlcnNpb25cPg==</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IG92ZXJyaWRlIGZ1biBnZXRBcmVhKCkgewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQ==</text>
+        <text>@Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3Owo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBsb29rKAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3Owo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBsb29rKAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0Vmlldwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZShUKQo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja1ZlcnNpb25cPg==</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja1ZlcnNpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-replace>String</last-replace>
       <last-substitute encoding="base64">XDxjaGVja1ZlcnNpb25cPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -468,7 +471,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2JNYXNzU3RvcmFnZURldmljZXNcPg==</entry>
         <entry>could not</entry>
         <entry>message</entry>
         <entry>oncreate</entry>
@@ -488,6 +490,7 @@
         <entry>}</entry>
         <entry encoding="base64">XDxwaG9uZVw+</entry>
         <entry encoding="base64">XDxjaGVja1ZlcnNpb25cPg==</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>37,41 s/String/Int/g</entry>
