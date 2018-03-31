@@ -266,12 +266,13 @@
         <mark key="." line="36" column="23" />
         <mark key="^" line="36" column="23" />
       </file>
-      <file name="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" timestamp="1522468161370">
-        <mark key="'" line="20" column="4" />
-        <mark key="[" line="24" column="27" />
-        <mark key="]" line="24" column="27" />
-        <mark key="^" line="24" column="27" />
-        <mark key="." line="24" column="27" />
+      <file name="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" timestamp="1522475298302">
+        <mark key="'" line="17" column="17" />
+        <mark key="[" line="22" column="17" />
+        <mark key="l" line="14" column="8" />
+        <mark key="]" line="22" column="41" />
+        <mark key="^" line="22" column="41" />
+        <mark key="." line="22" column="22" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1521005178927">
         <mark key="[" line="40" column="15" />
@@ -399,18 +400,17 @@
       <jump line="7" column="0" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
       <jump line="8" column="51" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
       <jump line="4" column="0" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
-      <jump line="14" column="4" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
-      <jump line="17" column="4" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
       <jump line="5" column="0" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
       <jump line="18" column="16" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
       <jump line="16" column="0" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
       <jump line="10" column="18" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
       <jump line="19" column="4" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
+      <jump line="14" column="8" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
+      <jump line="17" column="17" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>private
-private</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -419,51 +419,51 @@ private</text>
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwpXD4=</text>
+        <text encoding="base64">PHNldA==</text>
       </register>
       <register name="0" type="4">
         <text>start</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgYixjLGQ9OTsK</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsIihtYXAgKCsxKShcImZvb2xcIikiKTsKICAgICAgICBMb2cuZShUQUcsICJoZWxsbyIpOw==</text>
+      </register>
+      <register name="3" type="8">
         <text>private
 private</text>
       </register>
-      <register name="2" type="8">
+      <register name="4" type="8">
         <text>public 
  public</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text encoding="base64">cHVibGljIApwdWJsaWMg</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>sp</text>
+        <text>15m25</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-search encoding="base64">PHNldA==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-pattern encoding="base64">PHNldA==</last-pattern>
       <last-replace>String</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -471,8 +471,6 @@ private</text>
     </search>
     <history>
       <history-search>
-        <entry>could not</entry>
-        <entry>message</entry>
         <entry>oncreate</entry>
         <entry>onCreate</entry>
         <entry>Home</entry>
@@ -491,21 +489,10 @@ private</text>
         <entry encoding="base64">XDxwaG9uZVw+</entry>
         <entry encoding="base64">XDxjaGVja1ZlcnNpb25cPg==</entry>
         <entry encoding="base64">XDwpXD4=</entry>
+        <entry encoding="base64">XDxpbml0XD4=</entry>
+        <entry encoding="base64">PHNldA==</entry>
       </history-search>
       <history-cmd>
-        <entry>21s/int/String/</entry>
-        <entry>21s/string/Int/i</entry>
-        <entry>23,26s/int/String/i</entry>
-        <entry>sp StartActivity.java</entry>
-        <entry>vsp StartActivity.kt</entry>
-        <entry>vsp MainPresenter</entry>
-        <entry>p</entry>
-        <entry>b</entry>
-        <entry>ci</entry>
-        <entry>bn</entry>
-        <entry>bp</entry>
-        <entry>vsp MainPresenter.kt</entry>
-        <entry>q</entry>
         <entry>n</entry>
         <entry>vsp activity_main.xml</entry>
         <entry>vsp MainActivity.java</entry>
@@ -513,6 +500,19 @@ private</text>
         <entry>dir k</entry>
         <entry>sp</entry>
         <entry>dir j</entry>
+        <entry>q</entry>
+        <entry>t2</entry>
+        <entry>t15</entry>
+        <entry>,+t0</entry>
+        <entry>,+t1</entry>
+        <entry>t.</entry>
+        <entry>t14</entry>
+        <entry>m.</entry>
+        <entry>m15</entry>
+        <entry>m14</entry>
+        <entry>m13</entry>
+        <entry>m18</entry>
+        <entry>15m25</entry>
       </history-cmd>
       <history-expr />
       <history-input />
