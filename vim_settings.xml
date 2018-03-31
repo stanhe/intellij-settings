@@ -266,13 +266,13 @@
         <mark key="." line="36" column="23" />
         <mark key="^" line="36" column="23" />
       </file>
-      <file name="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" timestamp="1522477371959">
+      <file name="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" timestamp="1522480072595">
         <mark key="'" line="21" column="8" />
-        <mark key="[" line="8" column="53" />
+        <mark key="[" line="24" column="0" />
         <mark key="l" line="14" column="8" />
-        <mark key="]" line="9" column="3" />
+        <mark key="]" line="24" column="0" />
         <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="3" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1521005178927">
         <mark key="[" line="40" column="15" />
@@ -409,15 +409,14 @@
       <jump line="21" column="8" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>public
-public</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>hello</text>
+        <text>Toast.makeText(this, &quot;sayNothing&quot;, Toast.LENGTH_SHORT).show();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PHNldA==</text>
@@ -425,40 +424,40 @@ public</text>
       <register name="0" type="4">
         <text>start</text>
       </register>
-      <register name="1" type="8">
-        <text>public
-public</text>
-      </register>
-      <register name="2" type="8">
-        <text>public
-public</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxsbwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGtrCg==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCAic2F5Tm90aGluZyIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwo=</text>
+      </register>
+      <register name="3" type="8">
+        <text>public
+public</text>
+      </register>
+      <register name="4" type="8">
+        <text>public
+public</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBoZWxsbwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYSA9MjsKICAgICAgICBrCg==</text>
+        <text encoding="base64">ICAgIGtrCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgYSA9MjsKICAgICAgICBrCg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoYSA9PSAoYiAqIGMpIC9kKSB7CgogICAgICAgIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsICJzdGFydCIpOwogICAgICAgIExvZy5lKFRBRywgImVuZCIpOw==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHByaXZhdGUgdm9pZCBpbml0KCkgewogICAgICAgIExvZy5lKFRBRywgInN0YXJ0Iik7CiAgICAgICAgTG9nLmUoVEFHLCAiZW5kIik7CiAgICB9</text>
-      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5tMjE=</text>
+        <text>t.</text>
       </register>
     </registers>
     <search>
@@ -509,11 +508,11 @@ public</text>
         <entry>,+2t23</entry>
         <entry>,+t0</entry>
         <entry>.</entry>
-        <entry>t.</entry>
         <entry>m23</entry>
         <entry>m26</entry>
         <entry>m27</entry>
         <entry encoding="base64">JzwsJz5tMjE=</entry>
+        <entry>t.</entry>
       </history-cmd>
       <history-expr />
       <history-input />
