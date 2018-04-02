@@ -324,12 +324,12 @@
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/AgencyDetail.kt" timestamp="1522390244235">
         <mark key="[" line="21" column="44" />
       </file>
-      <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" timestamp="1522638203221">
+      <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" timestamp="1522639155255">
         <mark key="'" line="238" column="60" />
-        <mark key="[" line="259" column="26" />
-        <mark key="]" line="259" column="24" />
-        <mark key="." line="259" column="24" />
-        <mark key="^" line="259" column="24" />
+        <mark key="[" line="263" column="0" />
+        <mark key="]" line="263" column="38" />
+        <mark key="." line="263" column="0" />
+        <mark key="^" line="265" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1522381948076">
         <mark key="[" line="0" column="0" />
@@ -444,14 +444,14 @@
       <jump line="238" column="60" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlMb2cuZShUQUcsICJvaWQgaXMgOiAiICsgb2lkKTsK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>hexNu</text>
@@ -460,34 +460,34 @@
         <text>String.format(&quot;%02x&quot;, txValue[i]);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQloZXhOdS4K</text>
+        <text encoding="base64">CQlMb2cuZShUQUcsICJvaWQgaXMgOiAiICsgb2lkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlTdHJpbmcgb2lkID0gU3RyaW5nLmZvcm1hdCgiJWgiLCBoZXhOdSk7Cg==</text>
+        <text encoding="base64">CQlmb3IgKGludCBpID0gMDsgaSA8IC50b0NoYXJBcnJheSgpLmxlbmd0aDsgaSsrKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
+        <text encoding="base64">CQlMb2cuZShUQUcsICJvaWQgOiAiICsgb2lkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+        <text encoding="base64">CQlkZFN0cmluZyBvaWQgPSBTdHJpbmcuZm9ybWF0KCIlZCIsIFN0cmluZyAuZm9ybWF0KCIlIixoZXhOdSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQloZXhOdS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTdHJpbmcgb2lkID0gU3RyaW5nLmZvcm1hdCgiJWgiLCBoZXhOdSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>put</text>
