@@ -122,6 +122,9 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/26.1.0/2b34456c30d6b6e5db5fa3e8fa02f6cebd5531fd/appcompat-v7-26.1.0-sources.jar!/android/support/v7/app/AppCompatActivity.java" timestamp="1522632642185">
+        <mark key="'" line="138" column="16" />
+      </file>
       <file name="G:/Android_test_project/InnerUpdate/innerupdatelib/build.gradle" timestamp="1521010239558">
         <mark key="[" line="33" column="85" />
       </file>
@@ -218,6 +221,13 @@
         <mark key="^" line="5" column="51" />
         <mark key="." line="5" column="51" />
       </file>
+      <file name="E:/Test/D0402/app/src/main/java/com/stan/d0402/MainActivity.java" timestamp="1522633131064">
+        <mark key="'" line="13" column="8" />
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="20" column="8" />
+      </file>
       <file name="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/res/layout/simple_player_controlbar.xml" timestamp="1520218899128">
         <mark key="[" line="32" column="32" />
         <mark key="]" line="32" column="38" />
@@ -309,14 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="12" filename="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/MainActivity.java" />
-      <jump line="7" column="51" filename="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" />
-      <jump line="16" column="34" filename="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" />
-      <jump line="150" column="25" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="296" column="32" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="393" column="19" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="75" column="38" filename="G:/Android_test_project/USBCommunication/app/src/main/java/com/example/calderon/usbcommunication/UsbCommunicationManager.java" />
-      <jump line="191" column="16" filename="G:/Android_test_project/USBCommunication/libaums/src/main/java/com/github/mjdev/libaums/UsbMassStorageDevice.java" />
       <jump line="243" column="50" filename="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/StandaloneActivity.java" />
       <jump line="272" column="19" filename="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/StandaloneActivity.java" />
       <jump line="273" column="14" filename="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/StandaloneActivity.java" />
@@ -409,57 +411,65 @@
       <jump line="18" column="8" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
       <jump line="28" column="29" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
       <jump line="17" column="8" filename="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" />
+      <jump line="7" column="51" filename="E:/Test/D0402/app/src/main/java/com/stan/d0402/MainActivity.java" />
+      <jump line="18" column="3" filename="E:/Test/D0402/app/src/main/java/com/stan/d0402/MainActivity.java" />
+      <jump line="16" column="0" filename="E:/Test/D0402/app/src/main/java/com/stan/d0402/MainActivity.java" />
+      <jump line="138" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/26.1.0/2b34456c30d6b6e5db5fa3e8fa02f6cebd5531fd/appcompat-v7-26.1.0-sources.jar!/android/support/v7/app/AppCompatActivity.java" />
+      <jump line="20" column="31" filename="E:/Test/D0402/app/src/main/java/com/stan/d0402/MainActivity.java" />
+      <jump line="19" column="21" filename="E:/Test/D0402/app/src/main/java/com/stan/d0402/MainActivity.java" />
+      <jump line="14" column="8" filename="E:/Test/D0402/app/src/main/java/com/stan/d0402/MainActivity.java" />
+      <jump line="13" column="8" filename="E:/Test/D0402/app/src/main/java/com/stan/d0402/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzYXlIZWxsbygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>setContentView(R.layout.activity_main);
+        init();</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcyBpcyBtYSA=</text>
+        <text>activity_main</text>
       </register>
       <register name="/" type="4">
         <text>say</text>
       </register>
       <register name="0" type="4">
-        <text>start</text>
+        <text>setContentView(R.layout.activity_main);
+        init();</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzYXlIZWxsbygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsICJ0aGlzIGlzIG0xIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwogICAgICAgIHNldENvbnRlbnRWaWV3KFIubGF5b3V0LmFjdGl2aXR5X21haW4pOwogICAgICAgIGluaXQoKTsKICAgICAgICBzYXlIZWxsbygpOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiTWFpbkFjdGl2aXR5IjsKICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50IG9rID0gMTsKCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwogICAgICAgIHNldENvbnRlbnRWaWV3KFIubGF5b3V0LmFjdGl2aXR5X21haW4pOwogICAgICAgIGluaXQoKTsKICAgICAgICBzYXlIZWxsbygpOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBzYXlIZWxsbygpIHsKICAgICAgICBMb2cuZShUQUcsICJzdGFydCIpOwogICAgICAgIFRvYXN0Lm1ha2VUZXh0KHRoaXMsICJzYXlOb3RoaW5nIiwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7CiAgICAgICAgTG9nLmUoVEFHLCAiZW5kIik7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGluaXQoKSB7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGludFZpZXcoKSB7CiAgICAgICAgTG9nLmUoVEFHLCIobWFwICgrMSkoXCJmb29sXCIpIik7CiAgICAgICAgTG9nLmUoVEFHLCAiaGVsbG8iKTsKCiAgICB9Cgo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCAic2F5Tm90aGluZyIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="8">
-        <text>public
-public</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
       </register>
-      <register name="8" type="8">
-        <text>public
-public</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkb090aGVySW5pdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxsbwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBkb090aGVySW5pdCgpIHsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>t25</text>
+        <text>put</text>
       </register>
     </registers>
     <search>
@@ -495,9 +505,6 @@ public</text>
         <entry>say</entry>
       </history-search>
       <history-cmd>
-        <entry>t15</entry>
-        <entry>,+t1</entry>
-        <entry>t14</entry>
         <entry>m.</entry>
         <entry>m15</entry>
         <entry>m14</entry>
@@ -513,8 +520,11 @@ public</text>
         <entry>m27</entry>
         <entry encoding="base64">JzwsJz5tMjE=</entry>
         <entry>m31</entry>
-        <entry>t.</entry>
         <entry>t25</entry>
+        <entry>m22</entry>
+        <entry>t.</entry>
+        <entry encoding="base64">cHV0ID4+</entry>
+        <entry>put</entry>
       </history-cmd>
       <history-expr />
       <history-input />
