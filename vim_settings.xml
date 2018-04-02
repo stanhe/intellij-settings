@@ -324,11 +324,12 @@
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/AgencyDetail.kt" timestamp="1522390244235">
         <mark key="[" line="21" column="44" />
       </file>
-      <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" timestamp="1522649561256">
-        <mark key="'" line="238" column="60" />
-        <mark key="[" line="258" column="38" />
-        <mark key="]" line="257" column="0" />
-        <mark key="." line="257" column="0" />
+      <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" timestamp="1522652476016">
+        <mark key="'" line="275" column="0" />
+        <mark key="[" line="261" column="12" />
+        <mark key="]" line="261" column="12" />
+        <mark key="." line="261" column="12" />
+        <mark key="^" line="261" column="12" />
       </file>
       <file name="/fragment.java" timestamp="1522381948076">
         <mark key="[" line="0" column="0" />
@@ -341,7 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
       <jump line="25" column="31" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
       <jump line="16" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="28" column="35" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" />
@@ -441,6 +441,7 @@
       <jump line="255" column="19" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
       <jump line="240" column="32" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
       <jump line="238" column="60" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
+      <jump line="275" column="0" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
