@@ -103,8 +103,8 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" timestamp="1522636003186">
-        <mark key="'" line="245" column="5" />
+      <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" timestamp="1522656247950">
+        <mark key="'" line="310" column="63" />
         <mark key="[" line="225" column="0" />
         <mark key="]" line="225" column="8" />
         <mark key="." line="225" column="8" />
@@ -324,8 +324,8 @@
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/AgencyDetail.kt" timestamp="1522390244235">
         <mark key="[" line="21" column="44" />
       </file>
-      <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" timestamp="1522652476016">
-        <mark key="'" line="275" column="0" />
+      <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" timestamp="1522656345249">
+        <mark key="'" line="191" column="31" />
         <mark key="[" line="261" column="12" />
         <mark key="]" line="261" column="12" />
         <mark key="." line="261" column="12" />
@@ -342,26 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="31" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
-      <jump line="16" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
-      <jump line="28" column="35" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" />
-      <jump line="49" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
-      <jump line="23" column="24" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
-      <jump line="30" column="16" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
-      <jump line="9" column="1" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
-      <jump line="42" column="20" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
-      <jump line="21" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
-      <jump line="50" column="20" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
-      <jump line="52" column="4" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
-      <jump line="47" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
-      <jump line="40" column="20" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
-      <jump line="45" column="20" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
-      <jump line="19" column="23" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
-      <jump line="31" column="36" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
-      <jump line="29" column="36" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
-      <jump line="0" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
-      <jump line="20" column="4" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
-      <jump line="25" column="4" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
       <jump line="35" column="20" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
       <jump line="28" column="16" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
       <jump line="13" column="12" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/AccountContract.kt" />
@@ -442,6 +422,26 @@
       <jump line="240" column="32" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
       <jump line="238" column="60" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
       <jump line="275" column="0" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
+      <jump line="326" column="8" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="335" column="43" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="348" column="25" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="363" column="12" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="365" column="15" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="30" column="26" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="74" column="24" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="87" column="29" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="56" column="29" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="341" column="73" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="126" column="12" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="316" column="73" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="57" column="29" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="124" column="12" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="310" column="63" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="199" column="12" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
+      <jump line="194" column="33" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
+      <jump line="204" column="37" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
+      <jump line="179" column="25" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
+      <jump line="191" column="31" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -454,7 +454,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>hexNu</text>
+        <text encoding="base64">XDxtR2F0dFVwZGF0ZVJlY2VpdmVyXD4=</text>
       </register>
       <register name="0" type="4">
         <text>String.format(&quot;%02x&quot;, txValue[i]);</text>
@@ -494,9 +494,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hexNu</last-search>
+      <last-search encoding="base64">XDxtR2F0dFVwZGF0ZVJlY2VpdmVyXD4=</last-search>
       <last-offset />
-      <last-pattern>hexNu</last-pattern>
+      <last-pattern encoding="base64">XDxtR2F0dFVwZGF0ZVJlY2VpdmVyXD4=</last-pattern>
       <last-replace>String</last-replace>
       <last-substitute encoding="base64">PHNldA==</last-substitute>
       <last-dir>1</last-dir>
@@ -504,11 +504,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Popup</entry>
-        <entry>adapter</entry>
-        <entry>20,21s</entry>
-        <entry>String</entry>
-        <entry>Int</entry>
         <entry>string</entry>
         <entry>int</entry>
         <entry>button</entry>
@@ -524,6 +519,11 @@
         <entry encoding="base64">XDxBQ1RJT05fR0FUVF9DT05ORUNURURcPg==</entry>
         <entry encoding="base64">XDxtR2F0dENhbGxiYWNrXD4=</entry>
         <entry>hexNu</entry>
+        <entry encoding="base64">XDxtQmx1ZXRvb3RoR2F0dFw+</entry>
+        <entry encoding="base64">XDxSWF9DSEFSX1VVSURcPg==</entry>
+        <entry encoding="base64">XDxUWF9DSEFSX1VVSURcPg==</entry>
+        <entry encoding="base64">XDxtYWtlR2F0dFVwZGF0ZUludGVudEZpbHRlclw+</entry>
+        <entry encoding="base64">XDxtR2F0dFVwZGF0ZVJlY2VpdmVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>m.</entry>
