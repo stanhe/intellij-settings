@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1522393527818">
@@ -45,6 +45,12 @@
         <mark key="^" line="12" column="97" />
         <mark key="." line="12" column="97" />
       </file>
+      <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/App.kt" timestamp="1522721122305">
+        <mark key="[" line="29" column="71" />
+        <mark key="]" line="32" column="28" />
+        <mark key="^" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" timestamp="1522719972477">
         <mark key="a" line="26" column="0" />
         <mark key="'" line="61" column="0" />
@@ -78,6 +84,9 @@
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/base/BaseActivity.kt" timestamp="1522719731889">
         <mark key="[" line="11" column="53" />
       </file>
+      <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/base/BaseFragment.kt" timestamp="1522721329645">
+        <mark key="[" line="16" column="32" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/AccountContract.kt" timestamp="1522397640919">
         <mark key="[" line="16" column="67" />
         <mark key="]" line="16" column="75" />
@@ -100,9 +109,10 @@
       <file name="F:/360Downloads/Passwordlib/build.gradle" timestamp="1522286849592">
         <mark key="[" line="20" column="17" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/base/DisposablePresenter.kt" timestamp="1522719372861" />
-      <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1522720627426">
-        <mark key="[" line="25" column="5" />
+      <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1522721221080">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="F:/360Downloads/Passwordlib/passwddialoglibrary/src/main/res/layout/passwddialog_main.xml" timestamp="1522285297176">
         <mark key="'" line="15" column="35" />
@@ -165,7 +175,6 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="D:/Software/sdk/sources/android-26/java/lang/annotation/Documented.java" timestamp="1522715728181" />
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/RetroApi.kt" timestamp="1522389307873">
         <mark key="[" line="14" column="53" />
       </file>
@@ -188,6 +197,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/home/MainActivityContract.kt" timestamp="1522720849646">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="9" />
+        <mark key="^" line="15" column="9" />
+        <mark key="." line="15" column="9" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/OrganizationData.kt" timestamp="1522380798831">
         <mark key="[" line="5" column="86" />
         <mark key="]" line="5" column="86" />
@@ -200,12 +215,17 @@
         <mark key="^" line="241" column="37" />
         <mark key="." line="241" column="37" />
       </file>
-      <file name="D:/Projects/Android/Dagger_Android/app/build.gradle" timestamp="1522717870114">
+      <file name="D:/Projects/Android/Dagger_Android/app/build.gradle" timestamp="1522721587823">
         <mark key="'" line="27" column="15" />
-        <mark key="[" line="30" column="54" />
-        <mark key="]" line="30" column="55" />
-        <mark key="." line="30" column="55" />
+        <mark key="[" line="50" column="38" />
+        <mark key="]" line="50" column="38" />
+        <mark key="." line="50" column="38" />
         <mark key="^" line="32" column="7" />
+      </file>
+      <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/home/MainFragment.kt" timestamp="1522721377990">
+        <mark key="[" line="40" column="23" />
+        <mark key="]" line="40" column="23" />
+        <mark key="." line="40" column="23" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" timestamp="1517973733309">
         <mark key="[" line="60" column="7" />
@@ -249,7 +269,6 @@
         <mark key="^" line="69" column="27" />
         <mark key="." line="69" column="27" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/di/ActivityBindingModule.kt" timestamp="1522719183557" />
       <file name="F:/360Downloads/Passwordlib/app/src/main/res/layout/activity_main.xml" timestamp="1522286309722">
         <mark key="[" line="8" column="13" />
       </file>
@@ -343,14 +362,12 @@
         <mark key="." line="36" column="23" />
         <mark key="^" line="36" column="23" />
       </file>
-      <file name="kotlinDecompiled/MainActivityPresenter.decompiled.java" timestamp="1522720070421" />
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1521005178927">
         <mark key="[" line="40" column="15" />
         <mark key="]" line="41" column="16" />
         <mark key="^" line="40" column="14" />
         <mark key="." line="41" column="16" />
       </file>
-      <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/util/SystemUiHider.java" timestamp="1522716978949" />
       <file name="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" timestamp="1520933862115">
         <mark key="'" line="16" column="34" />
         <mark key="[" line="17" column="31" />
@@ -358,7 +375,6 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/news/NewsPresenter.kt" timestamp="1522719358653" />
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/Test.java" timestamp="1519885199296">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="29" column="0" />
@@ -373,6 +389,12 @@
         <mark key="]" line="6" column="37" />
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
+      </file>
+      <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/home/MainActivityPresenter.kt" timestamp="1522720925436">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+        <mark key="^" line="18" column="24" />
       </file>
       <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" timestamp="1522662105240">
         <mark key="'" line="50" column="7" />
@@ -495,15 +517,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AndroidLogAdapter(
-               
-        )</text>
+        <text>implementationr</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>implementationr</text>
       </register>
       <register name="/" type="4">
         <text>testApi</text>
@@ -511,46 +531,35 @@
       <register name="0" type="4">
         <text encoding="base64">SW1wbGVtZW50YXRpb24g</text>
       </register>
-      <register name="1" type="4">
-        <text>AndroidLogAdapter(
-               
-        )</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IFByZXR0eUZvcm1hdFN0cmF0ZWd5Lm5ld0J1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAuc2hvd1RocmVhZEluZm8oZmFsc2UpICAvLyAoT3B0aW9uYWwpIFdoZXRoZXIgdG8gc2hvdyB0aHJlYWQgaW5mbyBvciBub3QuIERlZmF1bHQgdHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICAubWV0aG9kQ291bnQoNSkgICAgICAgICAvLyAoT3B0aW9uYWwpIEhvdyBtYW55IG1ldGhvZCBsaW5lIHRvIHNob3cuIERlZmF1bHQgMgogICAgICAgICAgICAgICAgICAgICAgICAubWV0aG9kT2Zmc2V0KDcpICAgICAgICAvLyAoT3B0aW9uYWwpIEhpZGVzIGludGVybmFsIG1ldGhvZCBjYWxscyB1cCB0byBvZmZzZXQuIERlZmF1bHQgNQogICAgICAgICAgICAgICAgICAgICAgICAudGFnKCJTdGFuIikgICAgICAgICAgICAvLyAoT3B0aW9uYWwpIEdsb2JhbCB0YWcgZm9yIGV2ZXJ5IGxvZy4gRGVmYXVsdCBQUkVUVFlfTE9HR0VSCiAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgp</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgb3ZlcnJpZGUgZnVuIG9uQ3JlYXRlVmlldyhpbmZsYXRlcjogTGF5b3V0SW5mbGF0ZXI/LCBjb250YWluZXI6IFZpZXdHcm91cD8sIHNhdmVkSW5zdGFuY2VTdGF0ZTogQnVuZGxlPyk6IFZpZXc/IHsKICAgICAgIGprayAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBpc0FjdGl2ZTogQm9vbGVhbgogICAgICAgIGdldCgpID0gaXNBZGRlZAoK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="5" type="4">
-        <text>override fun onResu() {
-        presenter.takeView(this)
-        super.onStart()
-    }
-
-
-    override fun onPause() {
-        presenter.dropView()
-        super.onPause()
-    }</text>
+        <text encoding="base64">IG92ZXJyaWRlIGZ1biBvblJlc3VtZSgpIHsKICAgICAgICBzdXBlci5vblJlc3VtZSgpCiAgICAgICAgcHJlc2VudGVyLnRha2VWaWV3KHRoaXMpCiAgICB9CgoKICAgIG92ZXJyaWRlIGZ1biBvblBhdXNlKCkgewogICAgICAgIHN1cGVyLm9uUGF1c2UoKQogICAgICAgIHByZXNlbnRlci5kcm9wVmlldygpCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBJbmplY3QKICAgIGxhdGVpbml0IHZhciBwcmVzZW50ZXI6IE1haW5BY3Rpdml0eVByZXNlbnRlcgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBpc0RhdGFNaXNzaW5nOiBCb29sZWFuCiAgICAgICAgZ2V0KCkgPSB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaXNEYXRhTWlzc2luZzogQm9vbGVhbgo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZVZpZXcoaW5mbGF0ZXI6IExheW91dEluZmxhdGVyPywgY29udGFpbmVyOiBWaWV3R3JvdXA/LCBzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pOiBWaWV3PyB7CiAgICAgICAgcmV0dXJuIGluZmxhdGVyISEuaW5mbGF0ZShSLmxheW91dC5mcmFnbWVudF9tYWluLCBjb250YWluZXIsIGZhbHNlKQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaXNBY3RpdmU6IEJvb2xlYW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/provided/compileOnly</text>
