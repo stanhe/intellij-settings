@@ -98,11 +98,11 @@
         <mark key="." line="5" column="4" />
       </file>
       <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" timestamp="1522656247950">
-        <mark key="'" line="310" column="63" />
-        <mark key="[" line="225" column="0" />
-        <mark key="]" line="225" column="8" />
-        <mark key="." line="225" column="8" />
-        <mark key="^" line="225" column="6" />
+        <mark key="'" line="309" column="63" />
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="224" column="8" />
+        <mark key="." line="224" column="8" />
+        <mark key="^" line="224" column="6" />
       </file>
       <file name="G:/Android_test_project/USBWriter/app/build.gradle" timestamp="1520564276684">
         <mark key="[" line="27" column="0" />
@@ -151,13 +151,20 @@
         <mark key="^" line="5" column="84" />
       </file>
       <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/SelectDeviceActivity.java" timestamp="1522635329964">
-        <mark key="'" line="167" column="12" />
+        <mark key="'" line="163" column="12" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/AndroidManifest.xml" timestamp="1520998039262">
         <mark key="[" line="237" column="19" />
         <mark key="]" line="241" column="37" />
         <mark key="^" line="241" column="37" />
         <mark key="." line="241" column="37" />
+      </file>
+      <file name="D:/Projects/Android/Dagger_Android/app/build.gradle" timestamp="1522717870114">
+        <mark key="'" line="27" column="15" />
+        <mark key="[" line="30" column="54" />
+        <mark key="]" line="30" column="55" />
+        <mark key="." line="30" column="55" />
+        <mark key="^" line="32" column="7" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" timestamp="1517973733309">
         <mark key="[" line="60" column="7" />
@@ -270,6 +277,7 @@
         <mark key="^" line="40" column="14" />
         <mark key="." line="41" column="16" />
       </file>
+      <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/util/SystemUiHider.java" timestamp="1522716978949" />
       <file name="G:/Android_test_project/TD0313/app/src/main/java/com/stan/td0313/MainActivity.java" timestamp="1520933862115">
         <mark key="'" line="16" column="34" />
         <mark key="[" line="17" column="31" />
@@ -290,11 +298,11 @@
         <mark key="^" line="6" column="37" />
       </file>
       <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" timestamp="1522662105240">
-        <mark key="'" line="58" column="7" />
-        <mark key="[" line="261" column="12" />
-        <mark key="]" line="261" column="12" />
-        <mark key="." line="261" column="12" />
-        <mark key="^" line="261" column="12" />
+        <mark key="'" line="50" column="7" />
+        <mark key="[" line="253" column="12" />
+        <mark key="]" line="253" column="12" />
+        <mark key="." line="253" column="12" />
+        <mark key="^" line="253" column="12" />
       </file>
       <file name="F:/git_desk/T0227/lib/src/main/java/com/stan/lib/Test.java" timestamp="1519886007486">
         <mark key="[" line="13" column="22" />
@@ -304,10 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
-      <jump line="53" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
-      <jump line="79" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginActivity.kt" />
-      <jump line="52" column="75" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginActivity.kt" />
       <jump line="42" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="57" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="49" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginActivity.kt" />
@@ -404,22 +408,26 @@
       <jump line="3" column="0" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/di/ActivityScoped.kt" />
       <jump line="2" column="0" filename="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/di/ActivityScoped.kt" />
       <jump line="4" column="31" filename="D:/Projects/Android/Dagger_Android/build.gradle" />
+      <jump line="26" column="4" filename="D:/Projects/Android/Dagger_Android/app/build.gradle" />
+      <jump line="59" column="0" filename="D:/Projects/Android/Dagger_Android/app/build.gradle" />
+      <jump line="42" column="4" filename="D:/Projects/Android/Dagger_Android/app/build.gradle" />
+      <jump line="27" column="15" filename="D:/Projects/Android/Dagger_Android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RetentionPolicy.RUNTIME</text>
+        <text encoding="base64">SW1wbGVtZW50YXRpb24g</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>RetentionPolicy.RUNTIME</text>
+        <text encoding="base64">Q29tcGlsZSA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtR2F0dFVwZGF0ZVJlY2VpdmVyXD4=</text>
+        <text>testApi</text>
       </register>
       <register name="0" type="4">
-        <text>String.format(&quot;%02x&quot;, txValue[i]);</text>
+        <text encoding="base64">SW1wbGVtZW50YXRpb24g</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5hbm5vdGF0aW9uLlJldGVudGlvbgppbXBvcnQgamF2YS5sYW5nLmFubm90YXRpb24uUmV0ZW50aW9uUG9saWN5Cg==</text>
@@ -452,23 +460,20 @@
         <text encoding="base64">QERvY3VtZW50ZWQK</text>
       </register>
       <register name=":" type="4">
-        <text>put</text>
+        <text>s/provided/compileOnly</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtR2F0dFVwZGF0ZVJlY2VpdmVyXD4=</last-search>
+      <last-search>testApi</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtR2F0dFVwZGF0ZVJlY2VpdmVyXD4=</last-pattern>
-      <last-replace>String</last-replace>
-      <last-substitute encoding="base64">PHNldA==</last-substitute>
+      <last-pattern>testApi</last-pattern>
+      <last-replace>compileOnly</last-replace>
+      <last-substitute>provided</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>string</entry>
-        <entry>int</entry>
-        <entry>button</entry>
         <entry>}</entry>
         <entry encoding="base64">XDxwaG9uZVw+</entry>
         <entry encoding="base64">XDxjaGVja1ZlcnNpb25cPg==</entry>
@@ -486,11 +491,11 @@
         <entry encoding="base64">XDxUWF9DSEFSX1VVSURcPg==</entry>
         <entry encoding="base64">XDxtYWtlR2F0dFVwZGF0ZUludGVudEZpbHRlclw+</entry>
         <entry encoding="base64">XDxtR2F0dFVwZGF0ZVJlY2VpdmVyXD4=</entry>
+        <entry>compile</entry>
+        <entry>provided</entry>
+        <entry>testApi</entry>
       </history-search>
       <history-cmd>
-        <entry>m.</entry>
-        <entry>m15</entry>
-        <entry>m14</entry>
         <entry>m13</entry>
         <entry>m18</entry>
         <entry>15m25</entry>
@@ -508,6 +513,9 @@
         <entry>t.</entry>
         <entry encoding="base64">cHV0ID4+</entry>
         <entry>put</entry>
+        <entry>27,39s/compile/implementation/g</entry>
+        <entry>42,59s/compile/implementation/g</entry>
+        <entry>s/provided/compileOnly</entry>
       </history-cmd>
       <history-expr />
       <history-input />
