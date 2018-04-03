@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/ActivityModule.kt" timestamp="1522722691259">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1522393527818">
         <mark key="'" line="514" column="17" />
         <mark key="[" line="1006" column="24" />
@@ -34,9 +41,6 @@
         <mark key="]" line="30" column="48" />
         <mark key="." line="30" column="48" />
       </file>
-      <file name="F:/git_desk/T0227/tt1/src/main/java/com/stan/tt1/LoginActivity.java" timestamp="1520300857701">
-        <mark key="[" line="10" column="27" />
-      </file>
       <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/di/ActivityScoped.kt" timestamp="1522716017553">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="12" column="11" />
@@ -56,19 +60,21 @@
         <mark key="^" line="32" column="28" />
         <mark key="." line="32" column="28" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" timestamp="1522719972477">
-        <mark key="a" line="26" column="0" />
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/proguard-rules.pro" timestamp="1522723088152">
+        <mark key="[" line="34" column="40" />
+        <mark key="]" line="34" column="40" />
+        <mark key="." line="34" column="40" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivityPresenter.kt" timestamp="1522719900519">
-        <mark key="[" line="17" column="29" />
-        <mark key="]" line="18" column="24" />
-        <mark key="^" line="18" column="24" />
-        <mark key="." line="18" column="24" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivityPresenter.kt" timestamp="1522722910236">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="12" column="7" />
+      </file>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/activity_main.xml" timestamp="1522723244552">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/Register.kt" timestamp="1522381363252">
         <mark key="[" line="5" column="20" />
@@ -76,8 +82,11 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="G:/Android_test_project/AnExplorer-master/app/src/main/AndroidManifest.xml" timestamp="1521251632932">
-        <mark key="[" line="103" column="19" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/AndroidManifest.xml" timestamp="1522722951952">
+        <mark key="'" line="2" column="38" />
+        <mark key="[" line="18" column="76" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/MainActivity.java" timestamp="1520996051532">
         <mark key="'" line="41" column="45" />
@@ -85,9 +94,6 @@
         <mark key="]" line="26" column="8" />
         <mark key="." line="26" column="8" />
         <mark key="^" line="29" column="2" />
-      </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/base/BaseActivity.kt" timestamp="1522719731889">
-        <mark key="[" line="11" column="53" />
       </file>
       <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/base/BaseFragment.kt" timestamp="1522721329645">
         <mark key="[" line="16" column="32" />
@@ -98,21 +104,12 @@
         <mark key="." line="16" column="67" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="G:/Android_test_project/USBWriter/app/src/main/java/com/stan/usbwriter/StorageInfo.java" timestamp="1520563805752">
-        <mark key="[" line="20" column="5" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/MS10Receiver.java" timestamp="1520997663275">
-        <mark key="[" line="10" column="26" />
-      </file>
       <file name="D:/Projects/Android/Dagger_Android/build.gradle" timestamp="1522716408107">
         <mark key="'" line="4" column="31" />
         <mark key="[" line="10" column="54" />
         <mark key="]" line="10" column="55" />
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="54" />
-      </file>
-      <file name="F:/360Downloads/Passwordlib/build.gradle" timestamp="1522286849592">
-        <mark key="[" line="20" column="17" />
       </file>
       <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1522721221080">
         <mark key="[" line="27" column="0" />
@@ -164,27 +161,18 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1522720254250">
-        <mark key="'" line="16" column="32" />
-        <mark key="[" line="38" column="5" />
-        <mark key="]" line="39" column="3" />
-        <mark key="^" line="39" column="3" />
-        <mark key="." line="39" column="3" />
-      </file>
-      <file name="G:/Android_test_project/InnerUpdate/innerupdatelib/build.gradle" timestamp="1521010239558">
-        <mark key="[" line="33" column="85" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1522723219639">
+        <mark key="'" line="17" column="34" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="26" column="27" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/BaseData.kt" timestamp="1522397757912">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="4" column="1" />
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
-      </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/RetroApi.kt" timestamp="1522389307873">
-        <mark key="[" line="14" column="53" />
-      </file>
-      <file name="F:/git_desk/jjdxm_ijkplayer/app/src/main/java/com/dou361/jjdxm_ijkplayer/module/Myadaptaer.java" timestamp="1520298268664">
-        <mark key="[" line="6" column="24" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/build.gradle" timestamp="1522715071141">
         <mark key="[" line="10" column="52" />
@@ -233,6 +221,10 @@
         <mark key="]" line="40" column="23" />
         <mark key="." line="40" column="23" />
       </file>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/data/BaseBackData.kt" timestamp="1522723069259">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="35" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" timestamp="1517973733309">
         <mark key="[" line="60" column="7" />
         <mark key="]" line="60" column="11" />
@@ -243,12 +235,6 @@
         <mark key="[" line="15" column="47" />
         <mark key="]" line="15" column="47" />
         <mark key="." line="15" column="46" />
-      </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainContract.kt" timestamp="1522388200256">
-        <mark key="[" line="18" column="21" />
-      </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" timestamp="1522388130770">
-        <mark key="[" line="76" column="0" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/base/BaseFragment.kt" timestamp="1522722268910">
         <mark key="[" line="17" column="46" />
@@ -267,21 +253,12 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="30" />
       </file>
-      <file name="F:/git_desk/T0227/tt1/src/main/res/values/strings.xml" timestamp="1520302546462">
-        <mark key="[" line="1" column="40" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1522394906840">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="F:/360Downloads/Passwordlib/passwddialoglibrary/src/main/java/com/stan/passwddialoglibrary/PasswdDialog.java" timestamp="1522286292429">
         <mark key="'" line="70" column="95" />
         <mark key="[" line="69" column="27" />
         <mark key="]" line="69" column="27" />
         <mark key="^" line="69" column="27" />
         <mark key="." line="69" column="27" />
-      </file>
-      <file name="F:/360Downloads/Passwordlib/app/src/main/res/layout/activity_main.xml" timestamp="1522286309722">
-        <mark key="[" line="8" column="13" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/RegisterActivity.kt" timestamp="1522720180429">
         <mark key="'" line="44" column="20" />
@@ -333,9 +310,6 @@
         <mark key="." line="91" column="12" />
         <mark key="^" line="91" column="12" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/OrganizationBackData.java" timestamp="1522379979479">
-        <mark key="[" line="8" column="35" />
-      </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/di/FragmentScoped.kt" timestamp="1522715787062">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="37" />
@@ -349,22 +323,17 @@
         <mark key="^" line="42" column="12" />
         <mark key="." line="42" column="12" />
       </file>
-      <file name="F:/git_desk/T0227/app/src/main/res/values/strings.xml" timestamp="1520302909418">
-        <mark key="[" line="2" column="23" />
-      </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivityContract.kt" timestamp="1522719698825">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivityContract.kt" timestamp="1522722880976">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="F:/git_desk/T0227/lib/src/main/java/com/stan/lib/myClass.java" timestamp="1520228043332">
         <mark key="[" line="6" column="26" />
         <mark key="]" line="6" column="24" />
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
-      </file>
-      <file name="F:/360Downloads/Passwordlib/app/src/main/java/com/stan/passwordlib/MainActivity.java" timestamp="1522286321338">
-        <mark key="[" line="11" column="47" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/RegisterPresenter.kt" timestamp="1522396383339">
         <mark key="'" line="17" column="5" />
@@ -392,9 +361,6 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/AgencyDetail.kt" timestamp="1522390244235">
-        <mark key="[" line="21" column="44" />
-      </file>
       <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/di/FragmentScoped.kt" timestamp="1522716102855">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="37" />
@@ -414,9 +380,6 @@
         <mark key="." line="253" column="12" />
         <mark key="^" line="253" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1522381948076">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="F:/git_desk/T0227/lib/src/main/java/com/stan/lib/Test.java" timestamp="1519886007486">
         <mark key="[" line="13" column="22" />
         <mark key="]" line="13" column="55" />
@@ -425,9 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginActivity.kt" />
-      <jump line="20" column="35" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
-      <jump line="19" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="61" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="12" column="5" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/RegisterPresenter.kt" />
       <jump line="46" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/RegisterActivity.kt" />
@@ -525,40 +485,43 @@
       <jump line="27" column="15" filename="D:/Projects/Android/Dagger_Android/app/build.gradle" />
       <jump line="16" column="32" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
       <jump line="23" column="47" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainFragment.kt" />
+      <jump line="26" column="0" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/ActivityModule.kt" />
+      <jump line="2" column="38" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/AndroidManifest.xml" />
+      <jump line="17" column="34" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIgLz4K</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>testApi</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">SW1wbGVtZW50YXRpb24g</text>
+        <text>com.stan.dagger_android.data</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIDxGcmFtZUxheW91dAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvY29udGVudEZyYW1lIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgb3ZlcnJpZGUgZnVuIG9uQ3JlYXRlVmlldyhpbmZsYXRlcjogTGF5b3V0SW5mbGF0ZXI/LCBjb250YWluZXI6IFZpZXdHcm91cD8sIHNhdmVkSW5zdGFuY2VTdGF0ZTogQnVuZGxlPyk6IFZpZXc/IHsKICAgICAgIGprayAK</text>
+        <text encoding="base64">LWtlZXBhdHRyaWJ1dGVzIFNpZ25hdHVyZQota2VlcGF0dHJpYnV0ZXMgKkFubm90YXRpb24qCiMgR3NvbiBzcGVjaWZpYyBjbGFzc2VzCi1rZWVwIGNsYXNzIHN1bi5taXNjLlVuc2FmZSB7ICo7IH0KLWtlZXAgY2xhc3MgY29tLnN0YW4uYmVhbi4qKnsgKjsgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLnN0YW4uYmVhbi4qKnsgKjsgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IG92ZXJyaWRlIGZ1biBvblJlc3VtZSgpIHsKICAgICAgICBzdXBlci5vblJlc3VtZSgpCiAgICAgICAgcHJlc2VudGVyLnRha2VWaWV3KHRoaXMpCiAgICB9CgoKICAgIG92ZXJyaWRlIGZ1biBvblBhdXNlKCkgewogICAgICAgIHN1cGVyLm9uUGF1c2UoKQogICAgICAgIHByZXNlbnRlci5kcm9wVmlldygpCiAgICB9Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSIubmV3cy5BY3Rpdml0eU5ld3MiLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QKICAgIGxhdGVpbml0IHZhciBwcmVzZW50ZXI6IE1haW5BY3Rpdml0eVByZXNlbnRlcgo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -567,10 +530,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZVZpZXcoaW5mbGF0ZXI6IExheW91dEluZmxhdGVyPywgY29udGFpbmVyOiBWaWV3R3JvdXA/LCBzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pOiBWaWV3PyB7CiAgICAgICAgcmV0dXJuIGluZmxhdGVyISEuaW5mbGF0ZShSLmxheW91dC5mcmFnbWVudF9tYWluLCBjb250YWluZXIsIGZhbHNlKQogICAgfQo=</text>
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/provided/compileOnly</text>
@@ -581,7 +544,7 @@
       <last-offset />
       <last-pattern>testApi</last-pattern>
       <last-replace>compileOnly</last-replace>
-      <last-substitute>provided</last-substitute>
+      <last-substitute>testApi</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
