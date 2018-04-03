@@ -172,6 +172,11 @@
         <mark key="." line="60" column="11" />
         <mark key="^" line="60" column="11" />
       </file>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/di/AppComponent.kt" timestamp="1522719150906">
+        <mark key="[" line="15" column="47" />
+        <mark key="]" line="15" column="47" />
+        <mark key="." line="15" column="46" />
+      </file>
       <file name="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/WriteOTGActivity.java" timestamp="1521251556703">
         <mark key="[" line="146" column="3" />
         <mark key="]" line="146" column="7" />
@@ -191,6 +196,7 @@
         <mark key="^" line="69" column="27" />
         <mark key="." line="69" column="27" />
       </file>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/di/ActivityBindingModule.kt" timestamp="1522719183557" />
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/RegisterActivity.kt" timestamp="1522396774388">
         <mark key="'" line="44" column="20" />
         <mark key="[" line="44" column="85" />
@@ -260,16 +266,6 @@
         <mark key="]" line="36" column="23" />
         <mark key="." line="36" column="23" />
         <mark key="^" line="36" column="23" />
-      </file>
-      <file name="E:/Test/D0330/app/src/main/java/com/stan/d0330/MainActivity.java" timestamp="1522485526512">
-        <mark key="a" line="17" column="8" />
-        <mark key="b" line="18" column="8" />
-        <mark key="'" line="17" column="8" />
-        <mark key="[" line="25" column="0" />
-        <mark key="l" line="14" column="8" />
-        <mark key="]" line="25" column="19" />
-        <mark key="^" line="28" column="29" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1521005178927">
         <mark key="[" line="40" column="15" />
@@ -415,13 +411,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">SW1wbGVtZW50YXRpb24g</text>
+        <text>//MainActivityModule.class,</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q29tcGlsZSA=</text>
+        <text>//MainActivityModule.class,</text>
       </register>
       <register name="/" type="4">
         <text>testApi</text>
