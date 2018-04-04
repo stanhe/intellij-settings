@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/course/CourseContract.kt" timestamp="1522812001688">
@@ -154,11 +154,11 @@
         <mark key="^" line="5" column="76" />
         <mark key="." line="5" column="76" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1522825089824">
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1522827683326">
         <mark key="'" line="63" column="8" />
-        <mark key="[" line="204" column="47" />
-        <mark key="]" line="204" column="53" />
-        <mark key="." line="204" column="53" />
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="." line="222" column="0" />
         <mark key="^" line="204" column="53" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" timestamp="1522812587776">
@@ -538,7 +538,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2dlci5pKCJjb25uZWN0IHN0YXR1czogJHN0YXR1cyIpCg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -555,19 +555,19 @@
         android:scaleType=&quot;fitXY&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2dlci5pKCJjb25uZWN0IHN0YXR1czogJHN0YXR1cyIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMzAwZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMTAwZHAiCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMzAwZHAiCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMTAwZHAiCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMzAwZHAiCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMTAwZHAiCg==</text>
@@ -576,10 +576,10 @@
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMzAwZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMTAwZHAiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMTAwZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMzAwZHAiCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMTAwZHAiCg==</text>
