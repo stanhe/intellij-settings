@@ -61,6 +61,7 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
+      <file name="E:/Test/SonixBLESample/app/src/main/AndroidManifest.xml" timestamp="1522749336685" />
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/AndroidManifest.xml" timestamp="1522739048626">
         <mark key="'" line="2" column="38" />
         <mark key="[" line="4" column="65" />
@@ -105,8 +106,8 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" timestamp="1522734261803">
-        <mark key="'" line="340" column="73" />
+      <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" timestamp="1522749436133">
+        <mark key="'" line="246" column="16" />
         <mark key="[" line="29" column="26" />
         <mark key="]" line="29" column="39" />
         <mark key="." line="36" column="51" />
@@ -124,19 +125,19 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1522746196597">
-        <mark key="'" line="51" column="62" />
-        <mark key="[" line="66" column="86" />
-        <mark key="]" line="66" column="85" />
-        <mark key="." line="66" column="75" />
-        <mark key="^" line="66" column="74" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1522749382429">
+        <mark key="'" line="61" column="8" />
+        <mark key="[" line="68" column="58" />
+        <mark key="]" line="172" column="24" />
+        <mark key="." line="172" column="24" />
+        <mark key="^" line="172" column="24" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/service/BluetoothService.kt" timestamp="1522746174722">
-        <mark key="'" line="80" column="31" />
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="21" />
-        <mark key="^" line="33" column="3" />
-        <mark key="." line="34" column="8" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/service/BluetoothService.kt" timestamp="1522749539143">
+        <mark key="'" line="61" column="8" />
+        <mark key="[" line="53" column="35" />
+        <mark key="]" line="87" column="50" />
+        <mark key="." line="87" column="50" />
+        <mark key="^" line="87" column="50" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/BaseData.kt" timestamp="1522397757912">
         <mark key="[" line="4" column="3" />
@@ -307,11 +308,11 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" timestamp="1522745742061">
-        <mark key="'" line="164" column="7" />
-        <mark key="[" line="253" column="12" />
-        <mark key="]" line="253" column="12" />
-        <mark key="." line="253" column="12" />
+      <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" timestamp="1522748897621">
+        <mark key="'" line="122" column="75" />
+        <mark key="[" line="171" column="25" />
+        <mark key="]" line="171" column="25" />
+        <mark key="." line="171" column="25" />
         <mark key="^" line="253" column="12" />
       </file>
       <file name="F:/git_desk/T0227/lib/src/main/java/com/stan/lib/Test.java" timestamp="1519886007486">
@@ -322,20 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="335" column="43" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
-      <jump line="348" column="25" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
-      <jump line="363" column="12" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
-      <jump line="365" column="15" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
-      <jump line="74" column="24" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
-      <jump line="87" column="29" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
-      <jump line="56" column="29" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
-      <jump line="341" column="73" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
-      <jump line="126" column="12" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
-      <jump line="316" column="73" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
-      <jump line="57" column="29" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
-      <jump line="124" column="12" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
-      <jump line="310" column="63" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
-      <jump line="199" column="12" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
       <jump line="194" column="33" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
       <jump line="204" column="37" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
       <jump line="179" column="25" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
@@ -383,7 +370,6 @@
       <jump line="77" column="16" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
       <jump line="206" column="16" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
       <jump line="223" column="8" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
-      <jump line="55" column="29" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
       <jump line="340" column="73" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
       <jump line="7" column="45" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
       <jump line="4" column="33" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
@@ -391,7 +377,6 @@
       <jump line="82" column="4" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/SelectDeviceActivity.java" />
       <jump line="161" column="15" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/SelectDeviceActivity.java" />
       <jump line="35" column="30" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/SelectDeviceActivity.java" />
-      <jump line="38" column="36" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
       <jump line="39" column="48" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
       <jump line="40" column="15" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
       <jump line="25" column="32" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
@@ -415,68 +400,84 @@
       <jump line="0" column="0" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
       <jump line="59" column="42" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
       <jump line="66" column="13" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
-      <jump line="41" column="29" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
-      <jump line="176" column="49" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
       <jump line="42" column="0" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
-      <jump line="130" column="13" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
       <jump line="51" column="62" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
       <jump line="79" column="34" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
       <jump line="164" column="7" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
+      <jump line="176" column="49" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
+      <jump line="41" column="29" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
+      <jump line="130" column="13" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
+      <jump line="138" column="94" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
+      <jump line="38" column="8" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
+      <jump line="123" column="77" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
+      <jump line="122" column="75" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
+      <jump line="55" column="29" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="151" column="79" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="152" column="85" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="154" column="8" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="239" column="25" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="246" column="16" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="83" column="21" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/service/BluetoothService.kt" />
+      <jump line="117" column="55" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/service/BluetoothService.kt" />
+      <jump line="60" column="8" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/service/BluetoothService.kt" />
+      <jump line="173" column="25" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
+      <jump line="179" column="27" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
+      <jump line="62" column="8" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>EXTRA_DATA</text>
+        <text>Read</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>BlutoothService</text>
+        <text>Read</text>
       </register>
       <register name="/" type="4">
-        <text>unbind</text>
+        <text encoding="base64">XDxtR2F0dFVwZGF0ZVJlY2VpdmVyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>EXTRA_DATA</text>
+        <text>onCharacteristicChanged</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kU2VydmljZShJbnRlbnQodGhpcyxCbHVldG9vdGhTZXJ2aWNlOjpjbGFzcy5qYXZhKSxtU2VydmljZUNvbm5lY3Rpb24sIENvbnRleHQuQklORF9BVVRPX0NSRUFURSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oImNsaWNrIGl0ZW0iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgZnVuIGdldFNlcnZpY2UoKTogQmx1ZXRvb3RoU2VydmljZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KHRoaXMsInlvdSBjbGlja2VkICIsVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oICJwZXJtaXNzaW9uIGdyYW50ZWQhIikK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBub1Blcm1pc3Npb24udG9UeXBlZEFycmF5KCkuZm9yRWFjaCB7IExvZ2dlci5lKCJpdGVtIDogIiAraXQpIH0K</text>
+      <register name="6" type="4">
+        <text encoding="base64">IHByaXZhdGUgZnVuIGhhbmRsZUN1c3RvbUNvZGUodGV4dDogU3RyaW5nKSB7CiAgICAgICAgdmFsIGhleE51ID0gdGV4dC5zdWJzdHJpbmcoMTAsMTQpCiAgICAgICAgdmFsIHJlc3VsdCA9IEludGVnZXIucGFyc2VJbnQoaGV4TnUsMTYpCiAgICAgICAgd2hlbiAocmVzdWx0KSB7CiAgICAgICAgICAgIDEwNTcgLT4geyB9CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuZSgiRXJyb3IgOiAiK25vUGVybWlzc2lvbi50b1R5cGVkQXJyYXkoKS5mb3JFYWNoIHsgCiAgICAgICAgICAgIAogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgdHhWYWx1ZSA9IGludGVudC5nZXRCeXRlQXJyYXlFeHRyYShCbHV0b290aFNlcnZpY2UuRVhUUkFfREFUQSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm9QZXJtaXNzaW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbm9QZXJtaXNzaW9uID0gaGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/provided/compileOnly</text>
       </register>
     </registers>
     <search>
-      <last-search>unbind</last-search>
+      <last-search encoding="base64">XDxtR2F0dFVwZGF0ZVJlY2VpdmVyXD4=</last-search>
       <last-offset />
-      <last-pattern>unbind</last-pattern>
+      <last-pattern encoding="base64">XDxtR2F0dFVwZGF0ZVJlY2VpdmVyXD4=</last-pattern>
       <last-replace>compileOnly</last-replace>
       <last-substitute encoding="base64">XDxSRVFVRVNUX0VOQUJMRV9CVFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -484,10 +485,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtQmx1ZXRvb3RoR2F0dFw+</entry>
-        <entry encoding="base64">XDxtYWtlR2F0dFVwZGF0ZUludGVudEZpbHRlclw+</entry>
-        <entry encoding="base64">XDxtR2F0dFVwZGF0ZVJlY2VpdmVyXD4=</entry>
-        <entry>compile</entry>
         <entry>provided</entry>
         <entry>testApi</entry>
         <entry encoding="base64">XDxicm9hZGNhc3RVcGRhdGVcPg==</entry>
@@ -502,8 +499,12 @@
         <entry encoding="base64">XDxtQmx1ZXRvb3RoQWRhcHRlclw+</entry>
         <entry>scand</entry>
         <entry encoding="base64">XDxtTGVTY2FuQ2FsbGJhY2tcPg==</entry>
-        <entry encoding="base64">XDxSRVFVRVNUX0VOQUJMRV9CVFw+</entry>
         <entry>unbind</entry>
+        <entry encoding="base64">XDxSRVFVRVNUX0VOQUJMRV9CVFw+</entry>
+        <entry encoding="base64">XDxFWFRSQV9ERVZJQ0VcPg==</entry>
+        <entry>close</entry>
+        <entry encoding="base64">XDxtR2F0dENhbGxiYWNrXD4=</entry>
+        <entry encoding="base64">XDxtR2F0dFVwZGF0ZVJlY2VpdmVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>m13</entry>
