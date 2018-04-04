@@ -86,6 +86,9 @@
         <mark key="^" line="5" column="70" />
         <mark key="." line="5" column="70" />
       </file>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/AndroidManifest.xml" timestamp="1522823557859">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/adapter/SimpleRecycleAdater.kt" timestamp="1522741731965">
         <mark key="'" line="17" column="23" />
         <mark key="[" line="38" column="57" />
@@ -151,12 +154,12 @@
         <mark key="^" line="5" column="76" />
         <mark key="." line="5" column="76" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1522749382429">
-        <mark key="'" line="61" column="8" />
-        <mark key="[" line="68" column="58" />
-        <mark key="]" line="172" column="24" />
-        <mark key="." line="172" column="24" />
-        <mark key="^" line="172" column="24" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1522823918567">
+        <mark key="'" line="63" column="8" />
+        <mark key="[" line="57" column="66" />
+        <mark key="]" line="58" column="46" />
+        <mark key="." line="58" column="46" />
+        <mark key="^" line="58" column="46" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" timestamp="1522812587776">
         <mark key="a" line="202" column="3" />
@@ -167,7 +170,7 @@
         <mark key="^" line="203" column="19" />
         <mark key="." line="203" column="19" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/service/BluetoothService.kt" timestamp="1522749539143">
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/service/BluetoothService.kt" timestamp="1522823807969">
         <mark key="'" line="61" column="8" />
         <mark key="[" line="53" column="35" />
         <mark key="]" line="87" column="50" />
