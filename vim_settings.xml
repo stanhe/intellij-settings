@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/course/CourseContract.kt" timestamp="1522812001688">
@@ -89,9 +89,9 @@
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/AndroidManifest.xml" timestamp="1522823557859">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/adapter/SimpleRecycleAdater.kt" timestamp="1522741731965">
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/adapter/SimpleRecycleAdater.kt" timestamp="1522825234495">
         <mark key="'" line="17" column="23" />
-        <mark key="[" line="38" column="57" />
+        <mark key="[" line="39" column="38" />
         <mark key="]" line="38" column="25" />
         <mark key="." line="38" column="25" />
         <mark key="^" line="38" column="25" />
@@ -154,7 +154,7 @@
         <mark key="^" line="5" column="76" />
         <mark key="." line="5" column="76" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1522824695232">
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1522825089824">
         <mark key="'" line="63" column="8" />
         <mark key="[" line="204" column="47" />
         <mark key="]" line="204" column="53" />
@@ -214,6 +214,7 @@
         <mark key="." line="5" column="86" />
         <mark key="^" line="5" column="84" />
       </file>
+      <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/SelectDeviceActivity.java" timestamp="1522825263702" />
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/AndroidManifest.xml" timestamp="1520998039262">
         <mark key="[" line="237" column="19" />
         <mark key="]" line="241" column="37" />
