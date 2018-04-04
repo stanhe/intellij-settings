@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/course/CourseContract.kt" timestamp="1522812001688">
@@ -42,6 +42,11 @@
         <mark key="]" line="31" column="65" />
         <mark key="." line="31" column="4" />
         <mark key="^" line="31" column="3" />
+      </file>
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MediaActivity.java" timestamp="1522829793241">
+        <mark key="[" line="63" column="25" />
+        <mark key="]" line="63" column="25" />
+        <mark key="." line="63" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/MS10Receiver.java" timestamp="1520998032028">
         <mark key="[" line="13" column="4" />
@@ -214,7 +219,6 @@
         <mark key="." line="5" column="86" />
         <mark key="^" line="5" column="84" />
       </file>
-      <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/SelectDeviceActivity.java" timestamp="1522825263702" />
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/AndroidManifest.xml" timestamp="1520998039262">
         <mark key="[" line="237" column="19" />
         <mark key="]" line="241" column="37" />
@@ -317,6 +321,12 @@
         <mark key="." line="5" column="62" />
         <mark key="^" line="5" column="62" />
       </file>
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/AutoAccount.java" timestamp="1522829618955">
+        <mark key="[" line="37" column="25" />
+        <mark key="]" line="37" column="43" />
+        <mark key="." line="37" column="43" />
+        <mark key="^" line="37" column="43" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/OrganizationListData.kt" timestamp="1522387561101">
         <mark key="[" line="5" column="48" />
         <mark key="]" line="5" column="51" />
@@ -329,11 +339,20 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="29" />
       </file>
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/build.gradle" timestamp="1522828957020">
+        <mark key="[" line="21" column="25" />
+      </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/App.kt" timestamp="1522720591073">
         <mark key="[" line="31" column="40" />
         <mark key="]" line="32" column="29" />
         <mark key="^" line="32" column="29" />
         <mark key="." line="32" column="29" />
+      </file>
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/util/Utils.java" timestamp="1522829829312">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+        <mark key="^" line="19" column="28" />
       </file>
       <file name="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/res/layout/simple_player_controlbar.xml" timestamp="1520218899128">
         <mark key="[" line="32" column="32" />
@@ -537,14 +556,14 @@
       <jump line="77" column="16" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2dlci5pKCJjb25uZWN0IHN0YXR1czogJHN0YXR1cyIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>awoadCacheDirectory</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>tools:layout_editor_absoluteY=&quot;444dp&quot;</text>
+        <text>awoadCacheDirectory</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtQ29ubmVjdGlvblN0YXRlXD4=</text>
@@ -555,22 +574,22 @@
         android:scaleType=&quot;fitXY&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2dlci5pKCJjb25uZWN0IHN0YXR1czogJHN0YXR1cyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2F2ZVBhdGggPSBFbnZpcm9ubWVudC5nZXRFeHRlcm5hbFN0b3JhZ2VEaXJlY3RvYXkoKSsiL21wNC9sZWN0dXJlIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2dlci5pKCJjb25uZWN0IHN0YXR1czogJHN0YXR1cyIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMzAwZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMTAwZHAiCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMzAwZHAiCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMTAwZHAiCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMzAwZHAiCg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -579,10 +598,10 @@
         <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMTAwZHAiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMzAwZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMTAwZHAiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMTAwZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMzAwZHAiCg==</text>
       </register>
       <register name=":" type="4">
         <text>29,34t42</text>
