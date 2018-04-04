@@ -123,8 +123,8 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" timestamp="1522749436133">
-        <mark key="'" line="246" column="16" />
+      <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" timestamp="1522824652751">
+        <mark key="'" line="77" column="16" />
         <mark key="[" line="29" column="26" />
         <mark key="]" line="29" column="39" />
         <mark key="." line="36" column="51" />
@@ -154,12 +154,12 @@
         <mark key="^" line="5" column="76" />
         <mark key="." line="5" column="76" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1522823918567">
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1522824695232">
         <mark key="'" line="63" column="8" />
-        <mark key="[" line="57" column="66" />
-        <mark key="]" line="58" column="46" />
-        <mark key="." line="58" column="46" />
-        <mark key="^" line="58" column="46" />
+        <mark key="[" line="204" column="47" />
+        <mark key="]" line="204" column="53" />
+        <mark key="." line="204" column="53" />
+        <mark key="^" line="204" column="53" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" timestamp="1522812587776">
         <mark key="a" line="202" column="3" />
@@ -170,12 +170,12 @@
         <mark key="^" line="203" column="19" />
         <mark key="." line="203" column="19" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/service/BluetoothService.kt" timestamp="1522823807969">
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/service/BluetoothService.kt" timestamp="1522824621157">
         <mark key="'" line="61" column="8" />
-        <mark key="[" line="53" column="35" />
-        <mark key="]" line="87" column="50" />
-        <mark key="." line="87" column="50" />
-        <mark key="^" line="87" column="50" />
+        <mark key="[" line="116" column="35" />
+        <mark key="]" line="116" column="34" />
+        <mark key="." line="116" column="34" />
+        <mark key="^" line="116" column="34" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/NoBackBean.kt" timestamp="1522807855704">
         <mark key="[" line="5" column="0" />
@@ -434,11 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="45" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
-      <jump line="4" column="33" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
-      <jump line="14" column="32" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
-      <jump line="82" column="4" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/SelectDeviceActivity.java" />
-      <jump line="161" column="15" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/SelectDeviceActivity.java" />
       <jump line="35" column="30" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/SelectDeviceActivity.java" />
       <jump line="39" column="48" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
       <jump line="40" column="15" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
@@ -534,6 +529,11 @@
       <jump line="37" column="8" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
       <jump line="145" column="56" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
       <jump line="27" column="64" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
+      <jump line="206" column="16" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="223" column="8" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="30" column="16" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="68" column="16" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="77" column="16" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -546,7 +546,7 @@
         <text>tools:layout_editor_absoluteY=&quot;444dp&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>CollectVideoData</text>
+        <text encoding="base64">XDxtQ29ubmVjdGlvblN0YXRlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>android:layout_width=&quot;150dp&quot;
@@ -588,9 +588,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CollectVideoData</last-search>
+      <last-search encoding="base64">XDxtQ29ubmVjdGlvblN0YXRlXD4=</last-search>
       <last-offset />
-      <last-pattern>CollectVideoData</last-pattern>
+      <last-pattern encoding="base64">XDxtQ29ubmVjdGlvblN0YXRlXD4=</last-pattern>
       <last-replace>compileOnly</last-replace>
       <last-substitute encoding="base64">XDxSRVFVRVNUX0VOQUJMRV9CVFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -601,7 +601,6 @@
         <entry>mGattCallback</entry>
         <entry encoding="base64">XDxtQmx1ZXRvb3RoRGV2aWNlQWRkcmVzc1w+</entry>
         <entry encoding="base64">XDxTVEFURV9ESVNDT05ORUNURURcPg==</entry>
-        <entry encoding="base64">XDxtQ29ubmVjdGlvblN0YXRlXD4=</entry>
         <entry encoding="base64">XDxSWF9DSEFSX1VVSURcPg==</entry>
         <entry>SCAN_P</entry>
         <entry encoding="base64">XDxTQ0FOX1BFUklPRFw+</entry>
@@ -618,6 +617,7 @@
         <entry encoding="base64">XDxvcmdhbml6YXRpb25faWRcPg==</entry>
         <entry>s</entry>
         <entry>CollectVideoData</entry>
+        <entry encoding="base64">XDxtQ29ubmVjdGlvblN0YXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>t.</entry>
