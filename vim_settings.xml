@@ -184,12 +184,12 @@
         <mark key="^" line="5" column="76" />
         <mark key="." line="5" column="76" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1523158496378">
-        <mark key="'" line="223" column="27" />
-        <mark key="[" line="250" column="8" />
-        <mark key="]" line="250" column="11" />
-        <mark key="." line="250" column="11" />
-        <mark key="^" line="250" column="11" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1523166106421">
+        <mark key="'" line="244" column="19" />
+        <mark key="[" line="143" column="9" />
+        <mark key="]" line="144" column="8" />
+        <mark key="." line="144" column="8" />
+        <mark key="^" line="144" column="8" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/service/BluetoothService.kt" timestamp="1522824621157">
         <mark key="'" line="61" column="8" />
@@ -226,11 +226,10 @@
         <mark key="." line="38" column="27" />
         <mark key="^" line="34" column="27" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainFragment.kt" timestamp="1523159271249">
-        <mark key="[" line="83" column="31" />
-        <mark key="]" line="83" column="29" />
-        <mark key="." line="83" column="29" />
-        <mark key="^" line="83" column="29" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainFragment.kt" timestamp="1523166227107">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/home/MainActivityContract.kt" timestamp="1522720849646">
         <mark key="[" line="15" column="8" />
@@ -303,12 +302,12 @@
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" timestamp="1522736433365">
         <mark key="[" line="76" column="0" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/fragment_main.xml" timestamp="1523158809150">
-        <mark key="a" line="15" column="41" />
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="19" column="33" />
-        <mark key="^" line="19" column="33" />
-        <mark key="." line="19" column="33" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/fragment_main.xml" timestamp="1523166016430">
+        <mark key="a" line="17" column="41" />
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="22" column="33" />
+        <mark key="^" line="22" column="33" />
+        <mark key="." line="22" column="33" />
       </file>
       <file name="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/WriteOTGActivity.java" timestamp="1521251556703">
         <mark key="[" line="146" column="3" />
@@ -399,6 +398,12 @@
         <mark key="." line="19" column="27" />
         <mark key="^" line="19" column="28" />
       </file>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/item_bluetooth.xml" timestamp="1523165673049">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+      </file>
       <file name="F:/git_desk/jjdxm_ijkplayer/jjdxm-ijkplayer/src/main/res/layout/simple_player_controlbar.xml" timestamp="1520218899128">
         <mark key="[" line="32" column="32" />
         <mark key="]" line="32" column="38" />
@@ -446,6 +451,9 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
         <mark key="^" line="42" column="7" />
+      </file>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/values/styles.xml" timestamp="1523165521333">
+        <mark key="[" line="7" column="58" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1521005178927">
         <mark key="[" line="40" column="15" />
@@ -499,7 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="48" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
       <jump line="40" column="15" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
       <jump line="25" column="32" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
       <jump line="42" column="0" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
@@ -599,16 +606,17 @@
       <jump line="68" column="16" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
       <jump line="77" column="16" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
       <jump line="223" column="27" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
+      <jump line="244" column="19" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dawi</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICApZAo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>dawi</text>
+        <text encoding="base64">ICAgaWNvbi5zZXRJbWFnZURyYXdhYmxlKFIubWlwbWFwLmljX2xhdW5jaGVy</text>
       </register>
       <register name="/" type="4">
         <text>goto</text>
@@ -617,34 +625,34 @@
         <text encoding="base64">ICAgICAgICAgICAgaWNvbi52aXNpYmlsaXR5ID0gVmlldy5WSVNJQkxFCiAgICAgICAgICAgIHZpZGVvVmlldy52aXNpYmlsaXR5ID0gVmlldy5HT05FCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWNvbi52aQo=</text>
+        <text encoding="base64">ICAgICApZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWNvbi52aQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuIChvaWQpIHsKICAgICAgICAgICAgaWYgKG9pZCA8IDEwNjApIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwaWNGaWxlcy5mb3JFYWNoIHsgZmlsZSAtPiBMb2dnZXIuaSgicGljIDogJHtmaWxlfSAiKTtiaXRtYXBzLmFkZChmaWxlLmFic29sdXRlUGF0aCkgfQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuIChvaWQpIHsKICAgICAgICAgICAgaWYgKG9pZCA8IDEwNjApIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuaSgicGljUGF0aCA6ICRwaWNQYXRoIikK</text>
+        <text encoding="base64">ICAgICAgICBwaWNGaWxlcy5mb3JFYWNoIHsgZmlsZSAtPiBMb2dnZXIuaSgicGljIDogJHtmaWxlfSAiKTtiaXRtYXBzLmFkZChmaWxlLmFic29sdXRlUGF0aCkgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgb3V0UGF0aCA9IFV0aWxzLmdldE91dFN0b3JhZ2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXIuaSgicGljUGF0aCA6ICRwaWNQYXRoIikK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL3ZhbCBwaWNGaWxlcyA9IEZpbGUocGljUGF0aCkubGlzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgb3V0UGF0aCA9IFV0aWxzLmdldE91dFN0b3JhZ2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3ZhbCBwaWNGaWxlcyA9IEZpbGUocGljUGF0aCkubGlzdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2U6IAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>29,34t42</text>
