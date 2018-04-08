@@ -141,6 +141,12 @@
         <mark key="^" line="5" column="50" />
         <mark key="." line="5" column="50" />
       </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1523167372182">
+        <mark key="[" line="28" column="34" />
+        <mark key="]" line="28" column="45" />
+        <mark key="." line="28" column="45" />
+        <mark key="^" line="28" column="45" />
+      </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/build.gradle" timestamp="1522394081544">
         <mark key="[" line="17" column="9" />
         <mark key="]" line="17" column="8" />
@@ -293,14 +299,17 @@
         <mark key="." line="5" column="64" />
         <mark key="^" line="5" column="64" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainContract.kt" timestamp="1522812449046">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="21" column="35" />
-        <mark key="^" line="21" column="35" />
-        <mark key="." line="21" column="35" />
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainContract.kt" timestamp="1523167941241">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="44" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" timestamp="1522736433365">
-        <mark key="[" line="76" column="0" />
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" timestamp="1523167930550">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="50" column="60" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/fragment_main.xml" timestamp="1523166016430">
         <mark key="a" line="17" column="41" />
@@ -344,7 +353,7 @@
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/DealApplyData.kt" timestamp="1522807666993">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522822311947">
+      <file name="/Dummy.txt" timestamp="1523168551153">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/ApplyCourseListData.kt" timestamp="1522807425856">
@@ -492,6 +501,7 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/res/layout/activity_main.xml" timestamp="1523167437774" />
       <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" timestamp="1522748897621">
         <mark key="'" line="122" column="75" />
         <mark key="[" line="171" column="25" />
@@ -610,13 +620,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICApZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgaWNvbi5zZXRJbWFnZURyYXdhYmxlKFIubWlwbWFwLmljX2xhdW5jaGVy</text>
+        <text encoding="base64">IExvZ2luQWN0aXZpdHk=</text>
       </register>
       <register name="/" type="4">
         <text>goto</text>
@@ -625,34 +635,34 @@
         <text encoding="base64">ICAgICAgICAgICAgaWNvbi52aXNpYmlsaXR5ID0gVmlldy5WSVNJQkxFCiAgICAgICAgICAgIHZpZGVvVmlldy52aXNpYmlsaXR5ID0gVmlldy5HT05FCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICApZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWNvbi52aQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuIChvaWQpIHsKICAgICAgICAgICAgaWYgKG9pZCA8IDEwNjApIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzcGlubmVyLnNldE9uSXRlbUNsaWNrTGlzdGVuZXIgeyBwYXJlbnQsIHZpZXcsIHBvc2l0aW9uLCBpZCAtPiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwaWNGaWxlcy5mb3JFYWNoIHsgZmlsZSAtPiBMb2dnZXIuaSgicGljIDogJHtmaWxlfSAiKTtiaXRtYXBzLmFkZChmaWxlLmFic29sdXRlUGF0aCkgfQo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzZXRTcGlubmVyKCkgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuaSgicGljUGF0aCA6ICRwaWNQYXRoIikK</text>
+        <text encoding="base64">ICAgICApZAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgb3V0UGF0aCA9IFV0aWxzLmdldE91dFN0b3JhZ2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWNvbi52aQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL3ZhbCBwaWNGaWxlcyA9IEZpbGUocGljUGF0aCkubGlzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuIChvaWQpIHsKICAgICAgICAgICAgaWYgKG9pZCA8IDEwNjApIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>29,34t42</text>
@@ -734,7 +744,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -761,7 +771,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
