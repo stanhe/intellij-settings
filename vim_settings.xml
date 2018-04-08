@@ -10,6 +10,12 @@
         <mark key="." line="71" column="41" />
         <mark key="^" line="71" column="41" />
       </file>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/ActivityModule.kt" timestamp="1523151616544">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="19" column="53" />
+        <mark key="^" line="19" column="53" />
+        <mark key="." line="19" column="53" />
+      </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/di/ActivityScoped.kt" timestamp="1522715755187">
         <mark key="[" line="9" column="3" />
         <mark key="]" line="10" column="16" />
@@ -54,6 +60,15 @@
         <mark key="^" line="17" column="28" />
         <mark key="." line="17" column="37" />
       </file>
+      <file name="D:/Software/sdk/sources/android-27/android/app/DialogFragment.java" timestamp="1523149641963">
+        <mark key="'" line="266" column="16" />
+      </file>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/util/ActivityUtils.kt" timestamp="1523152778272">
+        <mark key="[" line="37" column="45" />
+        <mark key="]" line="37" column="48" />
+        <mark key="^" line="37" column="48" />
+        <mark key="." line="37" column="48" />
+      </file>
       <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/App.kt" timestamp="1522721122305">
         <mark key="[" line="29" column="71" />
         <mark key="]" line="32" column="28" />
@@ -73,6 +88,12 @@
         <mark key="." line="99" column="44" />
         <mark key="^" line="99" column="44" />
       </file>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/activity_main.xml" timestamp="1523151161025">
+        <mark key="[" line="19" column="46" />
+        <mark key="]" line="23" column="33" />
+        <mark key="^" line="23" column="33" />
+        <mark key="." line="23" column="33" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/Register.kt" timestamp="1522381363252">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="4" />
@@ -87,6 +108,13 @@
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/AndroidManifest.xml" timestamp="1522823557859">
         <mark key="[" line="3" column="0" />
+      </file>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/dialog_loading.xml" timestamp="1523149161355">
+        <mark key="'" line="9" column="31" />
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="11" column="40" />
+        <mark key="." line="11" column="40" />
+        <mark key="^" line="11" column="40" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/adapter/SimpleRecycleAdater.kt" timestamp="1522825234495">
         <mark key="'" line="17" column="23" />
@@ -110,6 +138,7 @@
         <mark key="^" line="5" column="50" />
         <mark key="." line="5" column="50" />
       </file>
+      <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1523152733711" />
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/build.gradle" timestamp="1522394081544">
         <mark key="[" line="17" column="9" />
         <mark key="]" line="17" column="8" />
@@ -153,21 +182,12 @@
         <mark key="^" line="5" column="76" />
         <mark key="." line="5" column="76" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1522834240408">
-        <mark key="'" line="57" column="8" />
-        <mark key="[" line="168" column="49" />
-        <mark key="]" line="168" column="49" />
-        <mark key="." line="168" column="49" />
-        <mark key="^" line="168" column="49" />
-      </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" timestamp="1522812587776">
-        <mark key="a" line="202" column="3" />
-        <mark key="b" line="194" column="3" />
-        <mark key="'" line="37" column="8" />
-        <mark key="[" line="203" column="16" />
-        <mark key="]" line="203" column="19" />
-        <mark key="^" line="203" column="19" />
-        <mark key="." line="203" column="19" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1523153873118">
+        <mark key="'" line="60" column="8" />
+        <mark key="[" line="98" column="48" />
+        <mark key="]" line="98" column="48" />
+        <mark key="." line="98" column="48" />
+        <mark key="^" line="98" column="51" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/service/BluetoothService.kt" timestamp="1522824621157">
         <mark key="'" line="61" column="8" />
@@ -188,6 +208,9 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
+      <file name="vim_settings.xml" timestamp="1523152526892">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/SubjectListData.kt" timestamp="1522387575519">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="5" column="46" />
@@ -200,6 +223,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="27" />
         <mark key="^" line="34" column="27" />
+      </file>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainFragment.kt" timestamp="1523154085069">
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="34" column="15" />
+        <mark key="^" line="34" column="15" />
+        <mark key="." line="34" column="15" />
       </file>
       <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/home/MainActivityContract.kt" timestamp="1522720849646">
         <mark key="[" line="15" column="8" />
@@ -272,6 +301,12 @@
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" timestamp="1522736433365">
         <mark key="[" line="76" column="0" />
       </file>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/fragment_main.xml" timestamp="1523154152700">
+        <mark key="[" line="9" column="46" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+      </file>
       <file name="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/WriteOTGActivity.java" timestamp="1521251556703">
         <mark key="[" line="146" column="3" />
         <mark key="]" line="146" column="7" />
@@ -297,6 +332,13 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="30" />
       </file>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/dialog/LoadingDialog.kt" timestamp="1523149635025">
+        <mark key="'" line="31" column="32" />
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="31" column="29" />
+        <mark key="." line="31" column="29" />
+        <mark key="^" line="31" column="29" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/DealApplyData.kt" timestamp="1522807666993">
         <mark key="[" line="5" column="0" />
       </file>
@@ -315,11 +357,11 @@
         <mark key="." line="5" column="62" />
         <mark key="^" line="5" column="62" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/util/Utils.kt" timestamp="1522833576321">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="8" />
-        <mark key="^" line="10" column="15" />
-        <mark key="." line="10" column="8" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/util/Utils.kt" timestamp="1523154769128">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="22" />
+        <mark key="^" line="18" column="14" />
+        <mark key="." line="18" column="22" />
       </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/AutoAccount.java" timestamp="1522829618955">
         <mark key="[" line="37" column="25" />
@@ -342,6 +384,7 @@
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/build.gradle" timestamp="1522828957020">
         <mark key="[" line="21" column="25" />
       </file>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/util/RxUtils.kt" timestamp="1523146864914" />
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/App.kt" timestamp="1522720591073">
         <mark key="[" line="31" column="40" />
         <mark key="]" line="32" column="29" />
@@ -557,54 +600,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>activi</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>activi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtQ29ubmVjdGlvblN0YXRlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>val filter = IntentFilter()
-        filter.addAction(BluetoothService.ACTION_GATT_CONNECTED)
-        filter.addAction(BluetoothService.ACTION_GATT_DISCONNECTED)
-        filter.addAction(BluetoothService.ACTION_GATT_SERVICES_DISCOVERED)
-        filter.addAction(BluetoothService.ACTION_DATA_AVAILABLE)
-        return filter</text>
+        <text>message.text = &quot;Current click OID is $oid&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKEJ1aWxkLlZFUlNJT04uU0RLX0lOVCA+PSBCdWlsZC5WRVJTSU9OX0NPREVTLkxPTExJUE9QKSB7Cg==</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2U6IAogICAgCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBtQmx1ZXRvb3RoQWRhcHRlcj8uc3RvcExlU2NhbihtTGVTY2FuQ2FsbGJhY2spCiAgICAgICAgICAgICAgICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIFRleHRWaWV3IHRleHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHZhbCBtTGVTY2FuQ2FsbGJhY2sgPSBCbHVldG9vdGhBZGFwdGVyLkxlU2NhbkNhbGxiYWNrIHsgZGV2aWNlLCByc3NpLCBzY2FuUmVjb3JkIC0+CiAgICAgICAgcnVuT25VaVRocmVhZCB7CiAgICAgICAgICAgIGlmICghZGV2aWNlcy5jb250YWlucyhkZXZpY2UpKQogICAgICAgICAgICAgICAgZGV2aWNlcy5hZGQoZGV2aWNlKQogICAgICAgICAgICBzaW1wbGVSZWN5Y2xlQWRhcHRlci5kYXRhID0gZGV2aWNlcwogICAgICAgIH0KICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmkoInNlcnZpY2UgZGlzY29ubmVjdGVkISIpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmkoInNlcnZpY2UgY29ubmVjdGVkISIpCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuIChyZXN1bHQpIHsKICAgICAgICAgICAgMTA1NyAtPiB7CgogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuaSgiZGF0YSBhdmFsaWFibGUhIikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZnJhZ21lbnQgPT0gbnVsbCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>29,34t42</text>
@@ -621,10 +659,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mGattCallback</entry>
-        <entry encoding="base64">XDxtQmx1ZXRvb3RoRGV2aWNlQWRkcmVzc1w+</entry>
-        <entry encoding="base64">XDxTVEFURV9ESVNDT05ORUNURURcPg==</entry>
-        <entry encoding="base64">XDxSWF9DSEFSX1VVSURcPg==</entry>
         <entry>SCAN_P</entry>
         <entry encoding="base64">XDxTQ0FOX1BFUklPRFw+</entry>
         <entry encoding="base64">XDxtQmx1ZXRvb3RoQWRhcHRlclw+</entry>
@@ -641,9 +675,12 @@
         <entry>s</entry>
         <entry>CollectVideoData</entry>
         <entry encoding="base64">XDxtQ29ubmVjdGlvblN0YXRlXD4=</entry>
+        <entry>toast</entry>
+        <entry>Toast</entry>
+        <entry>Connected</entry>
+        <entry>presenter</entry>
       </history-search>
       <history-cmd>
-        <entry>t.</entry>
         <entry encoding="base64">cHV0ID4+</entry>
         <entry>put</entry>
         <entry>27,39s/compile/implementation/g</entry>
@@ -663,6 +700,7 @@
         <entry>67,68d</entry>
         <entry>58,60t66</entry>
         <entry>29,34t42</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
