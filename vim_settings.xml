@@ -223,11 +223,11 @@
         <mark key="." line="38" column="27" />
         <mark key="^" line="34" column="27" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainFragment.kt" timestamp="1523156523323">
-        <mark key="[" line="34" column="27" />
-        <mark key="]" line="25" column="3" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="25" column="3" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainFragment.kt" timestamp="1523157570207">
+        <mark key="[" line="42" column="36" />
+        <mark key="]" line="42" column="50" />
+        <mark key="^" line="42" column="50" />
+        <mark key="." line="42" column="50" />
       </file>
       <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/home/MainActivityContract.kt" timestamp="1522720849646">
         <mark key="[" line="15" column="8" />
@@ -300,11 +300,12 @@
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" timestamp="1522736433365">
         <mark key="[" line="76" column="0" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/fragment_main.xml" timestamp="1523154152700">
-        <mark key="[" line="9" column="46" />
-        <mark key="]" line="6" column="31" />
-        <mark key="^" line="6" column="31" />
-        <mark key="." line="6" column="31" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/fragment_main.xml" timestamp="1523157067543">
+        <mark key="a" line="14" column="41" />
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="13" column="29" />
+        <mark key="^" line="13" column="29" />
+        <mark key="." line="13" column="29" />
       </file>
       <file name="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/WriteOTGActivity.java" timestamp="1521251556703">
         <mark key="[" line="146" column="3" />
@@ -597,20 +598,20 @@
       <jump line="77" column="16" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>activity: Activity</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtQ29ubmVjdGlvblN0YXRlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>message.text = &quot;Current click OID is $oid&quot;</text>
+        <text encoding="base64">IGljb24uc2V0SW1hZ2VCaXRtYXAoYml0bWFwc1swXSkg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
