@@ -223,11 +223,11 @@
         <mark key="." line="38" column="27" />
         <mark key="^" line="34" column="27" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainFragment.kt" timestamp="1523155782096">
-        <mark key="[" line="34" column="22" />
-        <mark key="]" line="34" column="15" />
-        <mark key="^" line="34" column="15" />
-        <mark key="." line="34" column="15" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainFragment.kt" timestamp="1523156523323">
+        <mark key="[" line="34" column="27" />
+        <mark key="]" line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="25" column="3" />
       </file>
       <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/home/MainActivityContract.kt" timestamp="1522720849646">
         <mark key="[" line="15" column="8" />
@@ -356,8 +356,8 @@
         <mark key="." line="5" column="62" />
         <mark key="^" line="5" column="62" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/util/Utils.kt" timestamp="1523155772985">
-        <mark key="[" line="19" column="22" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/util/Utils.kt" timestamp="1523156324361">
+        <mark key="[" line="20" column="81" />
         <mark key="]" line="19" column="21" />
         <mark key="^" line="19" column="21" />
         <mark key="." line="19" column="21" />
@@ -597,8 +597,8 @@
       <jump line="77" column="16" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>activity: Activity</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -613,34 +613,34 @@
         <text>message.text = &quot;Current click OID is $oid&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2U6IAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRleHRWaWV3IHRleHQK</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2U6IAogICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRleHRWaWV3IHRleHQK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuIChyZXN1bHQpIHsKICAgICAgICAgICAgMTA1NyAtPiB7CgogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB3aGVuIChyZXN1bHQpIHsKICAgICAgICAgICAgMTA1NyAtPiB7CgogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZnJhZ21lbnQgPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>29,34t42</text>
