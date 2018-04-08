@@ -60,9 +60,6 @@
         <mark key="^" line="17" column="28" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="D:/Software/sdk/sources/android-27/android/app/DialogFragment.java" timestamp="1523149641963">
-        <mark key="'" line="266" column="16" />
-      </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/util/ActivityUtils.kt" timestamp="1523158420705">
         <mark key="[" line="32" column="29" />
         <mark key="]" line="32" column="63" />
@@ -280,6 +277,12 @@
         <mark key="^" line="5" column="60" />
         <mark key="." line="5" column="60" />
       </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingPresenter.kt" timestamp="1523172283062">
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="38" column="7" />
+        <mark key="." line="38" column="7" />
+        <mark key="^" line="38" column="7" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/OrganizationDetailData.kt" timestamp="1522806710816">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="5" column="66" />
@@ -287,11 +290,11 @@
         <mark key="^" line="5" column="84" />
         <mark key="." line="5" column="84" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingContract.kt" timestamp="1523171205415">
-        <mark key="[" line="18" column="45" />
-        <mark key="]" line="18" column="43" />
-        <mark key="^" line="18" column="43" />
-        <mark key="." line="18" column="43" />
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingContract.kt" timestamp="1523172236488">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="22" column="33" />
+        <mark key="^" line="22" column="33" />
+        <mark key="." line="22" column="33" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" timestamp="1517973733309">
         <mark key="[" line="60" column="7" />
@@ -632,7 +635,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiBhcGkuYWdlbmN5KGFnZW5jeUlkKQogICAgICAgICAgICAgICAgLmNvbXBvc2UoUnhVdGlscy48QmFzZUJhY2tEYXRhPmFwcGx5U2NoZWR1bGVycygpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZShuZXcgT2JzZXJ2ZXI8QmFzZUJhY2tEYXRhPigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvblN1YnNjcmliZShEaXNwb3NhYmxlIGQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWRkRGlzcG9zYWJsZShkKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uTmV4dChCYXNlQmFja0RhdGEgYmFzZUJhY2tEYXRhKSB7CgogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25FcnJvcihUaHJvd2FibGUgZSkgewoKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQ29tcGxldGUoKSB7CgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOyovCg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -647,13 +650,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmUoImVycm9yIDogIitlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiBhcGkuYWdlbmN5KGFnZW5jeUlkKQogICAgICAgICAgICAgICAgLmNvbXBvc2UoUnhVdGlscy48QmFzZUJhY2tEYXRhPmFwcGx5U2NoZWR1bGVycygpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZShuZXcgT2JzZXJ2ZXI8QmFzZUJhY2tEYXRhPigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvblN1YnNjcmliZShEaXNwb3NhYmxlIGQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWRkRGlzcG9zYWJsZShkKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uTmV4dChCYXNlQmFja0RhdGEgYmFzZUJhY2tEYXRhKSB7CgogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25FcnJvcihUaHJvd2FibGUgZSkgewoKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQ29tcGxldGUoKSB7CgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOyovCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
@@ -671,13 +674,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEZpZWxkKCJwYWdlIilwYWdlOiBJbnQsCiAgICAgICAgICAgIEBGaWVsZCgicGFnZV9zaXplIilwYWdlU2l6ZTogSW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEZpZWxkKCJwYWdlIilwYWdlOiBJbnQsCiAgICAgICAgICAgIEBGaWVsZCgicGFnZV9zaXplIilwYWdlU2l6ZTogSW50Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>29,34t42</text>
+        <text>36,58d</text>
       </register>
     </registers>
     <search>
@@ -713,7 +716,6 @@
         <entry>goto</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">cHV0ID4+</entry>
         <entry>put</entry>
         <entry>27,39s/compile/implementation/g</entry>
         <entry>42,59s/compile/implementation/g</entry>
@@ -733,6 +735,7 @@
         <entry>58,60t66</entry>
         <entry>29,34t42</entry>
         <entry>q</entry>
+        <entry>36,58d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
