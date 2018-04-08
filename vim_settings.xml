@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/course/CourseActivity.kt" timestamp="1522812013156">
@@ -53,6 +53,9 @@
         <mark key="]" line="17" column="37" />
         <mark key="^" line="17" column="28" />
         <mark key="." line="17" column="37" />
+      </file>
+      <file name="D:/Software/sdk/sources/android-27/android/app/DialogFragment.java" timestamp="1523149641963">
+        <mark key="'" line="266" column="16" />
       </file>
       <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/App.kt" timestamp="1522721122305">
         <mark key="[" line="29" column="71" />
@@ -160,21 +163,12 @@
         <mark key="^" line="5" column="76" />
         <mark key="." line="5" column="76" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1523148619731">
-        <mark key="'" line="108" column="12" />
-        <mark key="[" line="125" column="22" />
-        <mark key="]" line="80" column="52" />
-        <mark key="." line="80" column="52" />
-        <mark key="^" line="80" column="52" />
-      </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" timestamp="1522812587776">
-        <mark key="a" line="202" column="3" />
-        <mark key="b" line="194" column="3" />
-        <mark key="'" line="37" column="8" />
-        <mark key="[" line="203" column="16" />
-        <mark key="]" line="203" column="19" />
-        <mark key="^" line="203" column="19" />
-        <mark key="." line="203" column="19" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1523149927694">
+        <mark key="'" line="42" column="31" />
+        <mark key="[" line="80" column="85" />
+        <mark key="]" line="81" column="45" />
+        <mark key="." line="81" column="45" />
+        <mark key="^" line="81" column="45" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/service/BluetoothService.kt" timestamp="1522824621157">
         <mark key="'" line="61" column="8" />
@@ -304,11 +298,12 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="30" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/dialog/LoadingDialog.kt" timestamp="1523149212011">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="14" column="14" />
-        <mark key="." line="14" column="14" />
-        <mark key="^" line="14" column="14" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/dialog/LoadingDialog.kt" timestamp="1523149635025">
+        <mark key="'" line="31" column="32" />
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="31" column="29" />
+        <mark key="." line="31" column="29" />
+        <mark key="^" line="31" column="29" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/DealApplyData.kt" timestamp="1522807666993">
         <mark key="[" line="5" column="0" />
@@ -468,9 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="32" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
-      <jump line="42" column="0" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
-      <jump line="18" column="15" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/SelectDeviceActivity.java" />
       <jump line="63" column="12" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/SelectDeviceActivity.java" />
       <jump line="105" column="13" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/SelectDeviceActivity.java" />
       <jump line="106" column="17" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/SelectDeviceActivity.java" />
@@ -568,31 +560,34 @@
       <jump line="80" column="19" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
       <jump line="108" column="12" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
       <jump line="9" column="31" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/dialog_loading.xml" />
+      <jump line="31" column="32" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/dialog/LoadingDialog.kt" />
+      <jump line="266" column="16" filename="D:/Software/sdk/sources/android-27/android/app/DialogFragment.java" />
+      <jump line="41" column="31" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>@this</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>@this</text>
       </register>
       <register name="/" type="4">
-        <text>Toast</text>
+        <text>Connected</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQodGhpcywiQkxFIGlzIG5vdCBzdXBwb3J0ZWQiLFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGxvYWRpbmdEaWFsb2cgPSBMb2FkaW5nRGlhbG9nKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Cb3R0b209OGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkVuZD0iOGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSI4ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSI4ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Cb3R0b209OGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkVuZD0iOGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSI4ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSI4ZHAiCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
@@ -601,28 +596,28 @@
         <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCJQcmVwYXJlZCEiLFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChNYWluQWN0aXZpdHlAdGhpcywiUHJlcGFyZWQhIixUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3cK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCJQcmVwYXJlZCEiLFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdyAK</text>
       </register>
       <register name=":" type="4">
-        <text>29,34t42</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>Toast</last-search>
+      <last-search>Connected</last-search>
       <last-offset />
-      <last-pattern>Toast</last-pattern>
+      <last-pattern>Connected</last-pattern>
       <last-replace>compileOnly</last-replace>
       <last-substitute encoding="base64">XDxSRVFVRVNUX0VOQUJMRV9CVFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -630,7 +625,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTVEFURV9ESVNDT05ORUNURURcPg==</entry>
         <entry encoding="base64">XDxSWF9DSEFSX1VVSURcPg==</entry>
         <entry>SCAN_P</entry>
         <entry encoding="base64">XDxTQ0FOX1BFUklPRFw+</entry>
@@ -650,9 +644,9 @@
         <entry encoding="base64">XDxtQ29ubmVjdGlvblN0YXRlXD4=</entry>
         <entry>toast</entry>
         <entry>Toast</entry>
+        <entry>Connected</entry>
       </history-search>
       <history-cmd>
-        <entry>t.</entry>
         <entry encoding="base64">cHV0ID4+</entry>
         <entry>put</entry>
         <entry>27,39s/compile/implementation/g</entry>
@@ -672,6 +666,7 @@
         <entry>67,68d</entry>
         <entry>58,60t66</entry>
         <entry>29,34t42</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
