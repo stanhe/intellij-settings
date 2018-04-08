@@ -31,11 +31,11 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="67" column="7" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/build.gradle" timestamp="1522834133928">
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="31" column="3" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/build.gradle" timestamp="1523148790424">
+        <mark key="[" line="61" column="69" />
+        <mark key="]" line="63" column="3" />
+        <mark key="." line="63" column="3" />
+        <mark key="^" line="63" column="3" />
       </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MediaActivity.java" timestamp="1522829793241">
         <mark key="[" line="63" column="25" />
@@ -87,6 +87,13 @@
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/AndroidManifest.xml" timestamp="1522823557859">
         <mark key="[" line="3" column="0" />
+      </file>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/dialog_loading.xml" timestamp="1523149161355">
+        <mark key="'" line="9" column="31" />
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="11" column="40" />
+        <mark key="." line="11" column="40" />
+        <mark key="^" line="11" column="40" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/adapter/SimpleRecycleAdater.kt" timestamp="1522825234495">
         <mark key="'" line="17" column="23" />
@@ -153,12 +160,12 @@
         <mark key="^" line="5" column="76" />
         <mark key="." line="5" column="76" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1523147844381">
-        <mark key="'" line="60" column="8" />
-        <mark key="[" line="79" column="19" />
-        <mark key="]" line="79" column="19" />
-        <mark key="." line="79" column="19" />
-        <mark key="^" line="79" column="20" />
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1523148619731">
+        <mark key="'" line="108" column="12" />
+        <mark key="[" line="125" column="22" />
+        <mark key="]" line="80" column="52" />
+        <mark key="." line="80" column="52" />
+        <mark key="^" line="80" column="52" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" timestamp="1522812587776">
         <mark key="a" line="202" column="3" />
@@ -297,10 +304,16 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="30" />
       </file>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/dialog/LoadingDialog.kt" timestamp="1523149212011">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+        <mark key="^" line="14" column="14" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/DealApplyData.kt" timestamp="1522807666993">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522822311947">
+      <file name="/Dummy.txt" timestamp="1523148918041">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/ApplyCourseListData.kt" timestamp="1522807425856">
@@ -455,9 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="30" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/SelectDeviceActivity.java" />
-      <jump line="39" column="48" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
-      <jump line="40" column="15" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
       <jump line="25" column="32" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
       <jump line="42" column="0" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
       <jump line="18" column="15" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/SelectDeviceActivity.java" />
@@ -555,66 +565,64 @@
       <jump line="30" column="16" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
       <jump line="68" column="16" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
       <jump line="77" column="16" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
+      <jump line="80" column="19" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
+      <jump line="108" column="12" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
+      <jump line="9" column="31" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/dialog_loading.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>T</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtQ29ubmVjdGlvblN0YXRlXD4=</text>
+        <text>Toast</text>
       </register>
-      <register name="0" type="4">
-        <text>val filter = IntentFilter()
-        filter.addAction(BluetoothService.ACTION_GATT_CONNECTED)
-        filter.addAction(BluetoothService.ACTION_GATT_DISCONNECTED)
-        filter.addAction(BluetoothService.ACTION_GATT_SERVICES_DISCOVERED)
-        filter.addAction(BluetoothService.ACTION_DATA_AVAILABLE)
-        return filter</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQodGhpcywiQkxFIGlzIG5vdCBzdXBwb3J0ZWQiLFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VG9hc3QubWFrZVRleHQoTWFpbkFjdGl2aXR5QHRoaXMsIlByZXBhcmVkISIsVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93IH0KICAgICAgICAgICAgICAgIEJsdWV0b290aFNlcnZpY2UuQUNUSU9OX0RBVEFfQVZBSUxBQkxFIC0+ewogICAgICAgICAgICAgICAgICAgIHZhbCB0eFZhbHVlID0gaW50ZW50LmdldEJ5dGVBcnJheUV4dHJhKEJsdWV0b290aFNlcnZpY2UuRVhUUkFfREFUQSkKICAgICAgICAgICAgICAgICAgICBydW5PblVpVGhyZWFkIHsKICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciB0ZXh0ID0gIiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR4VmFsdWUuZm9yRWFjaCB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dCs9U3RyaW5nLmZvcm1hdCgiJTAyeCIsaXQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBoYW5kbGVDdXN0b21Db2RlKHRleHQpCiAgICAgICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmUoIkVycm9yIDogIitlKQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgZHJlY3ljbGVyVmlldy52aXNpYmlsaXR5ID0gVmlldy5HT05FCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Cb3R0b209OGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkVuZD0iOGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSI4ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSI4ZHAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKEJ1aWxkLlZFUlNJT04uU0RLX0lOVCA+PSBCdWlsZC5WRVJTSU9OX0NPREVTLkxPTExJUE9QKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBtQmx1ZXRvb3RoQWRhcHRlcj8uc3RvcExlU2NhbihtTGVTY2FuQ2FsbGJhY2spCiAgICAgICAgICAgICAgICAgICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHZhbCBtTGVTY2FuQ2FsbGJhY2sgPSBCbHVldG9vdGhBZGFwdGVyLkxlU2NhbkNhbGxiYWNrIHsgZGV2aWNlLCByc3NpLCBzY2FuUmVjb3JkIC0+CiAgICAgICAgcnVuT25VaVRocmVhZCB7CiAgICAgICAgICAgIGlmICghZGV2aWNlcy5jb250YWlucyhkZXZpY2UpKQogICAgICAgICAgICAgICAgZGV2aWNlcy5hZGQoZGV2aWNlKQogICAgICAgICAgICBzaW1wbGVSZWN5Y2xlQWRhcHRlci5kYXRhID0gZGV2aWNlcwogICAgICAgIH0KICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmkoInNlcnZpY2UgZGlzY29ubmVjdGVkISIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmkoInNlcnZpY2UgY29ubmVjdGVkISIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCJQcmVwYXJlZCEiLFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuaSgiZGF0YSBhdmFsaWFibGUhIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChNYWluQWN0aXZpdHlAdGhpcywiUHJlcGFyZWQhIixUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3cK</text>
       </register>
       <register name=":" type="4">
         <text>29,34t42</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtQ29ubmVjdGlvblN0YXRlXD4=</last-search>
+      <last-search>Toast</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtQ29ubmVjdGlvblN0YXRlXD4=</last-pattern>
+      <last-pattern>Toast</last-pattern>
       <last-replace>compileOnly</last-replace>
       <last-substitute encoding="base64">XDxSRVFVRVNUX0VOQUJMRV9CVFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -622,8 +630,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mGattCallback</entry>
-        <entry encoding="base64">XDxtQmx1ZXRvb3RoRGV2aWNlQWRkcmVzc1w+</entry>
         <entry encoding="base64">XDxTVEFURV9ESVNDT05ORUNURURcPg==</entry>
         <entry encoding="base64">XDxSWF9DSEFSX1VVSURcPg==</entry>
         <entry>SCAN_P</entry>
@@ -642,6 +648,8 @@
         <entry>s</entry>
         <entry>CollectVideoData</entry>
         <entry encoding="base64">XDxtQ29ubmVjdGlvblN0YXRlXD4=</entry>
+        <entry>toast</entry>
+        <entry>Toast</entry>
       </history-search>
       <history-cmd>
         <entry>t.</entry>
