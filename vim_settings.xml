@@ -40,11 +40,11 @@
         <mark key="^" line="12" column="7" />
         <mark key="." line="12" column="7" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" timestamp="1523174900759">
-        <mark key="'" line="82" column="24" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="52" />
-        <mark key="." line="147" column="0" />
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" timestamp="1523264047629">
+        <mark key="'" line="132" column="9" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="9" />
+        <mark key="." line="41" column="9" />
         <mark key="^" line="82" column="40" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/UserCourseListData.kt" timestamp="1522810122735">
@@ -342,16 +342,16 @@
         <mark key="^" line="32" column="63" />
         <mark key="." line="32" column="63" />
       </file>
-      <file name="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" timestamp="1523254642080">
-        <mark key="a" line="10" column="8" />
+      <file name="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" timestamp="1523264988428">
+        <mark key="a" line="31" column="7" />
         <mark key="b" line="12" column="0" />
         <mark key="c" line="11" column="0" />
-        <mark key="'" line="31" column="28" />
+        <mark key="'" line="23" column="31" />
         <mark key="j" line="12" column="18" />
-        <mark key="[" line="37" column="15" />
-        <mark key="]" line="37" column="18" />
-        <mark key="." line="37" column="18" />
-        <mark key="^" line="37" column="18" />
+        <mark key="[" line="36" column="23" />
+        <mark key="]" line="36" column="22" />
+        <mark key="." line="36" column="22" />
+        <mark key="^" line="36" column="22" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/activity_main.xml" timestamp="1523151161025">
         <mark key="[" line="19" column="46" />
@@ -604,7 +604,7 @@
         <mark key="." line="171" column="25" />
         <mark key="^" line="253" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1523254578364">
+      <file name="/fragment.java" timestamp="1523264421803">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/git_desk/T0227/lib/src/main/java/com/stan/lib/Test.java" timestamp="1519886007486">
@@ -615,11 +615,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="4" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
-      <jump line="141" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
-      <jump line="159" column="41" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
-      <jump line="135" column="41" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
-      <jump line="168" column="42" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
       <jump line="176" column="47" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
       <jump line="178" column="3" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
       <jump line="184" column="44" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
@@ -715,6 +710,11 @@
       <jump line="20" column="10" filename="E:/Demo/D0409/app/src/main/AndroidManifest.xml" />
       <jump line="31" column="28" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
       <jump line="7" column="0" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/SecondActivity.java" />
+      <jump line="24" column="16" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
+      <jump line="26" column="31" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
+      <jump line="23" column="31" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
+      <jump line="24" column="26" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
+      <jump line="132" column="9" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -734,13 +734,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5Lk1BIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGErYikpOwogICAgICAgIGludCBjID0xOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Main</text>
+        <text>String one = &quot;hello&quot;;</text>
       </register>
       <register name="/" type="4">
         <text>came*a</text>
@@ -752,37 +752,37 @@
         init()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5Lk1BIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGErYikpOwogICAgICAgIGludCBjID0xOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGhlID0gImhlbGxvIjsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0U29tZXRoaW5nKCkgewogICAgICAgIFN0cmluZyBvazEgPSAiaGVsbG8gd29ybGQgLHRoaXMgaXMgdG9tIjsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">U3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IFN0cmluZyBvbmUgPSAiaGVsbG8gd29ybGQiOwogICAgICAgIFN0cmluZyB0d28gPSAiaGVsbG8iOwogICAgICAgIFN0cmluZyB0aGVyZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIG9rID0gImhlbGxvIjsKICAgICAgICBTdHJpbmcgYmIgPSAiaGVsbG8iOwogICAgICAg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyIK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgb25lID0gImhlbGxvIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5Lk1BIiAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGhlID0gImhlbGxvIjsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQodGhpcywgIs60sLLXsDogIitwYWNrYWdlTmFtZSwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Cg==</text>
+        <text encoding="base64">U3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KGkpOwo=</text>
+        <text encoding="base64">U3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyIK</text>
       </register>
       <register name=":" type="4">
-        <text>sp MainActivity.java</text>
+        <text>map</text>
       </register>
     </registers>
     <search>
@@ -818,18 +818,6 @@
         <entry>came*a</entry>
       </history-search>
       <history-cmd>
-        <entry>!38G</entry>
-        <entry>prevous</entry>
-        <entry>Next</entry>
-        <entry>Prevous</entry>
-        <entry>P</entry>
-        <entry>3N</entry>
-        <entry>2N</entry>
-        <entry>args</entry>
-        <entry>last</entry>
-        <entry>first</entry>
-        <entry>N</entry>
-        <entry>n</entry>
         <entry>sp SecondActivity.java</entry>
         <entry>sp MainActivity</entry>
         <entry>vsp MainActivity.java</entry>
@@ -838,6 +826,18 @@
         <entry>3vsp MainActivity.java</entry>
         <entry>3sp</entry>
         <entry>buffers</entry>
+        <entry>q</entry>
+        <entry>syntax on</entry>
+        <entry>syntax off</entry>
+        <entry>stag tag</entry>
+        <entry>grep -w init</entry>
+        <entry>grep -w init *.java</entry>
+        <entry encoding="base64">bWFwIDxGNT4gaXs8RXNjPmVhfTxFc2M+</entry>
+        <entry>map</entry>
+        <entry>ab #st stanhe</entry>
+        <entry>abbreviate #st stanhe</entry>
+        <entry>print</entry>
+        <entry>1,5center 30</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -911,6 +911,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F5</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
