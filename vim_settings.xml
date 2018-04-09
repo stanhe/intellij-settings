@@ -40,12 +40,12 @@
         <mark key="^" line="12" column="7" />
         <mark key="." line="12" column="7" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" timestamp="1523264047629">
-        <mark key="'" line="132" column="9" />
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" timestamp="1523266537599">
+        <mark key="'" line="9" column="0" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="9" />
-        <mark key="." line="41" column="9" />
-        <mark key="^" line="82" column="40" />
+        <mark key="." line="60" column="143" />
+        <mark key="^" line="73" column="40" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/UserCourseListData.kt" timestamp="1522810122735">
         <mark key="[" line="5" column="73" />
@@ -342,16 +342,16 @@
         <mark key="^" line="32" column="63" />
         <mark key="." line="32" column="63" />
       </file>
-      <file name="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" timestamp="1523264988428">
-        <mark key="a" line="31" column="7" />
-        <mark key="b" line="12" column="0" />
+      <file name="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" timestamp="1523266206804">
+        <mark key="a" line="21" column="7" />
+        <mark key="b" line="27" column="23" />
         <mark key="c" line="11" column="0" />
-        <mark key="'" line="23" column="31" />
+        <mark key="'" line="21" column="7" />
         <mark key="j" line="12" column="18" />
-        <mark key="[" line="36" column="23" />
-        <mark key="]" line="36" column="22" />
-        <mark key="." line="36" column="22" />
-        <mark key="^" line="36" column="22" />
+        <mark key="[" line="23" column="36" />
+        <mark key="]" line="23" column="66" />
+        <mark key="." line="23" column="36" />
+        <mark key="^" line="38" column="7" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/activity_main.xml" timestamp="1523151161025">
         <mark key="[" line="19" column="46" />
@@ -615,13 +615,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="47" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
-      <jump line="178" column="3" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
-      <jump line="184" column="44" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
-      <jump line="192" column="44" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
-      <jump line="162" column="3" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
-      <jump line="195" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
-      <jump line="200" column="44" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
       <jump line="194" column="3" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
       <jump line="208" column="46" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
       <jump line="182" column="39" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
@@ -715,6 +708,13 @@
       <jump line="23" column="31" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
       <jump line="24" column="26" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="132" column="9" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
+      <jump line="22" column="17" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
+      <jump line="21" column="7" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
+      <jump line="57" column="50" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
+      <jump line="54" column="56" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
+      <jump line="55" column="71" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
+      <jump line="0" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
+      <jump line="9" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -733,8 +733,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGErYikpOwogICAgICAgIGludCBjID0xOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IExvZy5lKFRBRywib3V0IGlzIDogIisoYStiKSk7</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -746,10 +746,7 @@
         <text>came*a</text>
       </register>
       <register name="0" type="4">
-        <text>super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        initView();
-        init()</text>
+        <text encoding="base64">IExvZy5lKFRBRywib3V0IGlzIDogIisoYStiKSk7</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGErYikpOwogICAgICAgIGludCBjID0xOwo=</text>
@@ -782,7 +779,7 @@
         <text encoding="base64">U3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIHRoZSA9ICJoZWxsbyIK</text>
       </register>
       <register name=":" type="4">
-        <text>map</text>
+        <text>jumps</text>
       </register>
     </registers>
     <search>
@@ -818,16 +815,6 @@
         <entry>came*a</entry>
       </history-search>
       <history-cmd>
-        <entry>sp SecondActivity.java</entry>
-        <entry>sp MainActivity</entry>
-        <entry>vsp MainActivity.java</entry>
-        <entry>vsp ThirdActivity.java</entry>
-        <entry>sp MainActivity.java</entry>
-        <entry>3vsp MainActivity.java</entry>
-        <entry>3sp</entry>
-        <entry>buffers</entry>
-        <entry>q</entry>
-        <entry>syntax on</entry>
         <entry>syntax off</entry>
         <entry>stag tag</entry>
         <entry>grep -w init</entry>
@@ -838,6 +825,16 @@
         <entry>abbreviate #st stanhe</entry>
         <entry>print</entry>
         <entry>1,5center 30</entry>
+        <entry>`a,`bm38</entry>
+        <entry>`a,`bmove</entry>
+        <entry>'a,'bmove</entry>
+        <entry>'a,'b move.</entry>
+        <entry>'a,'bm38</entry>
+        <entry>'a,'bt.</entry>
+        <entry>j 10</entry>
+        <entry>jumps 20</entry>
+        <entry>1G</entry>
+        <entry>jumps</entry>
       </history-cmd>
       <history-expr />
       <history-input />
