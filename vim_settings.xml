@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/course/CourseActivity.kt" timestamp="1522812013156">
@@ -9,6 +9,10 @@
         <mark key="]" line="71" column="41" />
         <mark key="." line="71" column="41" />
         <mark key="^" line="71" column="41" />
+      </file>
+      <file name="/AndroidManifest.xml" timestamp="1523238069143">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="31" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/CollectVideoData.kt" timestamp="1522809137723">
         <mark key="[" line="5" column="0" />
@@ -212,6 +216,12 @@
         <mark key="^" line="5" column="51" />
         <mark key="." line="5" column="51" />
       </file>
+      <file name="F:/360Downloads/Desktop_0328/app/src/main/res/values/styles.xml" timestamp="1523239049348">
+        <mark key="[" line="8" column="49" />
+        <mark key="]" line="9" column="49" />
+        <mark key="^" line="9" column="49" />
+        <mark key="." line="9" column="49" />
+      </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/App.kt" timestamp="1522720591073">
         <mark key="[" line="31" column="40" />
         <mark key="]" line="32" column="29" />
@@ -267,12 +277,12 @@
         <mark key="^" line="40" column="14" />
         <mark key="." line="41" column="16" />
       </file>
-      <file name="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" timestamp="1522820907728">
-        <mark key="'" line="25" column="64" />
-        <mark key="[" line="80" column="42" />
-        <mark key="]" line="80" column="52" />
-        <mark key="." line="80" column="52" />
-        <mark key="^" line="80" column="52" />
+      <file name="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" timestamp="1523239263999">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="93" column="35" />
+        <mark key="]" line="95" column="34" />
+        <mark key="^" line="95" column="34" />
+        <mark key="." line="95" column="34" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/ActivityModule.kt" timestamp="1523151616544">
         <mark key="[" line="16" column="0" />
@@ -531,11 +541,11 @@
         <mark key="^" line="5" column="72" />
         <mark key="." line="5" column="72" />
       </file>
-      <file name="F:/360Downloads/Desktop_0328/app/src/main/res/layout/activity_main.xml" timestamp="1522823015391">
-        <mark key="[" line="47" column="48" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="42" column="7" />
+      <file name="F:/360Downloads/Desktop_0328/app/src/main/res/layout/activity_main.xml" timestamp="1523237885594">
+        <mark key="[" line="96" column="14" />
+        <mark key="]" line="82" column="32" />
+        <mark key="." line="82" column="32" />
+        <mark key="^" line="82" column="32" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/values/styles.xml" timestamp="1523165521333">
         <mark key="[" line="7" column="58" />
@@ -582,7 +592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="75" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" />
       <jump line="55" column="29" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
       <jump line="151" column="79" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
       <jump line="152" column="85" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
@@ -640,7 +649,6 @@
       <jump line="62" column="12" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="37" column="8" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
       <jump line="145" column="56" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
-      <jump line="27" column="64" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
       <jump line="206" column="16" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
       <jump line="223" column="8" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
       <jump line="30" column="16" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
@@ -682,6 +690,8 @@
       <jump line="7" column="51" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
       <jump line="9" column="4" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
       <jump line="18" column="36" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
+      <jump line="27" column="12" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
+      <jump line="80" column="0" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -701,49 +711,58 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>com.android.camera</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>com.android.camera</text>
       </register>
       <register name="/" type="4">
         <text>getVideoDet</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIExBVU5DSEVSID0gImNvbS5hbmRyb2lkLmxhdW5jaGVyIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydAo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBbXSBjdXN0b21BcHBzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludFtdIGljb25zOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uVmFyaWFudHMuYWxsIHsgdmFyaWFudCAtPgogICAgICAgIHZhcmlhbnQub3V0cHV0cy5lYWNoIHsgb3V0cHV0IC0+CiAgICAgICAgICAgIGRlZiBvdXRwdXRGaWxlID0gb3V0cHV0Lm91dHB1dEZpbGUKICAgICAgICAgICAgaWYgKG91dHB1dEZpbGUgIT0gbnVsbCAmJiBvdXRwdXRGaWxlLm5hbWUuZW5kc1dpdGgoJy5hcGsnKSkgewogICAgICAgICAgICAgICAgZGVmIGFwcE5hbWUgPSAnWWlaaGknOwogICAgICAgICAgICAgICAgZGVmIGJ1aWxkTmFtZQoKICAgICAgICAgICAgICAgIHZhcmlhbnQucHJvZHVjdEZsYXZvcnMuZWFjaCB7cHJvZHVjdCAtPgogICAgICAgICAgICAgICAgICAgIGJ1aWxkTmFtZSA9IHByb2R1Y3QubmFtZQogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIGRlZiBmaWxlTmFtZSA9IGFwcE5hbWUgKyAiXyIrIGJ1aWxkTmFtZSsiLmFwayIKICAgICAgICAgICAgICAgIG91dHB1dC5vdXRwdXRGaWxlID0gbmV3IEZpbGUoIiRwcm9qZWN0LmJ1aWxkRGlyL2Fway8iLCBmaWxlTmFtZSkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IHByaXZhdGUgYm9vbGVhbiBpc0N1c3RvbUFwcHMoU3RyaW5nIG5hbWUpIHsKICAgICAgICBib29sZWFuIGlzQ3VzdG9tID0gZmFsc2U7CiAgICAgICAgZm9yIChTdHJpbmcgYXBwIDogY3VzdG9tQXBwcykgewogICAgICAgICAgICBpZiAobmFtZS5lcXVhbHMoYXBwKSB8fCBuYW1lLnRvTG93ZXJDYXNlKCkuZXF1YWxzKGFwcCkpewogICAgICAgICAgICAgICAgaXNDdXN0b20gPSB0cnVlOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIGlzQ3VzdG9tOwogICAgfQ==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGlmIChhZGRyZXNzICE9ICIiICYmIGFkZHJlc3MgPT0gZGV2aWNlPy5hZGRyZXNzKSB7CiAgICAgICAgICAgICAgICBtU2VydmljZT8uY29ubmVjdChhZGRyZXNzKSAgICAgICAgICAgIAogICAgICAgICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc3AgPSBhY3Rpdml0eS5nZXRzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG5hbWUgPSByZXNvbHZlSW5mby5sb2FkTGFiZWwocGFja2FnZU1hbmFnZXIpLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmUoIkVycm9yIDogJGUiKQo=</text>
+      <register name="7" type="4">
+        <text>if (isCustomApps(name)){
+                AppBean appBean = new AppBean(
+                        resolveInfo.loadLabel(packageManager).toString(),
+                        resolveInfo.activityInfo.packageName,
+                        resolveInfo.loadIcon(packageManager)
+                );
+                Log.i(TAG,&quot;name: &quot;+ resolveInfo.loadLabel(packageManager).toString());
+                Log.i(TAG,&quot;packageName: &quot;+resolveInfo.activityInfo.packageName);
+                appBeans.add(appBean);
+            }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmUoIkVycm9yIDogJGUiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmUoIkVycm9yIDogJGUiKQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>dig</text>
