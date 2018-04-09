@@ -277,12 +277,12 @@
         <mark key="^" line="40" column="14" />
         <mark key="." line="41" column="16" />
       </file>
-      <file name="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" timestamp="1523239263999">
+      <file name="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" timestamp="1523240633961">
         <mark key="'" line="80" column="0" />
-        <mark key="[" line="93" column="35" />
-        <mark key="]" line="95" column="34" />
-        <mark key="^" line="95" column="34" />
-        <mark key="." line="95" column="34" />
+        <mark key="[" line="44" column="146" />
+        <mark key="]" line="44" column="146" />
+        <mark key="^" line="126" column="11" />
+        <mark key="." line="44" column="146" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/ActivityModule.kt" timestamp="1523151616544">
         <mark key="[" line="16" column="0" />
@@ -711,58 +711,49 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>com.android.camera</text>
+        <text>SYSTEM_UI_FLAG_IMMERSIVE_STICKY</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>com.android.camera</text>
+        <text>SYSTEM_UI_FLAG_IMMERSIVE_STICKY</text>
       </register>
       <register name="/" type="4">
         <text>getVideoDet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIExBVU5DSEVSID0gImNvbS5hbmRyb2lkLmxhdW5jaGVyIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQodGhpcywgIs60sLLXsDogIitwYWNrYWdlTmFtZSwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBbXSBjdXN0b21BcHBzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQodGhpcywgIs60sLLXsDogIitwYWNrYWdlTmFtZSwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludFtdIGljb25zOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KGkpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHByaXZhdGUgYm9vbGVhbiBpc0N1c3RvbUFwcHMoU3RyaW5nIG5hbWUpIHsKICAgICAgICBib29sZWFuIGlzQ3VzdG9tID0gZmFsc2U7CiAgICAgICAgZm9yIChTdHJpbmcgYXBwIDogY3VzdG9tQXBwcykgewogICAgICAgICAgICBpZiAobmFtZS5lcXVhbHMoYXBwKSB8fCBuYW1lLnRvTG93ZXJDYXNlKCkuZXF1YWxzKGFwcCkpewogICAgICAgICAgICAgICAgaXNDdXN0b20gPSB0cnVlOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIGlzQ3VzdG9tOwogICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBbXSBjdXN0b21BcHBzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGludFtdIGljb25zOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG5hbWUgPSByZXNvbHZlSW5mby5sb2FkTGFiZWwocGFja2FnZU1hbmFnZXIpLnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="4">
-        <text>if (isCustomApps(name)){
-                AppBean appBean = new AppBean(
-                        resolveInfo.loadLabel(packageManager).toString(),
-                        resolveInfo.activityInfo.packageName,
-                        resolveInfo.loadIcon(packageManager)
-                );
-                Log.i(TAG,&quot;name: &quot;+ resolveInfo.loadLabel(packageManager).toString());
-                Log.i(TAG,&quot;packageName: &quot;+resolveInfo.activityInfo.packageName);
-                appBeans.add(appBean);
-            }</text>
+        <text encoding="base64">IHByaXZhdGUgYm9vbGVhbiBpc0N1c3RvbUFwcHMoU3RyaW5nIG5hbWUpIHsKICAgICAgICBib29sZWFuIGlzQ3VzdG9tID0gZmFsc2U7CiAgICAgICAgZm9yIChTdHJpbmcgYXBwIDogY3VzdG9tQXBwcykgewogICAgICAgICAgICBpZiAobmFtZS5lcXVhbHMoYXBwKSB8fCBuYW1lLnRvTG93ZXJDYXNlKCkuZXF1YWxzKGFwcCkpewogICAgICAgICAgICAgICAgaXNDdXN0b20gPSB0cnVlOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIGlzQ3VzdG9tOwogICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG5hbWUgPSByZXNvbHZlSW5mby5sb2FkTGFiZWwocGFja2FnZU1hbmFnZXIpLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>dig</text>
