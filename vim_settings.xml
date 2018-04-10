@@ -148,6 +148,12 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="20" column="57" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/.gitignore" timestamp="1523342611378">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingActivity.kt" timestamp="1517973733309">
         <mark key="[" line="60" column="7" />
         <mark key="]" line="60" column="11" />
@@ -212,9 +218,6 @@
         <mark key="^" line="5" column="51" />
         <mark key="." line="5" column="51" />
       </file>
-      <file name="E:/Demo/D0409/app/src/main/java/com/stan/d0409/SecondActivity.java" timestamp="1523254645899">
-        <mark key="'" line="7" column="0" />
-      </file>
       <file name="F:/360Downloads/Desktop_0328/app/src/main/res/values/styles.xml" timestamp="1523239049348">
         <mark key="[" line="8" column="49" />
         <mark key="]" line="9" column="49" />
@@ -270,7 +273,7 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1523339619758">
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1523343909060">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="30" column="72" />
         <mark key="]" line="30" column="60" />
@@ -295,11 +298,25 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallpaperAdapter.java" timestamp="1523346135135">
+        <mark key="'" line="60" column="92" />
+        <mark key="[" line="114" column="23" />
+        <mark key="]" line="114" column="23" />
+        <mark key="^" line="71" column="3" />
+        <mark key="." line="114" column="23" />
+      </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/di/ActivityScoped.kt" timestamp="1522715755187">
         <mark key="[" line="9" column="3" />
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallPaperFragment.java" timestamp="1523346158714">
+        <mark key="'" line="54" column="33" />
+        <mark key="[" line="103" column="9" />
+        <mark key="]" line="105" column="3" />
+        <mark key="." line="105" column="3" />
+        <mark key="^" line="105" column="3" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/UserBaseInfoData.kt" timestamp="1522809440389">
         <mark key="[" line="8" column="24" />
@@ -386,9 +403,6 @@
         <mark key="]" line="29" column="39" />
         <mark key="." line="36" column="51" />
         <mark key="^" line="36" column="51" />
-      </file>
-      <file name="E:/Demo/D0409/app/src/main/AndroidManifest.xml" timestamp="1523254636617">
-        <mark key="'" line="20" column="10" />
       </file>
       <file name="G:/Android_test_project/USBCommunication/app/build.gradle" timestamp="1521107062082">
         <mark key="[" line="36" column="4" />
@@ -544,6 +558,11 @@
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/build.gradle" timestamp="1522828957020">
         <mark key="[" line="21" column="25" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/layout/item_image.xml" timestamp="1523344962306">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/item_bluetooth.xml" timestamp="1523165673049">
         <mark key="[" line="7" column="31" />
         <mark key="]" line="7" column="31" />
@@ -570,6 +589,12 @@
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/values/styles.xml" timestamp="1523165521333">
         <mark key="[" line="7" column="58" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/layout/fragment_wallpaper.xml" timestamp="1523342797510">
+        <mark key="[" line="20" column="48" />
+        <mark key="]" line="21" column="3" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="3" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/Test.java" timestamp="1519885199296">
         <mark key="[" line="9" column="0" />
@@ -613,11 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="16" filename="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/BluetoothLEService.java" />
-      <jump line="223" column="27" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
-      <jump line="244" column="19" filename="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" />
-      <jump line="65" column="10" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
-      <jump line="66" column="16" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="91" column="17" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" />
       <jump line="40" column="24" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="45" column="47" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
@@ -713,6 +733,11 @@
       <jump line="3042" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="3060" column="20" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
       <jump line="419" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
+      <jump line="41" column="22" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallPaperFragment.java" />
+      <jump line="49" column="33" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallPaperFragment.java" />
+      <jump line="50" column="34" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallPaperFragment.java" />
+      <jump line="55" column="33" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallPaperFragment.java" />
+      <jump line="60" column="92" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallpaperAdapter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -731,53 +756,53 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUxhdW5jaGVyQ2FsbGJhY2tzLm9uTGF1bmNoZXJQcm92aWRlckNoYW5nZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHJlc2V0UHJlQ29sb3IocG9zaXRpb24pOw==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>xxxxxx</text>
+        <text encoding="base64">IHJlc2V0UHJlQ29sb3IocG9zaXRpb24pOw==</text>
       </register>
       <register name="/" type="4">
         <text>checkVersion</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHbGlkZS53aXRoKGdldENvbnRleHQoKSkucmVzdW1lUmVxdWVzdHMoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDcmFzaFJlcG9ydC50ZXN0SmF2YUNyYXNoKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChuZXdTdGF0ZSA9PSBSZWN5Y2xlclZpZXcuU0NST0xMX1NUQVRFX0lETEUpIHsKCiAgICAgICAgICAgICAgICB9ZWxzZSB7CgogICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDcmFzaFJlcG9ydC5pbml0Q3Jhc2hSZXBvcnQoZ2V0QXBwbGljYXRpb25Db250ZXh0KCksICLXorLhyrHJ6sfrtcRBUFBJRCIsIGZhbHNlKTsK</text>
+      <register name="3" type="8">
+        <text>super.onScrollStateChanged(recyclerView, newState);</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGludCBoZWlnaHQgPSAoaW50KSAoU2xpZGVyVXRpbC5nZXRTY3JlZW5IZWlnaHQoY29udGV4dCkvMy41Zik7CiAgICAgICAgICAgIGNvbnRhaW5lci5zZXRMYXlvdXRQYXJhbXMobmV3IFZpZXdHcm91cC5MYXlvdXRQYXJhbXMoVmlld0dyb3VwLkxheW91dFBhcmFtcy5NQVRDSF9QQVJFTlQsaGVpZ2h0KSk7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkocGFrYWdlTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjIwZHAiCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93UGFzc3dkRGlhbG9nKCJjb20uIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWRkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTUVSQSA9ICJjb20uYW5kcm9pZC5jYW1lcmEiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBjYW1lcmFQYWNrYWdlPSIiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>23,28t29</text>
       </register>
     </registers>
     <search>
@@ -813,7 +838,6 @@
         <entry>checkVersion</entry>
       </history-search>
       <history-cmd>
-        <entry>grep -w init *.java</entry>
         <entry encoding="base64">bWFwIDxGNT4gaXs8RXNjPmVhfTxFc2M+</entry>
         <entry>map</entry>
         <entry>ab #st stanhe</entry>
@@ -833,6 +857,7 @@
         <entry encoding="base64">JzwsJz50MTA3</entry>
         <entry encoding="base64">JzwsJz5tNjY=</entry>
         <entry>reg</entry>
+        <entry>23,28t29</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -865,7 +890,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
