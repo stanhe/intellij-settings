@@ -141,6 +141,7 @@
         <mark key="." line="38" column="27" />
         <mark key="^" line="34" column="27" />
       </file>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainFragment.kt" timestamp="1523355721863" />
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingPresenter.kt" timestamp="1523174493096">
         <mark key="'" line="58" column="24" />
         <mark key="[" line="142" column="0" />
@@ -285,10 +286,10 @@
         <mark key="." line="30" column="60" />
         <mark key="^" line="30" column="60" />
       </file>
-      <file name="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" timestamp="1523352312350">
+      <file name="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" timestamp="1523355705310">
         <mark key="'" line="33" column="58" />
-        <mark key="[" line="31" column="63" />
-        <mark key="]" line="31" column="70" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="105" />
         <mark key="." line="31" column="70" />
         <mark key="^" line="31" column="70" />
       </file>
@@ -756,7 +757,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIEYgCg==</text>
+        <text encoding="base64">ICAgICAgICBpLnNldENvbXBvbmVudChuZXcgQ29tcG9uZW50TmFtZSgoImNvbS5hbmRyb2lkLmdhbGxlcnkzZCIpLCJjb20uYW5kcm9pZC5jYW1lcmEuQ2FtZXJhTGF1bmNoZXIiKSk7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
