@@ -45,7 +45,7 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="9" />
         <mark key="." line="60" column="143" />
-        <mark key="^" line="73" column="40" />
+        <mark key="^" line="82" column="40" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/UserCourseListData.kt" timestamp="1522810122735">
         <mark key="[" line="5" column="73" />
@@ -789,7 +789,7 @@
       <last-replace>compileOnly</last-replace>
       <last-substitute>came*a</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
