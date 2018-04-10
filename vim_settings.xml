@@ -283,12 +283,12 @@
         <mark key="^" line="40" column="14" />
         <mark key="." line="41" column="16" />
       </file>
-      <file name="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" timestamp="1523328169397">
-        <mark key="'" line="54" column="51" />
-        <mark key="[" line="44" column="146" />
-        <mark key="]" line="44" column="146" />
-        <mark key="^" line="126" column="11" />
-        <mark key="." line="44" column="146" />
+      <file name="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" timestamp="1523332172733">
+        <mark key="'" line="20" column="11" />
+        <mark key="[" line="106" column="25" />
+        <mark key="]" line="106" column="41" />
+        <mark key="." line="72" column="34" />
+        <mark key="^" line="106" column="41" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/ActivityModule.kt" timestamp="1523151616544">
         <mark key="[" line="16" column="0" />
@@ -326,10 +326,10 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="31" column="3" />
       </file>
-      <file name="F:/360Downloads/Desktop_0328/app/src/main/AndroidManifest.xml" timestamp="1523253905740">
-        <mark key="[" line="13" column="65" />
-        <mark key="]" line="13" column="64" />
-        <mark key="." line="13" column="64" />
+      <file name="F:/360Downloads/Desktop_0328/app/src/main/AndroidManifest.xml" timestamp="1523331444458">
+        <mark key="[" line="16" column="64" />
+        <mark key="]" line="16" column="64" />
+        <mark key="." line="16" column="64" />
         <mark key="^" line="13" column="64" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/MS10Receiver.java" timestamp="1520998032028">
@@ -344,7 +344,7 @@
         <mark key="^" line="32" column="63" />
         <mark key="." line="32" column="63" />
       </file>
-      <file name="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" timestamp="1523330392370">
+      <file name="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" timestamp="1523330915814">
         <mark key="c" line="13" column="0" />
         <mark key="j" line="14" column="18" />
         <mark key="[" line="18" column="56" />
@@ -620,9 +620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="4" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/course/CourseContract.kt" />
-      <jump line="30" column="27" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/course/CoursePresenter.kt" />
-      <jump line="202" column="3" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
       <jump line="49" column="27" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/course/CourseActivity.kt" />
       <jump line="19" column="8" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="62" column="12" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
@@ -680,11 +677,8 @@
       <jump line="2" column="0" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
       <jump line="10" column="0" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
       <jump line="9" column="0" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
-      <jump line="20" column="53" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
       <jump line="59" column="12" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
       <jump line="92" column="16" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
-      <jump line="58" column="16" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
-      <jump line="22" column="11" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
       <jump line="42" column="0" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
       <jump line="47" column="71" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
       <jump line="50" column="39" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
@@ -720,6 +714,12 @@
       <jump line="9" column="4" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
       <jump line="33" column="22" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
       <jump line="50" column="22" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
+      <jump line="19" column="31" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
+      <jump line="22" column="11" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
+      <jump line="58" column="16" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
+      <jump line="72" column="7" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
+      <jump line="106" column="25" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
+      <jump line="20" column="11" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -739,58 +739,58 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>coverShow</text>
+        <text>launcherPackage</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgbmF0aXZl</text>
+        <text>launcherPackage</text>
       </register>
       <register name="/" type="4">
-        <text>hello</text>
+        <text encoding="base64">XDxsYXVuY2hlclBhY2thZ2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>coverShow</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkRFRkFVTFQiLz4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICBzdGF0aWMgewogICAgICAgIAogICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTUVSQSA9ICJjb20uYW5kcm9pZC5jYW1lcmEiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBjYW1lcmFQYWNrYWdlPSIiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlc29sdmVJbmZvLmFjdGl2aXR5SW5mby5wYWNrYWdlTmFtZS5zdGFydHNXaXRoKENBTUVSQSkpIHsKICAgICAgICAgICAgICAgIGNhbWVyYVBhY2thZ2UgPSByZXNvbHZlSW5mby5hY3Rpdml0eUluZm8ucGFja2FnZU5hbWU7CiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgICAgIGludCBhID0xOwogICAgICAgIGludCBiID0gMjsKICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGErYikpOwogICAgICAgIGludCBjID0xOwogICAgICAgIGludCBkID0gMjsKICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGMrZCkpOwogICAgICAgIGluaXRTb21ldGhpbmcoKTsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgaW5pdFNvbWV0aGluZygpIHsKICAgICAgICBTdHJpbmcgb2sxID0gIkhlbGxvIFdvcmxkICxUaGlzIGlzIHRvbSI7CiAgICAgICAgU3RyaW5nIG9rayA9ICJoZWxsbyI7CiAgICAgICAgaWYgKG9rMS5lcXVhbHMob2trKSkgewogICAgICAgICAgICBMb2cuZShUQUcsIG9rMSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgTG9nLmUoVEFHLG9rayk7CiAgICAgICAgfQoKICAgICAgICBpbnQgYSA9MTsKICAgICAgICBpbnQgYiA9IDI7CiAgICAgICAgTG9nLmUoVEFHLCJvdXQgaXMgOiAiKyhhK2IpKTsKICAgICAgICBpbnQgYyA9MTsKICAgICAgICBpbnQgZCA9IDI7CiAgICAgICAgTG9nLmUoVEFHLCJvdXQgaXMgOiAiKyhjK2QpKTsKICAgICAgICBpbml0U29tZXRoaW5nKCk7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGluaXRTb21ldGhpbmcoKSB7CiAgICAgICAgU3RyaW5nIG9rMSA9ICJIZWxsbyBXb3JsZCAsVGhpcyBpcyB0b20iOwogICAgICAgIFN0cmluZyBva2sgPSAiaGVsbG8iOwogICAgICAgIGlmIChvazEuZXF1YWxzKG9raykpIHsKICAgICAgICAgICAgTG9nLmUoVEFHLCBvazEpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIExvZy5lKFRBRyxva2spOwogICAgICAgIH0KCiAgICAgICAgaW50IGEgPTE7CiAgICAgICAgaW50IGIgPSAyOwogICAgICAgIExvZy5lKFRBRywib3V0IGlzIDogIisoYStiKSk7CiAgICAgICAgaW50IGMgPTE7CiAgICAgICAgaW50IGQgPSAyOwogICAgICAgIExvZy5lKFRBRywib3V0IGlzIDogIisoYytkKSk7CiAgICAgICAgaW5pdFNvbWV0aGluZygpOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBpbml0U29tZXRoaW5nKCkgewogICAgICAgIFN0cmluZyBvazEgPSAiSGVsbG8gV29ybGQgLFRoaXMgaXMgdG9tIjsKICAgICAgICBTdHJpbmcgb2trID0gImhlbGxvIjsKICAgICAgICBpZiAob2sxLmVxdWFscyhva2spKSB7CiAgICAgICAgICAgIExvZy5lKFRBRywgb2sxKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBMb2cuZShUQUcsb2trKTsKICAgICAgICB9CgogICAgICAgIGludCBhID0xOwogICAgICAgIGludCBiID0gMjsKICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGErYikpOwogICAgICAgIGludCBjID0xOwogICAgICAgIGludCBkID0gMjsKICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGMrZCkpOwogICAgICAgIGluaXRTb21ldGhpbmcoKTsKICAgIH0KICAgIHByaXZhdGUgdm9pZCBpbml0U29tZXRoaW5nKCkgewogICAgICAgIFN0cmluZyBvazEgPSAiSGVsbG8gV29ybGQgLFRoaXMgaXMgdG9tIjsKICAgICAgICBTdHJpbmcgb2trID0gImhlbGxvIjsKICAgICAgICBpZiAob2sxLmVxdWFscyhva2spKSB7CiAgICAgICAgICAgIExvZy5lKFRBRywgb2sxKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBMb2cuZShUQUcsb2trKTsKICAgICAgICB9CgogICAgICAgIGludCBhID0xOwogICAgICAgIGludCBiID0gMjsKICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGErYikpOwogICAgICAgIGludCBjID0xOwogICAgICAgIGludCBkID0gMjsKICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGMrZCkpOwogICAgICAgIGluaXRTb21ldGhpbmcoKTsKICAgIH0KfQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBzdGF0aWMgewogICAgICAgIAogICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KEludGVudCh0aGlzLE1haW5BY3Rpdml0eTo6Y2xhc3MuamF2YSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGErYikpOwogICAgICAgIGludCBjID0xOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0U29tZXRoaW5nKCkgewogICAgICAgIFN0cmluZyBvazEgPSAiaGVsbG8gd29ybGQgLHRoaXMgaXMgdG9tIjsK</text>
+        <text encoding="base64">ICAgIAogICAgICAgIGludCBhID0xOwogICAgICAgIGludCBiID0gMjsKICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGErYikpOwogICAgICAgIGludCBjID0xOwogICAgICAgIGludCBkID0gMjsKICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGMrZCkpOwogICAgICAgIGluaXRTb21ldGhpbmcoKTsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgaW5pdFNvbWV0aGluZygpIHsKICAgICAgICBTdHJpbmcgb2sxID0gIkhlbGxvIFdvcmxkICxUaGlzIGlzIHRvbSI7CiAgICAgICAgU3RyaW5nIG9rayA9ICJoZWxsbyI7CiAgICAgICAgaWYgKG9rMS5lcXVhbHMob2trKSkgewogICAgICAgICAgICBMb2cuZShUQUcsIG9rMSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgTG9nLmUoVEFHLG9rayk7CiAgICAgICAgfQoKICAgICAgICBpbnQgYSA9MTsKICAgICAgICBpbnQgYiA9IDI7CiAgICAgICAgTG9nLmUoVEFHLCJvdXQgaXMgOiAiKyhhK2IpKTsKICAgICAgICBpbnQgYyA9MTsKICAgICAgICBpbnQgZCA9IDI7CiAgICAgICAgTG9nLmUoVEFHLCJvdXQgaXMgOiAiKyhjK2QpKTsKICAgICAgICBpbml0U29tZXRoaW5nKCk7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGluaXRTb21ldGhpbmcoKSB7CiAgICAgICAgU3RyaW5nIG9rMSA9ICJIZWxsbyBXb3JsZCAsVGhpcyBpcyB0b20iOwogICAgICAgIFN0cmluZyBva2sgPSAiaGVsbG8iOwogICAgICAgIGlmIChvazEuZXF1YWxzKG9raykpIHsKICAgICAgICAgICAgTG9nLmUoVEFHLCBvazEpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIExvZy5lKFRBRyxva2spOwogICAgICAgIH0KCiAgICAgICAgaW50IGEgPTE7CiAgICAgICAgaW50IGIgPSAyOwogICAgICAgIExvZy5lKFRBRywib3V0IGlzIDogIisoYStiKSk7CiAgICAgICAgaW50IGMgPTE7CiAgICAgICAgaW50IGQgPSAyOwogICAgICAgIExvZy5lKFRBRywib3V0IGlzIDogIisoYytkKSk7CiAgICAgICAgaW5pdFNvbWV0aGluZygpOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBpbml0U29tZXRoaW5nKCkgewogICAgICAgIFN0cmluZyBvazEgPSAiSGVsbG8gV29ybGQgLFRoaXMgaXMgdG9tIjsKICAgICAgICBTdHJpbmcgb2trID0gImhlbGxvIjsKICAgICAgICBpZiAob2sxLmVxdWFscyhva2spKSB7CiAgICAgICAgICAgIExvZy5lKFRBRywgb2sxKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBMb2cuZShUQUcsb2trKTsKICAgICAgICB9CgogICAgICAgIGludCBhID0xOwogICAgICAgIGludCBiID0gMjsKICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGErYikpOwogICAgICAgIGludCBjID0xOwogICAgICAgIGludCBkID0gMjsKICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGMrZCkpOwogICAgICAgIGluaXRTb21ldGhpbmcoKTsKICAgIH0KICAgIHByaXZhdGUgdm9pZCBpbml0U29tZXRoaW5nKCkgewogICAgICAgIFN0cmluZyBvazEgPSAiSGVsbG8gV29ybGQgLFRoaXMgaXMgdG9tIjsKICAgICAgICBTdHJpbmcgb2trID0gImhlbGxvIjsKICAgICAgICBpZiAob2sxLmVxdWFscyhva2spKSB7CiAgICAgICAgICAgIExvZy5lKFRBRywgb2sxKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBMb2cuZShUQUcsb2trKTsKICAgICAgICB9CgogICAgICAgIGludCBhID0xOwogICAgICAgIGludCBiID0gMjsKICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGErYikpOwogICAgICAgIGludCBjID0xOwogICAgICAgIGludCBkID0gMjsKICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGMrZCkpOwogICAgICAgIGluaXRTb21ldGhpbmcoKTsKICAgIH0KfQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IFN0cmluZyBvbmUgPSAiaGVsbG8gd29ybGQiOwogICAgICAgIFN0cmluZyB0d28gPSAiaGVsbG8iOwogICAgICAgIFN0cmluZyB0aGVyZSA9ICJoZWxsbyI7CiAgICAgICAgU3RyaW5nIG9rID0gImhlbGxvIjsKICAgICAgICBTdHJpbmcgYmIgPSAiaGVsbG8iOwogICAgICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KEludGVudCh0aGlzLE1haW5BY3Rpdml0eTo6Y2xhc3MuamF2YSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgb25lID0gImhlbGxvIjsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGErYikpOwogICAgICAgIGludCBjID0xOwo=</text>
       </register>
       <register name=":" type="4">
         <text>'a,'bt.</text>
       </register>
     </registers>
     <search>
-      <last-search>hello</last-search>
+      <last-search encoding="base64">XDxsYXVuY2hlclBhY2thZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern>hello</last-pattern>
+      <last-pattern encoding="base64">XDxsYXVuY2hlclBhY2thZ2VcPg==</last-pattern>
       <last-replace>compileOnly</last-replace>
       <last-substitute>came*a</last-substitute>
       <last-dir>1</last-dir>
@@ -798,9 +798,6 @@
     </search>
     <history>
       <history-search>
-        <entry>presenter</entry>
-        <entry>goto</entry>
-        <entry>getArti</entry>
         <entry>getApplyC</entry>
         <entry>dealappl</entry>
         <entry>getContactDetail</entry>
@@ -818,6 +815,9 @@
         <entry>init</entry>
         <entry>onCreate</entry>
         <entry>hello</entry>
+        <entry encoding="base64">XDxMQVVOQ0hFUlw+</entry>
+        <entry encoding="base64">XDxjYW1lcmFQYWNrYWdlXD4=</entry>
+        <entry encoding="base64">XDxsYXVuY2hlclBhY2thZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>syntax off</entry>
