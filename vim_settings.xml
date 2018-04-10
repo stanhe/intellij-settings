@@ -280,11 +280,12 @@
         <mark key="." line="30" column="60" />
         <mark key="^" line="30" column="60" />
       </file>
-      <file name="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" timestamp="1523338403374">
-        <mark key="'" line="20" column="11" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+      <file name="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" timestamp="1523352312350">
+        <mark key="'" line="33" column="58" />
+        <mark key="[" line="31" column="63" />
+        <mark key="]" line="31" column="70" />
+        <mark key="." line="31" column="70" />
+        <mark key="^" line="31" column="70" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/ActivityModule.kt" timestamp="1523151616544">
         <mark key="[" line="16" column="0" />
@@ -292,11 +293,11 @@
         <mark key="^" line="19" column="53" />
         <mark key="." line="19" column="53" />
       </file>
-      <file name="E:/Demo/D0409/app/src/main/java/net/axb/ldgao/RBookFileOperation.java" timestamp="1523349349960">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="40" />
-        <mark key="." line="10" column="3" />
-        <mark key="^" line="10" column="3" />
+      <file name="E:/Demo/D0409/app/src/main/java/net/axb/ldgao/RBookFileOperation.java" timestamp="1523350697486">
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="11" column="53" />
+        <mark key="." line="11" column="53" />
+        <mark key="^" line="11" column="53" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallpaperAdapter.java" timestamp="1523347154323">
         <mark key="'" line="60" column="92" />
@@ -335,10 +336,9 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="31" column="3" />
       </file>
-      <file name="F:/360Downloads/Desktop_0328/app/src/main/AndroidManifest.xml" timestamp="1523338502208">
+      <file name="F:/360Downloads/Desktop_0328/app/src/main/AndroidManifest.xml" timestamp="1523352372656">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
-        <mark key="^" line="13" column="64" />
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/MS10Receiver.java" timestamp="1520998032028">
@@ -353,13 +353,13 @@
         <mark key="^" line="32" column="63" />
         <mark key="." line="32" column="63" />
       </file>
-      <file name="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" timestamp="1523349734489">
+      <file name="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" timestamp="1523350749462">
         <mark key="c" line="13" column="0" />
         <mark key="j" line="14" column="18" />
-        <mark key="[" line="18" column="56" />
-        <mark key="]" line="18" column="53" />
-        <mark key="." line="18" column="53" />
-        <mark key="^" line="18" column="53" />
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="26" column="26" />
+        <mark key="." line="26" column="26" />
+        <mark key="^" line="26" column="26" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/activity_main.xml" timestamp="1523151161025">
         <mark key="[" line="19" column="46" />
@@ -409,7 +409,7 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="E:/Demo/D0409/app/build.gradle" timestamp="1523330045058">
+      <file name="E:/Demo/D0409/app/build.gradle" timestamp="1523350474582">
         <mark key="[" line="17" column="5" />
         <mark key="]" line="18" column="3" />
         <mark key="^" line="18" column="3" />
@@ -632,7 +632,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="17" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" />
       <jump line="40" column="24" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="45" column="47" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="67" column="3" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
@@ -732,6 +731,7 @@
       <jump line="50" column="34" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallPaperFragment.java" />
       <jump line="55" column="33" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallPaperFragment.java" />
       <jump line="60" column="92" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallpaperAdapter.java" />
+      <jump line="32" column="58" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -750,53 +750,53 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>mContex</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIi8+ZGQK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>mContex</text>
+        <text>LANDSCAPE</text>
       </register>
       <register name="/" type="4">
         <text>checkVersion</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHbGlkZS53aXRoKGdldENvbnRleHQoKSkucmVzdW1lUmVxdWVzdHMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFJlcXVlc3RlZE9yaWVudGF0aW9uKEFjdGl2aXR5SW5mby5TQ1JFRU5fT1JJRU5UQVRJT05fUE9SVFJBSVQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIi8+ZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRSZXF1ZXN0ZWRPcmllbnRhdGlvbigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZnlJdGVtQ2hhbmdlZChwcmVJbmRleCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFJlcXVlc3RlZE9yaWVudGF0aW9uKEFjdGl2aXR5SW5mby5TQ1JFRU5fT1JJRU5UQVRJT05fUE9SVFJBSVQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFJlcXVlc3RlZE9yaWVudGF0aW9uKEFjdGl2aXR5SW5mby5TQ1JFRU5fT1JJRU5UQVRJT05fUkVWRVJTRV9QT1JUUkFJVCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBvc2l0aW9uICE9IHNlbGVjdGVkKSB7CiAgICAgICAgICAgICAgICBzZWxlY3RlZCA9IHBvc2l0aW9uOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgKiAqLyAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm90aWZ5SXRlbUNoYW5nZWQocHJlSW5kZXgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgaWYgKHNlbGVjdGVkIT0tMSkKICAgICAgICAgICAgICAgIG5vdGlmeUl0ZW1DaGFuZ2VkKHNlbGVjdGVkKTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBkIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25Db25maWd1cmF0aW9uQ2hhbmdlZChDb25maWd1cmF0aW9uIG5ld0NvbmZpZykgewogICAgICAgIHN1cGVyLm9uQ29uZmlndXJhdGlvbkNoYW5nZWQobmV3Q29uZmlnKTsKICAgICAgICAKICAgIH0=</text>
       </register>
       <register name=":" type="4">
-        <text>23,28t29</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -832,7 +832,6 @@
         <entry>checkVersion</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">bWFwIDxGNT4gaXs8RXNjPmVhfTxFc2M+</entry>
         <entry>map</entry>
         <entry>ab #st stanhe</entry>
         <entry>abbreviate #st stanhe</entry>
@@ -850,8 +849,9 @@
         <entry>'a,'bt.</entry>
         <entry encoding="base64">JzwsJz50MTA3</entry>
         <entry encoding="base64">JzwsJz5tNjY=</entry>
-        <entry>reg</entry>
         <entry>23,28t29</entry>
+        <entry>reg</entry>
+        <entry>s/185,189/landscape/PORTRAIT/i</entry>
       </history-cmd>
       <history-expr />
       <history-input />
