@@ -97,11 +97,11 @@
         <mark key="." line="29" column="50" />
         <mark key="^" line="29" column="50" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/build.gradle" timestamp="1523339902438">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="14" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/build.gradle" timestamp="1523348061123">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="22" />
         <mark key="^" line="6" column="15" />
-        <mark key="." line="5" column="14" />
+        <mark key="." line="17" column="22" />
       </file>
       <file name="G:/Android_test_project/USBWriter/app/build.gradle" timestamp="1520564276684">
         <mark key="[" line="27" column="0" />
@@ -298,12 +298,12 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallpaperAdapter.java" timestamp="1523346135135">
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallpaperAdapter.java" timestamp="1523347154323">
         <mark key="'" line="60" column="92" />
-        <mark key="[" line="114" column="23" />
-        <mark key="]" line="114" column="23" />
-        <mark key="^" line="71" column="3" />
-        <mark key="." line="114" column="23" />
+        <mark key="[" line="78" column="32" />
+        <mark key="]" line="78" column="31" />
+        <mark key="^" line="78" column="31" />
+        <mark key="." line="78" column="31" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/di/ActivityScoped.kt" timestamp="1522715755187">
         <mark key="[" line="9" column="3" />
@@ -311,12 +311,11 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallPaperFragment.java" timestamp="1523346158714">
-        <mark key="'" line="54" column="33" />
-        <mark key="[" line="103" column="9" />
-        <mark key="]" line="105" column="3" />
-        <mark key="." line="105" column="3" />
-        <mark key="^" line="105" column="3" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallPaperFragment.java" timestamp="1523347481537">
+        <mark key="[" line="63" column="31" />
+        <mark key="]" line="63" column="31" />
+        <mark key="^" line="63" column="37" />
+        <mark key="." line="63" column="31" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/UserBaseInfoData.kt" timestamp="1522809440389">
         <mark key="[" line="8" column="24" />
@@ -558,11 +557,6 @@
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/build.gradle" timestamp="1522828957020">
         <mark key="[" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/layout/item_image.xml" timestamp="1523344962306">
-        <mark key="[" line="5" column="28" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/item_bluetooth.xml" timestamp="1523165673049">
         <mark key="[" line="7" column="31" />
         <mark key="]" line="7" column="31" />
@@ -757,13 +751,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHJlc2V0UHJlQ29sb3IocG9zaXRpb24pOw==</text>
+        <text>mContex</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJlc2V0UHJlQ29sb3IocG9zaXRpb24pOw==</text>
+        <text>mContex</text>
       </register>
       <register name="/" type="4">
         <text>checkVersion</text>
@@ -772,31 +766,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHbGlkZS53aXRoKGdldENvbnRleHQoKSkucmVzdW1lUmVxdWVzdHMoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChuZXdTdGF0ZSA9PSBSZWN5Y2xlclZpZXcuU0NST0xMX1NUQVRFX0lETEUpIHsKCiAgICAgICAgICAgICAgICB9ZWxzZSB7CgogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>super.onScrollStateChanged(recyclerView, newState);</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBub3RpZnlJdGVtQ2hhbmdlZChwcmVJbmRleCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGludCBoZWlnaHQgPSAoaW50KSAoU2xpZGVyVXRpbC5nZXRTY3JlZW5IZWlnaHQoY29udGV4dCkvMy41Zik7CiAgICAgICAgICAgIGNvbnRhaW5lci5zZXRMYXlvdXRQYXJhbXMobmV3IFZpZXdHcm91cC5MYXlvdXRQYXJhbXMoVmlld0dyb3VwLkxheW91dFBhcmFtcy5NQVRDSF9QQVJFTlQsaGVpZ2h0KSk7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBvc2l0aW9uICE9IHNlbGVjdGVkKSB7CiAgICAgICAgICAgICAgICBzZWxlY3RlZCA9IHBvc2l0aW9uOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjIwZHAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm90aWZ5SXRlbUNoYW5nZWQocHJlSW5kZXgpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgaWYgKHNlbGVjdGVkIT0tMSkKICAgICAgICAgICAgICAgIG5vdGlmeUl0ZW1DaGFuZ2VkKHNlbGVjdGVkKTs=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
