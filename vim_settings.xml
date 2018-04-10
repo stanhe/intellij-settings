@@ -283,12 +283,11 @@
         <mark key="^" line="40" column="14" />
         <mark key="." line="41" column="16" />
       </file>
-      <file name="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" timestamp="1523332172733">
+      <file name="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" timestamp="1523338403374">
         <mark key="'" line="20" column="11" />
-        <mark key="[" line="106" column="25" />
-        <mark key="]" line="106" column="41" />
-        <mark key="." line="72" column="34" />
-        <mark key="^" line="106" column="41" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/ActivityModule.kt" timestamp="1523151616544">
         <mark key="[" line="16" column="0" />
@@ -326,11 +325,11 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="31" column="3" />
       </file>
-      <file name="F:/360Downloads/Desktop_0328/app/src/main/AndroidManifest.xml" timestamp="1523331444458">
-        <mark key="[" line="16" column="64" />
-        <mark key="]" line="16" column="64" />
-        <mark key="." line="16" column="64" />
+      <file name="F:/360Downloads/Desktop_0328/app/src/main/AndroidManifest.xml" timestamp="1523338502208">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
         <mark key="^" line="13" column="64" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/MS10Receiver.java" timestamp="1520998032028">
         <mark key="[" line="13" column="4" />
@@ -738,14 +737,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>launcherPackage</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIi8+Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>launcherPackage</text>
+        <text>cifinal String pakageName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsYXVuY2hlclBhY2thZ2VcPg==</text>
@@ -754,37 +753,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkRFRkFVTFQiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTUVSQSA9ICJjb20uYW5kcm9pZC5jYW1lcmEiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIi8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBjYW1lcmFQYWNrYWdlPSIiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlc29sdmVJbmZvLmFjdGl2aXR5SW5mby5wYWNrYWdlTmFtZS5zdGFydHNXaXRoKENBTUVSQSkpIHsKICAgICAgICAgICAgICAgIGNhbWVyYVBhY2thZ2UgPSByZXNvbHZlSW5mby5hY3Rpdml0eUluZm8ucGFja2FnZU5hbWU7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkocGFrYWdlTmFtZSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBzdGF0aWMgewogICAgICAgIAogICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzaG93UGFzc3dkRGlhbG9nKCJjb20uIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTUVSQSA9ICJjb20uYW5kcm9pZC5jYW1lcmEiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBjYW1lcmFQYWNrYWdlPSIiOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgICAgIGludCBhID0xOwogICAgICAgIGludCBiID0gMjsKICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGErYikpOwogICAgICAgIGludCBjID0xOwogICAgICAgIGludCBkID0gMjsKICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGMrZCkpOwogICAgICAgIGluaXRTb21ldGhpbmcoKTsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgaW5pdFNvbWV0aGluZygpIHsKICAgICAgICBTdHJpbmcgb2sxID0gIkhlbGxvIFdvcmxkICxUaGlzIGlzIHRvbSI7CiAgICAgICAgU3RyaW5nIG9rayA9ICJoZWxsbyI7CiAgICAgICAgaWYgKG9rMS5lcXVhbHMob2trKSkgewogICAgICAgICAgICBMb2cuZShUQUcsIG9rMSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgTG9nLmUoVEFHLG9rayk7CiAgICAgICAgfQoKICAgICAgICBpbnQgYSA9MTsKICAgICAgICBpbnQgYiA9IDI7CiAgICAgICAgTG9nLmUoVEFHLCJvdXQgaXMgOiAiKyhhK2IpKTsKICAgICAgICBpbnQgYyA9MTsKICAgICAgICBpbnQgZCA9IDI7CiAgICAgICAgTG9nLmUoVEFHLCJvdXQgaXMgOiAiKyhjK2QpKTsKICAgICAgICBpbml0U29tZXRoaW5nKCk7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGluaXRTb21ldGhpbmcoKSB7CiAgICAgICAgU3RyaW5nIG9rMSA9ICJIZWxsbyBXb3JsZCAsVGhpcyBpcyB0b20iOwogICAgICAgIFN0cmluZyBva2sgPSAiaGVsbG8iOwogICAgICAgIGlmIChvazEuZXF1YWxzKG9raykpIHsKICAgICAgICAgICAgTG9nLmUoVEFHLCBvazEpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIExvZy5lKFRBRyxva2spOwogICAgICAgIH0KCiAgICAgICAgaW50IGEgPTE7CiAgICAgICAgaW50IGIgPSAyOwogICAgICAgIExvZy5lKFRBRywib3V0IGlzIDogIisoYStiKSk7CiAgICAgICAgaW50IGMgPTE7CiAgICAgICAgaW50IGQgPSAyOwogICAgICAgIExvZy5lKFRBRywib3V0IGlzIDogIisoYytkKSk7CiAgICAgICAgaW5pdFNvbWV0aGluZygpOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBpbml0U29tZXRoaW5nKCkgewogICAgICAgIFN0cmluZyBvazEgPSAiSGVsbG8gV29ybGQgLFRoaXMgaXMgdG9tIjsKICAgICAgICBTdHJpbmcgb2trID0gImhlbGxvIjsKICAgICAgICBpZiAob2sxLmVxdWFscyhva2spKSB7CiAgICAgICAgICAgIExvZy5lKFRBRywgb2sxKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBMb2cuZShUQUcsb2trKTsKICAgICAgICB9CgogICAgICAgIGludCBhID0xOwogICAgICAgIGludCBiID0gMjsKICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGErYikpOwogICAgICAgIGludCBjID0xOwogICAgICAgIGludCBkID0gMjsKICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGMrZCkpOwogICAgICAgIGluaXRTb21ldGhpbmcoKTsKICAgIH0KICAgIHByaXZhdGUgdm9pZCBpbml0U29tZXRoaW5nKCkgewogICAgICAgIFN0cmluZyBvazEgPSAiSGVsbG8gV29ybGQgLFRoaXMgaXMgdG9tIjsKICAgICAgICBTdHJpbmcgb2trID0gImhlbGxvIjsKICAgICAgICBpZiAob2sxLmVxdWFscyhva2spKSB7CiAgICAgICAgICAgIExvZy5lKFRBRywgb2sxKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBMb2cuZShUQUcsb2trKTsKICAgICAgICB9CgogICAgICAgIGludCBhID0xOwogICAgICAgIGludCBiID0gMjsKICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGErYikpOwogICAgICAgIGludCBjID0xOwogICAgICAgIGludCBkID0gMjsKICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGMrZCkpOwogICAgICAgIGluaXRTb21ldGhpbmcoKTsKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlc29sdmVJbmZvLmFjdGl2aXR5SW5mby5wYWNrYWdlTmFtZS5zdGFydHNXaXRoKENBTUVSQSkpIHsKICAgICAgICAgICAgICAgIGNhbWVyYVBhY2thZ2UgPSByZXNvbHZlSW5mby5hY3Rpdml0eUluZm8ucGFja2FnZU5hbWU7CiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KEludGVudCh0aGlzLE1haW5BY3Rpdml0eTo6Y2xhc3MuamF2YSkpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBzdGF0aWMgewogICAgICAgIAogICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsIm91dCBpcyA6ICIrKGErYikpOwogICAgICAgIGludCBjID0xOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>'a,'bt.</text>
+        <text encoding="base64">JzwsJz5tNjY=</text>
       </register>
     </registers>
     <search>
@@ -820,8 +819,6 @@
         <entry encoding="base64">XDxsYXVuY2hlclBhY2thZ2VcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>syntax off</entry>
-        <entry>stag tag</entry>
         <entry>grep -w init</entry>
         <entry>grep -w init *.java</entry>
         <entry encoding="base64">bWFwIDxGNT4gaXs8RXNjPmVhfTxFc2M+</entry>
@@ -840,6 +837,8 @@
         <entry>1G</entry>
         <entry>jumps</entry>
         <entry>'a,'bt.</entry>
+        <entry encoding="base64">JzwsJz50MTA3</entry>
+        <entry encoding="base64">JzwsJz5tNjY=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
