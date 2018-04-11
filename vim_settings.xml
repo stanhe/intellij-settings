@@ -179,6 +179,7 @@
         <mark key="^" line="167" column="0" />
         <mark key="." line="167" column="0" />
       </file>
+      <file name="F:/360Downloads/audiobd_speech_sdk_asr_v3.0.7_bdasr_20180313_726f26e/app/src/main/java/com/baidu/android/voicedemo/activity/ActivityRecog.java" timestamp="1523433455773" />
       <file name="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/WriteOTGActivity.java" timestamp="1521251556703">
         <mark key="[" line="146" column="3" />
         <mark key="]" line="146" column="7" />
@@ -455,6 +456,10 @@
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="46" />
       </file>
+      <file name="F:/360Downloads/audiobd_speech_sdk_asr_v3.0.7_bdasr_20180313_726f26e/app/src/main/java/com/baidu/android/voicedemo/control/MyRecognizer.java" timestamp="1523433660620">
+        <mark key="[" line="97" column="12" />
+        <mark key="]" line="97" column="65" />
+      </file>
       <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/home/MainActivityContract.kt" timestamp="1522720849646">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="15" column="9" />
@@ -580,7 +585,7 @@
         <mark key="." line="32" column="38" />
         <mark key="^" line="32" column="38" />
       </file>
-      <file name="F:/360Downloads/audiobd_speech_sdk_asr_v3.0.7_bdasr_20180313_726f26e/app/src/main/java/com/baidu/android/voicedemo/activity/mini/ActivityMiniRecog.java" timestamp="1523432983648">
+      <file name="F:/360Downloads/audiobd_speech_sdk_asr_v3.0.7_bdasr_20180313_726f26e/app/src/main/java/com/baidu/android/voicedemo/activity/mini/ActivityMiniRecog.java" timestamp="1523434467382">
         <mark key="[" line="163" column="0" />
         <mark key="]" line="163" column="25" />
       </file>
@@ -605,11 +610,12 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523433272489">
-        <mark key="'" line="78" column="41" />
-        <mark key="[" line="101" column="120" />
-        <mark key="]" line="101" column="121" />
-        <mark key="." line="101" column="121" />
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523434611749">
+        <mark key="'" line="79" column="41" />
+        <mark key="[" line="238" column="24" />
+        <mark key="]" line="238" column="9" />
+        <mark key="." line="238" column="9" />
+        <mark key="^" line="238" column="9" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/Test.java" timestamp="1519885199296">
         <mark key="[" line="9" column="0" />
@@ -771,8 +777,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">d2FrZXVwTGlzdGVuZXIg</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1077,7 +1083,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">RXZlbnRMaXN0ZW5lciA=</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
@@ -1172,8 +1178,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludExvZyhsb2dUeHQpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">d2FrZXVwTGlzdGVuZXIg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
