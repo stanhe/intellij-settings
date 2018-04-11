@@ -348,10 +348,10 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="31" column="3" />
       </file>
-      <file name="F:/360Downloads/Desktop_0328/app/src/main/AndroidManifest.xml" timestamp="1523407196998">
-        <mark key="[" line="16" column="64" />
-        <mark key="]" line="16" column="64" />
-        <mark key="." line="16" column="64" />
+      <file name="F:/360Downloads/Desktop_0328/app/src/main/AndroidManifest.xml" timestamp="1523425258379">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/MS10Receiver.java" timestamp="1520998032028">
         <mark key="[" line="13" column="4" />
@@ -602,7 +602,7 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523414739102">
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523425190557">
         <mark key="'" line="370" column="32" />
         <mark key="[" line="253" column="26" />
         <mark key="]" line="256" column="0" />
@@ -769,7 +769,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3Nza2pfMDciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIi8+Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1173,34 +1173,34 @@
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3Nza2pfMDciCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3Nza2pfMDciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIi8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3Nza2pfMDgiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3Nza2pfMDciCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2ljb24zIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3Nza2pfMDgiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9uQ2xpY2s9ImdhbGxlcnkiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2ljb24zIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9uQ2xpY2s9ImNhbWVyYSIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9uQ2xpY2s9ImdhbGxlcnkiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsImhlbGxvIG1hbiAhICIpOwogICAgICAgIExvZy5pKFRBRywiaW5pdCEiKTsK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9uQ2xpY2s9ImNhbWVyYSIK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydEFjdGlvbk1vZGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsImhlbGxvIG1hbiAhICIpOwogICAgICAgIExvZy5pKFRBRywiaW5pdCEiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvbktleURvd24oKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGFydEFjdGlvbk1vZGUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsImhlbGxvIG1hbiAhICIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBvbktleURvd24oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>17,18d</text>
