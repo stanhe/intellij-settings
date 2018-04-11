@@ -580,6 +580,10 @@
         <mark key="." line="32" column="38" />
         <mark key="^" line="32" column="38" />
       </file>
+      <file name="F:/360Downloads/audiobd_speech_sdk_asr_v3.0.7_bdasr_20180313_726f26e/app/src/main/java/com/baidu/android/voicedemo/activity/mini/ActivityMiniRecog.java" timestamp="1523432983648">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="25" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/TradingRecordListData.kt" timestamp="1522809574820">
         <mark key="[" line="5" column="75" />
         <mark key="]" line="5" column="72" />
@@ -601,12 +605,11 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523432042343">
-        <mark key="'" line="139" column="20" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="74" column="90" />
-        <mark key="." line="105" column="0" />
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523433272489">
+        <mark key="'" line="78" column="41" />
+        <mark key="[" line="101" column="120" />
+        <mark key="]" line="101" column="121" />
+        <mark key="." line="101" column="121" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/Test.java" timestamp="1519885199296">
         <mark key="[" line="9" column="0" />
@@ -650,7 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="24" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingPresenter.kt" />
       <jump line="117" column="18" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
       <jump line="98" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingPresenter.kt" />
       <jump line="118" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingPresenter.kt" />
@@ -750,6 +752,7 @@
       <jump line="55" column="13" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="99" column="22" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="145" column="20" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="78" column="41" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -769,7 +772,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL2Fzci5zZW5kKFNwZWVjaENvbnN0YW50LkFTUl9DQU5DRUwsIG51bGwsIG51bGwsIDAsIDApOyAvLyDIoc/7sb60zsq2sfCjrMihz/u6872rwaK8tM2j1rmyu7vht7W72Mq2sfC94bn7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1074,7 +1077,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
@@ -1170,37 +1173,37 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZShUQUcsInBhcmFtcyBpcyA6IitwYXJhbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludExvZyhsb2dUeHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL2Fzci5zZW5kKFNwZWVjaENvbnN0YW50LkFTUl9DQU5DRUwsIG51bGwsIG51bGwsIDAsIDApOyAvLyDIoc/7sb60zsq2sfCjrMihz/u6872rwaK8tM2j1rmyu7vht7W72Mq2sfC94bn7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGlmIChuYW1lLmVxdWFscyhTcGVlY2hDb25zdGFudC5DQUxMQkFDS19FVkVOVF9BU1JfUEFSVElBTCkpIHsKICAgICAgICAgICAgICAgICAgICBpZiAocGFyYW1zLmNvbnRhaW5zKCJcIm5sdV9yZXN1bHRcIiIpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChsZW5ndGggPiAwICYmIGRhdGEubGVuZ3RoPjApIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoVEFHLCJyZXN1bHQ6ICIrbmV3IFN0cmluZyAoZGF0YSxvZmZzZXQsbGVuZ3RoKSkgOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9LCAxMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludExvZyhsb2dUeHQpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBuZXcgSGFuZGxlcigpLnBvc3REZWxheWVkKG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IExvZy5lKFRBRywgIm5hbWUgaXMgOiIgKyBuYW1lKTsKICAgICAgICAgICAgICAgICAgICBMb2cuZShUQUcsICJwYXJhbXMgaXMgOiIgKyBwYXJhbXMpOwogICAgICAgICAgICAgICAgICAgIExvZy5lKFRBRywgImRhdGEgaXMgOiIgKyBkYXRhLnRvU3RyaW5nKCkpOwogICAgICAgICAgICAgICAgICAgIExvZy5lKFRBRywgIm9mZnNldCBpcyA6IiArIG9mZnNldCk7CiAgICAgICAgICAgICAgICAgICAgTG9nLmUoVEFHLCAibGVuZ3RoIGlzIDoiICsgbGVuZ3RoKTs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KE1haW5BY3Rpdml0eS50aGlzLCAiU3BlYWshIiwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvL2Fzci5zZW5kKFNwZWVjaENvbnN0YW50LkFTUl9DQU5DRUwsIG51bGwsIG51bGwsIDAsIDApOyAvLyDIoc/7sb60zsq2sfCjrMihz/u6872rwaK8tM2j1rmyu7vht7W72Mq2sfC94bn7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
@@ -1256,9 +1259,9 @@
         <entry>24,25t18</entry>
         <entry>27,29d</entry>
         <entry encoding="base64">JzwsJz5tJA==</entry>
-        <entry>reg</entry>
         <entry>normal &quot;9p</entry>
         <entry>normal &quot;*p</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
