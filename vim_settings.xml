@@ -25,6 +25,12 @@
         <mark key="^" line="17" column="28" />
         <mark key="." line="17" column="37" />
       </file>
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/proguard-rules.pro" timestamp="1523438727278">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="29" column="42" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/App.kt" timestamp="1522721122305">
         <mark key="[" line="29" column="71" />
         <mark key="]" line="32" column="28" />
@@ -261,8 +267,9 @@
         <mark key="^" line="20" column="54" />
         <mark key="." line="20" column="54" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/data/RecognizeData.java" timestamp="1523435212144">
-        <mark key="[" line="6" column="28" />
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/data/RecognizeData.java" timestamp="1523437774488">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="38" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/di/FragmentScoped.kt" timestamp="1522715787062">
         <mark key="[" line="5" column="11" />
@@ -573,8 +580,11 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="29" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/build.gradle" timestamp="1522828957020">
-        <mark key="[" line="21" column="25" />
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/build.gradle" timestamp="1523439202899">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="23" column="12" />
+        <mark key="^" line="23" column="11" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/item_bluetooth.xml" timestamp="1523165673049">
         <mark key="[" line="7" column="31" />
@@ -613,12 +623,12 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523435338612">
-        <mark key="'" line="79" column="41" />
-        <mark key="[" line="85" column="24" />
-        <mark key="]" line="89" column="12" />
-        <mark key="^" line="84" column="48" />
-        <mark key="." line="89" column="12" />
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523439437688">
+        <mark key="'" line="79" column="31" />
+        <mark key="[" line="285" column="8" />
+        <mark key="]" line="285" column="9" />
+        <mark key="^" line="285" column="9" />
+        <mark key="." line="285" column="9" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/Test.java" timestamp="1519885199296">
         <mark key="[" line="9" column="0" />
@@ -662,7 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="18" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
       <jump line="98" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingPresenter.kt" />
       <jump line="118" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/training/TrainingPresenter.kt" />
       <jump line="99" column="18" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/net/Api.kt" />
@@ -762,6 +771,7 @@
       <jump line="99" column="22" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="145" column="20" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="78" column="41" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="83" column="31" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -780,8 +790,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>{&quot;results_recognition&quot;:[&quot; &quot;],&quot;origin_result&quot;:{&quot;corpus_no&quot;:6543104080496092306,&quot;err_no&quot;:0,&quot;result&quot;:{&quot;uncertain_word&quot;:[&quot;尹&quot;],&quot;word&quot;:[&quot; &quot;]},&quot;sn&quot;:&quot;a7e473fa-a8c2-4304-a6ee-dd53c282c7c4&quot;},&quot;error&quot;:0,&quot;best_result&quot;:&quot; &quot;,&quot;result_type&quot;:&quot;partial_result&quot;}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8g0saz/c7e08O1xHJlc291cmNlzsS8/go=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1086,7 +1096,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>-ignorewarning</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
@@ -1182,37 +1192,38 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>{&quot;results_recognition&quot;:[&quot; &quot;],&quot;origin_result&quot;:{&quot;corpus_no&quot;:6543104080496092306,&quot;err_no&quot;:0,&quot;result&quot;:{&quot;uncertain_word&quot;:[&quot;尹&quot;],&quot;word&quot;:[&quot; &quot;]},&quot;sn&quot;:&quot;a7e473fa-a8c2-4304-a6ee-dd53c282c7c4&quot;},&quot;error&quot;:0,&quot;best_result&quot;:&quot; &quot;,&quot;result_type&quot;:&quot;partial_result&quot;}</text>
+        <text>com.stan.d0115_launcher_0.data;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g0saz/c7e08O1xHJlc291cmNlzsS8/go=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIC8qaWYgKG5hbWUuZXF1YWxzKFNwZWVjaENvbnN0YW50LkNBTExCQUNLX0VWRU5UX0FTUl9QQVJUSUFMKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHBhcmFtcy5jb250YWlucygiXCJubHVfcmVzdWx0XCIiKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChsZW5ndGggPiAwICYmIGRhdGEubGVuZ3RoID4gMCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dUeHQgKz0gIiwg0+/S5b3izva94bn7o7oiICsgbmV3IFN0cmluZyhkYXRhLCBvZmZzZXQsIGxlbmd0aCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGRhdGEgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nVHh0ICs9ICIgO2RhdGEgbGVuZ3RoPSIgKyBkYXRhLmxlbmd0aDsKICAgICAgICAgICAgICAgICAgICAgICAgfSov</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="8">
+        <text />
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRMb2cobG9nVHh0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEpTT05PYmplY3QganNvbk9iamVjdCA9IG5ldyBKU09OT2JqZWN0KHBhcmFtcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>-keepattributes Signature
+-keepattributes *Annotation*</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGlmIChuYW1lLmVxdWFscyhTcGVlY2hDb25zdGFudC5DQUxMQkFDS19FVkVOVF9BU1JfUEFSVElBTCkpIHsKICAgICAgICAgICAgICAgICAgICBpZiAocGFyYW1zLmNvbnRhaW5zKCJcIm5sdV9yZXN1bHRcIiIpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChsZW5ndGggPiAwICYmIGRhdGEubGVuZ3RoPjApIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoVEFHLCJyZXN1bHQ6ICIrbmV3IFN0cmluZyAoZGF0YSxvZmZzZXQsbGVuZ3RoKSkgOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludExvZyhsb2dUeHQpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgcG9zdHF1ZXN0aW9uKGZpbmFsIFN0cmluZyBxdWVzdGlvbikgewogICAgICAgIG5ldyBUaHJlYWQobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewoKICAgICAgICAgICAgICAgIEpTT05PYmplY3QganNvbiA9IG5ldyBKU09OT2JqZWN0KCk7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIGpzb24ucHV0KCJ1dWlkIiwgInNzZGVlc2RzYWFhIik7IC8vy+a7+tfWt/u0riCxo9akzqjSu7y0v8kKICAgICAgICAgICAgICAgICAgICBqc29uLnB1dCgicXVlc3Rpb24iLCBxdWVzdGlvbik7CiAgICAgICAgICAgICAgICAgICAganNvbi5wdXQoInVzZXJuYW1lIiwgIjE4NjgwNjY4Mjc3Iik7IC8vu7uzydfUvLrXorLhtcTa0Mz9v6q3osa9zKjVy7rFCiAgICAgICAgICAgICAgICB9IGNhdGNoIChKU09ORXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLy9TdHJpbmcgcyA9IEh0dHBVdGlscy5zZW5kUmVxdWVzdFdpdGhIdHRwVVJMQ29ubmVjdGlvbigiaHR0cDovL3d3dy5kaXRpbmdhaS5jb20vcmVtb3RlL2NoYXQvaW5mbyIsIGpzb24udG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICBTdHJpbmcgcyA9ICIiOwogICAgICAgICAgICAgICAgaWYgKHMgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgIEpTT05PYmplY3QganNvbm9iamVjdCA9IG5ldyBKU09OT2JqZWN0KHMudG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBhbnN3ZXIgPSBqc29ub2JqZWN0LmdldFN0cmluZygiYW5zd2VyIik7IC8vtcO1vbTwsLgKICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGFjdGlvbk9wdGlvbiA9IGpzb25vYmplY3QuZ2V0SlNPTk9iamVjdCgiYWN0aW9uIikuZ2V0U3RyaW5nKCJhY3Rpb25PcHRpb24iKTsgLy+1w7W9tq/X9wogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgcXVlc3Rpb24gPSBqc29ub2JqZWN0LmdldEpTT05PYmplY3QoImFjdGlvbiIpLmdldFN0cmluZygicXVlc3Rpb24iKTsgLy+1w7W9zsrM4gogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgdXNlcm5hbWUgPSBqc29ub2JqZWN0LmdldFN0cmluZygidXNlcm5hbWUiKTsgLy/Vy7rFCiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBhdmFpbGFibGUgPSBqc29ub2JqZWN0LmdldEpTT05PYmplY3QoImFjdGlvbiIpLmdldFN0cmluZygiYXZhaWxhYmxlIik7IC8vtcO1vbav1/cKICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhbnN3ZXI6IiArIGFuc3dlcik7CiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBUaHJlYWQobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcnVuT25VaVRocmVhZChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL7j80MJVSQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vc3BlYWtBbnN3ZXJfZGl0aW5nKGFuc3dlcik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0pLnN0YXJ0KCk7CgoKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChKU09ORXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9KS5zdGFydCgpOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
@@ -1251,7 +1262,6 @@
         <entry>init</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz50MTA3</entry>
         <entry encoding="base64">JzwsJz5tNjY=</entry>
         <entry>23,28t29</entry>
         <entry>s/185,189/landscape/PORTRAIT/i</entry>
@@ -1270,6 +1280,7 @@
         <entry encoding="base64">JzwsJz5tJA==</entry>
         <entry>normal &quot;9p</entry>
         <entry>normal &quot;*p</entry>
+        <entry encoding="base64">JzwsJz50ODI=</entry>
         <entry>reg</entry>
       </history-cmd>
       <history-expr />
