@@ -19,6 +19,10 @@
   </action>
   <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
@@ -59,7 +63,6 @@
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
   <action id="ReformatCode" />
-  <action id="Replace" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
