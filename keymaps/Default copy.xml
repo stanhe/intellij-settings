@@ -6,14 +6,49 @@
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="CallHierarchy" />
+  <action id="ChangesView.ShelveSilently" />
+  <action id="CheckinProject" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="EditorScrollToCenter" />
+  <action id="EditorSelectWord" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="Images.SetBackgroundImage">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="Kotlin.NewFile">
     <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
   <action id="QuickList.Deployment">
     <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
@@ -27,6 +62,8 @@
   <action id="QuickList.MyMode">
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
+  <action id="ReformatCode" />
+  <action id="Replace" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -42,7 +79,15 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="TypeHierarchy" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="VimInsertEnter">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
