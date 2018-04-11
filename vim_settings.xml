@@ -185,7 +185,6 @@
         <mark key="^" line="167" column="0" />
         <mark key="." line="167" column="0" />
       </file>
-      <file name="F:/360Downloads/audiobd_speech_sdk_asr_v3.0.7_bdasr_20180313_726f26e/app/src/main/java/com/baidu/android/voicedemo/activity/ActivityRecog.java" timestamp="1523433455773" />
       <file name="G:/Android_test_project/AnExplorer-master/app/src/main/java/dev/dworks/apps/anexplorer/WriteOTGActivity.java" timestamp="1521251556703">
         <mark key="[" line="146" column="3" />
         <mark key="]" line="146" column="7" />
@@ -1226,7 +1225,7 @@
         <text encoding="base64">ICBwcml2YXRlIHZvaWQgcG9zdHF1ZXN0aW9uKGZpbmFsIFN0cmluZyBxdWVzdGlvbikgewogICAgICAgIG5ldyBUaHJlYWQobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewoKICAgICAgICAgICAgICAgIEpTT05PYmplY3QganNvbiA9IG5ldyBKU09OT2JqZWN0KCk7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIGpzb24ucHV0KCJ1dWlkIiwgInNzZGVlc2RzYWFhIik7IC8vy+a7+tfWt/u0riCxo9akzqjSu7y0v8kKICAgICAgICAgICAgICAgICAgICBqc29uLnB1dCgicXVlc3Rpb24iLCBxdWVzdGlvbik7CiAgICAgICAgICAgICAgICAgICAganNvbi5wdXQoInVzZXJuYW1lIiwgIjE4NjgwNjY4Mjc3Iik7IC8vu7uzydfUvLrXorLhtcTa0Mz9v6q3osa9zKjVy7rFCiAgICAgICAgICAgICAgICB9IGNhdGNoIChKU09ORXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLy9TdHJpbmcgcyA9IEh0dHBVdGlscy5zZW5kUmVxdWVzdFdpdGhIdHRwVVJMQ29ubmVjdGlvbigiaHR0cDovL3d3dy5kaXRpbmdhaS5jb20vcmVtb3RlL2NoYXQvaW5mbyIsIGpzb24udG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICBTdHJpbmcgcyA9ICIiOwogICAgICAgICAgICAgICAgaWYgKHMgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgIEpTT05PYmplY3QganNvbm9iamVjdCA9IG5ldyBKU09OT2JqZWN0KHMudG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBhbnN3ZXIgPSBqc29ub2JqZWN0LmdldFN0cmluZygiYW5zd2VyIik7IC8vtcO1vbTwsLgKICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGFjdGlvbk9wdGlvbiA9IGpzb25vYmplY3QuZ2V0SlNPTk9iamVjdCgiYWN0aW9uIikuZ2V0U3RyaW5nKCJhY3Rpb25PcHRpb24iKTsgLy+1w7W9tq/X9wogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgcXVlc3Rpb24gPSBqc29ub2JqZWN0LmdldEpTT05PYmplY3QoImFjdGlvbiIpLmdldFN0cmluZygicXVlc3Rpb24iKTsgLy+1w7W9zsrM4gogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgdXNlcm5hbWUgPSBqc29ub2JqZWN0LmdldFN0cmluZygidXNlcm5hbWUiKTsgLy/Vy7rFCiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBhdmFpbGFibGUgPSBqc29ub2JqZWN0LmdldEpTT05PYmplY3QoImFjdGlvbiIpLmdldFN0cmluZygiYXZhaWxhYmxlIik7IC8vtcO1vbav1/cKICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhbnN3ZXI6IiArIGFuc3dlcik7CiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBUaHJlYWQobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcnVuT25VaVRocmVhZChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL7j80MJVSQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vc3BlYWtBbnN3ZXJfZGl0aW5nKGFuc3dlcik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0pLnN0YXJ0KCk7CgoKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChKU09ORXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9KS5zdGFydCgpOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
@@ -1262,10 +1261,6 @@
         <entry>init</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tNjY=</entry>
-        <entry>23,28t29</entry>
-        <entry>s/185,189/landscape/PORTRAIT/i</entry>
-        <entry>h ctrl-r</entry>
         <entry>p</entry>
         <entry>17,18d</entry>
         <entry>17,18 nomarl A;</entry>
@@ -1282,6 +1277,10 @@
         <entry>normal &quot;*p</entry>
         <entry encoding="base64">JzwsJz50ODI=</entry>
         <entry>reg</entry>
+        <entry>24,28normal A;</entry>
+        <entry>sp</entry>
+        <entry>buffers</entry>
+        <entry>bnext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
