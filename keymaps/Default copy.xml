@@ -84,6 +84,9 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="VimInsertEnter">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
