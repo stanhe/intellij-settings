@@ -342,7 +342,7 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="67" column="7" />
       </file>
-      <file name="E:/XueZhiYou_Projects/Box_launcher/app/build.gradle" timestamp="1522834133928">
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/build.gradle" timestamp="1523426302526">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="9" column="24" />
         <mark key="." line="9" column="24" />
@@ -602,12 +602,12 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523425537546">
-        <mark key="'" line="371" column="32" />
-        <mark key="[" line="75" column="27" />
-        <mark key="]" line="76" column="39" />
-        <mark key="." line="76" column="39" />
-        <mark key="^" line="76" column="39" />
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523426014323">
+        <mark key="'" line="103" column="19" />
+        <mark key="[" line="73" column="35" />
+        <mark key="]" line="73" column="47" />
+        <mark key="." line="73" column="47" />
+        <mark key="^" line="73" column="47" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/Test.java" timestamp="1519885199296">
         <mark key="[" line="9" column="0" />
@@ -651,8 +651,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="24" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
-      <jump line="58" column="25" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="100" column="37" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="80" column="20" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="99" column="24" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
@@ -751,6 +749,8 @@
       <jump line="16" column="64" filename="F:/360Downloads/Desktop_0328/app/src/main/AndroidManifest.xml" />
       <jump line="7" column="51" filename="E:/Test/D0411/app/src/main/java/com/stan/d0411/MainActivity.java" />
       <jump line="16" column="4" filename="E:/Test/D0411/app/src/main/java/com/stan/d0411/MainActivity.java" />
+      <jump line="75" column="20" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="102" column="19" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -769,8 +769,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIi8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1075,10 +1075,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>checkVersion</text>
+        <text>initTT</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1171,46 +1171,46 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3Nza2pfMDciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZShUQUcsInBhcmFtcyBpcyA6IitwYXJhbXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIi8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3Nza2pfMDciCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcganNvbiA9ICJ7XCJhY2NlcHQtYXVkaW8tZGF0YVwiOmZhbHNlLFwiZGlzYWJsZS1wdW5jdHVhdGlvblwiOmZhbHNlLFwiYWNjZXB0LWF1ZGlvLXZvbHVtZVwiOnRydWUsXCJwaWRcIjoxNzM2fSI7CiAgICAgICAgYXNyLnNlbmQoU3BlZWNoQ29uc3RhbnQuQVNSX1NUQVJULCBqc29uLCBudWxsLCAwLCAwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3Nza2pfMDgiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0UmVjb2duaXplKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2ljb24zIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIi8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9uQ2xpY2s9ImdhbGxlcnkiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3Nza2pfMDciCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9uQ2xpY2s9ImNhbWVyYSIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3Nza2pfMDgiCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsImhlbGxvIG1hbiAhICIpOwogICAgICAgIExvZy5pKFRBRywiaW5pdCEiKTsK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2ljb24zIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydEFjdGlvbk1vZGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9uQ2xpY2s9ImdhbGxlcnkiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvbktleURvd24oKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9uQ2xpY2s9ImNhbWVyYSIK</text>
       </register>
       <register name=":" type="4">
-        <text>17,18d</text>
+        <text>144,149m89</text>
       </register>
     </registers>
     <search>
-      <last-search>checkVersion</last-search>
+      <last-search>initTT</last-search>
       <last-offset />
-      <last-pattern>checkVersion</last-pattern>
+      <last-pattern>initTT</last-pattern>
       <last-replace>compileOnly</last-replace>
       <last-substitute>came*a</last-substitute>
       <last-dir>1</last-dir>
@@ -1218,7 +1218,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getContactDetail</entry>
         <entry>getTeacher</entry>
         <entry>getVideoList</entry>
         <entry>getVideoDet</entry>
@@ -1238,9 +1237,9 @@
         <entry encoding="base64">XDxsYXVuY2hlclBhY2thZ2VcPg==</entry>
         <entry>check</entry>
         <entry>checkVersion</entry>
+        <entry>initTT</entry>
       </history-search>
       <history-cmd>
-        <entry>1,5center 30</entry>
         <entry>`a,`bm38</entry>
         <entry>`a,`bmove</entry>
         <entry>'a,'bmove</entry>
@@ -1260,6 +1259,7 @@
         <entry>p</entry>
         <entry>17,18d</entry>
         <entry>17,18 nomarl A;</entry>
+        <entry>144,149m89</entry>
       </history-cmd>
       <history-expr />
       <history-input />
