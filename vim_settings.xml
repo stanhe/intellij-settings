@@ -266,12 +266,11 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="37" />
       </file>
-      <file name="E:/Test/D0411/app/src/main/java/com/stan/d0411/MainActivity.java" timestamp="1523416063526">
+      <file name="E:/Test/D0411/app/src/main/java/com/stan/d0411/MainActivity.java" timestamp="1523418341909">
         <mark key="'" line="15" column="4" />
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="18" column="7" />
-        <mark key="." line="18" column="7" />
-        <mark key="^" line="18" column="7" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivityContract.kt" timestamp="1522722880976">
         <mark key="[" line="14" column="8" />
@@ -588,10 +587,10 @@
         <mark key="^" line="5" column="72" />
         <mark key="." line="5" column="72" />
       </file>
-      <file name="F:/360Downloads/Desktop_0328/app/src/main/res/layout/activity_main.xml" timestamp="1523237885594">
-        <mark key="[" line="96" column="14" />
-        <mark key="]" line="82" column="32" />
-        <mark key="." line="82" column="32" />
+      <file name="F:/360Downloads/Desktop_0328/app/src/main/res/layout/activity_main.xml" timestamp="1523418590340">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
         <mark key="^" line="82" column="32" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/values/styles.xml" timestamp="1523165521333">
@@ -769,8 +768,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>init();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3Nza2pfMDciCg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1171,40 +1170,40 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsImhlbGxvIG1hbiAhICIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3Nza2pfMDciCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydEFjdGlvbk1vZGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3Nza2pfMDciCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvbktleURvd24oKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3Nza2pfMDgiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsImhlbGxvIG1hbiAhICIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2ljb24zIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9uQ2xpY2s9ImdhbGxlcnkiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9ICJio6nU2ldpbmRvd3PPwqOsvMS05sb3ICsgus0gKiC2vLT6se3Ptc2zvPTM+bDlo6y/ydLUu6W7u8q508OjrNGh0ru49suzyta1xLy0v8mho8D9yOcgIit5eSDD/MHu1+m6z7/Jvau1scew0NC4tNbGtb3Ptc2zvPTM+bDloaMgY2kiPEN0cmwrcj4qIMP8we7X6brP1PK9q8+1zbO89Mz5sOW1xMTayN3M5ru719a3+7SutcTE2rK/zsSxvqGjICI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9uQ2xpY2s9ImNhbWVyYSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBio6nU2ldpbmRvd3PPwqOsvMS05sb3ICsgus0gKiC2vLT6se3Ptc2zvPTM+bDlo6y/ydLUu6W7u8q508OjrNGh0ru49suzyta1xLy0v8mho8D9yOcgIit5eSDD/MHu1+m6z7/Jvau1scew0NC4tNbGtb3Ptc2zvPTM+bDloaMgY2kiPEN0cmwrcj4qIMP8we7X6brP1PK9q8+1zbO89Mz5sOW1xMTayN3M5ru719a3+7SutcTE2rK/zsSxvqGjIAo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsImhlbGxvIG1hbiAhICIpOwogICAgICAgIExvZy5pKFRBRywiaW5pdCEiKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBio6nU2ldpbmRvd3PPwqOsvMS05sb3ICsgus0gKiC2vLT6se3Ptc2zvPTM+bDlo6y/ydLUu6W7u8q508OjrNGh0ru49suzyta1xLy0v8mho8D9yOcgIit5eSDD/MHu1+m6z7/Jvau1scew0NC4tNbGtb3Ptc2zvPTM+bDloaMgY2kiPEN0cmwrcj4qIMP8we7X6brP1PK9q8+1zbO89Mz5sOW1xMTayN3M5ru719a3+7SutcTE2rK/zsSxvqGjIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdGFydEFjdGlvbk1vZGUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBio6nU2ldpbmRvd3PPwqOsvMS05sb3ICsgus0gKiC2vLT6se3Ptc2zvPTM+bDlo6y/ydLUu6W7u8q508OjrNGh0ru49suzyta1xLy0v8mho8D9yOcgIit5eSDD/MHu1+m6z7/Jvau1scew0NC4tNbGtb3Ptc2zvPTM+bDloaMgY2kiPEN0cmwrcj4qIMP8we7X6brP1PK9q8+1zbO89Mz5sOW1xMTayN3M5ru719a3+7SutcTE2rK/zsSxvqGjIAo=</text>
+        <text encoding="base64">ICAgICAgICBvbktleURvd24oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBio6nU2ldpbmRvd3PPwqOsvMS05sb3ICsgus0gKiC2vLT6se3Ptc2zvPTM+bDlo6y/ydLUu6W7u8q508OjrNGh0ru49suzyta1xLy0v8mho8D9yOcgIit5eSDD/MHu1+m6z7/Jvau1scew0NC4tNbGtb3Ptc2zvPTM+bDloaMgY2kiPEN0cmwrcj4qIMP8we7X6brP1PK9q8+1zbO89Mz5sOW1xMTayN3M5ru719a3+7SutcTE2rK/zsSxvqGjIAo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsImhlbGxvIG1hbiAhICIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>17,18d</text>
       </register>
     </registers>
     <search>
@@ -1240,9 +1239,6 @@
         <entry>checkVersion</entry>
       </history-search>
       <history-cmd>
-        <entry>ab #st stanhe</entry>
-        <entry>abbreviate #st stanhe</entry>
-        <entry>print</entry>
         <entry>1,5center 30</entry>
         <entry>`a,`bm38</entry>
         <entry>`a,`bmove</entry>
@@ -1260,6 +1256,9 @@
         <entry>s/185,189/landscape/PORTRAIT/i</entry>
         <entry>h ctrl-r</entry>
         <entry>reg</entry>
+        <entry>p</entry>
+        <entry>17,18d</entry>
+        <entry>17,18 nomarl A;</entry>
       </history-cmd>
       <history-expr />
       <history-input />
