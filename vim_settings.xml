@@ -1,7 +1,9 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks />
+    <globalmarks>
+      <mark key="S" line="21" column="20" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" protocol="file" />
+    </globalmarks>
     <filemarks>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/course/CourseActivity.kt" timestamp="1522812013156">
         <mark key="'" line="49" column="27" />
@@ -110,8 +112,8 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1523514652686">
-        <mark key="'" line="0" column="30" />
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1523516152295">
+        <mark key="'" line="14" column="42" />
         <mark key="[" line="29" column="34" />
         <mark key="]" line="29" column="50" />
         <mark key="." line="29" column="50" />
@@ -692,7 +694,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
       <jump line="102" column="16" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
       <jump line="80" column="16" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
       <jump line="26" column="14" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
@@ -792,6 +793,7 @@
       <jump line="22" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="0" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="0" column="30" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" />
+      <jump line="14" column="42" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1282,10 +1284,6 @@
         <entry>init</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz50ODI=</entry>
-        <entry>24,28normal A;</entry>
-        <entry>sp</entry>
-        <entry>bnext</entry>
         <entry>12,13normal A;</entry>
         <entry>e ../App</entry>
         <entry>e VideoPresenter</entry>
@@ -1301,7 +1299,11 @@
         <entry>0,Gy</entry>
         <entry>buffers</entry>
         <entry>reg</entry>
+        <entry>set sua=.kt</entry>
+        <entry>e App</entry>
         <entry>e App.kt</entry>
+        <entry>set suffixesadd=.kt</entry>
+        <entry>set suffixesadd+=.java</entry>
       </history-cmd>
       <history-expr />
       <history-input />
