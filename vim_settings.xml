@@ -110,8 +110,8 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1523501013723">
-        <mark key="'" line="15" column="41" />
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1523514652686">
+        <mark key="'" line="0" column="30" />
         <mark key="[" line="29" column="34" />
         <mark key="]" line="29" column="50" />
         <mark key="." line="29" column="50" />
@@ -692,7 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="12" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
       <jump line="83" column="0" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
       <jump line="102" column="16" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
       <jump line="80" column="16" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
@@ -792,6 +791,7 @@
       <jump line="0" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/play/PlayVideoActivity.kt" />
       <jump line="22" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="0" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
+      <jump line="0" column="30" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1246,7 +1246,7 @@
         <text encoding="base64">ICBwcml2YXRlIHZvaWQgcG9zdHF1ZXN0aW9uKGZpbmFsIFN0cmluZyBxdWVzdGlvbikgewogICAgICAgIG5ldyBUaHJlYWQobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewoKICAgICAgICAgICAgICAgIEpTT05PYmplY3QganNvbiA9IG5ldyBKU09OT2JqZWN0KCk7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIGpzb24ucHV0KCJ1dWlkIiwgInNzZGVlc2RzYWFhIik7IC8v77+977+977+977+91rfvv73vv73vvz8g77+977+91qTOqNK777+977+977+977+9CiAgICAgICAgICAgICAgICAgICAganNvbi5wdXQoInF1ZXN0aW9uIiwgcXVlc3Rpb24pOwogICAgICAgICAgICAgICAgICAgIGpzb24ucHV0KCJ1c2VybmFtZSIsICIxODY4MDY2ODI3NyIpOyAvL++/ve+/ve+/ve+/ve+/vdS877+916Lvv73vv73vv73vv73vv73vv73vv73vv73vv73vv73vv73Gvcyo77+9y7rvvz8KICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEpTT05FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAvL1N0cmluZyBzID0gSHR0cFV0aWxzLnNlbmRSZXF1ZXN0V2l0aEh0dHBVUkxDb25uZWN0aW9uKCJodHRwOi8vd3d3LmRpdGluZ2FpLmNvbS9yZW1vdGUvY2hhdC9pbmZvIiwganNvbi50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgIFN0cmluZyBzID0gIiI7CiAgICAgICAgICAgICAgICBpZiAocyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgSlNPTk9iamVjdCBqc29ub2JqZWN0ID0gbmV3IEpTT05PYmplY3Qocy50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgICAgICAgICAgZmluYWwgU3RyaW5nIGFuc3dlciA9IGpzb25vYmplY3QuZ2V0U3RyaW5nKCJhbnN3ZXIiKTsgLy/vv73Dte+/ve+/ve+/vQogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgYWN0aW9uT3B0aW9uID0ganNvbm9iamVjdC5nZXRKU09OT2JqZWN0KCJhY3Rpb24iKS5nZXRTdHJpbmcoImFjdGlvbk9wdGlvbiIpOyAvL++/vcO177+977+977+977+977+9CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBxdWVzdGlvbiA9IGpzb25vYmplY3QuZ2V0SlNPTk9iamVjdCgiYWN0aW9uIikuZ2V0U3RyaW5nKCJxdWVzdGlvbiIpOyAvL++/vcO177+977+977+977+977+9CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyB1c2VybmFtZSA9IGpzb25vYmplY3QuZ2V0U3RyaW5nKCJ1c2VybmFtZSIpOyAvL++/vcu677+9CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBhdmFpbGFibGUgPSBqc29ub2JqZWN0LmdldEpTT05PYmplY3QoImFjdGlvbiIpLmdldFN0cmluZygiYXZhaWxhYmxlIik7IC8v77+9w7Xvv73vv73vv73vv73vv70KICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhbnN3ZXI6IiArIGFuc3dlcik7CiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBUaHJlYWQobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcnVuT25VaVRocmVhZChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL++/ve+/ve+/ve+/vVVJCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9zcGVha0Fuc3dlcl9kaXRpbmcoYW5zd2VyKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfSkuc3RhcnQoKTsKCgogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEpTT05FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0pLnN0YXJ0KCk7CiAgICB9</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>e App.kt</text>
       </register>
     </registers>
     <search>
@@ -1282,7 +1282,6 @@
         <entry>init</entry>
       </history-search>
       <history-cmd>
-        <entry>normal &quot;*p</entry>
         <entry encoding="base64">JzwsJz50ODI=</entry>
         <entry>24,28normal A;</entry>
         <entry>sp</entry>
@@ -1302,6 +1301,7 @@
         <entry>0,Gy</entry>
         <entry>buffers</entry>
         <entry>reg</entry>
+        <entry>e App.kt</entry>
       </history-cmd>
       <history-expr />
       <history-input />
