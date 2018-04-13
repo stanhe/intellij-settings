@@ -429,9 +429,9 @@
       </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/res/values/strings.xml" timestamp="1523605581443">
         <mark key="[" line="4" column="37" />
-        <mark key="]" line="6" column="12" />
-        <mark key="^" line="6" column="12" />
-        <mark key="." line="6" column="12" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="12" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/play/PlayVideoPresenter.kt" timestamp="1523588060780">
         <mark key="'" line="21" column="58" />
@@ -666,10 +666,12 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523606567671">
-        <mark key="[" line="86" column="59" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523608751741">
+        <mark key="'" line="63" column="27" />
+        <mark key="[" line="120" column="51" />
+        <mark key="]" line="149" column="11" />
+        <mark key="^" line="149" column="11" />
+        <mark key="." line="149" column="11" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/Test.java" timestamp="1519885199296">
         <mark key="[" line="9" column="0" />
@@ -812,7 +814,7 @@
       <jump line="46" column="22" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="240" column="22" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="57" column="33" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
-      <jump line="62" column="18" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="62" column="27" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -831,8 +833,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pZmx5dGVrLmNsb3VkLlNwZWVjaENvbnN0YW50Owo=</text>
+      <register name="&quot;" type="4">
+        <text>result</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1137,10 +1139,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9InN0b3AiPs2j1rmypbfFPC9zdHJpbmc+</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
-        <text>icon2</text>
+        <text>mwakeup</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1232,52 +1234,47 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ib3Blbl94aWFvX2JhbyI+tPK/qtbHxNzLsL/iPC9zdHJpbmc+Cg==</text>
+      <register name="0" type="4">
+        <text>resultString</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pZmx5dGVrLmNsb3VkLlNwZWVjaENvbnN0YW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghIjEiLmVxdWFsc0lnbm9yZUNhc2UoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0WGZXcCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBpbml0VFRzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtSXZ3LnNldFBhcmFtZXRlcihjb20uaWZseXRlay5jbG91ZC5TcGVlY2hDb25zdGFudC5JVldfUkVTX1BBVEgsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkJCS8vIMjn09DQ6NKqo6zJ6NbDIE5PVElGWV9SRUNPUkRfREFUQSDS1Mq1yrHNqLn9IG9uRXZlbnQgt7W72MK80vTS9Ma1wffX1r3aCgkJCQkvL21Jdncuc2V0UGFyYW1ldGVyKCBTcGVlY2hDb25zdGFudC5OT1RJRllfUkVDT1JEX0RBVEEsICIxIiApOwoJCQkJCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>stopR = new Runnable() {
-            @Override
-            public void run() {
-                    stopRecognize();
-            }
-        };</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbUl2dy5zZXRQYXJhbWV0ZXIoY29tLmlmbHl0ZWsuY2xvdWQuU3BlZWNoQ29uc3RhbnQuSVZXX1JFU19QQVRILCIxIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpc1JlY29nbml6ZSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpc1JlY29nbml6ZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBtSXZ3LnNldFBhcmFtZXRlcihjb20uaWZseXRlay5jbG91ZC5TcGVlY2hDb25zdGFudC4pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc1JlY29nbml6ZSkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pZmx5dGVrLmNsb3VkLlNwZWVjaENvbnN0YW50Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSGFuZGxlcigpLnBvc3REZWxheWVkKHN0b3BSLCAxMDAwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbml0WGZXcCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>icon2</last-search>
+      <last-search>mwakeup</last-search>
       <last-offset />
-      <last-pattern>icon2</last-pattern>
+      <last-pattern>mwakeup</last-pattern>
       <last-replace>compileOnly</last-replace>
       <last-substitute>came*a</last-substitute>
       <last-dir>1</last-dir>
@@ -1285,8 +1282,6 @@
     </search>
     <history>
       <history-search>
-        <entry>camera</entry>
-        <entry>in*t</entry>
         <entry>came*a</entry>
         <entry>onCreate</entry>
         <entry>hello</entry>
@@ -1305,6 +1300,8 @@
         <entry encoding="base64">XDxtU3BlZWNoU3ludGhlc2l6ZXJcPg==</entry>
         <entry>activity</entry>
         <entry>icon2</entry>
+        <entry>mwakeupli</entry>
+        <entry>mwakeup</entry>
       </history-search>
       <history-cmd>
         <entry>buffers</entry>
