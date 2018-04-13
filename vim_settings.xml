@@ -427,7 +427,7 @@
       <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/base/BaseFragment.kt" timestamp="1522721329645">
         <mark key="[" line="16" column="32" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/res/values/strings.xml" timestamp="1523603282807">
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/res/values/strings.xml" timestamp="1523604195800">
         <mark key="[" line="2" column="61" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/play/PlayVideoPresenter.kt" timestamp="1523588060780">
@@ -663,12 +663,12 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523603423477">
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523604338119">
         <mark key="'" line="46" column="22" />
-        <mark key="[" line="85" column="32" />
-        <mark key="]" line="164" column="7" />
-        <mark key="." line="164" column="7" />
-        <mark key="^" line="164" column="7" />
+        <mark key="[" line="43" column="34" />
+        <mark key="]" line="89" column="32" />
+        <mark key="." line="89" column="34" />
+        <mark key="^" line="89" column="57" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/Test.java" timestamp="1519885199296">
         <mark key="[" line="9" column="0" />
@@ -830,8 +830,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vVG9hc3QubWFrZVRleHQoTWFpbkFjdGl2aXR5LnRoaXMsICJjYW4ndCB3YWtlIHVwISIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1231,8 +1231,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmUoIiRUQUcgIEVycm9yIDogJGUiKQo=</text>
+      <register name="0" type="4">
+        <text>m</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vVG9hc3QubWFrZVRleHQoTWFpbkFjdGl2aXR5LnRoaXMsICJjYW4ndCB3YWtlIHVwISIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwo=</text>
