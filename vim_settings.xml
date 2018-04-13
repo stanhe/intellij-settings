@@ -171,10 +171,11 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="20" column="57" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/App.java" timestamp="1523599632366">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/App.java" timestamp="1523602901712">
+        <mark key="[" line="15" column="66" />
+        <mark key="]" line="15" column="74" />
+        <mark key="." line="15" column="66" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/.gitignore" timestamp="1523342611378">
         <mark key="[" line="1" column="0" />
@@ -289,10 +290,6 @@
         <mark key="]" line="20" column="54" />
         <mark key="^" line="20" column="54" />
         <mark key="." line="20" column="54" />
-      </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/data/RecognizeData.java" timestamp="1523437774488">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="38" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/di/FragmentScoped.kt" timestamp="1522715787062">
         <mark key="[" line="5" column="11" />
@@ -430,6 +427,9 @@
       <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/base/BaseFragment.kt" timestamp="1522721329645">
         <mark key="[" line="16" column="32" />
       </file>
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/res/values/strings.xml" timestamp="1523603282807">
+        <mark key="[" line="2" column="61" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/play/PlayVideoPresenter.kt" timestamp="1523588060780">
         <mark key="'" line="21" column="58" />
         <mark key="[" line="55" column="0" />
@@ -492,21 +492,17 @@
       <file name="vim_settings.xml" timestamp="1523152526892">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/AndroidManifest.xml" timestamp="1523599690140">
-        <mark key="[" line="41" column="34" />
-        <mark key="]" line="35" column="3" />
-        <mark key="." line="35" column="3" />
-        <mark key="^" line="35" column="3" />
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/AndroidManifest.xml" timestamp="1523602777999">
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="30" column="25" />
+        <mark key="." line="30" column="25" />
+        <mark key="^" line="30" column="25" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/SubjectListData.kt" timestamp="1522387575519">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="5" column="46" />
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="46" />
-      </file>
-      <file name="F:/360Downloads/audiobd_speech_sdk_asr_v3.0.7_bdasr_20180313_726f26e/app/src/main/java/com/baidu/android/voicedemo/control/MyRecognizer.java" timestamp="1523433660620">
-        <mark key="[" line="97" column="12" />
-        <mark key="]" line="97" column="65" />
       </file>
       <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/home/MainActivityContract.kt" timestamp="1522720849646">
         <mark key="[" line="15" column="8" />
@@ -639,10 +635,6 @@
         <mark key="." line="32" column="38" />
         <mark key="^" line="32" column="38" />
       </file>
-      <file name="F:/360Downloads/audiobd_speech_sdk_asr_v3.0.7_bdasr_20180313_726f26e/app/src/main/java/com/baidu/android/voicedemo/activity/mini/ActivityMiniRecog.java" timestamp="1523434467382">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="25" />
-      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/RegisterPresenter.kt" timestamp="1523589453722">
         <mark key="'" line="52" column="24" />
         <mark key="[" line="52" column="0" />
@@ -671,8 +663,12 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523599945171">
-        <mark key="'" line="79" column="31" />
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523603423477">
+        <mark key="'" line="46" column="22" />
+        <mark key="[" line="85" column="32" />
+        <mark key="]" line="164" column="7" />
+        <mark key="." line="164" column="7" />
+        <mark key="^" line="164" column="7" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/Test.java" timestamp="1519885199296">
         <mark key="[" line="9" column="0" />
@@ -705,7 +701,7 @@
         <mark key="." line="171" column="25" />
         <mark key="^" line="253" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1523599009133">
+      <file name="/fragment.java" timestamp="1523602604878">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/git_desk/T0227/lib/src/main/java/com/stan/lib/Test.java" timestamp="1519886007486">
@@ -716,16 +712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="8" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
-      <jump line="13" column="14" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
-      <jump line="12" column="14" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
-      <jump line="6" column="26" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/ThirdActivity.java" />
-      <jump line="20" column="10" filename="E:/Demo/D0409/app/src/main/AndroidManifest.xml" />
-      <jump line="31" column="28" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
-      <jump line="7" column="0" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/SecondActivity.java" />
-      <jump line="24" column="16" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
-      <jump line="26" column="31" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
-      <jump line="23" column="31" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
       <jump line="24" column="26" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="132" column="9" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="22" column="17" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
@@ -816,6 +802,16 @@
       <jump line="48" column="24" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginPresenter.kt" />
       <jump line="69" column="34" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginActivity.kt" />
       <jump line="52" column="24" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/RegisterPresenter.kt" />
+      <jump line="163" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="164" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="165" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="166" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="167" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="168" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="272" column="12" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="273" column="12" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="274" column="12" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="46" column="22" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -835,7 +831,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vVG9hc3QubWFrZVRleHQoTWFpbkFjdGl2aXR5LnRoaXMsICJjYW4ndCB3YWtlIHVwISIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1140,10 +1136,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>12345679</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text encoding="base64">XDxtU3BlZWNoU3ludGhlc2l6ZXJcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1239,43 +1235,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmUoIiRUQUcgIEVycm9yIDogJGUiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vVG9hc3QubWFrZVRleHQoTWFpbkFjdGl2aXR5LnRoaXMsICJjYW4ndCB3YWtlIHVwISIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgY29tLmJhaWR1LnNwZWVjaC5hc3IuU3BlZWNoQ29uc3RhbnQ7CmltcG9ydAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRvYXN0Lm1ha2VUZXh0KE1haW5BY3Rpdml0eS50aGlzLCAid2FrZSB1cCEiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS22qM670MXPosrHw/S40NDFz6KjrL/Jzai5/VNldHRpbmcuc2V0TG9jYXRpb25FbmFibGUoZmFsc2Upudix1baozrvH68fzIC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwhLS3F5NbDyKjP3qOs08PAtLzHwrzTptPDxeTWw9DFz6IgLS0+Cg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgY29tLmJhaWR1LnNwZWVjaC5hc3IuU3BlZWNoQ29uc3RhbnQ7CmltcG9ydAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uV1JJVEVfU0VUVElOR1MiLz4K</text>
+        <text encoding="base64">ICAgIDwhLS22qM670MXPosrHw/S40NDFz6KjrL/Jzai5/VNldHRpbmcuc2V0TG9jYXRpb25FbmFibGUoZmFsc2Upudix1baozrvH68fzIC0tPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS3N4rTmtKK2wcioz96jrLm5vajT77eo0OjSqtPDtb20y8ioz94gLS0+Cg==</text>
+        <text encoding="base64">ICAgIDwhLS3F5NbDyKjP3qOs08PAtLzHwrzTptPDxeTWw9DFz6IgLS0+Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uV1JJVEVfRVhURVJOQUxfU1RPUkFHRSIvPgo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uV1JJVEVfU0VUVElOR1MiLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9QSE9ORV9TVEFURSIvPgo=</text>
+        <text encoding="base64">ICAgIDwhLS3N4rTmtKK2wcioz96jrLm5vajT77eo0OjSqtPDtb20y8ioz94gLS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX1dJRklfU1RBVEUiLz4K</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uV1JJVEVfRVhURVJOQUxfU1RPUkFHRSIvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search encoding="base64">XDxtU3BlZWNoU3ludGhlc2l6ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern encoding="base64">XDxtU3BlZWNoU3ludGhlc2l6ZXJcPg==</last-pattern>
       <last-replace>compileOnly</last-replace>
       <last-substitute>came*a</last-substitute>
       <last-dir>1</last-dir>
@@ -1283,7 +1279,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">aW1wb3J0IA==</entry>
         <entry>import android.view.</entry>
         <entry>import android.view</entry>
         <entry>camera</entry>
@@ -1303,6 +1298,7 @@
         <entry>activity_login</entry>
         <entry>Log</entry>
         <entry>logger</entry>
+        <entry encoding="base64">XDxtU3BlZWNoU3ludGhlc2l6ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>buffers</entry>
@@ -1401,6 +1397,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>pressed F5</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
