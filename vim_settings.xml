@@ -113,6 +113,11 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/speechDemo/build.gradle" timestamp="1523613487434">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="22" column="1" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1523516152295">
         <mark key="'" line="14" column="42" />
         <mark key="[" line="29" column="34" />
@@ -373,7 +378,7 @@
         <mark key="^" line="63" column="37" />
         <mark key="." line="63" column="31" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/build.gradle" timestamp="1523612228695">
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/build.gradle" timestamp="1523613484356">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="23" column="0" />
       </file>
@@ -468,6 +473,12 @@
         <mark key="]" line="6" column="24" />
         <mark key="." line="6" column="24" />
         <mark key="^" line="12" column="3" />
+      </file>
+      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/build.gradle" timestamp="1523613989773">
+        <mark key="[" line="49" column="24" />
+        <mark key="]" line="49" column="36" />
+        <mark key="." line="49" column="36" />
+        <mark key="^" line="49" column="36" />
       </file>
       <file name="E:/Demo/D0409/app/build.gradle" timestamp="1523352842856">
         <mark key="[" line="17" column="5" />
@@ -836,28 +847,7 @@
         <text>com.iflytek.cloud.SpeechConstant</text>
       </register>
       <register name="&quot;" type="4">
-        <text>buildscript {
-    
-    repositories {
-        google()
-        jcenter()
-    }
-    dependencies {
-        classpath 'com.android.tools.build:gradle:3.0.0'
-        
-
-        // NOTE: Do not place your application dependencies here; they belong
-        // in the individual module build.gradle files
-    }
-}
-
-allprojects {
-    repositories {
-        google()
-        jcenter()
-        maven { url 'https://www.jitpack.io' }
-    }
-}</text>
+        <text>Msc.jar</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1162,7 +1152,7 @@ allprojects {
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>Msc.jar</text>
       </register>
       <register name="/" type="4">
         <text>speechconstant</text>
@@ -1257,29 +1247,8 @@ allprojects {
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>buildscript {
-    
-    repositories {
-        google()
-        jcenter()
-    }
-    dependencies {
-        classpath 'com.android.tools.build:gradle:3.0.0'
-        
-
-        // NOTE: Do not place your application dependencies here; they belong
-        // in the individual module build.gradle files
-    }
-}
-
-allprojects {
-    repositories {
-        google()
-        jcenter()
-        maven { url 'https://www.jitpack.io' }
-    }
-}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvTXNjLmphcicpCg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IG1UdHMuc3BlYWsoIiIrc3BlZWNoVGV4dCwgbmV3IGNvbS5pZmx5dGVrLmNsb3VkLlN5bnRoZXNpemVyTGlzdGVuZXIoKSB7CgogICAgICAgICAgICAvL7+qyryypbfFCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvblNwZWFrQmVnaW4oKSB7CgogICAgICAgICAgICB9CgogICAgICAgICAgICAvL7u6s+W9+LbIu9i19wogICAgICAgICAgICAvL3BlcmNlbnTOqru6s+W9+LbIMH4xMDCjrGJlZ2luUG9zzqq7urPl0vTGtdTazsSxvtbQv6rKvM671sOjrGVuZFBvc7Htyr67urPl0vTGtdTazsSxvtbQveHK+M671sOjrGluZm/Oqri9vNPQxc+ioaMKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQnVmZmVyUHJvZ3Jlc3MoaW50IGksIGludCBpMSwgaW50IGkyLCBTdHJpbmcgcykgewogICAgICAgICAgICB9CgogICAgICAgICAgICAvL9TdzaOypbfFCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvblNwZWFrUGF1c2VkKCkgewogICAgICAgICAgICB9CgogICAgICAgICAgICAvL7vWuLSypbfFu9i1973Tv9oKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU3BlYWtSZXN1bWVkKCkgewogICAgICAgICAgICB9CgogICAgICAgICAgICAvL7Klt8W9+LbIu9i19wogICAgICAgICAgICAvL3BlcmNlbnTOqrKlt8W9+LbIMH4xMDAsYmVnaW5Qb3POqrKlt8XS9Ma11NrOxLG+1tC/qsq8zrvWw6OsZW5kUG9zse3KvrKlt8XS9Ma11NrOxLG+1tC94cr4zrvWwy4KICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU3BlYWtQcm9ncmVzcyhpbnQgaSwgaW50IGkxLCBpbnQgaTIpIHsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy+74buwveHK+LvYtfe907/ao6zDu9PQtO3O88qxo6xlcnJvcs6qbnVsbAogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25Db21wbGV0ZWQoU3BlZWNoRXJyb3Igc3BlZWNoRXJyb3IpIHsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy+74buwysK8/rvYtfe907/aCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkV2ZW50KGludCBpLCBpbnQgaTEsIGludCBpMiwgQnVuZGxlIGJ1bmRsZSkgewogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
