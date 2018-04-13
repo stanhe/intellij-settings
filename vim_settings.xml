@@ -227,6 +227,11 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="30" />
       </file>
+      <file name="F:/360Downloads/kedaxunfei/sample/speechDemo/build.gradle" timestamp="1523612237542">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="22" column="1" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/DealApplyData.kt" timestamp="1522807666993">
         <mark key="[" line="5" column="0" />
       </file>
@@ -368,6 +373,10 @@
         <mark key="^" line="63" column="37" />
         <mark key="." line="63" column="31" />
       </file>
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/build.gradle" timestamp="1523612228695">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="23" column="0" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/UserBaseInfoData.kt" timestamp="1522809440389">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="8" column="29" />
@@ -405,6 +414,7 @@
         <mark key="^" line="32" column="63" />
         <mark key="." line="32" column="63" />
       </file>
+      <file name="F:/360Downloads/kedaxunfei/sample/speechDemo/src/main/java/com/iflytek/voicedemo/MainActivity.java" timestamp="1523612372847" />
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/activity_main.xml" timestamp="1523151161025">
         <mark key="[" line="19" column="46" />
         <mark key="]" line="23" column="33" />
@@ -512,6 +522,11 @@
         <mark key="]" line="15" column="9" />
         <mark key="^" line="15" column="9" />
         <mark key="." line="15" column="9" />
+      </file>
+      <file name="F:/360Downloads/kedaxunfei/sample/mscV5PlusDemo/build.gradle" timestamp="1523612400854">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="22" column="1" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/OrganizationData.kt" timestamp="1522380798831">
         <mark key="[" line="5" column="86" />
@@ -821,7 +836,28 @@
         <text>com.iflytek.cloud.SpeechConstant</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>buildscript {
+    
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.0.0'
+        
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        maven { url 'https://www.jitpack.io' }
+    }
+}</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1222,7 +1258,28 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>您好我是税务机器人税小博士，很乐意和你们人类交流，请问有我需要帮助您的吗？\n&quot;</text>
+        <text>buildscript {
+    
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.0.0'
+        
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        maven { url 'https://www.jitpack.io' }
+    }
+}</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IG1UdHMuc3BlYWsoIiIrc3BlZWNoVGV4dCwgbmV3IGNvbS5pZmx5dGVrLmNsb3VkLlN5bnRoZXNpemVyTGlzdGVuZXIoKSB7CgogICAgICAgICAgICAvL7+qyryypbfFCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvblNwZWFrQmVnaW4oKSB7CgogICAgICAgICAgICB9CgogICAgICAgICAgICAvL7u6s+W9+LbIu9i19wogICAgICAgICAgICAvL3BlcmNlbnTOqru6s+W9+LbIMH4xMDCjrGJlZ2luUG9zzqq7urPl0vTGtdTazsSxvtbQv6rKvM671sOjrGVuZFBvc7Htyr67urPl0vTGtdTazsSxvtbQveHK+M671sOjrGluZm/Oqri9vNPQxc+ioaMKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQnVmZmVyUHJvZ3Jlc3MoaW50IGksIGludCBpMSwgaW50IGkyLCBTdHJpbmcgcykgewogICAgICAgICAgICB9CgogICAgICAgICAgICAvL9TdzaOypbfFCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvblNwZWFrUGF1c2VkKCkgewogICAgICAgICAgICB9CgogICAgICAgICAgICAvL7vWuLSypbfFu9i1973Tv9oKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU3BlYWtSZXN1bWVkKCkgewogICAgICAgICAgICB9CgogICAgICAgICAgICAvL7Klt8W9+LbIu9i19wogICAgICAgICAgICAvL3BlcmNlbnTOqrKlt8W9+LbIMH4xMDAsYmVnaW5Qb3POqrKlt8XS9Ma11NrOxLG+1tC/qsq8zrvWw6OsZW5kUG9zse3KvrKlt8XS9Ma11NrOxLG+1tC94cr4zrvWwy4KICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU3BlYWtQcm9ncmVzcyhpbnQgaSwgaW50IGkxLCBpbnQgaTIpIHsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy+74buwveHK+LvYtfe907/ao6zDu9PQtO3O88qxo6xlcnJvcs6qbnVsbAogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25Db21wbGV0ZWQoU3BlZWNoRXJyb3Igc3BlZWNoRXJyb3IpIHsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy+74buwysK8/rvYtfe907/aCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkV2ZW50KGludCBpLCBpbnQgaTEsIGludCBpMiwgQnVuZGxlIGJ1bmRsZSkgewogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
