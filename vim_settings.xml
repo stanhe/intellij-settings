@@ -666,12 +666,12 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523608751741">
-        <mark key="'" line="63" column="27" />
-        <mark key="[" line="120" column="51" />
-        <mark key="]" line="149" column="11" />
-        <mark key="^" line="149" column="11" />
-        <mark key="." line="149" column="11" />
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523611804448">
+        <mark key="'" line="86" column="22" />
+        <mark key="[" line="95" column="62" />
+        <mark key="]" line="95" column="59" />
+        <mark key="." line="95" column="59" />
+        <mark key="^" line="95" column="18" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/Test.java" timestamp="1519885199296">
         <mark key="[" line="9" column="0" />
@@ -715,11 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="7" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
-      <jump line="57" column="50" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
-      <jump line="54" column="56" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
-      <jump line="55" column="71" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
-      <jump line="9" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" />
       <jump line="49" column="34" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
       <jump line="63" column="8" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
       <jump line="9" column="4" filename="E:/Demo/D0409/app/src/main/java/com/stan/d0409/MainActivity.java" />
@@ -750,7 +745,6 @@
       <jump line="7" column="51" filename="E:/Test/D0411/app/src/main/java/com/stan/d0411/MainActivity.java" />
       <jump line="16" column="4" filename="E:/Test/D0411/app/src/main/java/com/stan/d0411/MainActivity.java" />
       <jump line="75" column="20" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
-      <jump line="102" column="19" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="24" column="0" filename="E:/Test/D0411/app/src/main/java/com/stan/d0411/MainActivity.java" />
       <jump line="54" column="9" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="59" column="29" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
@@ -815,26 +809,19 @@
       <jump line="240" column="22" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="57" column="33" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="62" column="27" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="45" column="47" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="66" column="3" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="87" column="36" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="102" column="0" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="94" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="86" column="22" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <keys>
-          <key char="94" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-        </keys>
+        <text>com.iflytek.cloud.SpeechConstant</text>
       </register>
       <register name="&quot;" type="4">
-        <text>result</text>
+        <text>&quot;</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1139,10 +1126,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>mwakeup</text>
+        <text>speechconstant</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1235,57 +1222,53 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>resultString</text>
+        <text>您好我是税务机器人税小博士，很乐意和你们人类交流，请问有我需要帮助您的吗？\n&quot;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghIjEiLmVxdWFsc0lnbm9yZUNhc2UoKSkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IG1UdHMuc3BlYWsoIiIrc3BlZWNoVGV4dCwgbmV3IGNvbS5pZmx5dGVrLmNsb3VkLlN5bnRoZXNpemVyTGlzdGVuZXIoKSB7CgogICAgICAgICAgICAvL7+qyryypbfFCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvblNwZWFrQmVnaW4oKSB7CgogICAgICAgICAgICB9CgogICAgICAgICAgICAvL7u6s+W9+LbIu9i19wogICAgICAgICAgICAvL3BlcmNlbnTOqru6s+W9+LbIMH4xMDCjrGJlZ2luUG9zzqq7urPl0vTGtdTazsSxvtbQv6rKvM671sOjrGVuZFBvc7Htyr67urPl0vTGtdTazsSxvtbQveHK+M671sOjrGluZm/Oqri9vNPQxc+ioaMKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQnVmZmVyUHJvZ3Jlc3MoaW50IGksIGludCBpMSwgaW50IGkyLCBTdHJpbmcgcykgewogICAgICAgICAgICB9CgogICAgICAgICAgICAvL9TdzaOypbfFCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvblNwZWFrUGF1c2VkKCkgewogICAgICAgICAgICB9CgogICAgICAgICAgICAvL7vWuLSypbfFu9i1973Tv9oKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU3BlYWtSZXN1bWVkKCkgewogICAgICAgICAgICB9CgogICAgICAgICAgICAvL7Klt8W9+LbIu9i19wogICAgICAgICAgICAvL3BlcmNlbnTOqrKlt8W9+LbIMH4xMDAsYmVnaW5Qb3POqrKlt8XS9Ma11NrOxLG+1tC/qsq8zrvWw6OsZW5kUG9zse3KvrKlt8XS9Ma11NrOxLG+1tC94cr4zrvWwy4KICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU3BlYWtQcm9ncmVzcyhpbnQgaSwgaW50IGkxLCBpbnQgaTIpIHsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy+74buwveHK+LvYtfe907/ao6zDu9PQtO3O88qxo6xlcnJvcs6qbnVsbAogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25Db21wbGV0ZWQoU3BlZWNoRXJyb3Igc3BlZWNoRXJyb3IpIHsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy+74buwysK8/rvYtfe907/aCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkV2ZW50KGludCBpLCBpbnQgaTEsIGludCBpMiwgQnVuZGxlIGJ1bmRsZSkgewogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtVHRzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtSXZ3LnNldFBhcmFtZXRlcihjb20uaWZseXRlay5jbG91ZC5TcGVlY2hDb25zdGFudC5JVldfUkVTX1BBVEgsKQo=</text>
+        <text encoding="base64">ICAgICAgICBtVHRzLnNldFBhcmFtKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCS8vIMjn09DQ6NKqo6zJ6NbDIE5PVElGWV9SRUNPUkRfREFUQSDS1Mq1yrHNqLn9IG9uRXZlbnQgt7W72MK80vTS9Ma1wffX1r3aCgkJCQkvL21Jdncuc2V0UGFyYW1ldGVyKCBTcGVlY2hDb25zdGFudC5OT1RJRllfUkVDT1JEX0RBVEEsICIxIiApOwoJCQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUl2dy5zZXRQYXJhbWV0ZXIoY29tLmlmbHl0ZWsuY2xvdWQuU3BlZWNoQ29uc3RhbnQuSVZXX1JFU19QQVRILCIxIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBtQXNyID0gU3BlZWNoUmVjb2duaXplci5jcmVhdGVSZWNvZ25pemVyKHRoaXMsIG51bGwpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3BlZWNoUmVjb2duaXplciBtQXNyOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICBtSXZ3LnNldFBhcmFtZXRlcihjb20uaWZseXRlay5jbG91ZC5TcGVlY2hDb25zdGFudC4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pZmx5dGVrLmNsb3VkLlNwZWVjaENvbnN0YW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghIjEiLmVxdWFsc0lnbm9yZUNhc2UoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0WGZXcCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>88,94s/speechconstant/com.iflytek.cloud.SpeechConstant/gi</text>
       </register>
     </registers>
     <search>
-      <last-search>mwakeup</last-search>
+      <last-search>speechconstant</last-search>
       <last-offset />
-      <last-pattern>mwakeup</last-pattern>
-      <last-replace>compileOnly</last-replace>
-      <last-substitute>came*a</last-substitute>
+      <last-pattern>speechconstant</last-pattern>
+      <last-replace>com.iflytek.cloud.SpeechConstant</last-replace>
+      <last-substitute>speechconstant</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>came*a</entry>
-        <entry>onCreate</entry>
-        <entry>hello</entry>
-        <entry encoding="base64">XDxMQVVOQ0hFUlw+</entry>
         <entry encoding="base64">XDxjYW1lcmFQYWNrYWdlXD4=</entry>
         <entry encoding="base64">XDxsYXVuY2hlclBhY2thZ2VcPg==</entry>
         <entry>check</entry>
@@ -1302,14 +1285,12 @@
         <entry>icon2</entry>
         <entry>mwakeupli</entry>
         <entry>mwakeup</entry>
+        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
+        <entry>setParameter</entry>
+        <entry>setparameter</entry>
+        <entry>speechconstant</entry>
       </history-search>
       <history-cmd>
-        <entry>buffers</entry>
-        <entry>set sua=.kt</entry>
-        <entry>e App</entry>
-        <entry>e App.kt</entry>
-        <entry>set suffixesadd=.kt</entry>
-        <entry>set suffixesadd+=.java</entry>
         <entry>48</entry>
         <entry>q</entry>
         <entry>18</entry>
@@ -1323,7 +1304,13 @@
         <entry>set suffixesadd?</entry>
         <entry>e LoginActivity.kt</entry>
         <entry>e LoginPresenter.kt</entry>
+        <entry>88,95s/setParameter/\=@0/g</entry>
         <entry>reg</entry>
+        <entry>reg a</entry>
+        <entry>88,95s/setParameter/\=@a/g</entry>
+        <entry>88,95s/setParameter/@a/g</entry>
+        <entry>88,95s/setparameter/setParam/gi</entry>
+        <entry>88,94s/speechconstant/com.iflytek.cloud.SpeechConstant/gi</entry>
       </history-cmd>
       <history-expr />
       <history-input />
