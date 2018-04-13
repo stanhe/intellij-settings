@@ -107,6 +107,12 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/settings.gradle" timestamp="1523599228875">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="14" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1523516152295">
         <mark key="'" line="14" column="42" />
         <mark key="[" line="29" column="34" />
@@ -164,6 +170,11 @@
         <mark key="]" line="142" column="52" />
         <mark key="." line="143" column="0" />
         <mark key="^" line="20" column="57" />
+      </file>
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/App.java" timestamp="1523599632366">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/.gitignore" timestamp="1523342611378">
         <mark key="[" line="1" column="0" />
@@ -481,6 +492,12 @@
       <file name="vim_settings.xml" timestamp="1523152526892">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/AndroidManifest.xml" timestamp="1523599690140">
+        <mark key="[" line="41" column="34" />
+        <mark key="]" line="35" column="3" />
+        <mark key="." line="35" column="3" />
+        <mark key="^" line="35" column="3" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/SubjectListData.kt" timestamp="1522387575519">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="5" column="46" />
@@ -654,12 +671,12 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523439437688">
-        <mark key="'" line="79" column="31" />
-        <mark key="[" line="285" column="8" />
-        <mark key="]" line="285" column="9" />
-        <mark key="^" line="285" column="9" />
-        <mark key="." line="285" column="9" />
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523599945171">
+        <mark key="'" line="85" column="31" />
+        <mark key="[" line="56" column="17" />
+        <mark key="]" line="56" column="15" />
+        <mark key="^" line="56" column="15" />
+        <mark key="." line="56" column="15" />
       </file>
       <file name="F:/git_desk/T0227/app/src/main/java/com/stan/t0227/Test.java" timestamp="1519885199296">
         <mark key="[" line="9" column="0" />
@@ -692,7 +709,7 @@
         <mark key="." line="171" column="25" />
         <mark key="^" line="253" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1523435201153">
+      <file name="/fragment.java" timestamp="1523599009133">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/git_desk/T0227/lib/src/main/java/com/stan/lib/Test.java" timestamp="1519886007486">
@@ -1127,7 +1144,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
@@ -1229,37 +1246,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmUoIkVycm9yOiAiK2UpCg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgY29tLmJhaWR1LnNwZWVjaC5hc3IuU3BlZWNoQ29uc3RhbnQ7CmltcG9ydAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmUoIiRUQUcgIEVycm9yIDogJGUiKQo=</text>
+        <text encoding="base64">ICAgIDwhLS22qM670MXPosrHw/S40NDFz6KjrL/Jzai5/VNldHRpbmcuc2V0TG9jYXRpb25FbmFibGUoZmFsc2Upudix1baozrvH68fzIC0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS3F5NbDyKjP3qOs08PAtLzHwrzTptPDxeTWw9DFz6IgLS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL3ByZXNlbnRlci5sb2dpbihldFBob25lLnRleHQudG9TdHJpbmcoKSwgZXRQYXNzd29yZC50ZXh0LnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uV1JJVEVfU0VUVElOR1MiLz4K</text>
       </register>
-      <register name="6" type="8">
-        <text>//
-//
-//
-//</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDwhLS3N4rTmtKK2wcioz96jrLm5vajT77eo0OjSqtPDtb20y8ioz94gLS0+Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBldHBoCg==</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uV1JJVEVfRVhURVJOQUxfU1RPUkFHRSIvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9QSE9ORV9TVEFURSIvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX1dJRklfU1RBVEUiLz4K</text>
       </register>
       <register name=":" type="4">
-        <text>e LoginPresenter.kt</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -1269,7 +1283,7 @@
       <last-replace>compileOnly</last-replace>
       <last-substitute>came*a</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1302,7 +1316,6 @@
         <entry>set suffixesadd=.kt</entry>
         <entry>set suffixesadd+=.java</entry>
         <entry>48</entry>
-        <entry>reg</entry>
         <entry>q</entry>
         <entry>18</entry>
         <entry>set ignorecase</entry>
@@ -1315,6 +1328,7 @@
         <entry>set suffixesadd?</entry>
         <entry>e LoginActivity.kt</entry>
         <entry>e LoginPresenter.kt</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
