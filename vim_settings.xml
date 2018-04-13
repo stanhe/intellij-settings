@@ -88,7 +88,6 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/speech/setting/IatSettings.java" timestamp="1523614662993" />
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/AccountContract.kt" timestamp="1522397640919">
         <mark key="[" line="16" column="67" />
         <mark key="]" line="16" column="75" />
@@ -119,6 +118,7 @@
         <mark key="]" line="22" column="1" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1523615311851" />
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/build.gradle" timestamp="1523348061123">
         <mark key="[" line="17" column="21" />
         <mark key="]" line="17" column="22" />
@@ -270,8 +270,8 @@
         <mark key="^" line="32" column="29" />
         <mark key="." line="32" column="29" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/util/Utils.java" timestamp="1522829829312">
-        <mark key="[" line="19" column="27" />
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/util/Utils.java" timestamp="1523615572517">
+        <mark key="[" line="73" column="5" />
         <mark key="]" line="19" column="27" />
         <mark key="." line="19" column="27" />
         <mark key="^" line="19" column="28" />
@@ -413,7 +413,6 @@
         <mark key="^" line="32" column="63" />
         <mark key="." line="32" column="63" />
       </file>
-      <file name="F:/360Downloads/kedaxunfei/sample/speechDemo/src/main/java/com/iflytek/voicedemo/MainActivity.java" timestamp="1523612372847" />
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/activity_main.xml" timestamp="1523151161025">
         <mark key="[" line="19" column="46" />
         <mark key="]" line="23" column="33" />
@@ -426,10 +425,10 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" timestamp="1523615173003">
+      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" timestamp="1523616067770">
         <mark key="'" line="354" column="89" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="45" />
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="198" column="4" />
         <mark key="." line="60" column="9" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/adapter/SimpleRecycleAdater.kt" timestamp="1522825234495">
@@ -468,7 +467,7 @@
         <mark key="." line="36" column="51" />
         <mark key="^" line="36" column="51" />
       </file>
-      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/res/values/strings.xml" timestamp="1523615184303">
+      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/res/values/strings.xml" timestamp="1523615489439">
         <mark key="[" line="23" column="38" />
         <mark key="]" line="23" column="46" />
       </file>
@@ -597,12 +596,11 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="23" column="69" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyRecognizer.java" timestamp="1523615238763">
-        <mark key="'" line="38" column="60" />
-        <mark key="[" line="39" column="66" />
-        <mark key="]" line="39" column="65" />
-        <mark key="." line="39" column="65" />
-        <mark key="^" line="39" column="65" />
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyRecognizer.java" timestamp="1523616128516">
+        <mark key="[" line="38" column="49" />
+        <mark key="]" line="38" column="55" />
+        <mark key="." line="38" column="55" />
+        <mark key="^" line="38" column="55" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/TeacherListData.kt" timestamp="1522805592324">
         <mark key="[" line="5" column="54" />
@@ -753,7 +751,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="7" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
       <jump line="106" column="25" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
       <jump line="20" column="11" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
       <jump line="26" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" />
@@ -851,15 +848,16 @@
       <jump line="105" column="12" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
       <jump line="129" column="17" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
       <jump line="127" column="18" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
-      <jump line="354" column="89" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
       <jump line="37" column="60" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyRecognizer.java" />
+      <jump line="354" column="89" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
+      <jump line="25" column="29" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyRecognizer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>com.iflytek.cloud.SpeechConstant</text>
+        <text>translate</text>
       </register>
       <register name="&quot;" type="4">
-        <text>translate</text>
+        <text>this</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1164,7 +1162,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>setparam</text>
@@ -1259,41 +1257,41 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>translate</text>
+      <register name="0" type="2">
+        <text encoding="base64">CS8qKgoJICogs/XKvLuvvODM/cb3oaMKCSAqLwoJcHJpdmF0ZSBJbml0TGlzdGVuZXIgbUluaXRMaXN0ZW5lciA9IG5ldyBJbml0TGlzdGVuZXIoKSB7CgoJCUBPdmVycmlkZQoJCXB1YmxpYyB2b2lkIG9uSW5pdChpbnQgY29kZSkgewoJCQlMb2cuZChUQUcsICJTcGVlY2hSZWNvZ25pemVyIGluaXQoKSBjb2RlID0gIiArIGNvZGUpOwoJCQlpZiAoY29kZSAhPSBFcnJvckNvZGUuU1VDQ0VTUykgewoJCQkJc2hvd1RpcCgis/XKvLuvyqew3KOstO3O88Lro7oiICsgY29kZSk7CgkJCX0KCQl9Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCS5nZXRTdHJpbmcoImlhdF9sYW5ndWFnZV9wcmVmZXJlbmNlIiwgIm1hbmRhcmluIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCS5nZXRTdHJpbmcoImlhdF9sYW5ndWFnZV9wcmVmZXJlbmNlIiwgIm1hbmRhcmluIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTcGVlY2hVdGlsaXR5LmNyZWF0ZVV0aWxpdHkodGhpcywgU3BlZWNoQ29uc3RhbnQuQVBQSUQgKyI9NWFkMDI0NDUiKTsK</text>
+        <text encoding="base64">CQlTdHJpbmcgbGFnID0gZ2V0U3AoY29udGV4dCkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IG1UdHMuc3BlYWsoIiIrc3BlZWNoVGV4dCwgbmV3IGNvbS5pZmx5dGVrLmNsb3VkLlN5bnRoZXNpemVyTGlzdGVuZXIoKSB7CgogICAgICAgICAgICAvL7+qyryypbfFCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvblNwZWFrQmVnaW4oKSB7CgogICAgICAgICAgICB9CgogICAgICAgICAgICAvL7u6s+W9+LbIu9i19wogICAgICAgICAgICAvL3BlcmNlbnTOqru6s+W9+LbIMH4xMDCjrGJlZ2luUG9zzqq7urPl0vTGtdTazsSxvtbQv6rKvM671sOjrGVuZFBvc7Htyr67urPl0vTGtdTazsSxvtbQveHK+M671sOjrGluZm/Oqri9vNPQxc+ioaMKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQnVmZmVyUHJvZ3Jlc3MoaW50IGksIGludCBpMSwgaW50IGkyLCBTdHJpbmcgcykgewogICAgICAgICAgICB9CgogICAgICAgICAgICAvL9TdzaOypbfFCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvblNwZWFrUGF1c2VkKCkgewogICAgICAgICAgICB9CgogICAgICAgICAgICAvL7vWuLSypbfFu9i1973Tv9oKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU3BlYWtSZXN1bWVkKCkgewogICAgICAgICAgICB9CgogICAgICAgICAgICAvL7Klt8W9+LbIu9i19wogICAgICAgICAgICAvL3BlcmNlbnTOqrKlt8W9+LbIMH4xMDAsYmVnaW5Qb3POqrKlt8XS9Ma11NrOxLG+1tC/qsq8zrvWw6OsZW5kUG9zse3KvrKlt8XS9Ma11NrOxLG+1tC94cr4zrvWwy4KICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU3BlYWtQcm9ncmVzcyhpbnQgaSwgaW50IGkxLCBpbnQgaTIpIHsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy+74buwveHK+LvYtfe907/ao6zDu9PQtO3O88qxo6xlcnJvcs6qbnVsbAogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25Db21wbGV0ZWQoU3BlZWNoRXJyb3Igc3BlZWNoRXJyb3IpIHsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy+74buwysK8/rvYtfe907/aCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkV2ZW50KGludCBpLCBpbnQgaTEsIGludCBpMiwgQnVuZGxlIGJ1bmRsZSkgewogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">CXByaXZhdGUgU2hhcmVkUHJlZmVyZW5jZXMgZ2V0U3AoQ29udGV4dCBjb250ZXh0KSB7CgkJcmV0dXJuIGNvbnRleHQuZ2V0U2hhcmVkUHJlZmVyZW5jZXMoImlhdF9sYW5ndWFnZV9wcmVmZXJlbmNlIixDb250ZXh0Lk1PREVfUFJJVkFURSk7Cgl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtVHRzLgo=</text>
+        <text encoding="base64">CQlTdHJpbmcgbGFnID0gY29udGV4dC5nZXRTaGFyZWRQcmVmZXJlbmNlcygiTXlSZWNvZ25pemVyIixDb250ZXh0Lk1PREVfUFJJVkFURSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtVHRzLnNldFBhcmFtKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBtQXNyID0gU3BlZWNoUmVjb2duaXplci5jcmVhdGVSZWNvZ25pemVyKHRoaXMsIG51bGwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3BlZWNoUmVjb2duaXplciBtQXNyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ignorecase</text>
+        <text>70</text>
       </register>
     </registers>
     <search>
@@ -1329,7 +1327,6 @@
         <entry>setparam</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>18</entry>
         <entry>set incserch</entry>
         <entry>set hls</entry>
@@ -1349,6 +1346,7 @@
         <entry>88,94s/speechconstant/com.iflytek.cloud.SpeechConstant/gi</entry>
         <entry>set ignorecase</entry>
         <entry>setpara</entry>
+        <entry>70</entry>
       </history-cmd>
       <history-expr />
       <history-input />
