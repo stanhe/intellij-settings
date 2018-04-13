@@ -425,10 +425,11 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" timestamp="1523616067770">
-        <mark key="'" line="354" column="89" />
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="198" column="4" />
+      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" timestamp="1523617017592">
+        <mark key="a" line="215" column="4" />
+        <mark key="'" line="317" column="20" />
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="273" column="5" />
         <mark key="." line="60" column="9" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/adapter/SimpleRecycleAdater.kt" timestamp="1522825234495">
@@ -542,6 +543,9 @@
         <mark key="]" line="22" column="1" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/MainActivity.java" timestamp="1523616328085">
+        <mark key="'" line="41" column="43" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/OrganizationData.kt" timestamp="1522380798831">
         <mark key="[" line="5" column="86" />
         <mark key="]" line="5" column="86" />
@@ -596,11 +600,12 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="23" column="69" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyRecognizer.java" timestamp="1523616128516">
-        <mark key="[" line="38" column="49" />
-        <mark key="]" line="38" column="55" />
-        <mark key="." line="38" column="55" />
-        <mark key="^" line="38" column="55" />
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyRecognizer.java" timestamp="1523616780284">
+        <mark key="'" line="77" column="16" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="72" column="21" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/TeacherListData.kt" timestamp="1522805592324">
         <mark key="[" line="5" column="54" />
@@ -751,28 +756,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="25" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
-      <jump line="20" column="11" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
-      <jump line="26" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" />
-      <jump line="1007" column="23" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="1365" column="25" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="1590" column="20" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="3042" column="16" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="3060" column="20" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="419" column="12" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" />
-      <jump line="41" column="22" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallPaperFragment.java" />
-      <jump line="49" column="33" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallPaperFragment.java" />
-      <jump line="50" column="34" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallPaperFragment.java" />
-      <jump line="55" column="33" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallPaperFragment.java" />
-      <jump line="60" column="92" filename="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallpaperAdapter.java" />
-      <jump line="32" column="58" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
-      <jump line="16" column="64" filename="F:/360Downloads/Desktop_0328/app/src/main/AndroidManifest.xml" />
-      <jump line="7" column="51" filename="E:/Test/D0411/app/src/main/java/com/stan/d0411/MainActivity.java" />
-      <jump line="16" column="4" filename="E:/Test/D0411/app/src/main/java/com/stan/d0411/MainActivity.java" />
-      <jump line="75" column="20" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
-      <jump line="24" column="0" filename="E:/Test/D0411/app/src/main/java/com/stan/d0411/MainActivity.java" />
       <jump line="54" column="9" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="59" column="29" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="65" column="17" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
@@ -849,15 +832,37 @@
       <jump line="129" column="17" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
       <jump line="127" column="18" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
       <jump line="37" column="60" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyRecognizer.java" />
-      <jump line="354" column="89" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
       <jump line="25" column="29" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyRecognizer.java" />
+      <jump line="41" column="43" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/MainActivity.java" />
+      <jump line="114" column="44" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
+      <jump line="273" column="5" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
+      <jump line="218" column="16" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
+      <jump line="49" column="6" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyRecognizer.java" />
+      <jump line="119" column="13" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyRecognizer.java" />
+      <jump line="121" column="12" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyRecognizer.java" />
+      <jump line="134" column="16" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyRecognizer.java" />
+      <jump line="144" column="16" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyRecognizer.java" />
+      <jump line="24" column="20" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyRecognizer.java" />
+      <jump line="62" column="15" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyRecognizer.java" />
+      <jump line="77" column="16" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyRecognizer.java" />
+      <jump line="245" column="16" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
+      <jump line="282" column="16" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
+      <jump line="295" column="15" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
+      <jump line="354" column="13" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
+      <jump line="355" column="12" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
+      <jump line="368" column="16" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
+      <jump line="249" column="16" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
+      <jump line="250" column="41" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
+      <jump line="286" column="16" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
+      <jump line="287" column="41" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
+      <jump line="317" column="20" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>translate</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>this</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Kc29uUGFyc2VyOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1162,10 +1167,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>showTip</text>
       </register>
       <register name="/" type="4">
-        <text>setparam</text>
+        <text encoding="base64">XDxtUmVzdWx0VGV4dFw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1258,58 +1263,53 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CS8qKgoJICogs/XKvLuvvODM/cb3oaMKCSAqLwoJcHJpdmF0ZSBJbml0TGlzdGVuZXIgbUluaXRMaXN0ZW5lciA9IG5ldyBJbml0TGlzdGVuZXIoKSB7CgoJCUBPdmVycmlkZQoJCXB1YmxpYyB2b2lkIG9uSW5pdChpbnQgY29kZSkgewoJCQlMb2cuZChUQUcsICJTcGVlY2hSZWNvZ25pemVyIGluaXQoKSBjb2RlID0gIiArIGNvZGUpOwoJCQlpZiAoY29kZSAhPSBFcnJvckNvZGUuU1VDQ0VTUykgewoJCQkJc2hvd1RpcCgis/XKvLuvyqew3KOstO3O88Lro7oiICsgY29kZSk7CgkJCX0KCQl9Cgl9Cg==</text>
+        <text encoding="base64">CS8qKgoJICogzP3QtLzgzP3G96GjCgkgKi8KCXByaXZhdGUgUmVjb2duaXplckxpc3RlbmVyIG1SZWNvZ25pemVyTGlzdGVuZXIgPSBuZXcgUmVjb2duaXplckxpc3RlbmVyKCkgewoKCQlAT3ZlcnJpZGUKCQlwdWJsaWMgdm9pZCBvbkJlZ2luT2ZTcGVlY2goKSB7CgkJCS8vILTLu9i197Htyr6junNka8Tasr/CvNL0u/rS0b6t17yxuLrDwcujrNPDu6e/ydLUv6rKvNPv0vTK5MjrCgkJCXNob3dUaXAoIr+qyrzLtbuwIik7CgkJfQoKCQlAT3ZlcnJpZGUKCQlwdWJsaWMgdm9pZCBvbkVycm9yKFNwZWVjaEVycm9yIGVycm9yKSB7CgkJCS8vIFRpcHOjugoJCQkvLyC07c7zwuujujEwMTE4KMT6w7vT0Mu1u7Apo6y/ycTcysfCvNL0u/rIqM/esbu9+6Os0OjSqszhyr7Tw7untPK/qtOm08O1xMK80vTIqM/eoaMKCQkJaWYobVRyYW5zbGF0ZUVuYWJsZSAmJiBlcnJvci5nZXRFcnJvckNvZGUoKSA9PSAxNDAwMikgewoJCQkJc2hvd1RpcCggZXJyb3IuZ2V0UGxhaW5EZXNjcmlwdGlvbih0cnVlKSsiXG7H68i3yM/Kx7fx0tG/qs2ot63S67mmxNwiICk7CgkJCX0gZWxzZSB7CgkJCQlzaG93VGlwKGVycm9yLmdldFBsYWluRGVzY3JpcHRpb24odHJ1ZSkpOwoJCQl9CgkJfQoKCQlAT3ZlcnJpZGUKCQlwdWJsaWMgdm9pZCBvbkVuZE9mU3BlZWNoKCkgewoJCQkvLyC0y7vYtfex7cq+o7q87LLitb3By9Pv0vS1xM6ytsu146Os0tG+rb34yOvKtrHwuf2zzKOssrvU2b3TytzT79L0yuTI6woJCQlzaG93VGlwKCK94cr4y7W7sCIpOwoJCX0KCgkJQE92ZXJyaWRlCgkJcHVibGljIHZvaWQgb25SZXN1bHQoUmVjb2duaXplclJlc3VsdCByZXN1bHRzLCBib29sZWFuIGlzTGFzdCkgewoJCQlpZiggbVRyYW5zbGF0ZUVuYWJsZSApewoJCQkJcHJpbnRUcmFuc1Jlc3VsdCggcmVzdWx0cyApOwoJCQl9ZWxzZXsKCQkJCVN0cmluZyB0ZXh0ID0gSnNvblBhcnNlci5wYXJzZUlhdFJlc3VsdChyZXN1bHRzLmdldFJlc3VsdFN0cmluZygpKTsKCQkJCW1SZXN1bHRUZXh0LmFwcGVuZCh0ZXh0KTsKCQkJCW1SZXN1bHRUZXh0LnNldFNlbGVjdGlvbihtUmVzdWx0VGV4dC5sZW5ndGgoKSk7CgkJCX0KCQkJCgkJCWlmKGlzTGFzdCkgewoJCQkJLy9UT0RPINfuuvO1xL3hufsKCQkJfQoJCX0KCgkJQE92ZXJyaWRlCgkJcHVibGljIHZvaWQgb25Wb2x1bWVDaGFuZ2VkKGludCB2b2x1bWUsIGJ5dGVbXSBkYXRhKSB7CgkJCXNob3dUaXAoIrWxx7DV/dTay7W7sKOs0vTBv7Tz0KGjuiIgKyB2b2x1bWUpOwoJCQlMb2cuZChUQUcsICK3tbvY0vTGtcr9vt2juiIrZGF0YS5sZW5ndGgpOwoJCX0KCgkJQE92ZXJyaWRlCgkJcHVibGljIHZvaWQgb25FdmVudChpbnQgZXZlbnRUeXBlLCBpbnQgYXJnMSwgaW50IGFyZzIsIEJ1bmRsZSBvYmopIHsKCQkJLy8g0tTPwrT6wuvTw9Pau/HIodPr1Ma2y7XEu+G7sGlko6y1sdK1zvGz9rTtyrG9q7vhu7BpZMzhuam4+Ly8yvXWp7PWyMvUsaOsv8nTw9PasunRr7vhu7DI1da+o6y2qM67s/a07dSt0vIKCQkJLy8gyPTKudPDsb612MTcwaajrLvhu7BpZM6qbnVsbAoJCQkvLwlpZiAoU3BlZWNoRXZlbnQuRVZFTlRfU0VTU0lPTl9JRCA9PSBldmVudFR5cGUpIHsKCQkJLy8JCVN0cmluZyBzaWQgPSBvYmouZ2V0U3RyaW5nKFNwZWVjaEV2ZW50LktFWV9FVkVOVF9TRVNTSU9OX0lEKTsKCQkJLy8JCUxvZy5kKFRBRywgInNlc3Npb24gaWQgPSIgKyBzaWQpOwoJCQkvLwl9CgkJfQoJfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCS5nZXRTdHJpbmcoImlhdF9sYW5ndWFnZV9wcmVmZXJlbmNlIiwgIm1hbmRhcmluIik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Kc29uUGFyc2VyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCS5nZXRTdHJpbmcoImlhdF9sYW5ndWFnZV9wcmVmZXJlbmNlIiwgIm1hbmRhcmluIik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5TaGFyZWRQcmVmZXJlbmNlczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlTdHJpbmcgbGFnID0gZ2V0U3AoY29udGV4dCkK</text>
+        <text encoding="base64">CQkvKioKCQkgKiCz9cq8u6+84Mz9xvehowoJCSAqLwoJCXByaXZhdGUgSW5pdExpc3RlbmVyIG1Jbml0TGlzdGVuZXIgPSBuZXcgSW5pdExpc3RlbmVyKCkgewoKCQkJQE92ZXJyaWRlCgkJCXB1YmxpYyB2b2lkIG9uSW5pdChpbnQgY29kZSkgewoJCQkJTG9nLmQoVEFHLCAiU3BlZWNoUmVjb2duaXplciBpbml0KCkgY29kZSA9ICIgKyBjb2RlKTsKCQkJCWlmIChjb2RlICE9IEVycm9yQ29kZS5TVUNDRVNTKSB7CgkJCQkJTG9nLmUoVEFHLCKz9cq8u6/Kp7Dco6y07c7zwuujuiIgKyBjb2RlKTsKCQkJCX0KCQkJfQoJCX07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaXZhdGUgU2hhcmVkUHJlZmVyZW5jZXMgZ2V0U3AoQ29udGV4dCBjb250ZXh0KSB7CgkJcmV0dXJuIGNvbnRleHQuZ2V0U2hhcmVkUHJlZmVyZW5jZXMoImlhdF9sYW5ndWFnZV9wcmVmZXJlbmNlIixDb250ZXh0Lk1PREVfUFJJVkFURSk7Cgl9Cg==</text>
+        <text encoding="base64">CQkJCS5nZXRTdHJpbmcoImlhdF9sYW5ndWFnZV9wcmVmZXJlbmNlIiwgIm1hbmRhcmluIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlTdHJpbmcgbGFnID0gY29udGV4dC5nZXRTaGFyZWRQcmVmZXJlbmNlcygiTXlSZWNvZ25pemVyIixDb250ZXh0Lk1PREVfUFJJVkFURSkK</text>
+        <text encoding="base64">CQkJCS5nZXRTdHJpbmcoImlhdF9sYW5ndWFnZV9wcmVmZXJlbmNlIiwgIm1hbmRhcmluIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQlTdHJpbmcgbGFnID0gZ2V0U3AoY29udGV4dCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAkK</text>
+        <text encoding="base64">CXByaXZhdGUgU2hhcmVkUHJlZmVyZW5jZXMgZ2V0U3AoQ29udGV4dCBjb250ZXh0KSB7CgkJcmV0dXJuIGNvbnRleHQuZ2V0U2hhcmVkUHJlZmVyZW5jZXMoImlhdF9sYW5ndWFnZV9wcmVmZXJlbmNlIixDb250ZXh0Lk1PREVfUFJJVkFURSk7Cgl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTdHJpbmcgbGFnID0gY29udGV4dC5nZXRTaGFyZWRQcmVmZXJlbmNlcygiTXlSZWNvZ25pemVyIixDb250ZXh0Lk1PREVfUFJJVkFURSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>70</text>
+        <text>set ignorecase</text>
       </register>
     </registers>
     <search>
-      <last-search>setparam</last-search>
+      <last-search encoding="base64">XDxtUmVzdWx0VGV4dFw+</last-search>
       <last-offset />
-      <last-pattern>setparam</last-pattern>
-      <last-replace>com.iflytek.cloud.SpeechConstant</last-replace>
-      <last-substitute>speechconstant</last-substitute>
+      <last-pattern encoding="base64">XDxtUmVzdWx0VGV4dFw+</last-pattern>
+      <last-replace>Log.i(TAG,</last-replace>
+      <last-substitute>showTip(</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsYXVuY2hlclBhY2thZ2VcPg==</entry>
-        <entry>check</entry>
-        <entry>checkVersion</entry>
-        <entry>initTT</entry>
-        <entry>init</entry>
         <entry>To</entry>
         <entry>todo</entry>
         <entry>activity_login</entry>
@@ -1325,10 +1325,13 @@
         <entry>setparameter</entry>
         <entry>speechconstant</entry>
         <entry>setparam</entry>
+        <entry>showTip(</entry>
+        <entry encoding="base64">XDxtVHJhbnNsYXRlRW5hYmxlXD4=</entry>
+        <entry>myresulttext</entry>
+        <entry>myresult</entry>
+        <entry encoding="base64">XDxtUmVzdWx0VGV4dFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>18</entry>
-        <entry>set incserch</entry>
         <entry>set hls</entry>
         <entry>set incsearch</entry>
         <entry>LoginActivity</entry>
@@ -1344,9 +1347,11 @@
         <entry>88,95s/setParameter/@a/g</entry>
         <entry>88,95s/setparameter/setParam/gi</entry>
         <entry>88,94s/speechconstant/com.iflytek.cloud.SpeechConstant/gi</entry>
-        <entry>set ignorecase</entry>
         <entry>setpara</entry>
         <entry>70</entry>
+        <entry>`at274&quot;ay</entry>
+        <entry>56,66s/showTip(/Log.i(TAG,/g</entry>
+        <entry>set ignorecase</entry>
       </history-cmd>
       <history-expr />
       <history-input />
