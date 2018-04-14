@@ -322,11 +322,11 @@
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/values/styles.xml" timestamp="1523165521333">
         <mark key="[" line="7" column="58" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523697671751">
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523699202285">
         <mark key="'" line="258" column="17" />
         <mark key="j" line="94" column="7" />
-        <mark key="[" line="157" column="33" />
-        <mark key="]" line="157" column="34" />
+        <mark key="[" line="32" column="43" />
+        <mark key="]" line="32" column="76" />
         <mark key="." line="157" column="34" />
         <mark key="^" line="157" column="33" />
       </file>
@@ -455,7 +455,7 @@
         <text>translate</text>
       </register>
       <register name="&quot;" type="4">
-        <text>\\，</text>
+        <text>&quot;http://12366.xhcsw.com/index.php&quot;</text>
       </register>
       <register name="i" type="4">
         <text />
