@@ -12,11 +12,18 @@
         <mark key="." line="71" column="41" />
         <mark key="^" line="71" column="41" />
       </file>
-      <file name="/a.dummy" timestamp="1523667447557">
+      <file name="/a.dummy" timestamp="1523685110158">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/CollectVideoData.kt" timestamp="1522809137723">
         <mark key="[" line="5" column="0" />
+      </file>
+      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/OneShotDemo.java" timestamp="1523685651752">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="309" column="0" />
+        <mark key="." line="79" column="4" />
+        <mark key="^" line="79" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/D0404/app/src/main/res/layout/activity_main.xml" timestamp="1522851269927">
         <mark key="[" line="11" column="22" />
@@ -331,6 +338,9 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
+      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IvwActivity.java" timestamp="1523685022295">
+        <mark key="'" line="44" column="57" />
+      </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1523343909060">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="30" column="72" />
@@ -431,13 +441,6 @@
         <mark key="]" line="5" column="4" />
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
-      </file>
-      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" timestamp="1523617180797">
-        <mark key="a" line="215" column="4" />
-        <mark key="'" line="68" column="8" />
-        <mark key="[" line="114" column="16" />
-        <mark key="]" line="119" column="16" />
-        <mark key="." line="60" column="9" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/adapter/SimpleRecycleAdater.kt" timestamp="1522825234495">
         <mark key="'" line="17" column="23" />
@@ -554,8 +557,8 @@
         <mark key="^" line="15" column="9" />
         <mark key="." line="15" column="9" />
       </file>
-      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/MainActivity.java" timestamp="1523618723244">
-        <mark key="'" line="53" column="43" />
+      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/MainActivity.java" timestamp="1523685007471">
+        <mark key="'" line="57" column="46" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/OrganizationData.kt" timestamp="1522380798831">
         <mark key="[" line="5" column="86" />
@@ -663,13 +666,6 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
       </file>
-      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/TtsDemo.java" timestamp="1523666023698">
-        <mark key="a" line="306" column="0" />
-        <mark key="'" line="354" column="106" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="149" column="12" />
-        <mark key="." line="37" column="5" />
-      </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/AutoAccount.java" timestamp="1522829618955">
         <mark key="[" line="37" column="25" />
         <mark key="]" line="37" column="43" />
@@ -765,7 +761,7 @@
         <mark key="." line="171" column="25" />
         <mark key="^" line="253" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1523684900783">
+      <file name="/fragment.java" timestamp="1523685106220">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/git_desk/T0227/lib/src/main/java/com/stan/lib/Test.java" timestamp="1519886007486">
@@ -774,13 +770,15 @@
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="22" />
       </file>
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyWakeupAndRecognizer.java" timestamp="1523685734822">
+        <mark key="'" line="28" column="60" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="96" column="21" />
+        <mark key="." line="106" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="6" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
-      <jump line="105" column="12" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
-      <jump line="129" column="17" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
-      <jump line="127" column="18" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
-      <jump line="37" column="60" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyRecognizer.java" />
       <jump line="25" column="29" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyRecognizer.java" />
       <jump line="41" column="43" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/MainActivity.java" />
       <jump line="114" column="44" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IatDemo.java" />
@@ -876,13 +874,18 @@
       <jump line="297" column="32" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="138" column="27" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="405" column="27" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="57" column="46" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/MainActivity.java" />
+      <jump line="44" column="57" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IvwActivity.java" />
+      <jump line="57" column="0" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/OneShotDemo.java" />
+      <jump line="106" column="0" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyWakeupAndRecognizer.java" />
+      <jump line="26" column="60" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyWakeupAndRecognizer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>translate</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHRWaWV3LnNldFRleHQocmVjb1N0cmluZyk7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1187,7 +1190,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>showTip</text>
       </register>
       <register name="/" type="4">
         <text>onBack</text>
@@ -1283,35 +1286,35 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFdlYlZpZXcgd2ViVmlldzsK</text>
+        <text encoding="base64">CXByaXZhdGUgV2FrZXVwZXJMaXN0ZW5lciBtV2FrZXVwZXJMaXN0ZW5lciA9IG5ldyBXYWtldXBlckxpc3RlbmVyKCkgewoKCQlAT3ZlcnJpZGUKCQlwdWJsaWMgdm9pZCBvblJlc3VsdChXYWtldXBlclJlc3VsdCByZXN1bHQpIHsKCQkJdHJ5IHsKCQkJCVN0cmluZyB0ZXh0ID0gcmVzdWx0LmdldFJlc3VsdFN0cmluZygpOwoJCQkJSlNPTk9iamVjdCBvYmplY3Q7CgkJCQlvYmplY3QgPSBuZXcgSlNPTk9iamVjdCh0ZXh0KTsKCQkJCVN0cmluZ0J1ZmZlciBidWZmZXIgPSBuZXcgU3RyaW5nQnVmZmVyKCk7CgkJCQlidWZmZXIuYXBwZW5kKCKhvlJBV6G/ICIrdGV4dCk7CgkJCQlidWZmZXIuYXBwZW5kKCJcbiIpOwoJCQkJYnVmZmVyLmFwcGVuZCgiob6y2df3wODQzaG/Iisgb2JqZWN0Lm9wdFN0cmluZygic3N0IikpOwoJCQkJYnVmZmVyLmFwcGVuZCgiXG4iKTsKCQkJCWJ1ZmZlci5hcHBlbmQoIqG+u73Q0bTKaWShvyIrIG9iamVjdC5vcHRTdHJpbmcoImlkIikpOwoJCQkJYnVmZmVyLmFwcGVuZCgiXG4iKTsKCQkJCWJ1ZmZlci5hcHBlbmQoIqG+tcO31qG/IiArIG9iamVjdC5vcHRTdHJpbmcoInNjb3JlIikpOwoJCQkJYnVmZmVyLmFwcGVuZCgiXG4iKTsKCQkJCWJ1ZmZlci5hcHBlbmQoIqG+x7C2y7Xjob8iICsgb2JqZWN0Lm9wdFN0cmluZygiYm9zIikpOwoJCQkJYnVmZmVyLmFwcGVuZCgiXG4iKTsKCQkJCWJ1ZmZlci5hcHBlbmQoIqG+zrK2y7Xjob8iICsgb2JqZWN0Lm9wdFN0cmluZygiZW9zIikpOwoJCQkJcmVzdWx0U3RyaW5nID1idWZmZXIudG9TdHJpbmcoKTsKCQkJfSBjYXRjaCAoSlNPTkV4Y2VwdGlvbiBlKSB7CgkJCQlyZXN1bHRTdHJpbmcgPSAiveG5+73izvaz9rTtIjsKCQkJCWUucHJpbnRTdGFja1RyYWNlKCk7CgkJCX0KCQkJdGV4dFZpZXcuc2V0VGV4dChyZXN1bHRTdHJpbmcpOwoJCX0KCgkJQE92ZXJyaWRlCgkJcHVibGljIHZvaWQgb25FcnJvcihTcGVlY2hFcnJvciBlcnJvcikgewoJCQlzaG93VGlwKGVycm9yLmdldFBsYWluRGVzY3JpcHRpb24odHJ1ZSkpOwoJCX0KCgkJQE92ZXJyaWRlCgkJcHVibGljIHZvaWQgb25CZWdpbk9mU3BlZWNoKCkgewoJCQlzaG93VGlwKCK/qsq8y7W7sCIpOwoJCX0KCgkJQE92ZXJyaWRlCgkJcHVibGljIHZvaWQgb25FdmVudChpbnQgZXZlbnRUeXBlLCBpbnQgaXNMYXN0LCBpbnQgYXJnMiwgQnVuZGxlIG9iaikgewoJCQlMb2cuZChUQUcsICJldmVudFR5cGU6IitldmVudFR5cGUrICJhcmcxOiIraXNMYXN0ICsgImFyZzI6IiArIGFyZzIpOwoJCQkvLyDKtrHwveG5+woJCQlpZiAoU3BlZWNoRXZlbnQuRVZFTlRfSVZXX1JFU1VMVCA9PSBldmVudFR5cGUpIHsKCQkJCVJlY29nbml6ZXJSZXN1bHQgcmVzbHV0ID0gKChSZWNvZ25pemVyUmVzdWx0KW9iai5nZXQoU3BlZWNoRXZlbnQuS0VZX0VWRU5UX0lWV19SRVNVTFQpKTsKCQkJCXJlY29TdHJpbmcgKz0gSnNvblBhcnNlci5wYXJzZUdyYW1tYXJSZXN1bHQocmVzbHV0LmdldFJlc3VsdFN0cmluZygpKTsKCQkJCXRleHRWaWV3LnNldFRleHQocmVjb1N0cmluZyk7CgkJCX0KCQl9CgoJCUBPdmVycmlkZQoJCXB1YmxpYyB2b2lkIG9uVm9sdW1lQ2hhbmdlZChpbnQgdm9sdW1lKSB7CgkJCS8vIFRPRE8gQXV0by1nZW5lcmF0ZWQgbWV0aG9kIHN0dWIKCQkJCgkJfQoKCX07CgkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHRWaWV3LnNldFRleHQocmVjb1N0cmluZyk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>compile 'com.daimajia.easing:library:2.0@aar'
-    compile 'com.daimajia.androidanimations:library:2.3@aar'</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dFZpZXcuc2V0VGV4dChyZXN1bHRTdHJpbmcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBJbnRlbnQgaSA9IG5ldyBJbnRlbnQoSW50ZW50LkFDVElPTl9WSUVXKTsKICAgICAgICAgICAgaS5zZXREYXRhKFVyaS5wYXJzZSgiaHR0cDovLzEyMzY2LnhoY3N3LmNvbS9pbmRleC5waHAiKSk7CiAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkoaSk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSIudmlldy5XZWJWaWV3QWN0aXZpdHkiIGFuZHJvaWQ6bGF1bmNoTW9kZT0ic2luZ2xlVGFzayIvPgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzaG93VGlwKGZpbmFsIFN0cmluZyBzdHIpIHsKICAgICAgICBtVG9hc3Quc2V0VGV4dChzdHIpOwogICAgICAgIG1Ub2FzdC5zaG93KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="6" type="4">
+        <text>compile 'com.daimajia.easing:library:2.0@aar'
+    compile 'com.daimajia.androidanimations:library:2.3@aar'</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IDxMaW5lYXJMYXlvdXQKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogICAgICAgIHRvb2xzOmNvbnRleHQ9ImNvbS5zdGFuLmQwMTE1X2xhdW5jaGVyXzAudmlldy5NYWluQWN0aXZpdHkiCiAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVk9IjI1ZHAiPgoKICAgICAgICA8VmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxLjMiLz4KICAgICAgICA8TGluZWFyTGF5b3V0CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiCiAgICAgICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiPgogICAgICAgICAgICA8VmlldwogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIi8+CiAgICAgICAgICAgIDxJbWFnZVZpZXcKICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvaWNvbjEiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2ljb24xIi8+CiAgICAgICAgICAgIDxWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEuMSIvPgogICAgICAgICAgICA8SW1hZ2VWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2ljb24yIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY29uMiIgLz4KICAgICAgICAgICAgPFZpZXcKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMSIvPgogICAgPC9MaW5lYXJMYXlvdXQ+CiAgICAgICAgPFZpZXcKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMS4zIi8+CiAgICAgICAgIDxMaW5lYXJMYXlvdXQKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiCiAgICAgICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiPgogICAgICAgICAgICA8VmlldwogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIi8+CiAgICAgICAgICAgIDxJbWFnZVZpZXcKICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvaWNvbjMiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2ljb24zIi8+CiAgICAgICAgICAgIDxWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEuMSIvPgogICAgICAgICAgICA8SW1hZ2VWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2ljb240IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY29uNCIgLz4KICAgICAgICAgICAgPFZpZXcKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMSIvPgogICAgPC9MaW5lYXJMYXlvdXQ+CiAgICAgICAgPFZpZXcKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMS4zIi8+CgogICAgPC9MaW5lYXJMYXlvdXQ+CiAgICA8QnV0dG9uCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9idG5fYW5kcm9pZCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iNjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjgwZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRCb3R0b209InRydWUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRSaWdodD0idHJ1ZSIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Cb3R0b209IjQwZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luUmlnaHQ9IjgwZHAiCiAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYW5kcm9pZCIvPgogICAgPEJ1dHRvbgogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvY2VudGVyIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIyMDBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9jZW50ZXJJblBhcmVudD0idHJ1ZSIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBhbmRyb2lkOmNvbG9yL3RyYW5zcGFyZW50IgogICAgICAgIC8+CiAgICA8QnV0dG9uCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zdGFydCIKICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRCb3R0b209InRydWUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRSaWdodD0idHJ1ZSIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Cb3R0b209IjE0MGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblJpZ2h0PSI2MGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJzdGFydCIvPg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBJbnRlbnQgaSA9IG5ldyBJbnRlbnQoSW50ZW50LkFDVElPTl9WSUVXKTsKICAgICAgICAgICAgaS5zZXREYXRhKFVyaS5wYXJzZSgiaHR0cDovLzEyMzY2LnhoY3N3LmNvbS9pbmRleC5waHAiKSk7CiAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkoaSk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8QnV0dG9uCg==</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSIudmlldy5XZWJWaWV3QWN0aXZpdHkiIGFuZHJvaWQ6bGF1bmNoTW9kZT0ic2luZ2xlVGFzayIvPgo=</text>
       </register>
       <register name="x" type="4">
         <text>n</text>
