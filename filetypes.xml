@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ShareEducation_kotlin" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping ext="jet" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
