@@ -5,7 +5,14 @@
   <action id="ActivateAndroidMonitorToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="CallHierarchy" />
   <action id="ChangesView.ShelveSilently" />
   <action id="CheckinProject" />
@@ -31,7 +38,6 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
-  <action id="ExtractFunction" />
   <action id="ExtractMethod" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -45,6 +51,7 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="Gsonformat" />
   <action id="Images.SetBackgroundImage">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
@@ -74,6 +81,10 @@
   </action>
   <action id="ReformatCode" />
   <action id="Replace" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -99,6 +110,6 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="VimPluginToggle">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl alt 9" />
   </action>
 </keymap>
