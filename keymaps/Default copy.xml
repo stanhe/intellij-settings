@@ -13,6 +13,14 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -23,6 +31,8 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="ExtractFunction" />
+  <action id="ExtractMethod" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>

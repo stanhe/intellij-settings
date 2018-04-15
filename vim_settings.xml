@@ -662,12 +662,12 @@
       <file name="/fragment.java" timestamp="1523624989976">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/D0404/app/src/main/java/com/example/stan/d0404/MainActivity.java" timestamp="1523624949458">
+      <file name="$USER_HOME$/AndroidStudioProjects/D0404/app/src/main/java/com/example/stan/d0404/MainActivity.java" timestamp="1523765051472">
         <mark key="'" line="7" column="51" />
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="19" column="41" />
-        <mark key="^" line="19" column="41" />
-        <mark key="." line="19" column="41" />
+        <mark key="[" line="21" column="35" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+        <mark key="^" line="21" column="45" />
       </file>
       <file name="F:/git_desk/T0227/lib/src/main/java/com/stan/lib/Test.java" timestamp="1519886007486">
         <mark key="[" line="13" column="22" />
@@ -796,7 +796,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g77+9xrPvv73vv73vv73vv73Dte+/vXJlc291cmNl77+9xLzvv70K</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsICJUaGlzIGlzIGluIG1haW5BY3Rpdml0eSIpOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1101,7 +1101,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-ignorewarning</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
@@ -1196,27 +1196,26 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>com.stan.d0115_launcher_0.data;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsIlRoaXMgaXMgTWFpbkFjdGl2aXR5Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g77+9xrPvv73vv73vv73vv73Dte+/vXJlc291cmNl77+9xLzvv70K</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsICJUaGlzIGlzIGluIG1haW5BY3Rpdml0eSIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoKQo=</text>
       </register>
-      <register name="3" type="8">
-        <text />
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g77+9xrPvv73vv73vv73vv73Dte+/vXJlc291cmNl77+9xLzvv70K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>-keepattributes Signature
--keepattributes *Annotation*</text>
+      <register name="6" type="8">
+        <text />
       </register>
       <register name="w" type="4">
         <text />
@@ -1225,10 +1224,11 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgcG9zdHF1ZXN0aW9uKGZpbmFsIFN0cmluZyBxdWVzdGlvbikgewogICAgICAgIG5ldyBUaHJlYWQobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewoKICAgICAgICAgICAgICAgIEpTT05PYmplY3QganNvbiA9IG5ldyBKU09OT2JqZWN0KCk7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIGpzb24ucHV0KCJ1dWlkIiwgInNzZGVlc2RzYWFhIik7IC8v77+977+977+977+91rfvv73vv73vv70g77+977+91qTOqNK777+977+977+977+9CiAgICAgICAgICAgICAgICAgICAganNvbi5wdXQoInF1ZXN0aW9uIiwgcXVlc3Rpb24pOwogICAgICAgICAgICAgICAgICAgIGpzb24ucHV0KCJ1c2VybmFtZSIsICIxODY4MDY2ODI3NyIpOyAvL++/ve+/ve+/ve+/ve+/vdS877+916Lvv73vv73vv73vv73vv73vv73vv73vv73vv73vv73vv73Gvcyo77+9y7rvv70KICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEpTT05FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAvL1N0cmluZyBzID0gSHR0cFV0aWxzLnNlbmRSZXF1ZXN0V2l0aEh0dHBVUkxDb25uZWN0aW9uKCJodHRwOi8vd3d3LmRpdGluZ2FpLmNvbS9yZW1vdGUvY2hhdC9pbmZvIiwganNvbi50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgIFN0cmluZyBzID0gIiI7CiAgICAgICAgICAgICAgICBpZiAocyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgSlNPTk9iamVjdCBqc29ub2JqZWN0ID0gbmV3IEpTT05PYmplY3Qocy50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgICAgICAgICAgZmluYWwgU3RyaW5nIGFuc3dlciA9IGpzb25vYmplY3QuZ2V0U3RyaW5nKCJhbnN3ZXIiKTsgLy/vv73Dte+/ve+/ve+/vQogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgYWN0aW9uT3B0aW9uID0ganNvbm9iamVjdC5nZXRKU09OT2JqZWN0KCJhY3Rpb24iKS5nZXRTdHJpbmcoImFjdGlvbk9wdGlvbiIpOyAvL++/vcO177+977+977+977+977+9CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBxdWVzdGlvbiA9IGpzb25vYmplY3QuZ2V0SlNPTk9iamVjdCgiYWN0aW9uIikuZ2V0U3RyaW5nKCJxdWVzdGlvbiIpOyAvL++/vcO177+977+977+977+977+9CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyB1c2VybmFtZSA9IGpzb25vYmplY3QuZ2V0U3RyaW5nKCJ1c2VybmFtZSIpOyAvL++/vcu677+9CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBhdmFpbGFibGUgPSBqc29ub2JqZWN0LmdldEpTT05PYmplY3QoImFjdGlvbiIpLmdldFN0cmluZygiYXZhaWxhYmxlIik7IC8v77+9w7Xvv73vv73vv73vv73vv70KICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhbnN3ZXI6IiArIGFuc3dlcik7CiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBUaHJlYWQobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcnVuT25VaVRocmVhZChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL++/ve+/ve+/ve+/vVVJCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9zcGVha0Fuc3dlcl9kaXRpbmcoYW5zd2VyKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfSkuc3RhcnQoKTsKCgogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEpTT05FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0pLnN0YXJ0KCk7CiAgICB9</text>
+        <text>-keepattributes Signature
+-keepattributes *Annotation*</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
