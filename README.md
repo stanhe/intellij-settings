@@ -58,4 +58,5 @@ M+S+k|kotlin file/class(add to quick list)
 ### QaA
 
 * somekey no work,eg C+n/C+p can't move up and down
+
 adjust Settings -> Other Settinigs -> Vim Emulation to IDE
