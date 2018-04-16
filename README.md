@@ -8,7 +8,7 @@ keymap for intellij
 
 ### How do I get set up? ###
 
-* intellij idea
+* Intellij IDE
 * with plugins IdeaVim
 * File -> Settings Repository
 
@@ -54,3 +54,8 @@ M+S+k|kotlin file/class(add to quick list)
 
 * Repo owner or admin
 * Other community or team contact
+
+### QaA
+
+*somekey no work,eg C+n/C+p can't move up and down
+adjust Settings -> Other Settinigs -> Vim Emulation to IDE
