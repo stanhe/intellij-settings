@@ -1,0 +1,7 @@
+<list display="FastMode" description="fast navigation">
+  <action id="Vcs.QuickListPopupAction" />
+  <action id="QuickList.$Separator$" />
+  <action id="ToggleFullScreen" />
+  <action id="ToggleDistractionFreeMode" />
+  <action id="QuickList.$Separator$" />
+</list>

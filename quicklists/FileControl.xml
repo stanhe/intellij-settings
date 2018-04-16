@@ -1,0 +1,12 @@
+<list display="FileControl" description="fast file mode">
+  <action id="NewClass" />
+  <action id="Kotlin.NewFile" />
+  <action id="QuickList.$Separator$" />
+  <action id="Vcs.QuickListPopupAction" />
+  <action id="ToggleFullScreen" />
+  <action id="ToggleDistractionFreeMode" />
+  <action id="QuickList.$Separator$" />
+  <action id="NewModule" />
+  <action id="template.create.FolderAssets Folder" />
+  <action id="template.create.FolderJNI Folder" />
+</list>

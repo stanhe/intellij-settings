@@ -48,6 +48,9 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="ExtractMethod" />
+  <action id="FileChooser.GotoJDK">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
@@ -97,8 +100,11 @@
   <action id="QuickList.DistractionMode">
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
-  <action id="QuickList.MyMode">
-    <keyboard-shortcut first-keystroke="alt back_quote" />
+  <action id="QuickList.FileControl">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="QuickList.MenuControl">
+    <keyboard-shortcut first-keystroke="alt m" />
   </action>
   <action id="ReformatCode" />
   <action id="Replace" />
