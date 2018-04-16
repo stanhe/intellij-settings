@@ -17,7 +17,7 @@ keymap for intellij
 key_function|map
 -|-
 C+M+9|Vim Emulator
----|---
+--------------------|--------------------
 M+1|go to project
 M+s|go to file in project/jump to source
 M+d|logcat
@@ -27,12 +27,12 @@ M+n|jump to navigation bar
 M+p|set background image
 M+k|quick list -> fast file and common use action
 M+m|quick list -> fast folder handler
----|---
+--------------------|--------------------
 C+n|down
 C+h|left
 C+l|right
 C+p|up
----|---
+--------------------|--------------------
 C+M+f|find action
 C+M+n|goto by name action
 C+M+m|choose loopup item/complete current statement
@@ -40,7 +40,7 @@ C+M+h|select pre tab
 C+M+l|select next tab
 C+M+]|select next Window
 C+M+w|close current tab
----|---
+--------------------|--------------------
 M+S+k|kotlin file/class(add to quick list)
 
 
