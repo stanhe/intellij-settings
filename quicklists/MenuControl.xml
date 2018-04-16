@@ -1,7 +1,9 @@
 <list display="MenuControl" description="show menu">
+  <action id="Android.BuildApk" />
+  <action id="RevealIn" />
+  <action id="OpenFile" />
   <action id="NewProject" />
   <action id="ImportProject" />
-  <action id="Android.BuildApk" />
   <action id="Android.AnalyzeApk" />
   <action id="Exit" />
 </list>

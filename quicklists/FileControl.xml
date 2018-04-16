@@ -4,7 +4,6 @@
   <action id="QuickList.$Separator$" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="ToggleFullScreen" />
-  <action id="ToggleDistractionFreeMode" />
   <action id="QuickList.$Separator$" />
   <action id="NewModule" />
   <action id="template.create.FolderAssets Folder" />
