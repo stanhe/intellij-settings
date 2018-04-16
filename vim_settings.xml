@@ -35,12 +35,12 @@
       <file name="/a.dummy" timestamp="1523686049143">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/D0416/app/src/main/java/com/stan/d0416/MainActivity.java" timestamp="1523859830395">
-        <mark key="'" line="30" column="19" />
-        <mark key="[" line="20" column="47" />
-        <mark key="]" line="22" column="7" />
-        <mark key="." line="22" column="7" />
-        <mark key="^" line="22" column="7" />
+      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/D0416/app/src/main/java/com/stan/d0416/MainActivity.java" timestamp="1523861498278">
+        <mark key="'" line="11" column="34" />
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="29" column="33" />
+        <mark key="." line="29" column="33" />
+        <mark key="^" line="29" column="33" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/CollectVideoData.kt" timestamp="1522809137723">
         <mark key="[" line="5" column="0" />
@@ -371,7 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="399" column="9" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="317" column="4" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="53" column="43" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/MainActivity.java" />
       <jump line="69" column="57" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/TtsDemo.java" />
@@ -471,6 +470,7 @@
       <jump line="19" column="25" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/App.java" />
       <jump line="7" column="13" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/libs/Msc.jar!/com/iflytek/cloud/SpeechConstant.class" />
       <jump line="15" column="19" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/D0416/app/src/main/java/com/stan/d0416/MainActivity.java" />
+      <jump line="11" column="34" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/D0416/app/src/main/java/com/stan/d0416/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
