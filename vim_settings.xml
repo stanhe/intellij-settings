@@ -19,13 +19,6 @@
         <mark key="^" line="53" column="72" />
         <mark key="." line="55" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallpaperAdapter.java" timestamp="1523347154323">
-        <mark key="'" line="60" column="92" />
-        <mark key="[" line="78" column="32" />
-        <mark key="]" line="78" column="31" />
-        <mark key="^" line="78" column="31" />
-        <mark key="." line="78" column="31" />
-      </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/BaseActivity.java" timestamp="1523848892650">
         <mark key="[" line="15" column="42" />
         <mark key="]" line="15" column="36" />
@@ -51,13 +44,6 @@
         <mark key="]" line="216" column="17" />
         <mark key="." line="216" column="17" />
         <mark key="^" line="79" column="4" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/D0404/app/src/main/java/com/example/stan/d0404/MainActivity.java" timestamp="1523446952998">
-        <mark key="'" line="7" column="51" />
-        <mark key="[" line="18" column="41" />
-        <mark key="]" line="18" column="41" />
-        <mark key="^" line="18" column="41" />
-        <mark key="." line="18" column="41" />
       </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/adapter/MediaAdapter.java" timestamp="1523847885441">
         <mark key="[" line="22" column="23" />
@@ -286,7 +272,7 @@
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/DealApplyData.kt" timestamp="1522807666993">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523842168022">
+      <file name="/Dummy.txt" timestamp="1523888932155">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/play/PlayVideoContract.kt" timestamp="1523174018117">
@@ -306,6 +292,13 @@
         <mark key="]" line="77" column="45" />
         <mark key="." line="77" column="45" />
         <mark key="^" line="77" column="45" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1523343909060">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="30" column="72" />
+        <mark key="]" line="30" column="60" />
+        <mark key="." line="30" column="60" />
+        <mark key="^" line="30" column="60" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/video/VideoPresenter.kt" timestamp="1523328718765">
         <mark key="'" line="55" column="24" />
@@ -338,13 +331,6 @@
         <mark key="'" line="258" column="17" />
         <mark key="j" line="94" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1523343909060">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="30" column="72" />
-        <mark key="]" line="30" column="60" />
-        <mark key="." line="30" column="60" />
-        <mark key="^" line="30" column="60" />
-      </file>
       <file name="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" timestamp="1523407493565">
         <mark key="'" line="33" column="58" />
         <mark key="[" line="66" column="0" />
@@ -352,12 +338,26 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="80" column="52" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/slider/WallpaperAdapter.java" timestamp="1523347154323">
+        <mark key="'" line="60" column="92" />
+        <mark key="[" line="78" column="32" />
+        <mark key="]" line="78" column="31" />
+        <mark key="^" line="78" column="31" />
+        <mark key="." line="78" column="31" />
+      </file>
       <file name="E:/Test/SonixBLESample/app/src/main/java/com/example/sonixblesample/FullscreenActivity.java" timestamp="1522748897621">
         <mark key="'" line="122" column="75" />
         <mark key="[" line="171" column="25" />
         <mark key="]" line="171" column="25" />
         <mark key="." line="171" column="25" />
         <mark key="^" line="253" column="12" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/D0404/app/src/main/java/com/example/stan/d0404/MainActivity.java" timestamp="1523888937222">
+        <mark key="'" line="7" column="51" />
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="14" column="21" />
       </file>
       <file name="/fragment.java" timestamp="1523845296167">
         <mark key="[" line="0" column="0" />
@@ -476,8 +476,8 @@
       <register name="a" type="4">
         <text>translate</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -782,7 +782,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtQXNyXD4=</text>
