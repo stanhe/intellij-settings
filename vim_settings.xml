@@ -34,12 +34,18 @@
         <mark key="." line="15" column="36" />
         <mark key="^" line="15" column="36" />
       </file>
+      <file name="/a.dummy" timestamp="1523686049143">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/D0416/app/src/main/java/com/stan/d0416/MainActivity.java" timestamp="1523861498278">
         <mark key="'" line="11" column="34" />
         <mark key="[" line="28" column="35" />
         <mark key="]" line="29" column="33" />
         <mark key="." line="29" column="33" />
         <mark key="^" line="29" column="33" />
+      </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/CollectVideoData.kt" timestamp="1522809137723">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/OneShotDemo.java" timestamp="1523686034307">
         <mark key="'" line="231" column="16" />
@@ -54,6 +60,12 @@
         <mark key="]" line="18" column="41" />
         <mark key="^" line="18" column="41" />
         <mark key="." line="18" column="41" />
+      </file>
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/adapter/MediaAdapter.java" timestamp="1523847885441">
+        <mark key="[" line="22" column="23" />
+      </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/util/ActivityUtils.kt" timestamp="1523328760094">
+        <mark key="[" line="32" column="30" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" timestamp="1523930308909">
         <mark key="'" line="143" column="20" />
@@ -93,6 +105,9 @@
         <mark key="]" line="38" column="25" />
         <mark key="." line="38" column="25" />
         <mark key="^" line="38" column="25" />
+      </file>
+      <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/base/BaseFragment.kt" timestamp="1522721329645">
+        <mark key="[" line="16" column="32" />
       </file>
       <file name="E:/Demo/D0409/app/src/main/java/com/stan/d0409/ThirdActivity.java" timestamp="1523254861248">
         <mark key="'" line="6" column="26" />
@@ -156,6 +171,9 @@
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/ActivityBindingModule.kt" timestamp="1523931083958">
         <mark key="'" line="28" column="15" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1523152526892">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/AndroidManifest.xml" timestamp="1523689374488">
         <mark key="[" line="10" column="0" />
@@ -224,6 +242,7 @@
         <mark key="." line="58" column="54" />
         <mark key="^" line="58" column="54" />
       </file>
+      <file name="E:/Test/USBCommunication2/app/src/main/java/com/example/calderon/usbcommunication/MainActivity.java" timestamp="1523951552501" />
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainContract.kt" timestamp="1523930141723">
         <mark key="[" line="17" column="12" />
         <mark key="]" line="17" column="14" />
@@ -256,6 +275,12 @@
         <mark key="]" line="31" column="29" />
         <mark key="." line="31" column="29" />
         <mark key="^" line="31" column="29" />
+      </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/DealApplyData.kt" timestamp="1522807666993">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1523842168022">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/play/PlayVideoContract.kt" timestamp="1523174018117">
         <mark key="'" line="13" column="24" />
@@ -300,6 +325,9 @@
       <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IvwActivity.java" timestamp="1523686076367">
         <mark key="'" line="39" column="57" />
       </file>
+      <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/values/styles.xml" timestamp="1523165521333">
+        <mark key="[" line="7" column="58" />
+      </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1523343909060">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="30" column="72" />
@@ -325,6 +353,9 @@
         <mark key="." line="171" column="25" />
         <mark key="^" line="253" column="12" />
       </file>
+      <file name="/fragment.java" timestamp="1523951597426">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyWakeupAndRecognizer.java" timestamp="1523685914015">
         <mark key="'" line="28" column="60" />
         <mark key="[" line="61" column="5" />
@@ -332,10 +363,11 @@
         <mark key="^" line="97" column="21" />
         <mark key="." line="107" column="0" />
       </file>
+      <file name="E:/XueZhiYou_Projects/PenManager/app/src/main/java/com/stan/penmanager/UsbCommunicationManager.java" timestamp="1523952442008">
+        <mark key="'" line="53" column="21" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
-      <jump line="246" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="250" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="282" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="280" column="4" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
@@ -434,13 +466,15 @@
       <jump line="74" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/course/CourseActivity.kt" />
       <jump line="0" column="0" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/course/CourseActivity.kt" />
       <jump line="1" column="0" filename="E:/XueZhiYou_Projects/PenManager/app/build.gradle" />
+      <jump line="67" column="13" filename="E:/XueZhiYou_Projects/PenManager/app/src/main/java/com/stan/penmanager/UsbCommunicationManager.java" />
+      <jump line="53" column="21" filename="E:/XueZhiYou_Projects/PenManager/app/src/main/java/com/stan/penmanager/UsbCommunicationManager.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>showData</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIGZsYXREaXIgewogICAgICAgIGRpcnMgJ2xpYnMnCiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name="b" type="4">
         <text>getData</text>
@@ -757,7 +791,7 @@
         <text>Data1</text>
       </register>
       <register name="/" type="4">
-        <text>getAny</text>
+        <text>^$</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -853,46 +887,46 @@
         <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIGZsYXREaXIgewogICAgICAgIGRpcnMgJ2xpYnMnCiAgICB9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzaG93Tm90aGluZygpIHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBnZXREYXRhKCkgewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFpbkFjdGl2aXR5LmxvZ1RleHRWaWV3LmFwcGVuZChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKS8xMDAwICsgIiBSZWNlaXZlZCBVc2IgZGV2aWNlIHZpYSBpbnRlbnRcbiIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gZ2V0RGF0YSgpCg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzaG93Tm90aGluZygpIHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0KfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gc2hvd0RhdGEoKQo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBnZXREYXRhKCkgewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzaG93Tm90aGluZygpIHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmdW4gZ2V0RGF0YSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBnZXROb3RoaW5nKCkgewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmdW4gc2hvd0RhdGEoKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzaG93RGF0YSgpIHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0K</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzaG93Tm90aGluZygpIHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBnZXREYXRhKCkgewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBnZXROb3RoaW5nKCkgewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <text>n</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzaG93RGF0YSgpIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzaG93RGF0YSgpIHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text encoding="base64">JzwsJz4vXiQvZA==</text>
       </register>
     </registers>
     <search>
-      <last-search>getAny</last-search>
+      <last-search>^$</last-search>
       <last-offset />
-      <last-pattern>getAny</last-pattern>
+      <last-pattern>^$</last-pattern>
       <last-replace>Log.e(TAG,</last-replace>
       <last-substitute>showTip(</last-substitute>
       <last-dir>1</last-dir>
@@ -900,9 +934,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
-        <entry>setParameter</entry>
-        <entry>setparameter</entry>
         <entry>speechconstant</entry>
         <entry>setparam</entry>
         <entry encoding="base64">XDxtVHJhbnNsYXRlRW5hYmxlXD4=</entry>
@@ -920,15 +951,11 @@
         <entry>onBack</entry>
         <entry encoding="base64">XDxtQXNyXD4=</entry>
         <entry>getAny</entry>
+        <entry>current</entry>
+        <entry>MainActivity.logTextView</entry>
+        <entry>^$</entry>
       </history-search>
       <history-cmd>
-        <entry>set sua?</entry>
-        <entry>set suffixesadd?</entry>
-        <entry>e LoginActivity.kt</entry>
-        <entry>e LoginPresenter.kt</entry>
-        <entry>88,95s/setParameter/\=@0/g</entry>
-        <entry>reg a</entry>
-        <entry>88,95s/setParameter/\=@a/g</entry>
         <entry>88,95s/setParameter/@a/g</entry>
         <entry>88,95s/setparameter/setParam/gi</entry>
         <entry>88,94s/speechconstant/com.iflytek.cloud.SpeechConstant/gi</entry>
@@ -942,6 +969,13 @@
         <entry>44</entry>
         <entry>56,91s/showTip(/Log.e(TAG,/g</entry>
         <entry>reg</entry>
+        <entry>g/MainActivity.logTextView.*/d</entry>
+        <entry>g/MainActivity.logTextView.*+/d</entry>
+        <entry>g/^MainActivity.logTextView.*/d</entry>
+        <entry>g/^\s*$/d</entry>
+        <entry>g/^\s*$/normal dd</entry>
+        <entry>g/^$/d</entry>
+        <entry encoding="base64">JzwsJz4vXiQvZA==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
