@@ -333,6 +333,7 @@
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/values/styles.xml" timestamp="1523165521333">
         <mark key="[" line="7" column="58" />
       </file>
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523957497080" />
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1523343909060">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="30" column="72" />
@@ -922,7 +923,7 @@
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzaG93RGF0YSgpIHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
@@ -958,14 +959,6 @@
         <entry>^$</entry>
       </history-search>
       <history-cmd>
-        <entry>88,94s/speechconstant/com.iflytek.cloud.SpeechConstant/gi</entry>
-        <entry>setpara</entry>
-        <entry>70</entry>
-        <entry>`at274&quot;ay</entry>
-        <entry>56,66s/showTip(/Log.i(TAG,/g</entry>
-        <entry>set ignorecase</entry>
-        <entry>50,52s/showTip(/Log.i(Tag,/g</entry>
-        <entry>50,52s/Tag/TAG/g</entry>
         <entry>44</entry>
         <entry>56,91s/showTip(/Log.e(TAG,/g</entry>
         <entry>reg</entry>
@@ -977,7 +970,15 @@
         <entry>g/^$/d</entry>
         <entry encoding="base64">JzwsJz4vXiQvZA==</entry>
         <entry>g/MainActivity.logTextView/d</entry>
+        <entry>Find Action...</entry>
+        <entry>Find Action</entry>
         <entry>action Find</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoClass</entry>
+        <entry>action Back</entry>
+        <entry>action Forward</entry>
+        <entry>action VimVisualToggleBlockMode</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
