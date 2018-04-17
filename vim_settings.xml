@@ -296,6 +296,12 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="38" column="3" />
       </file>
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/build.gradle" timestamp="1523955780888">
+        <mark key="[" line="34" column="54" />
+        <mark key="]" line="34" column="56" />
+        <mark key="^" line="34" column="56" />
+        <mark key="." line="34" column="56" />
+      </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/util/Utils.java" timestamp="1523697553681">
         <mark key="[" line="77" column="46" />
         <mark key="]" line="77" column="45" />
@@ -471,8 +477,8 @@
       <register name="a" type="4">
         <text>showData</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICB9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>E/PhoneInterfaceManagerEx: [PhoneIntfMgrEx] isSharedDefaultApn: MainPhoneId and dataPhoneId aren't the same</text>
       </register>
       <register name="b" type="4">
         <text>getData</text>
