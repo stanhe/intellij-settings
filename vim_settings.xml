@@ -109,6 +109,12 @@
       <file name="D:/Projects/Android/Dagger_Android/app/src/main/java/com/stan/dagger_android/base/BaseFragment.kt" timestamp="1522721329645">
         <mark key="[" line="16" column="32" />
       </file>
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/res/values/strings.xml" timestamp="1523959311196">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="34" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="3" />
+      </file>
       <file name="E:/Demo/D0409/app/src/main/java/com/stan/d0409/ThirdActivity.java" timestamp="1523254861248">
         <mark key="'" line="6" column="26" />
         <mark key="[" line="6" column="28" />
@@ -482,7 +488,7 @@
         <text>showData</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5ad02445</text>
       </register>
       <register name="b" type="4">
         <text>getData</text>
@@ -796,7 +802,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5ad02445</text>
       </register>
       <register name="/" type="4">
         <text>^$</text>
@@ -892,7 +898,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIGZsYXREaXIgewogICAgICAgIGRpcnMgJ2xpYnMnCiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX2lkIj41YWQwMjQ0NTwvc3RyaW5nPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9CiAgICB9Cgo=</text>
