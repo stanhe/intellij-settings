@@ -922,7 +922,7 @@
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzaG93RGF0YSgpIHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz4vXiQvZA==</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -958,7 +958,6 @@
         <entry>^$</entry>
       </history-search>
       <history-cmd>
-        <entry>88,95s/setparameter/setParam/gi</entry>
         <entry>88,94s/speechconstant/com.iflytek.cloud.SpeechConstant/gi</entry>
         <entry>setpara</entry>
         <entry>70</entry>
@@ -978,6 +977,7 @@
         <entry>g/^$/d</entry>
         <entry encoding="base64">JzwsJz4vXiQvZA==</entry>
         <entry>g/MainActivity.logTextView/d</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
