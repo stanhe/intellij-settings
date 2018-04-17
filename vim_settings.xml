@@ -363,9 +363,7 @@
         <mark key="^" line="97" column="21" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="E:/XueZhiYou_Projects/PenManager/app/src/main/java/com/stan/penmanager/UsbCommunicationManager.java" timestamp="1523952442008">
-        <mark key="'" line="53" column="21" />
-      </file>
+      <file name="E:/XueZhiYou_Projects/PenManager/app/src/main/java/com/stan/penmanager/UsbCommunicationManager.java" timestamp="1523953984725" />
     </filemarks>
     <jumps>
       <jump line="250" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
@@ -956,7 +954,6 @@
         <entry>^$</entry>
       </history-search>
       <history-cmd>
-        <entry>88,95s/setParameter/@a/g</entry>
         <entry>88,95s/setparameter/setParam/gi</entry>
         <entry>88,94s/speechconstant/com.iflytek.cloud.SpeechConstant/gi</entry>
         <entry>setpara</entry>
@@ -976,6 +973,7 @@
         <entry>g/^\s*$/normal dd</entry>
         <entry>g/^$/d</entry>
         <entry encoding="base64">JzwsJz4vXiQvZA==</entry>
+        <entry>g/MainActivity.logTextView/d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
