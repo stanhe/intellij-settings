@@ -935,7 +935,7 @@
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzaG93RGF0YSgpIHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
@@ -945,7 +945,7 @@
       <last-replace>Log.e(TAG,</last-replace>
       <last-substitute>showTip(</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -971,16 +971,11 @@
         <entry>nls</entry>
       </history-search>
       <history-cmd>
-        <entry>g/^\s*$/d</entry>
-        <entry>g/^\s*$/normal dd</entry>
-        <entry>g/^$/d</entry>
-        <entry encoding="base64">JzwsJz4vXiQvZA==</entry>
         <entry>g/MainActivity.logTextView/d</entry>
         <entry>Find Action...</entry>
         <entry>Find Action</entry>
         <entry>action GotoClass</entry>
         <entry>action VimVisualToggleBlockMode</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoSuperMethod</entry>
@@ -989,8 +984,13 @@
         <entry>action Find</entry>
         <entry>action AceAction</entry>
         <entry>action AceTargetAction</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoName</entry>
+        <entry>action GotoAction</entry>
+        <entry>Goto by name actions</entry>
+        <entry>Goto by Name Actions</entry>
+        <entry>action GotoFiles</entry>
+        <entry>action GotoFile</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
