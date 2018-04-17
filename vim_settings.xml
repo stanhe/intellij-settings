@@ -935,7 +935,7 @@
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzaG93RGF0YSgpIHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
     <search>
@@ -974,7 +974,6 @@
         <entry>g/MainActivity.logTextView/d</entry>
         <entry>Find Action...</entry>
         <entry>Find Action</entry>
-        <entry>action GotoClass</entry>
         <entry>action VimVisualToggleBlockMode</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
@@ -985,12 +984,13 @@
         <entry>action AceAction</entry>
         <entry>action AceTargetAction</entry>
         <entry>action GotoName</entry>
-        <entry>action GotoAction</entry>
         <entry>Goto by name actions</entry>
         <entry>Goto by Name Actions</entry>
         <entry>action GotoFiles</entry>
-        <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
