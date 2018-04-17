@@ -181,11 +181,11 @@
       <file name="vim_settings.xml" timestamp="1523152526892">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/AndroidManifest.xml" timestamp="1523689374488">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="39" column="104" />
-        <mark key="." line="10" column="0" />
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/AndroidManifest.xml" timestamp="1523960152684">
+        <mark key="[" line="9" column="75" />
+        <mark key="]" line="10" column="76" />
+        <mark key="^" line="10" column="76" />
+        <mark key="." line="10" column="76" />
       </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/util/Const.java" timestamp="1523958721821">
         <mark key="'" line="61" column="30" />
@@ -339,11 +339,12 @@
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/values/styles.xml" timestamp="1523165521333">
         <mark key="[" line="7" column="58" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523958751986">
-        <mark key="[" line="59" column="11" />
-        <mark key="]" line="59" column="17" />
-        <mark key="." line="59" column="17" />
-        <mark key="^" line="59" column="17" />
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523960241877">
+        <mark key="'" line="32" column="51" />
+        <mark key="[" line="296" column="36" />
+        <mark key="]" line="296" column="52" />
+        <mark key="." line="296" column="52" />
+        <mark key="^" line="296" column="52" />
       </file>
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherApplication.java" timestamp="1523343909060">
         <mark key="'" line="56" column="0" />
@@ -382,7 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="282" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="280" column="4" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="81" column="4" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/WebViewActivity.java" />
@@ -482,13 +482,14 @@
       <jump line="1" column="0" filename="E:/XueZhiYou_Projects/PenManager/app/build.gradle" />
       <jump line="67" column="13" filename="E:/XueZhiYou_Projects/PenManager/app/src/main/java/com/stan/penmanager/UsbCommunicationManager.java" />
       <jump line="53" column="21" filename="E:/XueZhiYou_Projects/PenManager/app/src/main/java/com/stan/penmanager/UsbCommunicationManager.java" />
+      <jump line="32" column="51" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>showData</text>
       </register>
       <register name="&quot;" type="4">
-        <text>5ad02445</text>
+        <text>AudioALSAPlaybackHandlerBase: openPcmDriver(), pcm_start(0xeff470e0) fail due to cannot start channel: Broken pipe</text>
       </register>
       <register name="b" type="4">
         <text>getData</text>
@@ -802,7 +803,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5ad02445</text>
+        <text>ACCESS_FINE_LOCATION</text>
       </register>
       <register name="/" type="4">
         <text>^$</text>
@@ -898,7 +899,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX2lkIj41YWQwMjQ0NTwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9CiAgICB9Cgo=</text>
@@ -934,7 +935,7 @@
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzaG93RGF0YSgpIHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -970,7 +971,6 @@
         <entry>^$</entry>
       </history-search>
       <history-cmd>
-        <entry>g/^MainActivity.logTextView.*/d</entry>
         <entry>g/^\s*$/d</entry>
         <entry>g/^\s*$/normal dd</entry>
         <entry>g/^$/d</entry>
@@ -978,7 +978,6 @@
         <entry>g/MainActivity.logTextView/d</entry>
         <entry>Find Action...</entry>
         <entry>Find Action</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoClass</entry>
         <entry>action VimVisualToggleBlockMode</entry>
         <entry>action FileStructurePopup</entry>
@@ -990,6 +989,8 @@
         <entry>action Find</entry>
         <entry>action AceAction</entry>
         <entry>action AceTargetAction</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoName</entry>
       </history-cmd>
       <history-expr />
       <history-input />
