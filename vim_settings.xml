@@ -339,9 +339,9 @@
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/values/styles.xml" timestamp="1523165521333">
         <mark key="[" line="7" column="58" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523960241877">
-        <mark key="'" line="32" column="51" />
-        <mark key="[" line="296" column="36" />
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1523960731791">
+        <mark key="'" line="45" column="19" />
+        <mark key="[" line="48" column="10" />
         <mark key="]" line="296" column="52" />
         <mark key="." line="296" column="52" />
         <mark key="^" line="296" column="52" />
@@ -383,10 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="282" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
-      <jump line="280" column="4" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
-      <jump line="81" column="4" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/WebViewActivity.java" />
-      <jump line="69" column="17" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/WebViewActivity.java" />
       <jump line="65" column="25" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="103" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="264" column="32" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
@@ -483,6 +479,10 @@
       <jump line="67" column="13" filename="E:/XueZhiYou_Projects/PenManager/app/src/main/java/com/stan/penmanager/UsbCommunicationManager.java" />
       <jump line="53" column="21" filename="E:/XueZhiYou_Projects/PenManager/app/src/main/java/com/stan/penmanager/UsbCommunicationManager.java" />
       <jump line="32" column="51" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="37" column="23" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="47" column="19" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="46" column="14" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="45" column="19" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -806,7 +806,7 @@
         <text>ACCESS_FINE_LOCATION</text>
       </register>
       <register name="/" type="4">
-        <text>^$</text>
+        <text>nls</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -939,18 +939,16 @@
       </register>
     </registers>
     <search>
-      <last-search>^$</last-search>
+      <last-search>nls</last-search>
       <last-offset />
-      <last-pattern>^$</last-pattern>
+      <last-pattern>nls</last-pattern>
       <last-replace>Log.e(TAG,</last-replace>
       <last-substitute>showTip(</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>speechconstant</entry>
-        <entry>setparam</entry>
         <entry encoding="base64">XDxtVHJhbnNsYXRlRW5hYmxlXD4=</entry>
         <entry>myresulttext</entry>
         <entry>myresult</entry>
@@ -969,6 +967,8 @@
         <entry>current</entry>
         <entry>MainActivity.logTextView</entry>
         <entry>^$</entry>
+        <entry>oncreate</entry>
+        <entry>nls</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\s*$/d</entry>
