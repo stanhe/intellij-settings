@@ -6,5 +6,6 @@
   <action id="ImportProject" />
   <action id="Android.AnalyzeApk" />
   <action id="EditLibraryAndDependencies" />
+  <action id="Android.SyncProject" />
   <action id="Exit" />
 </list>
