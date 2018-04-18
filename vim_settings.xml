@@ -65,12 +65,12 @@
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/adapter/MediaAdapter.java" timestamp="1523847885441">
         <mark key="[" line="22" column="23" />
       </file>
-      <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" timestamp="1524018459662">
-        <mark key="'" line="55" column="4" />
-        <mark key="[" line="55" column="5" />
-        <mark key="]" line="56" column="3" />
-        <mark key="^" line="56" column="3" />
-        <mark key="." line="56" column="3" />
+      <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" timestamp="1524019323247">
+        <mark key="'" line="27" column="72" />
+        <mark key="[" line="112" column="53" />
+        <mark key="]" line="112" column="89" />
+        <mark key="^" line="108" column="88" />
+        <mark key="." line="112" column="53" />
       </file>
       <file name="F:/360Downloads/Desktop_0328/app/src/main/AndroidManifest.xml" timestamp="1524018095516">
         <mark key="[" line="14" column="0" />
@@ -367,10 +367,10 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="29" column="0" />
       </file>
-      <file name="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" timestamp="1524018452418">
-        <mark key="'" line="33" column="58" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="136" column="5" />
+      <file name="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" timestamp="1524019199063">
+        <mark key="'" line="25" column="31" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="193" column="4" />
         <mark key="." line="66" column="0" />
         <mark key="^" line="80" column="52" />
       </file>
@@ -398,9 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="297" column="32" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
-      <jump line="138" column="27" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
-      <jump line="405" column="27" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="44" column="57" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IvwActivity.java" />
       <jump line="57" column="0" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/OneShotDemo.java" />
       <jump line="106" column="0" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyWakeupAndRecognizer.java" />
@@ -494,17 +491,20 @@
       <jump line="9" column="14" filename="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" />
       <jump line="8" column="19" filename="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" />
       <jump line="289" column="48" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
-      <jump line="27" column="4" filename="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" />
       <jump line="34" column="4" filename="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" />
       <jump line="54" column="0" filename="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" />
-      <jump line="53" column="4" filename="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" />
+      <jump line="53" column="3" filename="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" />
+      <jump line="25" column="31" filename="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" />
+      <jump line="19" column="4" filename="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" />
+      <jump line="105" column="4" filename="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" />
+      <jump line="27" column="72" filename="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>showData</text>
+        <text>SCREEN_ORIENTATION_REVERSE_LANDSCAPE</text>
       </register>
       <register name="&quot;" type="4">
-        <text>wra</text>
+        <text>SCREEN_ORIENTATION_REVERSE_PORTRAIT</text>
       </register>
       <register name="b" type="4">
         <text>getData</text>
@@ -818,7 +818,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>wra</text>
+        <text>SCREEN_ORIENTATION_REVERSE_PORTRAIT</text>
       </register>
       <register name="/" type="4">
         <text>oncre</text>
@@ -913,8 +913,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldHRpbmdzKFZpZXcgdmlldykgewogICAgICAgIHN0YXJ0QWN0aXZpdHkoImNvbS5hbmRyb2lkLnNldHRpbmdzIik7CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>SCREEN_ORIENTATION_LANDSCAPE</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICA8SW1hZ2VWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIg</text>
