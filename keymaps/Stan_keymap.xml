@@ -66,7 +66,7 @@
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
-    <keyboard-shortcut first-keystroke="ctrl alt f" />
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
@@ -107,7 +107,14 @@
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
   <action id="ReformatCode" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="Replace" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
   <action id="ScrollTreeToCenter" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
