@@ -140,6 +140,12 @@
         <mark key="." line="26" column="2" />
         <mark key="^" line="26" column="2" />
       </file>
+      <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/res/layout/activity_main.xml" timestamp="1524017764536">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+      </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/home/MainActivity.kt" timestamp="1523178934943">
         <mark key="'" line="252" column="19" />
         <mark key="[" line="53" column="4" />
@@ -477,8 +483,8 @@
       <register name="a" type="4">
         <text>showData</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJIZWxsbyBXb3JsZCEiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50UmlnaHRfdG9SaWdodE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIgLz4K</text>
       </register>
       <register name="b" type="4">
         <text>getData</text>
@@ -891,37 +897,37 @@
         <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9QSE9ORV9TVEFURSIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQ0FQVFVSRV9BVURJT19PVVRQVVQiLz4K</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJIZWxsbyBXb3JsZCEiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50UmlnaHRfdG9SaWdodE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uQ0FQVFVSRV9BVURJT19PVVRQVVQsCg==</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQ0FQVFVSRV9BVURJT19PVVRQVVQiLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uQ0FQVFVSRV9BVURJT19PVVRQVVQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uUkVDT1JEX0FVRElPLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uUkVDT1JEX0FVRElPLAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uUkVBRF9QSE9ORV9TVEFURQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1haW5BY3Rpdml0eS50aGlzLmZpbmlzaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uUkVBRF9QSE9ORV9TVEFURQo=</text>
       </register>
       <register name="x" type="4">
         <text>n</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KHRoaXMsICIiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1haW5BY3Rpdml0eS50aGlzLmZpbmlzaCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoClass</text>
