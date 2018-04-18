@@ -28,7 +28,8 @@
         <mark key="^" line="78" column="31" />
         <mark key="." line="78" column="31" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/BaseActivity.java" timestamp="1523958714301">
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/BaseActivity.java" timestamp="1524011250393">
+        <mark key="'" line="15" column="18" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="8" />
         <mark key="." line="17" column="8" />
@@ -70,24 +71,12 @@
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" timestamp="1523930308909">
         <mark key="'" line="143" column="20" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/video/VideoActivity.kt" timestamp="1523929643418">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyWakeup.java" timestamp="1523687820088">
         <mark key="'" line="78" column="42" />
         <mark key="[" line="84" column="4" />
         <mark key="]" line="84" column="9" />
         <mark key="^" line="84" column="9" />
         <mark key="." line="84" column="9" />
-      </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/video/VideoContract.kt" timestamp="1523929636909">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/res/layout/dialog_loading.xml" timestamp="1523149161355">
         <mark key="'" line="9" column="31" />
@@ -313,12 +302,6 @@
         <mark key="." line="77" column="45" />
         <mark key="^" line="77" column="45" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/video/VideoPresenter.kt" timestamp="1523929628806">
-        <mark key="'" line="42" column="6" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
       <file name="E:/Test/D0411/app/src/main/java/com/stan/d0411/MainActivity.java" timestamp="1523428542780">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="23" column="34" />
@@ -383,8 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="25" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
-      <jump line="103" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="264" column="32" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="102" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="114" column="4" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
@@ -483,6 +464,8 @@
       <jump line="47" column="19" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="46" column="14" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="45" column="19" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
+      <jump line="14" column="47" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/BaseActivity.java" />
+      <jump line="15" column="18" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/BaseActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -935,7 +918,7 @@
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzaG93RGF0YSgpIHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoClass</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
@@ -978,8 +961,6 @@
         <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>action AceAction</entry>
         <entry>action AceTargetAction</entry>
@@ -987,10 +968,12 @@
         <entry>Goto by name actions</entry>
         <entry>Goto by Name Actions</entry>
         <entry>action GotoFiles</entry>
-        <entry>action FileStructurePopup</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoAction</entry>
+        <entry>action GotoFile</entry>
         <entry>action GotoClass</entry>
+        <entry>action Forward</entry>
+        <entry>action Back</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
