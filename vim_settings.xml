@@ -55,9 +55,6 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="14" column="21" />
       </file>
-      <file name="E:/XueZhiYou_Projects/guoxue_launcher/.gitignore" timestamp="1524036920126">
-        <mark key="[" line="9" column="0" />
-      </file>
       <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" timestamp="1524039076377">
         <mark key="'" line="42" column="50" />
         <mark key="[" line="143" column="64" />
@@ -122,7 +119,7 @@
         <mark key="]" line="169" column="0" />
         <mark key="." line="169" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/innerupdatelib/src/main/java/com/stan/innerupdatelib/InnerUpdate.java" timestamp="1524041274155">
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/innerupdatelib/src/main/java/com/stan/innerupdatelib/InnerUpdate.java" timestamp="1524042166206">
         <mark key="[" line="202" column="20" />
         <mark key="]" line="201" column="20" />
         <mark key="." line="201" column="20" />
@@ -192,10 +189,14 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/innerupdatelib/src/main/java/com/stan/innerupdatelib/FileHelper.java" timestamp="1524042202712">
+        <mark key="[" line="45" column="15" />
+      </file>
       <file name="E:/Test/USBCommunication2/app/build.gradle" timestamp="1523950245098">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/innerupdatelib/src/main/java/com/stan/innerupdatelib/AppUtils.java" timestamp="1524042150046" />
       <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/res/layout/activity_main.xml" timestamp="1524036484005">
         <mark key="'" line="21" column="31" />
         <mark key="[" line="47" column="0" />
