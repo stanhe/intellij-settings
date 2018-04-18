@@ -107,7 +107,6 @@
         <mark key="^" line="87" column="27" />
         <mark key="." line="87" column="27" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyWakeup.java" timestamp="1524045308781" />
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainContract.kt" timestamp="1523930141723">
         <mark key="[" line="17" column="12" />
         <mark key="]" line="17" column="14" />
@@ -137,11 +136,11 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="33" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/build.gradle" timestamp="1524046241407">
-        <mark key="[" line="5" column="48" />
-        <mark key="]" line="5" column="47" />
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/build.gradle" timestamp="1524047483815">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="^" line="5" column="47" />
-        <mark key="." line="5" column="47" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/proguard-rules.pro" timestamp="1524037851009">
         <mark key="'" line="22" column="0" />
@@ -185,7 +184,6 @@
         <mark key="." line="24" column="55" />
         <mark key="^" line="24" column="55" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1524044179014" />
       <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/AndroidManifest.xml" timestamp="1524037417031">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="18" column="74" />
@@ -335,8 +333,8 @@
       <register name="a" type="4">
         <text>SCREEN_ORIENTATION_REVERSE_LANDSCAPE</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>5ad02445</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2hyaW5rUmVzb3VyY2VzIHRydWUK</text>
       </register>
       <register name="b" type="4">
         <text>getData</text>
@@ -755,31 +753,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc2hyaW5rUmVzb3VyY2VzIHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hyaW5rUmVzb3VyY2VzIHRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgdmVyc2lvbk5hbWU7CiAgICBwdWJsaWMgaW50IHZlcnNpb25Db2RlOwogICAgcHVibGljIFN0cmluZyBkb3dubG9hZExpbms7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgdmVyc2lvbk5hbWU7CiAgICBwdWJsaWMgaW50IHZlcnNpb25Db2RlOwogICAgcHVibGljIFN0cmluZyBkb3dubG9hZExpbms7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW5uZXJVcGRhdGUuSU5TVEFOQ0UucHJlcGFyZSh0aGlzLmdldEFwcGxpY2F0aW9uKCksICgpLmdldEFic29sdXRlUGF0aCgpKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgdmVyc2lvbk5hbWU7CiAgICBwdWJsaWMgaW50IHZlcnNpb25Db2RlOwogICAgcHVibGljIFN0cmluZyBkb3dubG9hZExpbms7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0V2luZG93KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW5uZXJVcGRhdGUuSU5TVEFOQ0UucHJlcGFyZSh0aGlzLmdldEFwcGxpY2F0aW9uKCksICgpLmdldEFic29sdXRlUGF0aCgpKTsK</text>
       </register>
       <register name="x" type="4">
         <text>n</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvUmlnaHRPZj0iQGlkL2lkX2kyIgo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0V2luZG93KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
