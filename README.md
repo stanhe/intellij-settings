@@ -21,6 +21,7 @@ C+M+9|Vim Emulator
 M+1|go to project
 M+s|go to file in project/jump to source
 M+d|logcat
+M+f|find action
 M+t|terminal
 M+i|show intention action
 M+n|jump to navigation bar
@@ -33,7 +34,7 @@ C+h|left
 C+l|right
 C+p|up
 --------------------|--------------------
-C+M+f|find action
+C+M+f|show in explorer
 C+M+n|goto by name action
 C+M+m|choose loopup item/complete current statement
 C+M+h|select pre tab
