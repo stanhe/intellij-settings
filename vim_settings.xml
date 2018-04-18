@@ -130,11 +130,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/res/values/strings.xml" timestamp="1523959311196">
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/res/values/strings.xml" timestamp="1524043456925">
         <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="12" column="26" />
-        <mark key="^" line="12" column="3" />
+        <mark key="^" line="12" column="25" />
       </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/build.gradle" timestamp="1523955780888">
         <mark key="[" line="34" column="54" />
@@ -335,7 +333,7 @@
         <text>SCREEN_ORIENTATION_REVERSE_LANDSCAPE</text>
       </register>
       <register name="&quot;" type="4">
-        <text>downloadVerionName</text>
+        <text>w</text>
       </register>
       <register name="b" type="4">
         <text>getData</text>
@@ -649,7 +647,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>downloadVerionName</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>130</text>
