@@ -5,9 +5,6 @@
       <mark key="S" line="21" column="20" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/course/CourseActivity.kt" timestamp="1523933927203">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/account/LoginActivity.kt" timestamp="1523589393030">
         <mark key="'" line="69" column="34" />
         <mark key="[" line="53" column="0" />
@@ -28,7 +25,9 @@
         <mark key="^" line="78" column="31" />
         <mark key="." line="78" column="31" />
       </file>
-      <file name="E:/XueZhiYou_Projects/guoxue_launcher/innerupdatelib/build.gradle" timestamp="1524029666154">
+      <file name="E:/XueZhiYou_Projects/guoxue_launcher/innerupdatelib/build.gradle" timestamp="1524029817499">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="51" />
         <mark key="^" line="49" column="6" />
       </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/BaseActivity.java" timestamp="1524011250393">
@@ -64,19 +63,16 @@
         <mark key="^" line="18" column="41" />
         <mark key="." line="18" column="41" />
       </file>
-      <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" timestamp="1524023028878">
-        <mark key="'" line="122" column="37" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="119" column="60" />
-        <mark key="." line="28" column="0" />
+      <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" timestamp="1524030097181">
+        <mark key="'" line="123" column="37" />
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="32" column="22" />
+        <mark key="^" line="32" column="22" />
+        <mark key="." line="32" column="22" />
       </file>
       <file name="F:/360Downloads/Desktop_0328/app/src/main/AndroidManifest.xml" timestamp="1524018095516">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="74" />
-      </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainPresenter.kt" timestamp="1523930308909">
-        <mark key="'" line="143" column="20" />
       </file>
       <file name="F:/360Downloads/Desktop_0328/app/build.gradle" timestamp="1524023232338">
         <mark key="[" line="24" column="0" />
@@ -95,9 +91,6 @@
         <mark key="]" line="11" column="40" />
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
-      </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/libs/Msc.jar!/com/iflytek/cloud/SpeechConstant.class" timestamp="1523849447176">
-        <mark key="'" line="7" column="13" />
       </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/adapter/SimpleRecycleAdater.kt" timestamp="1522825234495">
         <mark key="'" line="17" column="23" />
@@ -119,11 +112,17 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
+      <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/proguard-rules.pro" timestamp="1524029986108">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="14" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1524022326521" />
       <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/settings.gradle" timestamp="1524020107508">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="0" column="55" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/build.gradle" timestamp="1524029807431" />
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/play/PlayVideoPresenter.kt" timestamp="1523588060780">
         <mark key="'" line="21" column="58" />
         <mark key="[" line="55" column="0" />
@@ -172,9 +171,6 @@
         <mark key="^" line="43" column="12" />
         <mark key="." line="43" column="12" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/zone/ZonePresenter.kt" timestamp="1523933531231">
-        <mark key="'" line="13" column="0" />
-      </file>
       <file name="E:/XueZhiYou_Projects/Box_launcher/app/src/main/java/com/stan/dagger_android/service/BluetoothService.kt" timestamp="1523233310392">
         <mark key="'" line="62" column="8" />
         <mark key="[" line="27" column="8" />
@@ -182,19 +178,16 @@
         <mark key="." line="27" column="15" />
         <mark key="^" line="27" column="15" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/di/ActivityBindingModule.kt" timestamp="1523931083958">
-        <mark key="'" line="28" column="15" />
-      </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/AndroidManifest.xml" timestamp="1524017934784">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="66" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="12" column="66" />
       </file>
-      <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/build.gradle" timestamp="1524023235422">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="30" column="65" />
-        <mark key="." line="24" column="0" />
+      <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/build.gradle" timestamp="1524029823798">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="41" column="52" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/res/values/styles.xml" timestamp="1524017806682">
         <mark key="[" line="5" column="0" />
@@ -206,12 +199,6 @@
         <mark key="]" line="36" column="49" />
         <mark key="." line="36" column="49" />
         <mark key="^" line="36" column="48" />
-      </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/course/CoursePresenter.kt" timestamp="1523933918416">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/MainActivity.java" timestamp="1524012824142">
-        <mark key="'" line="57" column="46" />
       </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/res/layout/activity_main.xml" timestamp="1523676269185">
         <mark key="[" line="118" column="28" />
@@ -278,11 +265,9 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/zone/ZoneActivity.kt" timestamp="1523933537197">
-        <mark key="'" line="15" column="0" />
-      </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainActivity.kt" timestamp="1523930212118">
-        <mark key="'" line="23" column="0" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/proguard-rules.pro" timestamp="1524029975739">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="54" column="14" />
       </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/data/HomeDetailData.kt" timestamp="1522804994695">
         <mark key="'" line="9" column="12" />
@@ -344,9 +329,6 @@
         <mark key="]" line="52" column="52" />
         <mark key="." line="52" column="0" />
         <mark key="^" line="47" column="32" />
-      </file>
-      <file name="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/IvwActivity.java" timestamp="1523686076367">
-        <mark key="'" line="39" column="57" />
       </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" timestamp="1524017971128">
         <mark key="'" line="289" column="48" />
@@ -506,7 +488,7 @@
         <text>SCREEN_ORIENTATION_REVERSE_LANDSCAPE</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWR0ZXN0aW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjMuMC4xJwo=</text>
+        <text encoding="base64">I7r2wtS+r7jmCi1pZ25vcmV3YXJuaW5nCg==</text>
       </register>
       <register name="b" type="4">
         <text>getData</text>
@@ -916,7 +898,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CmRlZiBwcm9wcyA9IG5ldyBQcm9wZXJ0aWVzKCkKcHJvcHMubG9hZChuZXcgRmlsZUlucHV0U3RyZWFtKHJvb3RQcm9qZWN0LmZpbGUoImtleXN0b3JlLnByb3BlcnRpZXMiKSkpCmFuZHJvaWQuc2lnbmluZ0NvbmZpZ3MucmVsZWFzZS5zdG9yZUZpbGUgcm9vdFByb2plY3QuZmlsZShwcm9wcy5rZXlTdG9yZSkKYW5kcm9pZC5zaWduaW5nQ29uZmlncy5yZWxlYXNlLnN0b3JlUGFzc3dvcmQgcHJvcHMua2V5U3RvcmVQYXNzd29yZAphbmRyb2lkLnNpZ25pbmdDb25maWdzLnJlbGVhc2Uua2V5QWxpYXMgcHJvcHMua2V5QWxpYXMKYW5kcm9pZC5zaWduaW5nQ29uZmlncy5yZWxlYXNlLmtleVBhc3N3b3JkIHByb3BzLmtleUFsaWFzUGFzc3dvcmQK</text>
+        <text encoding="base64">I7r2wtS+r7jmCi1pZ25vcmV3YXJuaW5nCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFuZHJvaWR0ZXN0aW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjMuMC4xJwo=</text>
@@ -953,7 +935,7 @@ implementation</text>
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action VimVisualToggleBlockMode</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1007,8 +989,8 @@ implementation</text>
         <entry>action GotoImplementation</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoClass</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimVisualToggleBlockMode</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
