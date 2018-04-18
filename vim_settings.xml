@@ -65,7 +65,13 @@
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/adapter/MediaAdapter.java" timestamp="1523847885441">
         <mark key="[" line="22" column="23" />
       </file>
-      <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" timestamp="1524015536566" />
+      <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" timestamp="1524016864871">
+        <mark key="'" line="8" column="19" />
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/util/ActivityUtils.kt" timestamp="1523328760094">
         <mark key="[" line="32" column="30" />
       </file>
@@ -366,9 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="32" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
-      <jump line="102" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
-      <jump line="114" column="4" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="237" column="21" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
       <jump line="67" column="19" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/WebViewActivity.java" />
       <jump line="108" column="24" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/MainActivity.java" />
@@ -466,13 +469,16 @@
       <jump line="14" column="47" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/BaseActivity.java" />
       <jump line="15" column="18" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/view/BaseActivity.java" />
       <jump line="57" column="46" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/MainActivity.java" />
+      <jump line="13" column="0" filename="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" />
+      <jump line="9" column="14" filename="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" />
+      <jump line="8" column="19" filename="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>showData</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQ0FQVFVSRV9BVURJT19PVVRQVVQiLz4K</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="b" type="4">
         <text>getData</text>
@@ -786,10 +792,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>READ_PHONE_STATE</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>permission</text>
+        <text>oncre</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -918,13 +924,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KHRoaXMsICIiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
     <search>
-      <last-search>permission</last-search>
+      <last-search>oncre</last-search>
       <last-offset />
-      <last-pattern>permission</last-pattern>
+      <last-pattern>oncre</last-pattern>
       <last-replace>Log.e(TAG,</last-replace>
       <last-substitute>showTip(</last-substitute>
       <last-dir>1</last-dir>
@@ -932,7 +938,6 @@
     </search>
     <history>
       <history-search>
-        <entry>myresulttext</entry>
         <entry>myresult</entry>
         <entry encoding="base64">XDxtUmVzdWx0VGV4dFw+</entry>
         <entry>Tag</entry>
@@ -952,28 +957,29 @@
         <entry>oncreate</entry>
         <entry>nls</entry>
         <entry>permission</entry>
+        <entry>oncre</entry>
       </history-search>
       <history-cmd>
-        <entry>Goto by name actions</entry>
-        <entry>Goto by Name Actions</entry>
         <entry>action GotoFiles</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoTest</entry>
-        <entry>action GotoAction</entry>
-        <entry>action GotoClass</entry>
-        <entry>action ShowFilePath</entry>
         <entry>ShowPopupMenu</entry>
         <entry>actionlist</entry>
         <entry>action GotoMenu</entry>
-        <entry>action GotoFile</entry>
         <entry>action gotoline 12</entry>
         <entry>action GotoLine 13</entry>
         <entry>action GotoLine 2</entry>
         <entry encoding="base64">JzwsJz5PcGVuSW5Ccm93c2Vy</entry>
         <entry>action ShowInExplorer</entry>
         <entry>actin ShowPopupMenu</entry>
+        <entry>nohlsearch</entry>
+        <entry>action ShowFilePath</entry>
+        <entry>action GotoSuperMethod</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
