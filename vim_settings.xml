@@ -5,11 +5,27 @@
       <mark key="S" line="21" column="20" filename="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/AndroidManifest.xml" timestamp="1524017934784">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="66" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="12" column="66" />
+      </file>
+      <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/build.gradle" timestamp="1524033216411">
+        <mark key="[" line="43" column="44" />
+        <mark key="]" line="43" column="44" />
+        <mark key="." line="43" column="44" />
+        <mark key="^" line="42" column="45" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/course/CourseContract.kt" timestamp="1523934229530">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="12" />
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
+      </file>
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/res/values/styles.xml" timestamp="1524017806682">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="11" column="57" />
       </file>
       <file name="E:/XueZhiYou_Projects/guoxue_launcher/innerupdatelib/build.gradle" timestamp="1524030362179">
         <mark key="[" line="30" column="0" />
@@ -28,66 +44,11 @@
         <mark key="[" line="515" column="0" />
         <mark key="]" line="524" column="4" />
       </file>
-      <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" timestamp="1524033385138">
-        <mark key="'" line="31" column="43" />
-        <mark key="[" line="126" column="8" />
-        <mark key="]" line="129" column="5" />
-        <mark key="^" line="126" column="3" />
-        <mark key="." line="126" column="0" />
-      </file>
-      <file name="F:/360Downloads/Desktop_0328/app/src/main/AndroidManifest.xml" timestamp="1524018095516">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="74" />
-      </file>
-      <file name="F:/360Downloads/Desktop_0328/app/build.gradle" timestamp="1524023232338">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="30" column="64" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/innerupdatelib/src/main/java/com/stan/innerupdatelib/InnerUpdate.java" timestamp="1524032424989">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-      </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/res/values/strings.xml" timestamp="1523959311196">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="12" column="26" />
-        <mark key="^" line="12" column="3" />
-      </file>
-      <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/proguard-rules.pro" timestamp="1524031561564">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="51" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1524022326521" />
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/settings.gradle" timestamp="1524020107508">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="0" column="55" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/build.gradle" timestamp="1524029807431" />
-      <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/res/layout/activity_main.xml" timestamp="1524034175845">
-        <mark key="'" line="18" column="29" />
-        <mark key="[" line="47" column="36" />
-        <mark key="]" line="47" column="37" />
-        <mark key="^" line="64" column="36" />
-        <mark key="." line="47" column="37" />
-      </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/AndroidManifest.xml" timestamp="1524017934784">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="66" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="12" column="66" />
-      </file>
-      <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/build.gradle" timestamp="1524033216411">
-        <mark key="[" line="43" column="44" />
-        <mark key="]" line="43" column="44" />
-        <mark key="." line="43" column="44" />
-        <mark key="^" line="42" column="45" />
-      </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/res/values/styles.xml" timestamp="1524017806682">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="11" column="57" />
+      <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" timestamp="1524035820975">
+        <mark key="'" line="42" column="50" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/res/layout/activity_main.xml" timestamp="1523676269185">
         <mark key="[" line="118" column="28" />
@@ -101,6 +62,10 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="F:/360Downloads/Desktop_0328/app/src/main/AndroidManifest.xml" timestamp="1524018095516">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="74" />
+      </file>
       <file name="E:/XueZhiYou_Projects/guoxue_launcher/settings.gradle" timestamp="1524032943603">
         <mark key="[" line="0" column="32" />
         <mark key="]" line="0" column="53" />
@@ -113,6 +78,10 @@
         <mark key="." line="21" column="7" />
         <mark key="^" line="21" column="7" />
       </file>
+      <file name="F:/360Downloads/Desktop_0328/app/build.gradle" timestamp="1524023232338">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="30" column="64" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainContract.kt" timestamp="1523930141723">
         <mark key="[" line="17" column="12" />
         <mark key="]" line="17" column="14" />
@@ -123,17 +92,39 @@
         <mark key="[" line="53" column="0" />
         <mark key="]" line="54" column="14" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/innerupdatelib/src/main/java/com/stan/innerupdatelib/InnerUpdate.java" timestamp="1524032424989">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+      </file>
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/res/values/strings.xml" timestamp="1523959311196">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="26" />
+        <mark key="^" line="12" column="3" />
+      </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/build.gradle" timestamp="1523955780888">
         <mark key="[" line="34" column="54" />
         <mark key="]" line="34" column="56" />
         <mark key="^" line="34" column="56" />
         <mark key="." line="34" column="56" />
       </file>
+      <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/proguard-rules.pro" timestamp="1524031561564">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="51" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/util/Utils.java" timestamp="1523697553681">
         <mark key="[" line="77" column="46" />
         <mark key="]" line="77" column="45" />
         <mark key="." line="77" column="45" />
         <mark key="^" line="77" column="45" />
+      </file>
+      <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/StartActivity.kt" timestamp="1524022326521" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/settings.gradle" timestamp="1524020107508">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="55" />
       </file>
       <file name="E:/XueZhiYou_Projects/guoxue_launcher/passwddialoglibrary/src/main/java/com/stan/passwddialoglibrary/PasswdDialog.java" timestamp="1524033371185">
         <mark key="[" line="120" column="42" />
@@ -155,6 +146,12 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="29" column="0" />
       </file>
+      <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/res/layout/activity_main.xml" timestamp="1524035500534">
+        <mark key="[" line="68" column="14" />
+        <mark key="]" line="69" column="28" />
+        <mark key="." line="69" column="28" />
+        <mark key="^" line="69" column="28" />
+      </file>
       <file name="F:/360Downloads/Desktop_0328/app/src/main/java/com/stan/desktop_0328/MainActivity.java" timestamp="1524033322923">
         <mark key="'" line="23" column="38" />
         <mark key="[" line="91" column="0" />
@@ -174,8 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="5" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyWakeup.java" />
-      <jump line="53" column="8" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyWakeup.java" />
       <jump line="318" column="5" filename="F:/360Downloads/kedaxunfei/Android_awaken_exp1129_iat1129_tts_online1129_5ad02445/sample/mscV5PlusDemo/src/main/java/com/iflytek/mscv5plusdemo/WakeDemo.java" />
       <jump line="118" column="12" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyWakeup.java" />
       <jump line="79" column="21" filename="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/java/com/stan/d0115_launcher_0/xunfei/MyWakeup.java" />
@@ -274,13 +269,15 @@
       <jump line="31" column="43" filename="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" />
       <jump line="17" column="0" filename="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/res/layout/activity_main.xml" />
       <jump line="18" column="29" filename="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/res/layout/activity_main.xml" />
+      <jump line="43" column="7" filename="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/res/layout/activity_main.xml" />
+      <jump line="42" column="50" filename="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>SCREEN_ORIENTATION_REVERSE_LANDSCAPE</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pMyIKICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="b" type="4">
         <text>getData</text>
@@ -594,7 +591,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/i5&quot;</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpMVw+</text>
@@ -689,41 +686,41 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9IkBpZC9tYWluIgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b0VuZE9mPSJAaWQvaTQiLz4K</text>
+      <register name="0" type="4">
+        <text>gallery</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pMyIKICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkBpZC9tYWluIgo=</text>
+        <text encoding="base64">ICAgIGNsYXNzIFNjcmVlbk9yaWVudGF0aW9uTGlzdGVuZXIgZXh0ZW5kcyBPcmllbnRhdGlvbkV2ZW50TGlzdGVuZXIgewoKICAgICAgICBwdWJsaWMgU2NyZWVuT3JpZW50YXRpb25MaXN0ZW5lcihDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICAgICAgc3VwZXIoY29udGV4dCk7CiAgICAgICAgfQogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIG9uT3JpZW50YXRpb25DaGFuZ2VkKGludCBvcmllbnRhdGlvbikgewogICAgICAgICAgICBpZiAob3JpZW50YXRpb24gPT0gT3JpZW50YXRpb25FdmVudExpc3RlbmVyLk9SSUVOVEFUSU9OX1VOS05PV04pIHsKICAgICAgICAgICAgICAgIHJldHVybjsgLy8gyta7+sa9t8XKsaOsvOyy4rK7tb3T0NCntcS9x7bICiAgICAgICAgICAgIH0KICAgICAgICAgICAgLy8g1ru87LLiyse38dPQy8S49r3Htsi1xLjEseQKICAgICAgICAgICAgaWYgKG9yaWVudGF0aW9uID4gMzUwIHx8IG9yaWVudGF0aW9uIDwgMTApIHsKICAgICAgICAgICAgICAgIC8vIDC2yKO6yta7+sSsyM/K+sbB17TMrKOoaG9tZbz81NrV/c/Ct72jqQogICAgICAgICAgICAgICAgb3JpZW50YXRpb24gPSAwOwogICAgICAgICAgICAgICAgc2V0UmVxdWVzdGVkT3JpZW50YXRpb24oQWN0aXZpdHlJbmZvLlNDUkVFTl9PUklFTlRBVElPTl9MQU5EU0NBUEUpOwogICAgICAgICAgICAgICAgTG9nLmkoIm9yaWVudGF0aW9uIiwib3JpZW50YXRpb24iK29yaWVudGF0aW9uKTsKICAgICAgICAgICAgfSBlbHNlIGlmIChvcmllbnRhdGlvbiA+IDgwICYmIG9yaWVudGF0aW9uIDwgMTAwKSB7CiAgICAgICAgICAgICAgICAvLyA5MLbIo7rK1rv6y7PKsdXr0P3Xqjkwtsi64cbBo6hob21lvajU2tfzsuCjqQogICAgICAgICAgICAgICAgc2V0UmVxdWVzdGVkT3JpZW50YXRpb24oQWN0aXZpdHlJbmZvLlNDUkVFTl9PUklFTlRBVElPTl9MQU5EU0NBUEUpOwogICAgICAgICAgICAgICAgTG9nLmkoIm9yaWVudGF0aW9uIiwib3JpZW50YXRpb24iK29yaWVudGF0aW9uKTsKICAgICAgICAgICAgfSBlbHNlIGlmIChvcmllbnRhdGlvbiA+IDE3MCAmJiBvcmllbnRhdGlvbiA8IDE5MCkgewogICAgICAgICAgICAgICAgLy8gyta7+suzyrHV69D916oxODC2yMr6xsGjqGhvbWW8/NTayc+3vaOpCiAgICAgICAgICAgICAgICBvcmllbnRhdGlvbiA9IDE4MDsKICAgICAgICAgICAgICAgIHNldFJlcXVlc3RlZE9yaWVudGF0aW9uKEFjdGl2aXR5SW5mby5TQ1JFRU5fT1JJRU5UQVRJT05fUkVWRVJTRV9MQU5EU0NBUEUpOwogICAgICAgICAgICAgICAgTG9nLmkoIm9yaWVudGF0aW9uIiwib3JpZW50YXRpb24iK29yaWVudGF0aW9uKTsKICAgICAgICAgICAgfSBlbHNlIGlmIChvcmllbnRhdGlvbiA+IDI2MCAmJiBvcmllbnRhdGlvbiA8IDI4MCkgewogICAgICAgICAgICAgICAgLy8gyta7+suzyrHV69D916oyNzC2yLrhxsGjrKOoaG9tZbz81NrT0rLgo6kKICAgICAgICAgICAgICAgIHNldFJlcXVlc3RlZE9yaWVudGF0aW9uKEFjdGl2aXR5SW5mby5TQ1JFRU5fT1JJRU5UQVRJT05fUkVWRVJTRV9MQU5EU0NBUEUpOwogICAgICAgICAgICAgICAgTG9nLmkoIm9yaWVudGF0aW9uIiwib3JpZW50YXRpb24iK29yaWVudGF0aW9uKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkBpZC9tYWluIgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTY3JlZW5PcmllbnRhdGlvbkxpc3RlbmVyIG1TY3JlZW5MaXN0ZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkBpZC9tYWluIgo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b0xlZnRPZj0iQGlkL2lkX2kxIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkBpZC9tYWluIgo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b0xlZnRPZj0iQGlkL2lkX2k1Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvd25sb2FkQW5kVXBkYXRlKGRvd25sb2FkTGluaywgY2FsbEJhY2spOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iOGRwIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSI0NGRwIgo=</text>
       </register>
       <register name="x" type="4">
         <text>n</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgYmFja1N0cmluZyA9IHJlc3BvbnNlLmJvZHkoKS5zdHJpbmcoKTsKICAgICAgICAgICAgICAgICAgICBVcGRhdGVEYXRhIGRhdGEgPSAgbmV3IEdzb24oKS5mcm9tSnNvbihiYWNrU3RyaW5nLFVwZGF0ZURhdGEuY2xhc3MpOwogICAgICAgICAgICAgICAgICAgIExvZy5pKFRBRywiZGF0YS52ZXJzaW9uIKO6ICIrZGF0YS52ZXJzaW9uTmFtZSsiIGRhdGEudmVyc2lvbkNvZGU6ICIrZGF0YS52ZXJzaW9uQ29kZSsiIGRhdGEuZG93bG9hZExpbms6ICIrZGF0YS5kb3dubG9hZExpbmspOwogICAgICAgICAgICAgICAgICAgIFN0cmluZyBkb3dubG9hZExpbmsgPSBkYXRhLmRvd25sb2FkTGluazsKICAgICAgICAgICAgICAgICAgICBMb2cuZShUQUcsICJ2ZXJzaW9uTmFtZTogIiArIHZlcnNpb25OYW1lICsgIiBkYXRhLnZlcnNpb25OYW1lOiAiICsgZGF0YS52ZXJzaW9uTmFtZSArICIgdmVyc2lvbkNvZGU6ICIgKyB2ZXJzaW9uQ29kZSArICIgZGF0YS52ZXJzaW9uQ29kZTogIiArIGRhdGEudmVyc2lvbkNvZGUpOwogICAgICAgICAgICAgICAgICAgIGlmICghdmVyc2lvbk5hbWUuZXF1YWxzKGRhdGEudmVyc2lvbk5hbWUpIHx8IHZlcnNpb25Db2RlIDwgZGF0YS52ZXJzaW9uQ29kZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgZG93bmxvYWRBbmRVcGRhdGUoZG93bmxvYWRMaW5rLGNhbGxCYWNrKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoClass</text>
@@ -736,7 +733,7 @@
       <last-replace>Log.e(TAG,</last-replace>
       <last-substitute>showTip(</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
