@@ -33,6 +33,7 @@
 # IntelliJ project files
 .idea
 *.iml
+!.ideavimrc
 out
 gen</template>
     </userTemplates>
