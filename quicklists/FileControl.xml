@@ -1,4 +1,5 @@
 <list display="FileControl" description="fast file mode">
+  <action id="NewFile" />
   <action id="NewClass" />
   <action id="Kotlin.NewFile" />
   <action id="QuickList.$Separator$" />
