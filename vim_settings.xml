@@ -17,6 +17,9 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="18" column="29" />
       </file>
+      <file name="vim_settings.xml" timestamp="1524099965953">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/course/CourseContract.kt" timestamp="1523934229530">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="12" />
@@ -54,6 +57,9 @@
         <mark key="]" line="15" column="30" />
         <mark key="^" line="12" column="20" />
         <mark key="." line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1524098138195">
+        <mark key="[" line="2892" column="64" />
       </file>
       <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" timestamp="1524039076377">
         <mark key="'" line="42" column="50" />
@@ -107,6 +113,9 @@
         <mark key="^" line="87" column="27" />
         <mark key="." line="87" column="27" />
       </file>
+      <file name="/Dummy.groovy" timestamp="1524101532231">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="F:/360Downloads/Software/ShareEducation_kotlin/app/src/main/java/com/stan/shareeducation/home/MainContract.kt" timestamp="1523930141723">
         <mark key="[" line="17" column="12" />
         <mark key="]" line="17" column="14" />
@@ -130,13 +139,14 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/values/array.xml" timestamp="1524098028330" />
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/res/values/strings.xml" timestamp="1524046081067">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="33" />
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="33" />
       </file>
-      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/build.gradle" timestamp="1524047483815">
+      <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/build.gradle" timestamp="1524101536112">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="5" column="47" />
@@ -835,6 +845,7 @@
         <entry>action GotoImplementation</entry>
         <entry>action Forward</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
