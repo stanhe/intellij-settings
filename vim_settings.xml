@@ -780,7 +780,7 @@
         <text encoding="base64">ICAgICAgICBpbml0V2luZG93KCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
     <search>
@@ -834,8 +834,8 @@
         <entry>action GotoDeclaration</entry>
         <entry>action GotoImplementation</entry>
         <entry>action Forward</entry>
-        <entry>action GotoClass</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
