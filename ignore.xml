@@ -33,6 +33,7 @@
 # IntelliJ project files
 .idea
 *.iml
+vim_settings.xml
 out
 gen</template>
     </userTemplates>
