@@ -43,9 +43,9 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="57" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1524040303689">
-        <mark key="[" line="518" column="64" />
-        <mark key="]" line="518" column="84" />
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/Launcher.java" timestamp="1524098651920">
+        <mark key="[" line="516" column="22" />
+        <mark key="]" line="516" column="81" />
         <mark key="." line="518" column="84" />
         <mark key="^" line="518" column="84" />
       </file>
@@ -54,6 +54,9 @@
         <mark key="]" line="15" column="30" />
         <mark key="^" line="12" column="20" />
         <mark key="." line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/java/com/android/launcher4/LauncherModel.java" timestamp="1524098138195">
+        <mark key="[" line="2892" column="64" />
       </file>
       <file name="E:/XueZhiYou_Projects/guoxue_launcher/app/src/main/java/com/stan/guoxue_launcher/MainActivity.java" timestamp="1524039076377">
         <mark key="'" line="42" column="50" />
@@ -119,7 +122,7 @@
         <mark key="]" line="169" column="0" />
         <mark key="." line="169" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/innerupdatelib/src/main/java/com/stan/innerupdatelib/InnerUpdate.java" timestamp="1524042343553">
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/innerupdatelib/src/main/java/com/stan/innerupdatelib/InnerUpdate.java" timestamp="1524098690824">
         <mark key="[" line="34" column="24" />
         <mark key="]" line="34" column="22" />
         <mark key="." line="34" column="22" />
@@ -130,6 +133,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/src/main/res/values/array.xml" timestamp="1524098028330" />
       <file name="E:/XueZhiYou_Projects/D0115_launcher_0/app/src/main/res/values/strings.xml" timestamp="1524046081067">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="33" />
@@ -166,7 +170,7 @@
         <mark key="." line="120" column="44" />
         <mark key="^" line="120" column="44" />
       </file>
-      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/build.gradle" timestamp="1524042407746">
+      <file name="$USER_HOME$/Desktop/Latest_launcher3_androidstudio/Launcher3-master/launcher4/build.gradle" timestamp="1524098493759">
         <mark key="[" line="17" column="20" />
         <mark key="]" line="17" column="21" />
         <mark key="." line="17" column="21" />
@@ -333,8 +337,8 @@
       <register name="a" type="4">
         <text>SCREEN_ORIENTATION_REVERSE_LANDSCAPE</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hyaW5rUmVzb3VyY2VzIHRydWUK</text>
+      <register name="&quot;" type="4">
+        <text>http://58.61.155.58:8081/appcenter/api/launcher4_update.json</text>
       </register>
       <register name="b" type="4">
         <text>getData</text>
@@ -743,8 +747,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LWtlZXAgcHVibGljIGNsYXNzIGNvbS5zdGFuLmlubmVydXBkYXRlbGliLmJlYW4uVXBkYXRlRGF0YQo=</text>
+      <register name="0" type="4">
+        <text>http://58.61.155.58:8081/appcenter/api/launcher4_update.json</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2hyaW5rUmVzb3VyY2VzIHRydWUK</text>
