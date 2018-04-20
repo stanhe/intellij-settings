@@ -10,6 +10,7 @@ This README would normally document whatever steps are necessary to get your app
 
 * File -> Settings/Repository ->merge local
 * cp .ideavimrc to ~/.ideavimrc
+* refer: [Full_Settings](https://bitbucket.org/stanhe/intellij_settings) [Plugins](https://bitbucket.org/stanhe/intellij_plugins)
 
 ### Contribution guidelines ###
 
