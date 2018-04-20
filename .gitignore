@@ -2,6 +2,7 @@
 
 !_linux
 !_windows
+!keymaps
 !quicklists
 !.ideavimrc
 !colors.scheme.xml
