@@ -1,49 +1,16 @@
 # README #
 
-keymap for intellij
+This README would normally document whatever steps are necessary to get your application up and running.
 
 ### What is this repository for? ###
 
-* intellij keymap config 
+* fast set intellij idea keymap and consice ui  
 
 ### How do I get set up? ###
 
-* Intellij IDE
-* with plugins IdeaVim
-* File -> Settings Repository
-
-### KeyMaps ###
-
-key_function|map
--|-
-C+M+9|Vim Emulator
---------------------|--------------------
-M+1|go to project
-M+s|go to file in project/jump to source
-M+d|logcat
-M+f|find action
-M+t|terminal
-M+i|show intention action
-M+n|jump to navigation bar
-M+p|set background image
-M+k|quick list -> fast file and common use action
-M+m|quick list -> fast folder handler
---------------------|--------------------
-C+n|down
-C+h|left
-C+l|right
-C+p|up
---------------------|--------------------
-C+M+f|show in explorer
-C+M+n|goto by name action
-C+M+m|choose loopup item/complete current statement
-C+M+h|select pre tab
-C+M+l|select next tab
-C+M+]|select next Window
-C+M+w|close current tab
---------------------|--------------------
-M+S+k|kotlin file/class(add to quick list)
-
+* File -> Settings/Repository ->merge local
+* cp .ideavimrc to ~/.ideavimrc
+* refer: [Full_Settings](https://bitbucket.org/stanhe/intellij_settings) [Plugins](https://bitbucket.org/stanhe/intellij_plugins)
 
 ### Contribution guidelines ###
 
@@ -55,9 +22,3 @@ M+S+k|kotlin file/class(add to quick list)
 
 * Repo owner or admin
 * Other community or team contact
-
-### QaA
-
-* somekey no work,eg C+n/C+p can't move up and down
-
-adjust Settings -> Other Settinigs -> Vim Emulation to IDE

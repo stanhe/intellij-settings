@@ -1,2 +1,11 @@
-vim_settings.xml
+/*
+
+!_linux
+!_windows
+!keymaps
+!quicklists
 !.ideavimrc
+!colors.scheme.xml
+!customization.xml
+!ide.general.xml
+!ui.lnf.xml
