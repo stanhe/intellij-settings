@@ -4,8 +4,4 @@
   <action id="Kotlin.NewFile" />
   <action id="QuickList.$Separator$" />
   <action id="ToggleFullScreen" />
-  <action id="QuickList.$Separator$" />
-  <action id="NewModule" />
-  <action id="template.create.FolderAssets Folder" />
-  <action id="template.create.FolderJNI Folder" />
 </list>
