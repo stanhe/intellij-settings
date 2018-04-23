@@ -2,6 +2,7 @@
   <action id="Run" />
   <action id="Android.BuildApk" />
   <action id="Android.SyncProject" />
+  <action id="QuickList.$Separator$" />
   <action id="OpenFile" />
   <action id="NewProject" />
   <action id="ImportProject" />

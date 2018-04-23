@@ -3,7 +3,6 @@
   <action id="NewClass" />
   <action id="Kotlin.NewFile" />
   <action id="QuickList.$Separator$" />
-  <action id="Vcs.QuickListPopupAction" />
   <action id="ToggleFullScreen" />
   <action id="QuickList.$Separator$" />
   <action id="NewModule" />
