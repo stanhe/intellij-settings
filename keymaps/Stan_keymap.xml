@@ -67,6 +67,7 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="alt f" />
+    <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
