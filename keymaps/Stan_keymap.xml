@@ -7,11 +7,17 @@
   </action>
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt d" />
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+    <keyboard-shortcut first-keystroke="shift alt 9" />
+    <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="CIDR.Lang.IntroduceConstant" />
   <action id="CallHierarchy" />
