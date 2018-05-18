@@ -145,6 +145,9 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="ViewToolButtons">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="VimInsertEnter">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
