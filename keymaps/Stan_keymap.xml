@@ -145,6 +145,9 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Tool_External Tools_Emacs">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.QuickListPopupAction" />
