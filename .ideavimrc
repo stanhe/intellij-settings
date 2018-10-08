@@ -23,7 +23,7 @@ noremap <leader>gi :action GotoImplementation<CR>
 noremap <leader>gs :action GotoSuperMethod<CR>  
 noremap <leader>gt :action GotoTest<CR>  
 
-" windows
+"multi windows
 noremap <leader>xr :action Run <CR>
 noremap <leader>sv :action VimWindowSplitVertical <CR>
 noremap <leader>sh :action VimWindowSplitHorizontal <CR>
