@@ -1,3 +1,6 @@
+" custom map-key for intellij
+" author: stanhe
+
 let mapleader=","  
 " change tab,replace by C+M+h/l in my studio settings
 noremap <leader>l gt  
@@ -10,6 +13,7 @@ noremap <leader>sf :action ShowFilePath<CR>
 
 " actions gc and gf more convenient,ga replace by C+M+f
 noremap	<A-f> :action GotoFile<CR>  
+noremap	<leader>xf :action GotoFile<CR> 
 noremap <A-c> :action GotoClass<CR>  
 noremap <leader>gc :action GotoClass<CR>  
 noremap <leader>gf :action GotoFile<CR>  
@@ -18,6 +22,19 @@ noremap <leader>gd :action GotoDeclaration<CR>
 noremap <leader>gi :action GotoImplementation<CR>  
 noremap <leader>gs :action GotoSuperMethod<CR>  
 noremap <leader>gt :action GotoTest<CR>  
+
+" windows
+noremap <leader>xr :action Run <CR>
+noremap <leader>sv :action VimWindowSplitVertical <CR>
+noremap <leader>sh :action VimWindowSplitHorizontal <CR>
+noremap <leader>x0 :action VimWindowClose <CR>
+noremap <leader>xq :action VimWindowClose <CR>
+noremap <leader>xl :action VimWindowRight <CR>
+noremap <leader>xh :action VimWindowLeft <CR>
+noremap <leader>xj :action VimWindowDown <CR>
+noremap <leader>xk :action VimWindowUp <CR>
+noremap <leader>x1 :action VimWindowOnly <CR>
+
 
 " search 
 set incsearch
