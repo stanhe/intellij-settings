@@ -17,6 +17,7 @@ Amazing IntellijIdea with IdeaVim(plugins).
 1. download [zip](https://gitee.com/stanhe/as/repository/archive/master.zip) ,rename folder to repository
 2. copy it to C:/User/***(your user name)/.IntellijIdea(or .AndroidStudio3.0)/config/settingsRepository/
 3. copy repository/.ideavimrc to C:/User/***(your user name)/
+4. choose corresponding keymap
 
 ### Keymaps ###
 
