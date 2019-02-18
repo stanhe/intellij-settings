@@ -1,7 +1,8 @@
 <list display="FileControl" description="fast file mode">
-  <action id="NewFile" />
   <action id="NewClass" />
+  <action id="template.create.XMLLayout XML File" />
+  <action id="NewFile" />
+  <action id="NewDir" />
   <action id="Kotlin.NewFile" />
   <action id="QuickList.$Separator$" />
-  <action id="ToggleFullScreen" />
 </list>
