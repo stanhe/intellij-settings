@@ -23,6 +23,9 @@
   <action id="CallHierarchy" />
   <action id="ChangesView.ShelveSilently" />
   <action id="CheckinProject" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl alt w" />
