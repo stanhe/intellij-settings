@@ -46,10 +46,6 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="EditorDownWithSelection" />
-  <action id="EditorEscape">
-    <keyboard-shortcut first-keystroke="escape" />
-    <keyboard-shortcut first-keystroke="ctrl c" />
-  </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
     <keyboard-shortcut first-keystroke="ctrl h" />
