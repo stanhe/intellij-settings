@@ -13,19 +13,11 @@
   </action>
   <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateLogcatToolWindow">
-    <keyboard-shortcut first-keystroke="alt d" />
-    <keyboard-shortcut first-keystroke="alt l" />
-    <keyboard-shortcut first-keystroke="alt e" />
-  </action>
-  <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="alt 7" />
-    <keyboard-shortcut first-keystroke="alt 2" />
-  </action>
+  <action id="ActivateLogcatToolWindow" />
+  <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="alt t" />
+    <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 9" />
