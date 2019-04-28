@@ -16,7 +16,6 @@
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt d" />
     <keyboard-shortcut first-keystroke="alt 3" />
-    <keyboard-shortcut first-keystroke="alt 5" />
   </action>
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
