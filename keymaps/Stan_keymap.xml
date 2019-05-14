@@ -185,6 +185,9 @@
   <action id="ViewToolButtons">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="VimGotoDeclaration">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
   <action id="VimInsertEnter">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
