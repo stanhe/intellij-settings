@@ -1,3 +1,4 @@
 <list display="Handler" description="other actions">
   <action id="RevealIn" />
+  <action id="ConfigureIcs" />
 </list>
