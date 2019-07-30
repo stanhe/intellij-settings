@@ -1,5 +1,0 @@
-<list display="Git" description="git actions">
-  <action id="Vcs.ShowTabbedFileHistory" />
-  <action id="Git.Branches" />
-  <action id="Git.Tag" />
-</list>

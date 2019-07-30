@@ -1,0 +1,5 @@
+<list display="Tools" description="normal actions">
+  <action id="Groovy.Console" />
+  <action id="Vcs.ShowTabbedFileHistory" />
+  <action id="Tool_External Tools_chrome" />
+</list>

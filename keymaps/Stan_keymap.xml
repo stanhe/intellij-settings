@@ -150,6 +150,9 @@
   <action id="QuickList.MenuControl">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
+  <action id="QuickList.Tools">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="ReformatCode" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
