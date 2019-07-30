@@ -141,6 +141,9 @@
   <action id="QuickList.FileControl">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
+  <action id="QuickList.Git">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="QuickList.Handler">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
@@ -163,10 +166,6 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="alt i" />
-  </action>
-  <action id="ShowNavBar">
-    <keyboard-shortcut first-keystroke="alt home" />
-    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
