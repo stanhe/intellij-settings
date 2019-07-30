@@ -1,4 +1,5 @@
 <list display="Handler" description="other actions">
+  <action id="Tool_External Tools_chrome" />
   <action id="RevealIn" />
   <action id="ConfigureIcs" />
 </list>
