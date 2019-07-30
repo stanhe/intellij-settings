@@ -33,6 +33,9 @@
   </action>
   <action id="CIDR.Lang.IntroduceConstant" />
   <action id="CallHierarchy" />
+  <action id="ChangeView">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
   <action id="ChangesView.ShelveSilently" />
   <action id="CheckinProject" />
   <action id="CloseAllEditorsButActive">
@@ -79,9 +82,6 @@
   <action id="EditorUpWithSelection" />
   <action id="ExportToTextFile" />
   <action id="ExtractMethod" />
-  <action id="FileChooser.GotoJDK">
-    <keyboard-shortcut first-keystroke="alt semicolon" />
-  </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
