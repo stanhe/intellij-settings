@@ -31,6 +31,10 @@
     <keyboard-shortcut first-keystroke="shift alt 9" />
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
+  </action>
   <action id="CIDR.Lang.IntroduceConstant" />
   <action id="CallHierarchy" />
   <action id="ChangeView">
