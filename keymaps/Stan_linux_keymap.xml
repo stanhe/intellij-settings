@@ -1,4 +1,4 @@
-<keymap version="1" name="Stan_keymap" parent="$default">
+<keymap version="1" name="Stan_keymap" parent="Default for GNOME">
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
