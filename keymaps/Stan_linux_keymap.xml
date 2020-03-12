@@ -96,6 +96,7 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchy.BaseOnThisType" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
@@ -106,5 +107,11 @@
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
     <keyboard-shortcut first-keystroke="ctrl alt 9" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
 </keymap>
