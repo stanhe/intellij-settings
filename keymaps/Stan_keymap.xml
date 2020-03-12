@@ -1,7 +1,4 @@
 <keymap version="1" name="Stan_keymap" parent="$default">
-  <action id="$Copy">
-    <keyboard-shortcut first-keystroke="ctrl insert" />
-  </action>
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
