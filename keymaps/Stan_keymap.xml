@@ -121,10 +121,14 @@
   <action id="Kotlin.NewFile">
     <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
+  <action id="Macro.Sth_FormatCodeAndOptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
+  <action id="OptimizeImports" />
   <action id="ParameterInfo" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
